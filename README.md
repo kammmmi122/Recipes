@@ -1,2 +1,2 @@
 Lista przepisów
- [Kompot czereśniowy](https://github.com/kammmmi122/Recipies/Kompot_czeresniowy.md)
+ [Kompot czereśniowy](https://github.com/kammmmi122/Recipies/blob/main/Kompot_czeresniowy.md)
