@@ -1,10 +1,10 @@
 = Kompot czereśniony
 
-[cols=".<2a,2a"]
+[cols=".<2a,.<2a"]
 [frame=none]
 [grid=none]
 |===
-| 
+|
 == Szczegóły
 
 * 4 słoiki po 900 ml
