@@ -2,4 +2,4 @@
 
 == Przetwory
 
-1. link:Przetwory/Kompot_czeresniowy.adoc[Kompot czereśniowy]
+1. link:Przetwory/Kompot_czeresniowy.html[Kompot czereśniowy]
