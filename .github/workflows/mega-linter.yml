@@ -34,6 +34,8 @@ env:
   ENABLE:
      - MARKDOWN
 
+  VALIDATE_ALL_CODEBASE: true
+
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
   cancel-in-progress: true
