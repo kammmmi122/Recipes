@@ -31,10 +31,6 @@ env:
   # or posted in a PR (pull_request)
   APPLY_FIXES_MODE: commit
 
-  DISABLE_ERRORS: true
-
-  VALIDATE_ALL_CODEBASE: true
-
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
   cancel-in-progress: true
@@ -86,8 +82,9 @@ jobs:
           #     github.event_name == 'push' &&
           #     github.ref == 'refs/heads/main'
           #   }}
-          VALIDATE_ALL_CODEBASE: >-
-            ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+          VALIDATE_ALL_CODEBASE: true
+
+          DISABLE_ERRORS: true
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
