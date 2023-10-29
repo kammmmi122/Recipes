@@ -28,7 +28,7 @@ jobs:
         run:  asciidoctor --backend=html5 -o index.html index.adoc
 
       - name: Publish
-      - uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3
         with:
           name: index
           path: index.html
