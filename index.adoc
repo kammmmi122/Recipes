@@ -1,0 +1,5 @@
+= Lista przepisów
+
+== Przetwory
+
+1. https://github.com/kammmmi122/Recipies/blob/main/Przetwory/Kompot_czeresniowy.adoc[Kompot czereśniowy]
