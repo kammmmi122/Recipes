@@ -25,10 +25,12 @@ jobs:
           sudo apt-get install -y asciidoctor
 
       - name: Build
-        run:  asciidoctor --backend=html5 -o index.html index.adoc
+        run: |
+          asciidoctor -D out --backend=html5 -o index.html index.adoc
+          asciidoctor -D out --backend=html5 -o Przetwory/Kompot_czeresniowy.html Przetwory/Kompot_czeresniowy.adoc
 
       - name: Publish
         uses: actions/upload-artifact@v3
         with:
           name: index
-          path: index.html
+          path: out
