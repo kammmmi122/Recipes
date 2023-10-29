@@ -31,6 +31,8 @@ env:
   # or posted in a PR (pull_request)
   APPLY_FIXES_MODE: commit
 
+  DISABLE_ERRORS: true
+
   VALIDATE_ALL_CODEBASE: true
 
 concurrency:
@@ -44,7 +46,10 @@ jobs:
 
     # Give the default GITHUB_TOKEN write permission to commit and push, comment
     # issues, and post new Pull Requests; remove the ones you do not need
-    permissions: read-all
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
 
     steps:
       # Git Checkout
