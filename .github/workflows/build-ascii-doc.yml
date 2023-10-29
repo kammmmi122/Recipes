@@ -11,7 +11,7 @@ on:
 jobs:
   megalinter:
     name: Ascii Doc
-    runs-on: asciidoctor/docker-asciidoctor
+    runs-on: ubuntu-latest
 
     steps:
       # Git Checkout
