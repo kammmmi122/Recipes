@@ -44,7 +44,7 @@ jobs:
     # issues, and post new Pull Requests; remove the ones you do not need
     permissions:
       contents: write
-      issues: write
+      issues: read
       pull-requests: write
 
     steps:
