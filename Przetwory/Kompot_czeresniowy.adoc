@@ -5,7 +5,7 @@
 [grid=none]
 |===
 | 
-=== Szczegóły
+== Szczegóły
 
 * 4 słoiki po 900 ml
 * czas przygotownia: 20 minut
@@ -13,16 +13,16 @@
 * https://aniagotuje.pl/przepis/kompot-z-czeresni[Link do żródła przepisu]
 
 |
-=== Przygotowanie
+== Przygotowanie
 
 |
-=== Składniki
+== Składniki
 
 + 2 kg czereśni
 + 3 łyżki cukru
 + 2 litry przegotowanej wody
 
 |
-=== Zdjęcia
+== Zdjęcia
 
 |===
