@@ -31,9 +31,6 @@ env:
   # or posted in a PR (pull_request)
   APPLY_FIXES_MODE: commit
 
-  ENABLE:
-     - MARKDOWN
-
   VALIDATE_ALL_CODEBASE: true
 
 concurrency:
