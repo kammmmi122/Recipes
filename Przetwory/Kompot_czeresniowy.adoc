@@ -1,6 +1,6 @@
 = Kompot czereśniony
 
-[cols="2a,2a"]
+[cols=".<2a,2a"]
 [frame=none]
 [grid=none]
 |===
