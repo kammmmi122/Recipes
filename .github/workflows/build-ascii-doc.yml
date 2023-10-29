@@ -1,0 +1,22 @@
+name: Build asciidoc
+
+
+on:
+  push:
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  megalinter:
+    name: Ascii Doc
+    runs-on: asciidoctor/docker-asciidoctor
+
+    steps:
+      # Git Checkout
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
