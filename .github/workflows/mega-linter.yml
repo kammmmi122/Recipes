@@ -85,6 +85,8 @@ jobs:
           VALIDATE_ALL_CODEBASE: true
 
           DISABLE_ERRORS: true
+          
+          SPELL_CSPELL_ARGUMENTS: "--locale en,pl"
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
