@@ -1,0 +1,37 @@
+name: Build asciidoc
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  megalinter:
+    name: Ascii Doc
+    runs-on: ubuntu-latest
+
+    steps:
+      # Git Checkout
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          lfs: 'true'
+      - name: Install asciidoctor
+        run: |
+          sudo apt-get install -y asciidoctor
+
+      - name: Build
+        run: |
+          asciidoctor --backend=html5 *.adoc
+          asciidoctor -D Przetwory --backend=html5 Przetwory/*.adoc
+      - name: Publish
+        uses: actions/upload-artifact@v3
+        with:
+          name: out
+          path: |
+           *.html
+           *.jpg
+           Przetwory/*.jpg
+           Przetwory/*.html

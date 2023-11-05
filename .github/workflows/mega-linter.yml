@@ -6,10 +6,6 @@ name: MegaLinter
 # Trigger mega-linter at every push. Action will also be visible from
 # Pull Requests to main
 on:
-  # Comment this line to trigger action only on pull-requests
-  # (not recommended if you don't pay for GH Actions)
-  push:
-
   pull_request:
     branches:
       - main
@@ -58,6 +54,7 @@ jobs:
           # If you use VALIDATE_ALL_CODEBASE = true, you can remove this line to
           # improve performance
           fetch-depth: 0
+          lfs: 'true'
 
       # MegaLinter
       - name: MegaLinter
