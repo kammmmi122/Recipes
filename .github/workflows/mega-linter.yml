@@ -83,13 +83,11 @@ jobs:
           #     github.event_name == 'push' &&
           #     github.ref == 'refs/heads/main'
           #   }}
-          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_ALL_CODEBASE: >-
+            ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
           DISABLE_ERRORS: true
 
           REPORT_OUTPUT_FOLDER: none
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          # ADD YOUR CUSTOM ENV VARIABLES HERE TO OVERRIDE VALUES OF
-          # .mega-linter.yml AT THE ROOT OF YOUR REPOSITORY
