@@ -52,8 +52,8 @@ jobs:
       - name: 'Cleanup build folder'
         run: |
           ls -la ./
-          rm -rf ./* || true
-          rm -rf ./.??* || true
+          sudo rm -rf ./* || true
+          sudo rm -rf ./.??* || true
           ls -la ./
       # Git Checkout
       - name: Checkout Code
