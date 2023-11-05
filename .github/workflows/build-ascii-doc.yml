@@ -23,9 +23,7 @@ jobs:
 
       - name: Build
         run: |
-          asciidoctor -D out --backend=html5 -o index.html index.adoc
-          asciidoctor -D out --backend=html5 -o Przetwory/Kompot_czeresniowy.html Przetwory/Kompot_czeresniowy.adoc
-
+          asciidoctor -D out --backend=html5 */*.adoc
       - name: Publish
         uses: actions/upload-artifact@v3
         with:
