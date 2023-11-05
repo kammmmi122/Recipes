@@ -9,13 +9,7 @@
     "package-lock.json",
     "report"
   ],
-  "languageSettings": [
-    {
-      "languageId": "*",
-      "locale": "en, pl"
-    }
-  ],
-  "noConfigSearch": true,
+  "language": "en,pl",
   "words": ["megalinter", "oxsecurity", "venv", "stefanzweifel"],
   "version": "0.2"
 }
