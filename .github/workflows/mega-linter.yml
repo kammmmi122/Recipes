@@ -48,6 +48,13 @@ jobs:
       pull-requests: write
 
     steps:
+
+      - name: 'Cleanup build folder'
+        run: |
+          ls -la ./
+          rm -rf ./* || true
+          rm -rf ./.??* || true
+          ls -la ./
       # Git Checkout
       - name: Checkout Code
         uses: actions/checkout@v3
