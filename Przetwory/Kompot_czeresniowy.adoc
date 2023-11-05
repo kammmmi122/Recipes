@@ -1,4 +1,4 @@
-= Kompot czereśniony
+= Kompot czereśniowy
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -8,9 +8,9 @@
 == Szczegóły
 
 * 4 słoiki po 900 ml
-* czas przygotownia: 20 minut
+* czas przygotowania: 20 minut
 * czas pasteryzacji: 20 minut
-* https://aniagotuje.pl/przepis/kompot-z-czeresni[Link do żródła przepisu]
+* https://aniagotuje.pl/przepis/kompot-z-czeresni[Link do źródła przepisu]
 
 == Składniki
 
@@ -21,17 +21,14 @@
 |
 == Przygotowanie
 
-Zacznij od wybrania dojrzałych oraz nieuszkodzonych i nie zepsutych czereśni. Mój przepis bazuje na czereśniach o łącznej wadze 1,5 kg. Możesz śmiało podwoić, czy nawet potroić ilość owoców. Pamiętaj jednak o tym, że potrzebujesz wówczas przygotować więcej słoików oraz cukru i wody.
+Przejrzyj swoje czereśnie i wybierz te dojrzałe oraz nieuszkodzone i nie zepsute. Czereśnie umyj pod zimną i bieżącą wodą.
 
-Czereśnie umyj pod zimną i bieżącą wodą. Polecam nawet umieścić je w dużej misce z zimną wodą i odrobiną sody oczyszczonej (mała łyżeczka). Po umyciu czereśni w lekkim roztworze przepłucz je raz jeszcze zimną wodą i usuń ogonki.
+Przygotuj też cztery czyste słoiki o pojemności 900 ml każdy. Słoiki powinny być idealnie czyste, a najlepiej odparzone wrzątkiem. Tak samo zakrętki. Używaj tylko nieuszkodzonych słoików i zakrętek. 
 
-Ja nie usuwam pestek z czereśni. Jeśli jednak chcesz je wyjąć, to możesz to zrobić. Polecam wówczas rozcinać każdą czereśnię na pół przy pomocy ostrego nożyka i wyjmować pestki. 
+Do każdego słoika daj tyle samo czereśni. Swoje słoiki wypełniam czereśniami do około 3/4 wysokości. Do każdego słoika z owocami wsyp też cukier - po jednej łyżce.
 
-Przygotuj też cztery czyste słoiki o pojemności 900 ml każdy. Śmiało można też użyć litrowych słoików. Słoiki powinny być idealnie czyste, a najlepiej odparzone wrzątkiem. Tak samo zakrętki. Używaj tylko nieuszkodzonych słoików i zakrętek. 
-Do każdego słoika daj tyle samo czereśni. Swoje słoiki wypełniam czereśniami do około 3/4 wysokości. Do każdego słoika z owocami wsyp też cukier - po trzy łyżki (u mnie cukier drobny). Łącznie wyjdzie około 200 gramów cukru. Używam najzwyklejszego białego cukru, ale można też sięgnąć po cukier trzcinowy. 
-
-Porada: Aby wzbogacić smak kompotu, do słoików oprócz cukru można też dodać po dwie łyżki soku z cytryny. Do słoików można też dodać więcej cukru. U mnie jest to około 50 gramów cukru na słoik, ale śmiało można dać nawet do 100 gramów cukru na słoik (4-6 łyżek). Kompot będzie wówczas znacznie słodszy. 
+Do każdego słoika wlej przegotowaną wodę. Może być to wrzątek lub woda letnia. Na słoiki o pojemności 900 ml wyszło mi idealnie po 500 ml wody. Zostaw minimum 1 cm wolnej przestrzeni przy rantach i mocno zakręć słoiki. Słoiki z kompotem należy teraz poddać pasteryzacji. (20 minut w piekarniku)
 
 == Zdjęcia
-
+image::5364274-v-720x998.jpg[]
 |===
