@@ -86,7 +86,7 @@ jobs:
 
           DISABLE_ERRORS: true
           
-          SPELL_CSPELL_ARGUMENTS: "--locale en,pl"
+          SPELL_CSPELL_ARGUMENTS: "--locale 'en,pl'"
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
