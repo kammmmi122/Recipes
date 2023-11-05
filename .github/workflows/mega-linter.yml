@@ -87,6 +87,8 @@ jobs:
 
           DISABLE_ERRORS: true
 
+          CLEAR_REPORT_FOLDER: true
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           # ADD YOUR CUSTOM ENV VARIABLES HERE TO OVERRIDE VALUES OF
@@ -101,9 +103,3 @@ jobs:
           path: |
             megalinter-reports
             mega-linter.log
-
-      - name: Change folder ownership
-        run: |
-          ls -la ./
-          chown -R kammmmi122:kammmmi122 megalinter-reports
-          ls -la ./
