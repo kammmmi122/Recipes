@@ -101,3 +101,9 @@ jobs:
           path: |
             megalinter-reports
             mega-linter.log
+
+      - name: Change folder ownership
+        run: |
+          ls -la ./
+          chown -R kammmmi122:kammmmi122 megalinter-reports
+          ls -la ./
