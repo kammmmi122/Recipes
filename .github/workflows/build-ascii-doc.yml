@@ -33,7 +33,3 @@ jobs:
            *.jpg
            Przetwory/*.jpg
            Przetwory/*.html
-
-      - name: Cleanup build folder
-        run: |
-          pwd

@@ -88,8 +88,3 @@ jobs:
           REPORT_OUTPUT_FOLDER: none
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Cleanup build folder
-        run: |
-            ls -la .
-  
