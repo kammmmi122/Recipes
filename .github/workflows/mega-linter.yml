@@ -87,19 +87,9 @@ jobs:
 
           DISABLE_ERRORS: true
 
-          CLEAR_REPORT_FOLDER: true
+          REPORT_OUTPUT_FOLDER: none
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           # ADD YOUR CUSTOM ENV VARIABLES HERE TO OVERRIDE VALUES OF
           # .mega-linter.yml AT THE ROOT OF YOUR REPOSITORY
-
-      # Upload MegaLinter artifacts
-      - name: Archive production artifacts
-        uses: actions/upload-artifact@v3
-        if: success() || failure()
-        with:
-          name: MegaLinter reports
-          path: |
-            megalinter-reports
-            mega-linter.log
