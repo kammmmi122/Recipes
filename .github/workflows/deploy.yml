@@ -18,6 +18,7 @@ jobs:
     steps:
     - uses: dawidd6/action-download-artifact@v2.28.0
       with:
+        token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
         name: page
         path: .
     - uses: actions/configure-pages@main
