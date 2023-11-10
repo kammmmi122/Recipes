@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   megalinter:
-    name: MegaLinter
+    name: megalinter
     runs-on: self-hosted
 
     # Give the default GITHUB_TOKEN write permission to commit and push, comment
