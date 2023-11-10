@@ -2,4 +2,4 @@ SPELL_CSPELL_PRE_COMMANDS:
   - command: npm install -g @cspell/dict-pl_pl
     cwd: "root"
   - command: cspell link add @cspell/dict-pl_pl
-    cwd: "root"
+    cwd: "workspace"
