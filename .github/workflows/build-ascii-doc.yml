@@ -7,8 +7,8 @@ on:
   pull_request:
 
 jobs:
-  megalinter:
-    name: Ascii Doc
+  build:
+    name: ascii doc
     runs-on: self-hosted
 
     steps:
@@ -28,9 +28,30 @@ jobs:
       - name: Publish
         uses: actions/upload-artifact@v3
         with:
-          name: out
+          name: page
           path: |
             *.html
             *.jpg
             Przetwory/*.jpg
             Przetwory/*.html
+          if-no-files-found: error
+
+  deploy:
+    runs-on: self-hosted
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
+
+    if: github.ref == 'refs/heads/master'
+    steps:
+    - uses: actions/download-artifact@v3
+      with:
+        name: page
+        path: .
+    - uses: actions/configure-pages@v2
+    - uses: actions/upload-pages-artifact@v2
+      with:
+        path: .
+    - id: deployment
+      uses: actions/deploy-pages@main
