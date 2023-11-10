@@ -44,7 +44,6 @@ jobs:
       pull-requests: write
 
     steps:
-
       # Git Checkout
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -54,7 +53,7 @@ jobs:
           # If you use VALIDATE_ALL_CODEBASE = true, you can remove this line to
           # improve performance
           fetch-depth: 0
-          lfs: 'true'
+          lfs: "true"
 
       # MegaLinter
       - name: MegaLinter

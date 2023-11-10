@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          lfs: 'true'
+          lfs: "true"
 
       - name: Build
         run: |
@@ -29,7 +29,7 @@ jobs:
         with:
           name: out
           path: |
-           *.html
-           *.jpg
-           Przetwory/*.jpg
-           Przetwory/*.html
+            *.html
+            *.jpg
+            Przetwory/*.jpg
+            Przetwory/*.html
