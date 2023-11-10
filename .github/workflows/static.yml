@@ -32,9 +32,9 @@ jobs:
       - name: Downwload artifact
         uses: dsaltares/fetch-gh-release-asset@master
         with:
-          file: 'page'
-          target: 'page'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          workflow: build-ascii-doc.yml
+          name: ${{ env.BUILD_ARTIFACTS }}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
