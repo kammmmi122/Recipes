@@ -10,6 +10,13 @@
     "report"
   ],
   "language": "en,pl",
-  "words": ["megalinter", "oxsecurity", "venv", "stefanzweifel", "asciidoctor", "adoc"],
+  "words": [
+    "megalinter",
+    "oxsecurity",
+    "venv",
+    "stefanzweifel",
+    "asciidoctor",
+    "adoc"
+  ],
   "version": "0.2"
 }
