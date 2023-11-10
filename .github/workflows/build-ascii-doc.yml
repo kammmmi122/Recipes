@@ -49,8 +49,8 @@ jobs:
       with:
         name: page
         path: .
-    - uses: actions/configure-pages@v2
-    - uses: actions/upload-pages-artifact@v2
+    - uses: actions/configure-pages@main
+    - uses: actions/upload-pages-artifact@main
       with:
         path: .
     - id: deployment
