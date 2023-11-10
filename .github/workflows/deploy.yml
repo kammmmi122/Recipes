@@ -16,7 +16,7 @@ jobs:
 
     if: github.ref == 'refs/heads/main'
     steps:
-    - uses: actions/download-artifact@v3
+    - uses: dawidd6/action-download-artifact@v2.28.0
       with:
         name: page
         path: .
