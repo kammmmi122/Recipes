@@ -22,8 +22,8 @@ jobs:
 
       - name: Build
         run: |
-          asciidoctor --backend=html5 *.adoc
-          asciidoctor -D Przetwory --backend=html5 Przetwory/*.adoc
+          asciidoctor --backend=html5 ./*.adoc
+          asciidoctor -D ./Przetwory --backend=html5 ./Przetwory/*.adoc
 
       - name: Publish
         uses: actions/upload-artifact@v3
