@@ -30,7 +30,7 @@ jobs:
     runs-on: [self-hosted]
     steps:
       - name: Downwload artifact
-        uses: dsaltares/fetch-gh-release-asset@master
+        uses: dawidd6/action-download-artifact@v2.28.0
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
           workflow: build-ascii-doc.yml
