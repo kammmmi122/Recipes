@@ -72,7 +72,10 @@ jobs:
 
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
 
-          #SPELL_CSPELL_PRE_COMMANDS: cspell link add @cspell/dict-pl_pl
-          SPELL_CSPELL_FILE_EXTENSIONS: '".yml",".adoc"'
+          SPELL_CSPELL_PRE_COMMANDS:
+            - command: npm install -g @cspell/dict-pl_pl
+                cwd: "root"
+            - command: cspell link add @cspell/dict-pl_pl
+                cwd: "root"
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
