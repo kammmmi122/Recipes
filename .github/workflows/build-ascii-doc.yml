@@ -35,23 +35,3 @@ jobs:
             Przetwory/*.jpg
             Przetwory/*.html
           if-no-files-found: error
-
-  deploy:
-    runs-on: self-hosted
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{steps.deployment.outputs.page_url}}
-
-    if: github.ref == 'refs/heads/main'
-    steps:
-    - uses: actions/download-artifact@v3
-      with:
-        name: page
-        path: .
-    - uses: actions/configure-pages@main
-    - uses: actions/upload-pages-artifact@main
-      with:
-        path: .
-    - id: deployment
-      uses: actions/deploy-pages@main

@@ -1,0 +1,26 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
+
+    steps:
+    - uses: actions/download-artifact@v3
+      with:
+        name: page
+        path: .
+    - uses: actions/configure-pages@main
+    - uses: actions/upload-pages-artifact@main
+      with:
+        path: .
+    - id: deployment
+      uses: actions/deploy-pages@main
