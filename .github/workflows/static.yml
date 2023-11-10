@@ -32,6 +32,7 @@ jobs:
       - name: Downwload artifact
         uses: dawidd6/action-download-artifact@v2.28.0
         with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
           name: page
           path: .
       - name: Setup Pages
