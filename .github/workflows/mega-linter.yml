@@ -70,8 +70,9 @@ jobs:
 
           REPORT_OUTPUT_FOLDER: none
 
-          REPOSITORY_CHECKOV_ARGUMENTS: --skip-check CKV2_GHA_1
+          REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
 
-          SPELL_CSPELL_PRE_COMMANDS: cspell link add @cspell/dict-pl_pl
+          SPELL_CSPELL_PRE_COMMANDS: "cspell link add @cspell/dict-pl_pl"
+          SPELL_CSPELL_FILE_EXTENSIONS: ".adoc"
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
