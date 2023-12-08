@@ -3,3 +3,4 @@
 == Przetwory
 
 1. link:Przetwory/Kompot_czeresniowy.html[Kompot czereśniowy]
+2. link:Przetwory/Kokosanka.html[Kokosanka]
