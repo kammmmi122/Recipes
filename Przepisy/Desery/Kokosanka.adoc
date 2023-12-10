@@ -1,6 +1,6 @@
 = Kokosanka
 
-[cols=".<25%a,.<75%a"]
+[cols=".<250a,.<750a"]
 [frame=none]
 [grid=none]
 |===
