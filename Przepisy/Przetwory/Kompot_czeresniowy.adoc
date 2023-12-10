@@ -1,6 +1,6 @@
 = Kompot czereśniowy
 
-[cols=".<a,.<a"]
+[cols=".<25%a,.<75%a"]
 [frame=none]
 [grid=none]
 |===
@@ -10,7 +10,7 @@
 * 4 słoiki po 900 ml
 * czas przygotowania: 20 minut
 * czas pasteryzacji: 20 minut
-* https://aniagotuje.pl/przepis/kompot-z-czeresni[Link do źródła przepisu]
+* https://aniagotuje.pl/przepis/kompot-z-czeresni[link do źródła przepisu]
 
 == Składniki
 
