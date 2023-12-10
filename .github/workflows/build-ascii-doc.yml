@@ -22,9 +22,9 @@ jobs:
 
       - name: Build
         run: |
-          asciidoctor --backend=html5 ./*.adoc
-          asciidoctor -D ./Przepisy/Przetwory --backend=html5 ./Przepisy/Przetwory/*.adoc
-          asciidoctor -D ./Przepisy/Desery --backend=html5 ./Przepisy/Desery/*.adoc
+          asciidoctor -a docinfo=shared --backend=html5 ./*.adoc
+          asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Przetwory ./Przepisy/Przetwory/*.adoc
+          asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Desery ./Przepisy/Desery/*.adoc
 
       - name: Publish
         uses: actions/upload-artifact@v3
