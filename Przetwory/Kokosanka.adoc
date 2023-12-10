@@ -9,23 +9,23 @@
 
 * czas przygotowania: 20 minut
 * czas pieczenia: 50 minut
-* Źródło przepisu: zeszyt mamy
+* źródło przepisu: zeszyt mamy
 
 == Składniki
 
-Ciasto
+Ciasto:
 
-* 1 kostka Palmy
+* 1 kostka Kasi
 * 3/4 szklanki wody
 * 1 szklanka cukru
 * 3 duże łyżki kakao
 * 6 żółtek
-* 1,5 szklani mąki
+* 1,5 szklanki mąki
 * 2 płaskie łyżeczki proszku do pieczenia
 * 3 łyżki dżemu
 * rodzynki
 
-Masa kokosowa
+Masa kokosowa:
 
 * 6 białek
 * 3/4 szklanki cukru
@@ -33,13 +33,16 @@ Masa kokosowa
 |
 == Przygotowanie
 
-Zagotować Palmę, wodę, cukier i kakao. Ostudzić powstały płyn.
+Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
 Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego połączenia. Do utartej masy dodać mąkę, proszek do pieczenia, dżem, rodzynki. Wszystkie składniki utrzeć.
 
 Ubić na sztywno 6 białek. Dodać 3/4 szklanki cukru i kontynuować ubijanie. Do ubitych białek dodać wiórki kokosowe i delikatnie wymieszać.
 
-Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół
+Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół.
 
 == Zdjęcia
+image::20231209_214411.jpg[]
+image::20231210_184314.jpg[]
+image::20231210_184321.jpg[]
 |===
