@@ -23,7 +23,8 @@ jobs:
       - name: Build
         run: |
           asciidoctor --backend=html5 ./*.adoc
-          asciidoctor -D ./Przetwory --backend=html5 ./Przetwory/*.adoc
+          asciidoctor -D ./Przepisy/Przetwory --backend=html5 ./Przepisy/Przetwory/*.adoc
+          asciidoctor -D ./Przepisy/Desery --backend=html5 ./Przepisy/Desery/*.adoc
 
       - name: Publish
         uses: actions/upload-artifact@v3
@@ -32,6 +33,8 @@ jobs:
           path: |
             *.html
             *.jpg
-            Przetwory/*.jpg
-            Przetwory/*.html
+            Przepisy/Przetwory/*.jpg
+            Przepisy/Przetwory/*.html
+            Przepisy/Desery/*.jpg
+            Przepisy/Desery/*.html
           if-no-files-found: error
