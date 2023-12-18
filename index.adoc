@@ -7,3 +7,4 @@
 == Desery
 
 1. link:Przepisy/Desery/Kokosanka.html[Kokosanka]
+2. link:Przepisy/Desery/Pierniczki.html[Pierniczki]
