@@ -25,6 +25,7 @@ jobs:
           asciidoctor -a docinfo=shared --backend=html5 ./*.adoc
           asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Przetwory ./Przepisy/Przetwory/*.adoc
           asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Desery ./Przepisy/Desery/*.adoc
+          asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Dania_glowne ./Przepisy/Dania_glowne/*.adoc
 
       - name: Publish
         uses: actions/upload-artifact@v3
@@ -37,4 +38,6 @@ jobs:
             Przepisy/Przetwory/*.html
             Przepisy/Desery/*.jpg
             Przepisy/Desery/*.html
+            Przepisy/Dania_glowne/*.jpg
+            Przepisy/Dania_glowne/*.html
           if-no-files-found: error
