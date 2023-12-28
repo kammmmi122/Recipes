@@ -22,7 +22,7 @@ jobs:
 
       - name: Build
         run: |
-          build.sh
+          ./build.sh
 
       - name: Publish
         uses: actions/upload-artifact@v3
