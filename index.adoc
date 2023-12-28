@@ -4,6 +4,10 @@
 
 1. link:Przepisy/Przetwory/Kompot_czeresniowy.html[Kompot czereśniowy]
 
+== Dania główne
+
+1. link:Przepisy/Dania_glowne/Bigos.html[Bigos]
+
 == Desery
 
 1. link:Przepisy/Desery/Kokosanka.html[Kokosanka]
