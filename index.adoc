@@ -7,6 +7,7 @@
 == Dania główne
 
 1. link:Przepisy/Dania_glowne/Bigos.html[Bigos]
+2. link:Przepisy/Dania_glowne/Pasta_alla_norma.html[Pasta alla norma]
 
 == Desery
 
