@@ -21,8 +21,7 @@ jobs:
           lfs: "true"
 
       - name: Build
-        run: |
-          ./build.sh
+        run: ./build.sh
 
       - name: Publish
         uses: actions/upload-artifact@v3
