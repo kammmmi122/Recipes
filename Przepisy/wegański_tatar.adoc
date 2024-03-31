@@ -1,4 +1,4 @@
-= Tatar
+= Wegański tatar
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-*[WEGAN] 19.11 niedziela - wegański tatar https://easyvege.pl/weganski-tatar [link do źródła przepisu]
+* https://easyvege.pl/weganski-tatar [link do źródła przepisu]
 
 == Składniki
 

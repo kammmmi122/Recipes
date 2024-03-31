@@ -12,10 +12,10 @@ Obiady
 [WEGE] 12.09 niedziela - chakalaka; https://kuchnialidla.pl/chakalaka
 [WEGE] 27.04 sobota - zupa krem z szparagów; https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html
 18.10 piątek - ryba smażona/pieczona, ziemniaki, marchewka z groszkiem
-27.11 środa / 28.11 czwartek - kurczak z mozzarellą; https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka , ziemniaki, mizeria
+27.11 środa / 28.11 czwartek - kurczak z mozzarellą; https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka
 [WEGE] 6.12 piątek - ratatuj; https://przepisyjoli.com/2017/08/ratatuj
 5.10 poniedziałek - sałatka z łososiem i mozzarellą; https://smakowitedania.com/2018/04/salatka-z-rukola-wedzonym-lososiem-i-mozzarella-film.html
-14.06 niedziela - roladki z kurczaka z serem, pieczarkami pieczone w boczku; https://www.kwestiasmaku.com/przepis/roladki-z-kurczaka-z-pieczarkami-i-serem-pieczone-w-boczku, ziemniaki, surówka z warzywek
+14.06 niedziela - roladki z kurczaka z serem, pieczarkami pieczone w boczku; https://www.kwestiasmaku.com/przepis/roladki-z-kurczaka-z-pieczarkami-i-serem-pieczone-w-boczku
 05.06 niedziela / 06.06 poniedziałek - paella z kurczakiem https://www.uwielbiamgotowac.com/2017/01/paella-z-kurczakiem.html
 11.06 sobota - pstrąg pieczony w całości; https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html
 15.07 środa / 16.07 czwartek - sałatka z kurczakiem
@@ -28,8 +28,8 @@ bojkot - devolaye; https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-s
 [WEGE] bojkot - zupa grzybowa 50 złotych grzybów; https://www.kwestiasmaku.com/przepis/zupa-krem-grzybowa-z-suszonych-grzybow
 1.11 niedziela - miks pierogów; https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html i https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_kapusta/przepis.html
 09.06 środa - biała ryba na parze, ziemniaki, i
-25.01 poniedziałek/ 26.01 wtorek - szwedzkie klopsiki; https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/szwedzkie_klopsiki/przepis.html, opiekane ziemniaczki
-bojkot - roladki z kurczaka z serem i papryką pieczone w boczku; https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella, ziemniaki, surówka z warzywek
+25.01 poniedziałek/ 26.01 wtorek - szwedzkie klopsiki; https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/szwedzkie_klopsiki/przepis.html
+bojkot - roladki z kurczaka z serem i papryką pieczone w boczku; https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella
 23.11 poniedziałek / 24.11 wtorek - karkówka smażona z przyprawami, ziemniaki opiekane
 01.02 poniedziałek / 02.02 wtorek - schab nadziewany odtłuszczoną mozarellą i pieczarkami
 5.11 sobota - paluszki rybne, frytki, sałatka lodowa
@@ -48,9 +48,10 @@ bojkot - pizza na kamieniu
 [WEGE] 27.06 niedziela - racuchy z jabłkami
 15.07 piątek - sałatka z krewetkami; https://www.kwestiasmaku.com/przepis/salatka-z-krewetkami-smazonymi-z-czosnkiem-i-papryczka-chili
 15.08 niedziela - domowy kebab; https://kuron.com.pl/artykuly/przepisy/dania-glowne/domowy-kebab
-bojkot - krokiety; https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku--364765 i https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami
+bojkot - krokiety z pieczarkami; https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku--364765
+bojkot - krokiety z kapustą i grzybami; https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami
 06.03 środa / 07.03 czwartek - papryka faszerowana
-[WEGE] 08.11 poniedziałek- zupa krem z groszku z grzankami; https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi
+[WEGE] 08.11 poniedziałek - zupa krem z groszku z grzankami; https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi
 28.06 wtorek / 29.06 środa - ryż z krewetkami na ostro; https://www.kwestiasmaku.com/przepis/ryz-smazony-z-krewetkami-na-ostro
 02.07 sobota / 03.07 niedziela / 04.07 poniedziałek - pad gra prow z wołowiną; https://madameedith.com/przepis/wolowina-z-tajska-bazylia-pad-gra-prow
 [WEGE] 29.11 poniedziałek / 30.11 wtorek - sałatka grecka; https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html
@@ -75,7 +76,7 @@ bojkot - dorsz pod śródziemnomorską kruszonką; https://drive.google.com/file
 6.11 niedziela / 7.11 poniedziałek - pałki z kurczaka pieczone w piekarniku, ziemniaki, i
 27.10 czwartek / 28.10 piątek / 29.10 sobota - wołowina po burgundzku; https://www.kwestiasmaku.com/przepis/boeuf-bourguignon-wolowina-po-burgundzku
 05.07 wtorek - 06.07 środa - pierś z kaczki z ziemniakami; https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html
-30.10 niedziela / 31.10 poniedziałek - domowy kebab 2; https://policzona-szama.pl/blogs/przepisy/domowy-kebab?_pos=1&_sid=0ea4a3e87&_ss=r
+30.10 niedziela / 31.10 poniedziałek - domowy kebab 2; https://policzona-szama.pl/blogs/przepisy/domowy-kebab
 08.03 piątek / 09.03 sobota - zupa warzywna
 [WEGE] 12.11 sobota - łatwe kimchi; https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta
 19.11 sobota - dorada pieczona, ryż, surówka; https://drive.google.com/file/d/1DcJYwChbu6zpQpigyzLcRgFe_kN-Ly0b/view?usp=share_link
@@ -127,15 +128,15 @@ bojkot - zapiekanka Łukaszkowa; https://kuchnialidla.pl/zapiekanka-z-miesem-i-z
 [WEGE] bojkot - curry z kalafiora; https://www.jadlonomia.com/przepisy/na-przednowku-czyli-ulubione-curry-z
 16.09 sobota / 17.09 niedziela - cukinia faszerowana; https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem
 18.09 poniedziałek / 19.09 wtorek - ryż z warzywami chińskimi i kurczakiem; https://www.kwestiasmaku.com/przepis/smazony-ryz-po-chinsku-z-kurczakiem-i-warzywami
-[WEGE] 21.09 czwartek / 22.09 piątek - zupa kalafiorowa https://www.kwestiasmaku.com/przepis/zupa-kalafiorowa-z-ziemniakami-i-marchewka
-24.09 niedziela / 25.09 poniedziałek - gołąbki; https://www.kwestiasmaku.com/kuchnia_polska/golabki/przepis.html, ziemniaki
+[WEGE] 21.09 czwartek / 22.09 piątek - zupa kalafiorowa; https://www.kwestiasmaku.com/przepis/zupa-kalafiorowa-z-ziemniakami-i-marchewka
+24.09 niedziela / 25.09 poniedziałek - gołąbki; https://www.kwestiasmaku.com/kuchnia_polska/golabki/przepis.html
 30.09 sobota / 1.10 niedziela - fasolka po bretońsku, bułki; https://www.kwestiasmaku.com/zielony_srodek/fasolka/fasolka_po_bretonsku/przepis.html
 2.10 poniedziałek / 3.10 wtorek - łosoś z sosem koperkowym; https://www.kwestiasmaku.com/przepis/losos-z-sosem-koperkowym
 5.10 czwartek - sztuka mięsa łe, tabbouleh, sałatka z bulgurem; https://www.kwestiasmaku.com/przepis/tabbouleh
 15.04 sobota / 16.04 niedziela - ramen shoyu; https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina
 bojkot - zupa rosół
 8.10. niedziela / 9.10 poniedziałek - Łukaszkowy ramen; https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina
-12.10 czwartek / 13.10 piątek / 14.10 sobota - wieprzowina po chińsku z mango; https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango, ryż
+12.10 czwartek / 13.10 piątek / 14.10 sobota - wieprzowina po chińsku z mango; https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango
 15.10 niedziela - quesadillka 2; https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/773-chrupiaca-quesadilla-z-szarpanym-kurczakiem-w-pikantnym-sosie-pomidorowym-adobo.html
 15.10 niedziela - quesadilka 3; https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html
 [WEGE] 15.10 niedziela - quesadillka 4; https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html
@@ -146,17 +147,17 @@ bojkot - zupa rosół
 [WEGE] 02.11 czwartek / 03.11 piątek - wegeburgerki; https://www.jadlonomia.com/przepisy/najlepsze-wegeburgery-na-swiecie
 05.11 niedziela / 06.11 poniedziałek - bigos z kapustą zwykłą i kiszoną; https://www.kwestiasmaku.com/przepis/bigos
 [WEGE] 08.11 środa / 09.11 czwartek - makaron z pieczonymi pomidorami; https://www.kwestiasmaku.com/przepis/makaron-z-pieczonymi-pomidorami
-10.11 piątek - czosnkowa kalafiorowa
 24.03 niedziela - sałatka gyros; https://www.kwestiasmaku.com/przepis/salatka-gyros
 [WEGE] 13.11 poniedziałek / 14.11 wtorek - zupa grzybowa 2; https://www.kuchnia-domowa.pl/przepisy/zupy/474-zupa-grzybowa
 17.11 piątek / 18.11 sobota - skrzydełka w miodzie pieczone w piekarniku, frytki, ogórki kiszone
 17.11 piątek / 18.11 sobota - hotdogi z warzywkami
-[WEGAN] 19.11 niedziela - wegański tatar https://easyvege.pl/weganski-tatar
+[WEGAN] 19.11 niedziela - wegański tatar; https://easyvege.pl/weganski-tatar
 20.11 poniedziałek / 21.11 wtorek - makaron zapiekany z boczkiem i cukinią; https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem
 [WEGE] bojkot - kaszotto z grzybami leśnymi; https://www.cafebabilon.pl/2020/11/kaszotto-z-grzybami-lesnymi
-3.12 niedziela - krewetki po luizjańsku https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku
+3.12 niedziela - krewetki po luizjańsku; https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku
 [WEGE] bojkot - zupa grochowa 2; https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu
-9.12 niedziela - sałatka z mango i avocado; https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado, sałatka z rukoli, granat pomarańcza https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html, minikanapeczki
+9.12 niedziela - sałatka z mango i avocado; https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado,
+9.12 niedziela - sałatka z rukoli, granat pomarańcza; https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html
 15.12 sobota - tatar ze śledzia; https://www.kwestiasmaku.com/ryby_i_owoce_morza/sledzie/tatar_ze_sledzia/przepis.html
 6.12 środa / 7.12 czwartek - żeberka w miodzie; https://aniagotuje.pl/przepis/zeberka-pieczone, ziemniaki, buraczki
 16.12 niedziela - sałatka z kurczakiem; https://aniagotuje.pl/przepis/salatka-z-kurczakiem
@@ -166,7 +167,7 @@ bojkot - zupa rosół
 4.01 czwartek / 5.01 piątek - bucatini alla amatriciana; https://www.chilliczosnekioliwa.pl/2022/01/bucatini-all-amatriciana.html
 8.01 poniedziałek / 9.01 wtorek - klopsy, ziemniaki, mizeria lub inne i
 [WEGE] 12.01 piątek - pierogi leniwe; https://aniagotuje.pl/przepis/kluski-leniwe
-12.01 piątek - sos waniliowy https://www.oetker.pl/przepisy/r/sos-waniliowy
+12.01 piątek - sos waniliowy; https://www.oetker.pl/przepisy/r/sos-waniliowy
 [WEGE] 13.01 sobota - pieczony kalafior z ciecierzycą; https://www.jadlonomia.com/przepisy/pieczony-kalafior-z-ciecierzyca
 16.01 wtorek / 17.01 środa - zupa grochówka; https://www.kwestiasmaku.com/przepis/zupa-grochowa-z-ziemniakami-i-kielbasa
 19.01 piątek / 20.01 sobota - paella; https://aniagotuje.pl/przepis/paella
@@ -179,7 +180,6 @@ bojkot - zupa rosół
 03.02 sobota / 04.02 niedziela - szare kluski ze skwarkami i bigos ze słoika; https://aniagotuje.pl/przepis/szare-kluski
 05.02 poniedziałek / 06.02 wtorek - sztuka mięsa z piekarnika/w garnku łee, kasza jęczmienna, i
 [WEGE] bojkot - buraki po burgundzku; https://www.jadlonomia.com/przepisy/burak-z-burgundii
-[WEGE] 09.02 piątek - pierogi z zamrażarki
 16.02 piątek / 17.02 sobota - buritto z chili con carne; https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html
 [WEGE] 12.02 poniedziałek / 13.02 wtorek - francuska zupa cebulowa; https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html
 28.02 środa / 29.02 czwartek - gulasz z szynki, ziemniaki, fasolka z bułką tartą; https://aniagotuje.pl/przepis/gulasz-wieprzowy
