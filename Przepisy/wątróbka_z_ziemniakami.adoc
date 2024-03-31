@@ -1,4 +1,4 @@
-= Zrazy, kasza, buraczki
+= Wątróbka z ziemniakami
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://kuchnialidla.pl/zwijane-zrazy-wolowe[link do źródła przepisu]
+*09.02 czwartek / 10.02 piątek - wątróbka z ziemniakami[link do źródła przepisu]
 
 == Składniki
 

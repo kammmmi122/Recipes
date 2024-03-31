@@ -1,4 +1,4 @@
-= Sałatka cezarm
+= Sałatka cezar
 
 [cols=".<a,.<a"]
 [frame=none]

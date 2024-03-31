@@ -1,4 +1,4 @@
-= Quesadillka 2
+= Quesadilla 2
 
 [cols=".<a,.<a"]
 [frame=none]

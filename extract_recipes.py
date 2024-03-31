@@ -39,7 +39,8 @@ def get_number_of_portions(link):
             soup = BeautifulSoup(response, "html.parser")
             portions = soup.select_one(selector)
             if portions:
-                potions_text = f"* {portions.text.strip()}\n"
+                p_text = portions.text.strip().replace('\u00a0',' ').replace('\u2013', '-')
+                potions_text = f"* {p_text}\n"
 
     return potions_text
 
@@ -64,7 +65,7 @@ def get_recipe_ingredients(link):
             ingredients = soup.select_one(selector)
             if ingredients:
                 list_of_ingredients = [
-                    ingredient.text.strip() for ingredient in ingredients.select("li")
+                    ingredient.text.strip().replace("\u00a0"," ").replace("\u2013", "-") for ingredient in ingredients.select("li")
                 ]
                 ingredients_text = "\n".join(
                     f"* {ingredient}" for ingredient in list_of_ingredients
@@ -91,7 +92,7 @@ def get_recipe_text(link):
             soup = BeautifulSoup(response, "html.parser")
             texts = soup.select_one(selector)
             if texts:
-                list_of_recipe_text = [text.text.strip() for text in texts.select("li")]
+                list_of_recipe_text = [text.text.strip().replace("\u00a0"," ").replace("\u2013", "-") for text in texts.select("li")]
                 recipe_text = "\n\n".join(list_of_recipe_text)
     return recipe_text
 

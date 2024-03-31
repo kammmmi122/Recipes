@@ -1,4 +1,4 @@
-= Zupa żurek z białą kiełbasą w chlebku/bez chlebka
+= Zupa żurek z białą kiełbasą
 
 [cols=".<a,.<a"]
 [frame=none]

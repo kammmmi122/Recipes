@@ -1,4 +1,4 @@
-= Placki z cukinii z sosem pieczarkowym lub tzatiki
+= Placki z cukinii
 
 [cols=".<a,.<a"]
 [frame=none]

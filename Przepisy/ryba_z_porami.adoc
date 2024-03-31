@@ -1,4 +1,4 @@
-= Ryba z porami, ziemniaczki, i
+= Ryba z porami
 
 [cols=".<a,.<a"]
 [frame=none]

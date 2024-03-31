@@ -1,4 +1,4 @@
-= Szare kluski ze skwarkami i bigos ze słoika
+= Szare kluski ze skwarkami
 
 [cols=".<a,.<a"]
 [frame=none]
