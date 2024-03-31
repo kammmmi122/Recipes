@@ -14,7 +14,7 @@ def create_index_adoc():
                 ).replace("\\", "/")
                 with open(f"index.adoc", "a+", encoding="utf8") as file2:
                     file2.write(
-                        f"1. link:{path_to_html}[{name.replace('_', ' ').capitalize()}]\n"
+                        f"1. link:{path_to_html}[{name.replace('_', ' ').capitalize().replace('.adoc', '')}]\n"
                     )
 
 
