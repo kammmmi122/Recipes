@@ -1,0 +1,17 @@
+= Pizza na kamieniu
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+*bojkot - pizza na kamieniu [link do źródła przepisu]
+
+== Składniki
+
+|
+== Przygotowanie
+
+== Zdjęcia
+|===

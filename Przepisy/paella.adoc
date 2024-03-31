@@ -1,0 +1,17 @@
+= Paella
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://aniagotuje.pl/przepis/paella [link do źródła przepisu]
+
+== Składniki
+
+|
+== Przygotowanie
+
+== Zdjęcia
+|===

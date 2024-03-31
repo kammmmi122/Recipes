@@ -1,0 +1,17 @@
+= Domowa pizza
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii [link do źródła przepisu]
+
+== Składniki
+
+|
+== Przygotowanie
+
+== Zdjęcia
+|===

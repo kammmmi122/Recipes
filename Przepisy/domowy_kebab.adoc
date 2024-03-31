@@ -1,0 +1,17 @@
+= Domowy kebab
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://kuron.com.pl/artykuly/przepisy/dania-glowne/domowy-kebab [link do źródła przepisu]
+
+== Składniki
+
+|
+== Przygotowanie
+
+== Zdjęcia
+|===
