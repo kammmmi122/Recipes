@@ -9,6 +9,22 @@ KW_INGREDIENTS_TAG = (
 
 KW_RECIPE_TEXT_TAG = "div.group-przepis.field-group-div div ul"
 
+KW_PORTION = (
+    "div.field.field-name-field-ilosc-porcji.field-type-text.field-label-hidden"
+)
+
+
+def get_number_of_portions(link):
+    potions_text = ""
+    if "kwestiasmaku" in link:
+        with urlopen(link) as response:
+            soup = BeautifulSoup(response, "html.parser")
+            portions = soup.select_one(KW_PORTION)
+            if portions is not None:
+                potions_text = f"* {portions.text.strip()}\n"
+
+    return potions_text
+
 
 def get_recipe_ingredients(link):
     ingredients_text = ""
@@ -74,12 +90,14 @@ def create_files(text, create_file):
 
             ingredients_text = get_recipe_ingredients(link)
             recipe_text = get_recipe_text(link)
+            potions_text = get_number_of_portions(link)
 
             with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
                 f.write(f"= {cap_title}\n\n")
                 f.write(
                     '[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n'
                 )
+                f.write(f"{potions_text}")
                 f.write(f"*{link}[link do źródła przepisu]\n")
                 f.write("\n== Składniki\n")
                 f.write(f"{ingredients_text}")
