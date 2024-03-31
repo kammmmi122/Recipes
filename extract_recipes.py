@@ -2,6 +2,7 @@ import re
 import os
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
+from enum import Enum
 
 KW_INGREDIENTS_TAG = (
     "div.field.field-name-field-skladniki.field-type-text-long.field-label-hidden ul"
@@ -20,14 +21,20 @@ J_RECIPE_TEXT_TAG = "#RecipeCard > div.hyphenate"
 J_PORTION = "#RecipeCard > ul"
 
 
+class Webpages(Enum):
+    KW = "kwestiasmaku"
+    AG = "aniagotuje"
+    J = "jadlonomia"
+
+
 def get_number_of_portions(link):
     potions_text = ""
     selector = None
-    if "kwestiasmaku" in link:
+    if Webpages.KW.value in link:
         selector = KW_PORTION
-    elif "aniagotuje" in link:
+    elif Webpages.AG.value in link:
         selector = AG_PORTION
-    elif "jadlonomia" in link:
+    elif Webpages.J.value in link:
         selector = J_PORTION
 
     if selector:
@@ -39,7 +46,9 @@ def get_number_of_portions(link):
             soup = BeautifulSoup(response, "html.parser")
             portions = soup.select_one(selector)
             if portions:
-                p_text = portions.text.strip().replace('\u00a0',' ').replace('\u2013', '-')
+                p_text = (
+                    portions.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
+                )
                 potions_text = f"* {p_text}\n"
 
     return potions_text
@@ -48,11 +57,11 @@ def get_number_of_portions(link):
 def get_recipe_ingredients(link):
     ingredients_text = ""
     selector = None
-    if "kwestiasmaku" in link:
+    if Webpages.KW.value in link:
         selector = KW_INGREDIENTS_TAG
-    elif "aniagotuje" in link:
+    elif Webpages.AG.value in link:
         selector = AG_INGREDIENTS_TAG
-    elif "jadlonomia" in link:
+    elif Webpages.J.value in link:
         selector = J_INGREDIENTS_TAG
 
     if selector:
@@ -64,9 +73,18 @@ def get_recipe_ingredients(link):
             soup = BeautifulSoup(response, "html.parser")
             ingredients = soup.select_one(selector)
             if ingredients:
-                list_of_ingredients = [
-                    ingredient.text.strip().replace("\u00a0"," ").replace("\u2013", "-") for ingredient in ingredients.select("li")
-                ]
+                if Webpages.J.value in link:
+                    list_of_ingredients = [
+                        ingredient.strip().replace("\u00a0", " ").replace("\u2013", "-")
+                        for ingredient in ingredients.text.split("\n")
+                    ]
+                else:
+                    list_of_ingredients = [
+                        ingredient.text.strip()
+                        .replace("\u00a0", " ")
+                        .replace("\u2013", "-")
+                        for ingredient in ingredients.select("li")
+                    ]
                 ingredients_text = "\n".join(
                     f"* {ingredient}" for ingredient in list_of_ingredients
                 )
@@ -76,11 +94,11 @@ def get_recipe_ingredients(link):
 def get_recipe_text(link):
     recipe_text = ""
     selector = None
-    if "kwestiasmaku" in link:
+    if Webpages.KW.value in link:
         selector = KW_RECIPE_TEXT_TAG
-    elif "aniagotuje" in link:
+    elif Webpages.AG.value in link:
         selector = AG_RECIPE_TEXT_TAG
-    elif "jadlonomia" in link:
+    elif Webpages.J.value in link:
         selector = J_RECIPE_TEXT_TAG
 
     if selector:
@@ -92,7 +110,10 @@ def get_recipe_text(link):
             soup = BeautifulSoup(response, "html.parser")
             texts = soup.select_one(selector)
             if texts:
-                list_of_recipe_text = [text.text.strip().replace("\u00a0"," ").replace("\u2013", "-") for text in texts.select("li")]
+                list_of_recipe_text = [
+                    text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
+                    for text in texts.select("li")
+                ]
                 recipe_text = "\n\n".join(list_of_recipe_text)
     return recipe_text
 
