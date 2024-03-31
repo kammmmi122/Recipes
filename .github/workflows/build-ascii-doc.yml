@@ -30,6 +30,8 @@ jobs:
           path: |
             *.html
             *.jpg
+            Przepisy/*.jpg
+            Przepisy/*.html
             Przepisy/Przetwory/*.jpg
             Przepisy/Przetwory/*.html
             Przepisy/Desery/*.jpg
