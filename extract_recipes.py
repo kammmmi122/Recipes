@@ -110,8 +110,8 @@ def get_recipe_text(link):
         req = Request(url=link, headers=headers)
         with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            texts = soup.select_one(selector)
-            if texts:
+            texts_many = soup.select(selector)
+            for texts in texts_many:
                 list_of_recipe_text = [
                     text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
                     for text in texts.select("li")
