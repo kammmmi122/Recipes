@@ -12,8 +12,12 @@ KW_PORTION = (
 )
 
 AG_INGREDIENTS_TAG = "#recipeIngredients ul"
-AG_RECIPE_TEXT_TAG = "p"
+AG_RECIPE_TEXT_TAG = "#article-content-body99561 > div > p"
 AG_PORTION = "p.recipe_info"
+
+J_INGREDIENTS_TAG = "#RecipeCard > p"
+J_RECIPE_TEXT_TAG = "#RecipeCard > div.hyphenate"
+J_PORTION = "#RecipeCard > ul"
 
 
 def get_number_of_portions(link):
@@ -23,6 +27,8 @@ def get_number_of_portions(link):
         selector = KW_PORTION
     elif "aniagotuje" in link:
         selector = AG_PORTION
+    elif "jadlonomia" in link:
+        selector = J_PORTION
 
     if selector:
         headers = {
@@ -45,6 +51,8 @@ def get_recipe_ingredients(link):
         selector = KW_INGREDIENTS_TAG
     elif "aniagotuje" in link:
         selector = AG_INGREDIENTS_TAG
+    elif "jadlonomia" in link:
+        selector = J_INGREDIENTS_TAG
 
     if selector:
         headers = {
@@ -71,6 +79,8 @@ def get_recipe_text(link):
         selector = KW_RECIPE_TEXT_TAG
     elif "aniagotuje" in link:
         selector = AG_RECIPE_TEXT_TAG
+    elif "jadlonomia" in link:
+        selector = J_RECIPE_TEXT_TAG
 
     if selector:
         headers = {
