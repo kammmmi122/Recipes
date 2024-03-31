@@ -1,14 +1,22 @@
 import re
-    
+import os
+
+def delete_files():
+    dir_name = "Przepisy"
+    test = os.listdir(dir_name)
+
+    for item in test:
+        if item.endswith(".adoc"):
+            os.remove(os.path.join(dir_name, item))
+
 def read_file():
-    
     with open("przepisy.txt", "r", encoding="utf8") as f:
         text = f.read()
     return text
 
 def get_link(text):
     return re.findall("(?P<url>https?://[^\s]+)", text)
-    
+
 def create_files(text):
 
     list_of_recipes = text.split("\n")
@@ -29,6 +37,7 @@ def create_files(text):
             print (file, "created")
 
 if __name__ == "__main__":
+    delete_files()
     text = read_file()
     file_list = get_link(text)
     create_files(text)
