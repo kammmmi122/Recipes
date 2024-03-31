@@ -3,22 +3,37 @@ import os
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-KW_SKLADNIKI_TAG = (
+KW_INGREDIENTS_TAG = (
     "div.field.field-name-field-skladniki.field-type-text-long.field-label-hidden ul"
 )
 
+KW_RECIPE_TEXT_TAG = "div.group-przepis.field-group-div div ul"
+
 
 def get_recipe_ingredients(link):
-    list_of_ingredients = []
-    print(link)
+    ingredients_text = ""
     if "kwestiasmaku" in link:
         with urlopen(link) as response:
             soup = BeautifulSoup(response, "html.parser")
-            ingredients = soup.select_one(KW_SKLADNIKI_TAG)
+            ingredients = soup.select_one(KW_INGREDIENTS_TAG)
             list_of_ingredients = [
                 ingredient.text.strip() for ingredient in ingredients.select("li")
             ]
-    return list_of_ingredients
+            ingredients_text = "\n".join(
+                f"* {ingredient}" for ingredient in list_of_ingredients
+            )
+    return ingredients_text
+
+
+def get_recipe_text(link):
+    recipe_text = ""
+    if "kwestiasmaku" in link:
+        with urlopen(link) as response:
+            soup = BeautifulSoup(response, "html.parser")
+            texts = soup.select_one(KW_RECIPE_TEXT_TAG)
+            list_of_recipe_text = [text.text.strip() for text in texts.select("li")]
+            recipe_text = "\n\n".join(list_of_recipe_text)
+    return recipe_text
 
 
 def delete_files():
@@ -57,10 +72,8 @@ def create_files(text, create_file):
             list_of_files, list_of_links, capitalize_case_name
         ):
 
-            list_of_ingredients = get_recipe_ingredients(link)
-            ingredients_text = "\n".join(
-                f"* {ingredient}" for ingredient in list_of_ingredients
-            )
+            ingredients_text = get_recipe_ingredients(link)
+            recipe_text = get_recipe_text(link)
 
             with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
                 f.write(f"= {cap_title}\n\n")
@@ -71,10 +84,11 @@ def create_files(text, create_file):
                 f.write("\n== Składniki\n")
                 f.write(f"{ingredients_text}")
                 f.write("\n|\n== Przygotowanie\n")
+                f.write(f"{recipe_text}")
                 f.write("\n== Zdjęcia\n|===\n")
                 print(file, "created")
 
-        #update_index_adoc(list_of_files, capitalize_case_name)
+        # update_index_adoc(list_of_files, capitalize_case_name)
 
 
 def update_index_adoc(list_of_files, capitalize_case_name):
