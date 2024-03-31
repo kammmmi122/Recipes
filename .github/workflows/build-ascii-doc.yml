@@ -38,4 +38,6 @@ jobs:
             Przepisy/Desery/*.html
             Przepisy/Dania_glowne/*.jpg
             Przepisy/Dania_glowne/*.html
+            Przepisy/Zupy/*.jpg
+            Przepisy/Zupy/*.html
           if-no-files-found: error
