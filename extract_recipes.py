@@ -62,9 +62,6 @@ def create_files(text, create_file):
                 f"* {ingredient}" for ingredient in list_of_ingredients
             )
 
-            # with open(f"index.adoc", "a+", encoding="utf8") as file2:
-            #     file2.write(f"1. link:Przepisy/{file}.html[{cap_title}]\n")
-
             with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
                 f.write(f"= {cap_title}\n\n")
                 f.write(
@@ -76,6 +73,16 @@ def create_files(text, create_file):
                 f.write("\n|\n== Przygotowanie\n")
                 f.write("\n== Zdjęcia\n|===\n")
                 print(file, "created")
+
+        #update_index_adoc(list_of_files, capitalize_case_name)
+
+
+def update_index_adoc(list_of_files, capitalize_case_name):
+    list_of_files = sorted(list_of_files)
+    capitalize_case_name = sorted(capitalize_case_name)
+    for file, cap_title in zip(list_of_files, capitalize_case_name):
+        with open(f"index.adoc", "a+", encoding="utf8") as file2:
+            file2.write(f"1. link:Przepisy/{file}.html[{cap_title}]\n")
 
 
 if __name__ == "__main__":
