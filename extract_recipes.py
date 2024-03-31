@@ -16,6 +16,7 @@ AG_INGREDIENTS_TAG = "#recipeIngredients ul"
 AG_RECIPE_TEXT_TAG = "#article-content-body99561 > div > p"
 AG_PORTION = "p.recipe_info"
 
+
 J_INGREDIENTS_TAG = "#RecipeCard > p"
 J_RECIPE_TEXT_TAG = "#RecipeCard > div.hyphenate"
 J_PORTION = "#RecipeCard > ul"
@@ -71,8 +72,8 @@ def get_recipe_ingredients(link):
         req = Request(url=link, headers=headers)
         with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            ingredients = soup.select_one(selector)
-            if ingredients:
+            ingredients_many = soup.select(selector)
+            for ingredients in ingredients_many:
                 if Webpages.J.value in link:
                     list_of_ingredients = [
                         ingredient.strip().replace("\u00a0", " ").replace("\u2013", "-")
@@ -85,9 +86,10 @@ def get_recipe_ingredients(link):
                         .replace("\u2013", "-")
                         for ingredient in ingredients.select("li")
                     ]
-                ingredients_text = "\n".join(
+                ingredients_text += "\n".join(
                     f"* {ingredient}" for ingredient in list_of_ingredients
                 )
+                ingredients_text+="\n"
     return ingredients_text
 
 
