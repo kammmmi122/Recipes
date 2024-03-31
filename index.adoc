@@ -13,3 +13,4 @@
 
 1. link:Przepisy/Desery/Kokosanka.html[Kokosanka]
 2. link:Przepisy/Desery/Pierniczki.html[Pierniczki]
+3. link:Przepisy/Desery/Sernik.html[Sernik]
