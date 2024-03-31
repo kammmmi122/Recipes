@@ -1,26 +1,38 @@
 import re
 import os
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 
 KW_INGREDIENTS_TAG = (
     "div.field.field-name-field-skladniki.field-type-text-long.field-label-hidden ul"
 )
-
 KW_RECIPE_TEXT_TAG = "div.group-przepis.field-group-div div ul"
-
 KW_PORTION = (
     "div.field.field-name-field-ilosc-porcji.field-type-text.field-label-hidden"
 )
 
+AG_INGREDIENTS_TAG = "recipeIngredients ul"
+AG_RECIPE_TEXT_TAG = "p"
+AG_PORTION = "p.recipe_info"
+
 
 def get_number_of_portions(link):
     potions_text = ""
+    selector = None
     if "kwestiasmaku" in link:
-        with urlopen(link) as response:
+        selector = KW_PORTION
+    elif "aniagotuje" in link:
+        selector = AG_PORTION
+
+    if selector:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"
+        }
+        req = Request(url=link, headers=headers)
+        with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            portions = soup.select_one(KW_PORTION)
-            if portions is not None:
+            portions = soup.select_one(selector)
+            if portions:
                 potions_text = f"* {portions.text.strip()}\n"
 
     return potions_text
@@ -28,27 +40,49 @@ def get_number_of_portions(link):
 
 def get_recipe_ingredients(link):
     ingredients_text = ""
+    selector = None
     if "kwestiasmaku" in link:
-        with urlopen(link) as response:
+        selector = KW_INGREDIENTS_TAG
+    elif "aniagotuje" in link:
+        selector = AG_INGREDIENTS_TAG
+
+    if selector:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"
+        }
+        req = Request(url=link, headers=headers)
+        with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            ingredients = soup.select_one(KW_INGREDIENTS_TAG)
-            list_of_ingredients = [
-                ingredient.text.strip() for ingredient in ingredients.select("li")
-            ]
-            ingredients_text = "\n".join(
-                f"* {ingredient}" for ingredient in list_of_ingredients
-            )
+            ingredients = soup.select_one(selector)
+            if ingredients:
+                list_of_ingredients = [
+                    ingredient.text.strip() for ingredient in ingredients.select("li")
+                ]
+                ingredients_text = "\n".join(
+                    f"* {ingredient}" for ingredient in list_of_ingredients
+                )
     return ingredients_text
 
 
 def get_recipe_text(link):
     recipe_text = ""
+    selector = None
     if "kwestiasmaku" in link:
-        with urlopen(link) as response:
+        selector = KW_RECIPE_TEXT_TAG
+    elif "aniagotuje" in link:
+        selector = AG_RECIPE_TEXT_TAG
+
+    if selector:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"
+        }
+        req = Request(url=link, headers=headers)
+        with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            texts = soup.select_one(KW_RECIPE_TEXT_TAG)
-            list_of_recipe_text = [text.text.strip() for text in texts.select("li")]
-            recipe_text = "\n\n".join(list_of_recipe_text)
+            texts = soup.select_one(selector)
+            if texts:
+                list_of_recipe_text = [text.text.strip() for text in texts.select("li")]
+                recipe_text = "\n\n".join(list_of_recipe_text)
     return recipe_text
 
 
