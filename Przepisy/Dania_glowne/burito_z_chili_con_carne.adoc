@@ -6,12 +6,14 @@
 |===
 |
 == Szczegóły
+
 * 4 porcje
 * czas przygotowania: 1h
 * https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
 == Składniki
 Na chilli:
+
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -27,6 +29,7 @@ Na chilli:
 * 100 g boczku
 
 Na burito:
+
 * 8 plastrów ser cheddar
 * 4 tortille
 
