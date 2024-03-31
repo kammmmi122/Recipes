@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta [link do źródła przepisu]
+* https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta[link do źródła przepisu]
 
 == Składniki
 

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii [link do źródła przepisu]
+* https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii[link do źródła przepisu]
 
 == Składniki
 

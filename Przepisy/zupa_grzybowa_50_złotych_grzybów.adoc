@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/zupa-krem-grzybowa-z-suszonych-grzybow [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/zupa-krem-grzybowa-z-suszonych-grzybow[link do źródła przepisu]
 
 == Składniki
 * 70 g grzybów suszonych (borowików i/lub podgrzybków)

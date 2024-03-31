@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniagotuje.pl/przepis/zupa-z-cukinii [link do źródła przepisu]
+* https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
 == Składniki
 

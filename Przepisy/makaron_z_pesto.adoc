@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniastarmach.pl/przepis/makaron-z-pesto [link do źródła przepisu]
+* https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
 
 == Składniki
 

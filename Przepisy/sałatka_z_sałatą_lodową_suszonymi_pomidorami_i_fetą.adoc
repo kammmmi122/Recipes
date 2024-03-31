@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/dania_dla_dwojga/party/salatka_z_feta/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/dania_dla_dwojga/party/salatka_z_feta/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 1/4 lub 1/3 główki sałaty lodowej

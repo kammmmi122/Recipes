@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniagotuje.pl/przepis/makaron-z-brokulami [link do źródła przepisu]
+* https://aniagotuje.pl/przepis/makaron-z-brokulami[link do źródła przepisu]
 
 == Składniki
 

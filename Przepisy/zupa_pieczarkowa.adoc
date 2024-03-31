@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://kuron.com.pl/artykuly/przepisy/rozne-przepisy/zupa-pieczarkowa [link do źródła przepisu]
+* https://kuron.com.pl/artykuly/przepisy/rozne-przepisy/zupa-pieczarkowa[link do źródła przepisu]
 
 == Składniki
 

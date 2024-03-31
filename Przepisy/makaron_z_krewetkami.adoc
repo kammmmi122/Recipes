@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
 
 == Składniki
 * 200 g mrożonych krewetek

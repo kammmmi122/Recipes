@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 5 krewetek

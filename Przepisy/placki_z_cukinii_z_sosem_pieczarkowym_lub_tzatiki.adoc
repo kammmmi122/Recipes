@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 3 łyżki (30 g) mąki pszennej

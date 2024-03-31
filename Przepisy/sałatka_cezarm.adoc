@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/salatka-cezar-z-kurczakiem [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/salatka-cezar-z-kurczakiem[link do źródła przepisu]
 
 == Składniki
 * 300 g filetu z kurczaka

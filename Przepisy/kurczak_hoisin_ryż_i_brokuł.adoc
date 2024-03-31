@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/kurczak-hoisin [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
 
 == Składniki
 * 500 g filetu z kurczaka

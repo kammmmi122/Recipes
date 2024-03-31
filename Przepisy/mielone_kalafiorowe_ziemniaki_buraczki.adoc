@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.jadlonomia.com/przepisy/mielone-kalafiorowe [link do źródła przepisu]
+* https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
 
 == Składniki
 

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 2 pęczki białych szparagów

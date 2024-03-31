@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://policzona-szama.pl/blogs/przepisy/domowy-kebab [link do źródła przepisu]
+* https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
 == Składniki
 

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/krupnik [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
 
 == Składniki
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka

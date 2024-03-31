@@ -70,7 +70,7 @@ def create_files(text, create_file):
                 f.write(
                     '[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n'
                 )
-                f.write(f"*{link} [link do źródła przepisu]\n")
+                f.write(f"*{link}[link do źródła przepisu]\n")
                 f.write("\n== Składniki\n")
                 f.write(f"{ingredients_text}")
                 f.write("\n|\n== Przygotowanie\n")

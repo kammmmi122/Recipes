@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://poprostupycha.com.pl/przepis/zupa-tajska [link do źródła przepisu]
+* https://poprostupycha.com.pl/przepis/zupa-tajska[link do źródła przepisu]
 
 == Składniki
 

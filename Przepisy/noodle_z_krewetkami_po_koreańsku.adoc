@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/noodle-z-krewetkami-po-koreansku [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/noodle-z-krewetkami-po-koreansku[link do źródła przepisu]
 
 == Składniki
 * 125 g makaronu chow mein

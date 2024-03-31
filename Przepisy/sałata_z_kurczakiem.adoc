@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniagotuje.pl/przepis/salatka-z-kurczakiem [link do źródła przepisu]
+* https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
 
 == Składniki
 

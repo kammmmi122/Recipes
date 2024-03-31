@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
 
 == Składniki
 * 2 łyżki oleju roślinnego

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/kuchnia_angielska/steki/stek_z_sosem_bearnaise/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/kuchnia_angielska/steki/stek_z_sosem_bearnaise/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 500 g polędwicy wołowej

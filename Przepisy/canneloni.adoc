@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/pasta/cannelloni_z_miesem/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/pasta/cannelloni_z_miesem/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 18 rurek cannelloni, około 200 g

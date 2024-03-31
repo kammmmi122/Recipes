@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami[link do źródła przepisu]
 
 == Składniki
 * 40 g suszonych grzybów

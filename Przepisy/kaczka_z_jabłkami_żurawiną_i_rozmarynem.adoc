@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/pieczone-udka-kaczki [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/pieczone-udka-kaczki[link do źródła przepisu]
 
 == Składniki
 * 4 kacze udka

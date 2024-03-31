@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniagotuje.pl/przepis/kluski-leniwe [link do źródła przepisu]
+* https://aniagotuje.pl/przepis/kluski-leniwe[link do źródła przepisu]
 
 == Składniki
 

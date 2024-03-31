@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://easyvege.pl/weganski-tatar [link do źródła przepisu]
+* https://easyvege.pl/weganski-tatar[link do źródła przepisu]
 
 == Składniki
 

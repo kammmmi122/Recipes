@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu [link do źródła przepisu]
+* https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
 == Składniki
 

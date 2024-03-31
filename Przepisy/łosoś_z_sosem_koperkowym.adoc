@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/losos-z-sosem-koperkowym [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/losos-z-sosem-koperkowym[link do źródła przepisu]
 
 == Składniki
 * 350 g filetu z łososia

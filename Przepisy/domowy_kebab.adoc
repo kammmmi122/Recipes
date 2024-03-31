@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://kuron.com.pl/artykuly/przepisy/dania-glowne/domowy-kebab [link do źródła przepisu]
+* https://kuron.com.pl/artykuly/przepisy/dania-glowne/domowy-kebab[link do źródła przepisu]
 
 == Składniki
 

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/zupa-krem-marchewkowa [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/zupa-krem-marchewkowa[link do źródła przepisu]
 
 == Składniki
 * 1 łyżka masła

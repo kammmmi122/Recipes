@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
 
 == Składniki
 * ok. 375 g krewetek

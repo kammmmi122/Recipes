@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://madameedith.com/przepis/ragu-bolognese [link do źródła przepisu]
+* https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
 == Składniki
 

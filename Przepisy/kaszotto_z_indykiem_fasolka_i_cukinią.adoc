@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/kaszotto-z-indykiem-fasolka-i-cukinia [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/kaszotto-z-indykiem-fasolka-i-cukinia[link do źródła przepisu]
 
 == Składniki
 * 3 łyżki oliwy extra vergine

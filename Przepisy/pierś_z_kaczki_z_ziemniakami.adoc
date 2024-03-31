@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 2 piersi kaczki ze skórką (każda po ok. 200 - 250 g)

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango[link do źródła przepisu]
 
 == Składniki
 * 1 mała polędwiczka wieprzowa

@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/makaron-ze-szpinakiem [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/makaron-ze-szpinakiem[link do źródła przepisu]
 
 == Składniki
 * 150 g makaronu np. świderki, fusilli, penne

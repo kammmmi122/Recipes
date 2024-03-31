@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki [link do źródła przepisu]
+* https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
 
 == Składniki
 

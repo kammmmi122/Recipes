@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/zupa-fasolkowa [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
 
 == Składniki
 * 1 łyżka oliwy

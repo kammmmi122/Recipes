@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://www.kwestiasmaku.com/przepis/tabbouleh [link do źródła przepisu]
+* https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
 
 == Składniki
 * 35 g surowej kaszy bulgur

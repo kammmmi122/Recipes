@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* https://aniagotuje.pl/przepis/golabki-bez-zawijania [link do źródła przepisu]
+* https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
 
 == Składniki
 
