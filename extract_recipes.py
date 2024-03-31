@@ -11,7 +11,7 @@ KW_PORTION = (
     "div.field.field-name-field-ilosc-porcji.field-type-text.field-label-hidden"
 )
 
-AG_INGREDIENTS_TAG = "recipeIngredients ul"
+AG_INGREDIENTS_TAG = "#recipeIngredients ul"
 AG_RECIPE_TEXT_TAG = "p"
 AG_PORTION = "p.recipe_info"
 
