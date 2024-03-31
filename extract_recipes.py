@@ -62,6 +62,9 @@ def create_files(text, create_file):
                 f"* {ingredient}" for ingredient in list_of_ingredients
             )
 
+            # with open(f"index.adoc", "a+", encoding="utf8") as file2:
+            #     file2.write(f"1. link:Przepisy/{file}.html[{cap_title}]\n")
+
             with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
                 f.write(f"= {cap_title}\n\n")
                 f.write(
