@@ -10,6 +10,7 @@ KW_SKLADNIKI_TAG = (
 
 def get_recipe_ingredients(link):
     list_of_ingredients = []
+    print(link)
     if "kwestiasmaku" in link:
         with urlopen(link) as response:
             soup = BeautifulSoup(response, "html.parser")
@@ -56,7 +57,7 @@ def create_files(text, create_file):
             list_of_files, list_of_links, capitalize_case_name
         ):
 
-            list_of_ingredients = get_recipe_ingredients(list_of_links)
+            list_of_ingredients = get_recipe_ingredients(link)
             ingredients_text = "\n".join(
                 f"* {ingredient}" for ingredient in list_of_ingredients
             )
