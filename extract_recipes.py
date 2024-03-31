@@ -134,9 +134,9 @@ def create_files(text, create_file):
                 f.write(f"{potions_text}")
                 f.write(f"*{link}[link do źródła przepisu]\n")
                 f.write("\n== Składniki\n")
-                f.write(f"{ingredients_text}")
+                f.write(f"{ingredients_text}\n")
                 f.write("\n|\n== Przygotowanie\n")
-                f.write(f"{recipe_text}")
+                f.write(f"{recipe_text}\n")
                 f.write("\n== Zdjęcia\n|===\n")
                 print(file, "created")
 
