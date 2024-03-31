@@ -139,7 +139,6 @@ bojkot - zupa rosół
 [WEGE] 15.10 niedziela - quesadilla 4; https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html
 [WEGE] 19.10 czwartek / 20.10 piątek - leczo wegetariańskie; https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html
 [WEGE] 21.10 sobota / 22.10 niedziela / 23.10 poniedziałek - zupa buraczkowa; https://zakochanewzupach.pl/zupa-buraczkowa-ze-smietana
-22.10 niedziela - chili con carne z nachosami; https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html
 30.10 poniedziałek / 31.10 wtorek - makaron z krewetkami; https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami
 [WEGE] 02.11 czwartek / 03.11 piątek - wegeburgerki; https://www.jadlonomia.com/przepisy/najlepsze-wegeburgery-na-swiecie
 [WEGE] 08.11 środa / 09.11 czwartek - makaron z pieczonymi pomidorami; https://www.kwestiasmaku.com/przepis/makaron-z-pieczonymi-pomidorami
@@ -175,7 +174,7 @@ bojkot - zupa rosół
 03.02 sobota / 04.02 niedziela - szare kluski ze skwarkami; https://aniagotuje.pl/przepis/szare-kluski
 05.02 poniedziałek / 06.02 wtorek - sztuka mięsa z piekarnika/w garnku łee, kasza jęczmienna, i
 [WEGE] bojkot - buraki po burgundzku; https://www.jadlonomia.com/przepisy/burak-z-burgundii
-16.02 piątek / 17.02 sobota - buritto z chili con carne; https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html
+16.02 piątek / 17.02 sobota - burito z chili con carne; https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html
 [WEGE] 12.02 poniedziałek / 13.02 wtorek - francuska zupa cebulowa; https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html
 28.02 środa / 29.02 czwartek - gulasz z szynki, ziemniaki, fasolka z bułką tartą; https://aniagotuje.pl/przepis/gulasz-wieprzowy
 08.03 piątek - sałata z kurczakiem; https://aniagotuje.pl/przepis/salatka-z-kurczakiem
