@@ -13,7 +13,7 @@ KW_PORTION = (
 )
 
 AG_INGREDIENTS_TAG = "#recipeIngredients ul"
-AG_RECIPE_TEXT_TAG = "#article-content-body99561 > div > p"
+AG_RECIPE_TEXT_TAG = "div > p"
 AG_PORTION = "p.recipe_info"
 
 
@@ -112,10 +112,16 @@ def get_recipe_text(link):
             soup = BeautifulSoup(response, "html.parser")
             texts_many = soup.select(selector)
             for texts in texts_many:
-                list_of_recipe_text = [
-                    text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
-                    for text in texts.select("li")
-                ]
+                if Webpages.AG.value in link:
+                    list_of_recipe_text = [
+                        text.strip().replace("\u00a0", " ").replace("\u2013", "-")
+                        for text in texts.text.split("\n")
+                    ]
+                else:
+                    list_of_recipe_text = [
+                        text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
+                        for text in texts.select("li")
+                    ]
                 recipe_text += "\n\n".join(list_of_recipe_text)
                 recipe_text += "\n\n"
     return recipe_text
