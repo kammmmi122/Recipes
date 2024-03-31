@@ -89,7 +89,7 @@ def get_recipe_ingredients(link):
                 ingredients_text += "\n".join(
                     f"* {ingredient}" for ingredient in list_of_ingredients
                 )
-                ingredients_text+="\n"
+                ingredients_text += "\n"
     return ingredients_text
 
 
@@ -116,7 +116,8 @@ def get_recipe_text(link):
                     text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
                     for text in texts.select("li")
                 ]
-                recipe_text = "\n\n".join(list_of_recipe_text)
+                recipe_text += "\n\n".join(list_of_recipe_text)
+                recipe_text += "\n\n"
     return recipe_text
 
 
