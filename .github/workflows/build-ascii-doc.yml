@@ -30,10 +30,18 @@ jobs:
           path: |
             *.html
             *.jpg
+            Przepisy/*.jpg
+            Przepisy/*.html
             Przepisy/Przetwory/*.jpg
             Przepisy/Przetwory/*.html
             Przepisy/Desery/*.jpg
             Przepisy/Desery/*.html
             Przepisy/Dania_glowne/*.jpg
             Przepisy/Dania_glowne/*.html
+            Przepisy/Zupy/*.jpg
+            Przepisy/Zupy/*.html
+            Przepisy/Przystawki/*.jpg
+            Przepisy/Przystawki/*.html
+            Przepisy/Makarony/*.jpg
+            Przepisy/Makarony/*.html
           if-no-files-found: error
