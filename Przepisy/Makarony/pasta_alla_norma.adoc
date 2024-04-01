@@ -6,9 +6,8 @@
 |===
 |
 == Szczegóły
-
-* 4 porcji
 * czas przygotowania: 50 minut
+* 4 porcji
 * https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
 
 == Składniki
@@ -35,7 +34,6 @@ Na rozgrzane dno patelni wlewamy oliwę, dodajemy pomidory z puszki oraz płatki
 Makaron gotujemy al dente w mocno osolonej wodzie. Odcedzamy, zostawiając odrobinę wody po gotowaniu makaronu, gdyby sos był zbyt gęsty.
 
 Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy bakłażany oraz świeżą bazylię. Jeśli jest taka potrzeba, doprawiamy solą i pieprzem. Mieszamy. Na koniec dodajemy ricottę oraz starty parmezan.
-
 
 == Zdjęcia
 image::20231219_152132.jpg[width=640,height=480]
