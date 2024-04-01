@@ -27,11 +27,17 @@ ZZ_RECIPE_TEXT_TAG = " div.mg-recipe-instructions__steps-instructions.bodycopy >
 ZZ_PORTION = "div.mg-ingredients__title > div > div"
 
 
+KL_INGREDIENTS_TAG = "div.skladniki ul"
+KL_RECIPE_TEXT_TAG = " #opis > p"
+KL_PORTION = "#recipe_meta_1 > a > li"
+
+
 class Webpages(Enum):
     KW = "kwestiasmaku"
     AG = "aniagotuje"
     J = "jadlonomia"
     ZZ = "zakochanewzupach"
+    KL = "kuchnialidla"
 
 
 def get_number_of_portions(link):
@@ -45,6 +51,8 @@ def get_number_of_portions(link):
         selector = J_PORTION
     elif Webpages.ZZ.value in link:
         selector = ZZ_PORTION
+    elif Webpages.KL.value in link:
+        selector = KL_PORTION
 
     if selector:
         headers = {
@@ -74,6 +82,8 @@ def get_recipe_ingredients(link):
         selector = J_INGREDIENTS_TAG
     elif Webpages.ZZ.value in link:
         selector = ZZ_INGREDIENTS_TAG
+    elif Webpages.KL.value in link:
+        selector = KL_INGREDIENTS_TAG
 
     if selector:
         headers = {
@@ -146,6 +156,8 @@ def get_recipe_text(link):
         selector = J_RECIPE_TEXT_TAG
     elif Webpages.ZZ.value in link:
         selector = ZZ_RECIPE_TEXT_TAG
+    elif Webpages.KL.value in link:
+        selector = KL_RECIPE_TEXT_TAG
 
     if selector:
         headers = {
@@ -156,7 +168,7 @@ def get_recipe_text(link):
             soup = BeautifulSoup(response, "html.parser")
             texts_many = soup.select(selector)
             for texts in texts_many:
-                if Webpages.AG.value or Webpages.ZZ.value in link:
+                if Webpages.AG.value or Webpages.ZZ.value or Webpages.KL.value in link:
                     list_of_recipe_text = [
                         text.strip().replace("\u00a0", " ").replace("\u2013", "-")
                         for text in texts.text.split("\n")
