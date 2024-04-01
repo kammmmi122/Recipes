@@ -167,19 +167,18 @@
 
 == Sałatki
 
-1. link:Przepisy/Sałatki/sałata_z_kurczakiem.html[Sałata z kurczakiem]
-2. link:Przepisy/Sałatki/sałatka_cezar.html[Sałatka cezar]
-3. link:Przepisy/Sałatki/sałatka_grecka.html[Sałatka grecka]
-4. link:Przepisy/Sałatki/sałatka_gyros.html[Sałatka gyros]
-5. link:Przepisy/Sałatki/sałatka_japońska_z_krewetkami.html[Sałatka japońska z krewetkami]
-6. link:Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym_bez_selera.html[Sałatka warstwowa z szynką jajkiem i serem żółtym bez selera]
-7. link:Przepisy/Sałatki/sałatka_z_krewetkami.html[Sałatka z krewetkami]
-8. link:Przepisy/Sałatki/sałatka_z_kurczakiem.html[Sałatka z kurczakiem]
-9. link:Przepisy/Sałatki/sałatka_z_mango_i_avocado.html[Sałatka z mango i avocado]
-10. link:Przepisy/Sałatki/sałatka_z_rukoli_granatem_i_pomarańczą.html[Sałatka z rukoli granatem i pomarańczą]
-11. link:Przepisy/Sałatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html[Sałatka z sałatą lodową suszonymi pomidorami i fetą]
-12. link:Przepisy/Sałatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html[Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni]
-13. link:Przepisy/Sałatki/sałatka_z_łososiem_i_mozzarellą.html[Sałatka z łososiem i mozzarellą]
+1. link:Przepisy/Sałatki/sałatka_cezar.html[Sałatka cezar]
+2. link:Przepisy/Sałatki/sałatka_grecka.html[Sałatka grecka]
+3. link:Przepisy/Sałatki/sałatka_gyros.html[Sałatka gyros]
+4. link:Przepisy/Sałatki/sałatka_japońska_z_krewetkami.html[Sałatka japońska z krewetkami]
+5. link:Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html[Sałatka warstwowa z szynką jajkiem i serem żółtym]
+6. link:Przepisy/Sałatki/sałatka_z_krewetkami.html[Sałatka z krewetkami]
+7. link:Przepisy/Sałatki/sałatka_z_kurczakiem.html[Sałatka z kurczakiem]
+8. link:Przepisy/Sałatki/sałatka_z_mango_i_avocado.html[Sałatka z mango i avocado]
+9. link:Przepisy/Sałatki/sałatka_z_rukoli_granatem_i_pomarańczą.html[Sałatka z rukoli granatem i pomarańczą]
+10. link:Przepisy/Sałatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html[Sałatka z sałatą lodową suszonymi pomidorami i fetą]
+11. link:Przepisy/Sałatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html[Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni]
+12. link:Przepisy/Sałatki/sałatka_z_łososiem_i_mozzarellą.html[Sałatka z łososiem i mozzarellą]
 
 == Zupy
 

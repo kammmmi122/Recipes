@@ -166,12 +166,11 @@ nowe - Wegański tatar; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki
 
 Sałatki
 
-nowe - Sałata z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałata_z_kurczakiem.html
 nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_cezar.html
 nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_grecka.html
 nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_gyros.html
 nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_japońska_z_krewetkami.html
-nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym bez selera; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym_bez_selera.html
+nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html
 nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_krewetkami.html
 nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_kurczakiem.html
 nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_mango_i_avocado.html
