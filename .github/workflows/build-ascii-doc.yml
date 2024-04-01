@@ -40,4 +40,8 @@ jobs:
             Przepisy/Dania_glowne/*.html
             Przepisy/Zupy/*.jpg
             Przepisy/Zupy/*.html
+            Przepisy/Przystawki/*.jpg
+            Przepisy/Przystawki/*.html
+            Przepisy/Makarony/*.jpg
+            Przepisy/Makarony/*.html
           if-no-files-found: error
