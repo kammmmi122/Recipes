@@ -26,7 +26,6 @@ nowe - Dorsz w sosie curry; https://kammmmi122.github.io/Recipes/Przepisy/Dania_
 nowe - Dziwne łukaszkowe danie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dziwne_łukaszkowe_danie.html
 nowe - Falafel humus i świeże warzywa (marchewki sałata); https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa_(marchewki_sałata).html
 nowe - Fasolka po bretońsku bułki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fasolka_po_bretońsku_bułki.html
-nowe - Francuska zupa cebulowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/francuska_zupa_cebulowa.html
 nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki.html
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
 nowe - Gulasz wołowy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_wołowy.html
@@ -181,6 +180,7 @@ nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/
 
 Zupy
 
+nowe - Francuska zupa cebulowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/francuska_zupa_cebulowa.html
 nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html
 nowe - Zupa barszcz z uszkami; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_barszcz_z_uszkami.html
 nowe - Zupa brokułowa z ryżem i koperkiem; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html
