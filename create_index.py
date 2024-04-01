@@ -20,7 +20,7 @@ def create_keep_note():
 
                 with open(f"keep_note.txt", "a+", encoding="utf8") as file:
 
-                    file.write(f"nowe - {title}; {link} \n")
+                    file.write(f"nowe - {title}; {link}\n")
 
 
 def create_index_adoc():
