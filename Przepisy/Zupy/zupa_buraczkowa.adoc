@@ -6,13 +6,51 @@
 |===
 |
 == Szczegóły
+* 4
+							porcje
 * https://zakochanewzupach.pl/zupa-buraczkowa-ze-smietana[link do źródła przepisu]
 
 == Składniki
+* ingredient_quantity recipe ingredient
+* 6 buraki
+* 4 ziemniaki
+* 1 marchewka
+* 1 pietruszka
+* 1 kawałek kawałek selera
+* 1 kawałek por
+* 2 ząbków czosnek w łupinkach
+* 1 gałązka lubczyk
+* 1 gałązka gałązka selera korzeniowego
+* 3 gałązek natka pietruszki
+* 1 l woda
+* 3 łyżek bulion drobiowy w słoiku winiary
+* 4 łyżek śmietana 12% lub 18%
+* 1 listek laurowy
+* 3 kulek ziele angielskie
+* 1 szczypta sól morska
+* 1 szczypta kwasek cytrynowy spożywczy winiary
+* 1 szczypta cukier do smaku
+* trochę natka pietruszki do posypania zupy
 
 
 |
 == Przygotowanie
+
+Buraczki myjemy, obieramy, kroimy w kostkę, wrzucamy na gotujący się wywar.
+
+Marchewkę, pietruszkę i seler myjemy, obieramy, kroimy w kostkę, oddajemy do garnka z buraczkami.
+
+Dodajemy do garnka z zupą pokrojone w kostkę ziemniaki, ząbki czosnku w łupinkach oraz świeże zioła i por związane nicią przeznaczoną do celów kulinarnych (zioła można też związać liściem pora).
+
+Doprawiamy zupę solą, dodajemy listek laurowy, ziele angielskie. Gotujemy zupę do miękkości warzyw.
+
+Wyciągamy z zupy zioła, ząbki czosnku, ziele angielskie i listek laurowy.
+
+Ugotowaną zupę buraczkową zakwaszamy odrobiną kwasku cytrynowego, można też doprawić zupę cukrem, gdyby buraczki były mało słodkie.
+
+Śmietanę hartujemy odrobiną gorącej zupy, dodajemy do garnka, mieszamy.
+
+Zupę buraczkową podajemy posypaną świeżo posiekaną natką pietruszki.
 
 
 == Zdjęcia

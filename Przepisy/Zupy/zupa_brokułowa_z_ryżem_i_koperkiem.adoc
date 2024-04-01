@@ -6,13 +6,39 @@
 |===
 |
 == Szczegóły
+* 4
+							porcje
 * https://zakochanewzupach.pl/zupa-brokulowa-z-ryzem-i-koperkiem[link do źródła przepisu]
 
 == Składniki
+* ingredient_quantity recipe ingredient
+* 0.5 brokuł świeży
+* 1 marchewka
+* 1 pietruszka
+* 1 kawałek seler
+* 1 kawałek por
+* 1 kostka rosół drobiowy winiary
+* 1 l woda
+* 50 g ryż jaśminowy
+* 1 łyżka masło
+* 1 pęczek koperek
+* 0.25 szklanka śmietana
 
 
 |
 == Przygotowanie
+
+Marchewkę, pietruszkę i seler ścieramy na tarce o dużych oczkach, por kroimy w cienkie plasterki i siekamy.
+
+Podduszamy warzywa ma maśle, dorzucając dwie gałązki koperku.
+
+Dodajemy 1 l wody, zagotowujemy.
+
+Dodajemy przepłukany na sicie ryż, ponownie zagotowujemy, dodajemy kostkę rosołu drobiowego WINIARY, brokuła podzielonego na małe różyczki i gotujemy 10 minut. Pod koniec gotowania dodajemy połowę posiekanego koperku.
+
+Zestawiamy garnek z zupą z kuchenki, odstawiamy pod pokrywką na 10 minut.
+
+Zupę brokułową z ryżem zabielamy śmietaną, podajemy z koperkiem.
 
 
 == Zdjęcia

@@ -22,10 +22,16 @@ J_RECIPE_TEXT_TAG = "#RecipeCard > div.hyphenate"
 J_PORTION = "#RecipeCard > ul"
 
 
+ZZ_INGREDIENTS_TAG = "div.mg-ingredients__table"
+ZZ_RECIPE_TEXT_TAG = " div.mg-recipe-instructions__steps-instructions.bodycopy > span"
+ZZ_PORTION = "div.mg-ingredients__title > div > div"
+
+
 class Webpages(Enum):
     KW = "kwestiasmaku"
     AG = "aniagotuje"
     J = "jadlonomia"
+    ZZ = "zakochanewzupach"
 
 
 def get_number_of_portions(link):
@@ -37,6 +43,8 @@ def get_number_of_portions(link):
         selector = AG_PORTION
     elif Webpages.J.value in link:
         selector = J_PORTION
+    elif Webpages.ZZ.value in link:
+        selector = ZZ_PORTION
 
     if selector:
         headers = {
@@ -64,6 +72,8 @@ def get_recipe_ingredients(link):
         selector = AG_INGREDIENTS_TAG
     elif Webpages.J.value in link:
         selector = J_INGREDIENTS_TAG
+    elif Webpages.ZZ.value in link:
+        selector = ZZ_INGREDIENTS_TAG
 
     if selector:
         headers = {
@@ -79,6 +89,38 @@ def get_recipe_ingredients(link):
                         ingredient.strip().replace("\u00a0", " ").replace("\u2013", "-")
                         for ingredient in ingredients.text.split("\n")
                     ]
+                elif Webpages.ZZ.value in link:
+                    list_of_ingredients = []
+
+                    list_of_ingredients_name = ingredients.select(
+                        "div.mg-span.recipe-ingredient-name"
+                    )
+                    list_of_ingredients_units = ingredients.select(
+                        "div.mg-span.recipe-ingredient-unit"
+                    )
+                    for unit, name in zip(
+                        list_of_ingredients_units, list_of_ingredients_name
+                    ):
+                        unit_text = (
+                            unit.text.replace("\u00a0", " ")
+                            .replace("\u2013", "-")
+                            .replace("\t", "")
+                            .strip()
+                            .lower()
+                            .split("\n")
+                        )
+                        unit_text = "".join(unit_text)
+                        name_text = (
+                            name.text.replace("\u00a0", " ")
+                            .replace("\u2013", "-")
+                            .replace("\t", "")
+                            .strip()
+                            .lower()
+                            .split("\n")
+                        )
+                        name_text = "".join(name_text)
+                        list_of_ingredients.append(unit_text + " " + name_text)
+
                 else:
                     list_of_ingredients = [
                         ingredient.text.strip()
@@ -102,6 +144,8 @@ def get_recipe_text(link):
         selector = AG_RECIPE_TEXT_TAG
     elif Webpages.J.value in link:
         selector = J_RECIPE_TEXT_TAG
+    elif Webpages.ZZ.value in link:
+        selector = ZZ_RECIPE_TEXT_TAG
 
     if selector:
         headers = {
@@ -112,7 +156,7 @@ def get_recipe_text(link):
             soup = BeautifulSoup(response, "html.parser")
             texts_many = soup.select(selector)
             for texts in texts_many:
-                if Webpages.AG.value in link:
+                if Webpages.AG.value or Webpages.ZZ.value in link:
                     list_of_recipe_text = [
                         text.strip().replace("\u00a0", " ").replace("\u2013", "-")
                         for text in texts.text.split("\n")
@@ -122,8 +166,7 @@ def get_recipe_text(link):
                         text.text.strip().replace("\u00a0", " ").replace("\u2013", "-")
                         for text in texts.select("li")
                     ]
-                recipe_text += "\n\n".join(list_of_recipe_text)
-                recipe_text += "\n\n"
+                recipe_text += "\n".join(list_of_recipe_text)
     return recipe_text
 
 

@@ -6,13 +6,40 @@
 |===
 |
 == Szczegóły
+* 4
+							porcje
 * https://zakochanewzupach.pl/zupa-fasolowa-tradycyjna-z-boczkiem-i-kielbasa[link do źródła przepisu]
 
 == Składniki
+* ingredient_quantity recipe ingredient
+* 1 puszka biała fasola
+* 1 opakowanie zupa fasolowa nasza specjalność winiary
+* 3 ziemniaki
+* 1 mała marchewka
+* 1 pietruszka
+* 1 kawałek seler
+* 1 łyżka majeranek
+* 1 szczypta sól do smaku
+* 1 szczypta pieprz do smaku
+* 10 dag boczek wędzony
+* 10 dag kiełbaski
+* 1 łyżka świeżo posiekana natka pietruszki
 
 
 |
 == Przygotowanie
+
+Ziemniaki, marchewkę, pietruszkę i kawałek selera obieramy. Ziemniaki kroimy w kostkę, pozostałe warzywa ścieramy na tarce o dużych oczkach.
+
+Tak przygotowane warzywa przekładamy do garnka, zalewamy 0,7 l wody, gotujemy niecałe 10 minut.
+
+Zawartość opakowania z zupą fasolową rozprowadzamy w szklance zimnej wody, dodajemy do garnka z warzywami, gotujemy 7 minut, od czasu do czasu mieszając.
+
+Na suchej patelni lekko rumienimy pokrojony w kosteczkę boczek i kiełbaskę.
+
+Do zupy dodajemy fasolkę z puszki, łyżkę majeranku i podsmażony z kiełbasą boczek. Chwilę gotujemy, zestawiamy z kuchenki. W razie konieczności doprawiamy solą i pieprzem.
+
+Zupę podajemy ze świeżo posiekaną natką pietruszki.
 
 
 == Zdjęcia

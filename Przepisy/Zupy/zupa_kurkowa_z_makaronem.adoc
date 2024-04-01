@@ -6,13 +6,38 @@
 |===
 |
 == Szczegóły
+* 2
+							porcje
 * https://zakochanewzupach.pl/zupa-kurkowa-z-makaronem[link do źródła przepisu]
 
 == Składniki
+* ingredient_quantity recipe ingredient
+* 30 dag świeże kurki
+* 2 cebula
+* 1 ząbek czosnek
+* 0.5 kg woda lub wywar warzywny
+* 0.25 szklanka słodka śmietanka
+* 10 dag ulubiony makaron
+* 1 łyżka masło
+* 2 ziarenka ziela angielskiego
+* 1 liść laurowy
+* 1 szczypta kurkuma
+* 4 gałązek tymianek
+* 1 szczypta sól morska i pieprz czarny do smaku
 
 
 |
 == Przygotowanie
+
+Kurki dokładnie oczyszczamy, większe okazy kroimy w kawałki, mniejsze pozostawiamy w całości.
+
+Cebule kroimy w drobną kostkę, oprószamy solą, podduszamy na maśle z dodatkiem liścia laurowego i ziela angielskiego.
+
+Kiedy cebula się zeszkli, dodajemy posiekany czosnek, a po chwili, gdy uwolni swój aromat, dodajemy kurki i gałązkę tymianku. Dusimy, aż odparuje woda z grzybów.
+
+Podlewamy kurki wrzącą wodą lub wywarem, dodajemy makaron, szczyptę soli i gotujemy do jego miękkości.
+
+Zabielamy zupę śmietanką. Na talerzach doprawiamy zupę kurkową z makaronem świeżo mielonym pieprzem i oprószamy listkami tymianku.
 
 
 == Zdjęcia
