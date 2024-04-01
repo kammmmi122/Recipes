@@ -37,7 +37,7 @@
 30. link:Przepisy/Dania_glowne/kaszotto_z_grzybami_leśnymi.html[Kaszotto z grzybami leśnymi]
 31. link:Przepisy/Dania_glowne/kaszotto_z_indykiem_fasolką_i_cukinią.html[Kaszotto z indykiem fasolką i cukinią]
 32. link:Przepisy/Dania_glowne/kaszotto_z_kurkami.html[Kaszotto z kurkami]
-33. link:Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym_ziemniaki_i.html[Klopsiki z pieczarkami w sosie pomidorowym ziemniaki i]
+33. link:Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym.html[Klopsiki z pieczarkami w sosie pomidorowym]
 34. link:Przepisy/Dania_glowne/klopsy.html[Klopsy]
 35. link:Przepisy/Dania_glowne/kopytka.html[Kopytka]
 36. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku]

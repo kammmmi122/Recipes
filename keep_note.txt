@@ -36,7 +36,7 @@ nowe - Karkówka smażona z przyprawami; https://kammmmi122.github.io/Recipes/Pr
 nowe - Kaszotto z grzybami leśnymi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_grzybami_leśnymi.html
 nowe - Kaszotto z indykiem fasolką i cukinią; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_indykiem_fasolką_i_cukinią.html
 nowe - Kaszotto z kurkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_kurkami.html
-nowe - Klopsiki z pieczarkami w sosie pomidorowym ziemniaki i; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym_ziemniaki_i.html
+nowe - Klopsiki z pieczarkami w sosie pomidorowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym.html
 nowe - Klopsy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/klopsy.html
 nowe - Kopytka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kopytka.html
 nowe - Krewetki po luizjańsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/krewetki_po_luizjańsku.html
