@@ -51,7 +51,7 @@ nowe - Lasagne bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Leczo; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo.html
 nowe - Leczo wegetariańskie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo_wegetariańskie.html
 nowe - Makaronowa sałatka warstwowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html
-nowe - Mielone kalafiorowe ziemniaki buraczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/mielone_kalafiorowe_ziemniaki_buraczki.html
+nowe - Mielone kalafiorowe; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/mielone_kalafiorowe.html
 nowe - Naleśniki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/naleśniki_z_kurczakiem.html
 nowe - Nugetsy z kurczaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/nugetsy_z_kurczaka.html
 nowe - Pad gra prow z wołowiną; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pad_gra_prow_z_wołowiną.html

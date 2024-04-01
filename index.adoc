@@ -52,7 +52,7 @@
 45. link:Przepisy/Dania_glowne/leczo.html[Leczo]
 46. link:Przepisy/Dania_glowne/leczo_wegetariańskie.html[Leczo wegetariańskie]
 47. link:Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html[Makaronowa sałatka warstwowa]
-48. link:Przepisy/Dania_glowne/mielone_kalafiorowe_ziemniaki_buraczki.html[Mielone kalafiorowe ziemniaki buraczki]
+48. link:Przepisy/Dania_glowne/mielone_kalafiorowe.html[Mielone kalafiorowe]
 49. link:Przepisy/Dania_glowne/naleśniki_z_kurczakiem.html[Naleśniki z kurczakiem]
 50. link:Przepisy/Dania_glowne/nugetsy_z_kurczaka.html[Nugetsy z kurczaka]
 51. link:Przepisy/Dania_glowne/pad_gra_prow_z_wołowiną.html[Pad gra prow z wołowiną]
