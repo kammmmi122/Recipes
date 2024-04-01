@@ -1,4 +1,4 @@
-= Potrawka z udka kurczaka z warzywami, ryż
+= Potrawka z udka kurczaka z warzywami
 
 [cols=".<a,.<a"]
 [frame=none]

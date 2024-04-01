@@ -70,7 +70,7 @@ nowe - Pierś z kaczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glow
 nowe - Pierś z kaczki z sosem pomarańczowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html
 nowe - Placek po węgiersku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placek_po_węgiersku.html
 nowe - Placki z cukinii; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placki_z_cukinii.html
-nowe - Potrawka z udka kurczaka z warzywami ryż; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami_ryż.html
+nowe - Potrawka z udka kurczaka z warzywami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html
 nowe - Pstrąg pieczony w całości; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html
 nowe - Pulpety w sosie koperkowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pulpety_w_sosie_koperkowym.html
 nowe - Pęczotto z burakami i kozim serem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html

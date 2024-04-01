@@ -71,7 +71,7 @@
 64. link:Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html[Pierś z kaczki z sosem pomarańczowym]
 65. link:Przepisy/Dania_glowne/placek_po_węgiersku.html[Placek po węgiersku]
 66. link:Przepisy/Dania_glowne/placki_z_cukinii.html[Placki z cukinii]
-67. link:Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami_ryż.html[Potrawka z udka kurczaka z warzywami ryż]
+67. link:Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html[Potrawka z udka kurczaka z warzywami]
 68. link:Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html[Pstrąg pieczony w całości]
 69. link:Przepisy/Dania_glowne/pulpety_w_sosie_koperkowym.html[Pulpety w sosie koperkowym]
 70. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem]
