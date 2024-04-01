@@ -11,7 +11,6 @@
 * https://zakochanewzupach.pl/zupa-kurkowa-z-makaronem[link do źródła przepisu]
 
 == Składniki
-* ingredient_quantity recipe ingredient
 * 30 dag świeże kurki
 * 2 cebula
 * 1 ząbek czosnek
