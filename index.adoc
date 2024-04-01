@@ -3,7 +3,7 @@
 == Przepisy
 
 
-== Dania_glowne
+== Dania glowne
 
 1. link:Przepisy/Dania_glowne/biała_ryba_na_parze_ziemniaki_i.html[Biała ryba na parze ziemniaki i]
 2. link:Przepisy/Dania_glowne/bigos.html[Bigos]

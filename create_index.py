@@ -30,7 +30,7 @@ def create_index_adoc():
 
     for path, subdirs, files in os.walk("."):
         index = 0
-        folder_name = path.split("\\")[-1]
+        folder_name = path.split("\\")[-1].replace("_", " ")
         if ".\\" in path and ".git" not in path:
             with open(f"index.adoc", "a+", encoding="utf8") as file:
                 file.write(f"\n== {folder_name}\n\n")
