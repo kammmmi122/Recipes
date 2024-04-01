@@ -6,27 +6,25 @@
 |===
 |
 == Szczegóły
-* 4
-							porcje
+* czas przygotowania: 1 h 21 min
+* 4 porcje
 * https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
 == Składniki
-* ingredient_quantity recipe ingredient
-* 2 l woda
+* 2 l wody
 * 2 ziemniaki
-* 60 g marchewka
-* 1 kawałek por
-* 1 kawałek seler
+* 60 g marchewki
+* 1 kawałek pora
+* 1 kawałek selera
 * 1 pietruszka
-* 1 gałązka świeży lubczyk lub łyżeczka suszonego
-* 1 gałązka seler bulwiasty
-* 2 szklanek żółty groch łuskany połówki
-* 1 szczypta sól morska
-* trochę pieprz czarny ziarnisty
-* 1 łyżka oliwa
-* 2 łyżek suszony majeranek
-* 1 pęczek natka pietruszki
-
+* 1 gałązka świeżego lubczyk lub łyżeczka suszonego
+* 1 gałązka selera bulwiastego
+* 2 szklanki żółtego grochu łuskanego połówki
+* 1 szczypta soli morskiej
+* trochę pieprzu czarnego ziarnistego
+* 1 łyżka oliwy
+* 2 łyżek suszonego majeranku
+* 1 pęczek natki pietruszki
 
 |
 == Przygotowanie
@@ -48,7 +46,6 @@ Zdejmuję patelnię z płyty, dodaję pora z czosnkiem do garnka z zupą grochow
 Kiedy minie czas gotowania zupy, sprawdzam, czy groch na pewno jest miękki, dodaję majeranek i doprawiam świeżo zmielonym pieprzem.
 
 Zupę podaję z natką pietruszki.
-
 
 == Zdjęcia
 |===

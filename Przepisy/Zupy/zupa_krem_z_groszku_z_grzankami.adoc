@@ -6,12 +6,11 @@
 |===
 |
 == Szczegóły
-* 5
-							porcji
+* czas przygotowania: 32 min
+* 5 porcji
 * https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
 
 == Składniki
-* ingredient_quantity recipe ingredient
 * 800 g mrożony zielony groszek
 * 2 cebula duża
 * 2 łyżek oliwa z czosnkiem
@@ -25,7 +24,6 @@
 * 1 bagietka
 * trochę pasta z oliwek
 * trochę kiełki do dekoracji
-
 
 |
 == Przygotowanie
@@ -45,7 +43,6 @@ Zupę zabielamy śmietanką (część zostawiamy do dekoracji) i przecieramy prz
 Pieczywo kroimy na małe porcje i wkładamy do tostera (najlepiej jeśli będzie tylko delikatnie przypieczone).
 
 Każdą kromkę smarujemy pastą z oliwek i dekorujemy kiełkami.
-
 
 == Zdjęcia
 |===
