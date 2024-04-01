@@ -6,6 +6,10 @@ def create_keep_note():
         pass
 
     for path, subdirs, files in os.walk("."):
+        folder_name = path.split("\\")[-1]
+        if ".\\" in path and ".git" not in path:
+            with open(f"keep_note.txt", "a+", encoding="utf8") as file:
+                file.write(f"\n{folder_name}\n\n")
         for name in files:
             if name.endswith("adoc") and name != "index.adoc":
                 path_to_html = os.path.join(

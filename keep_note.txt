@@ -1,3 +1,6 @@
+
+Przepisy
+
 nowe - Biała ryba na parze ziemniaki i; https://kammmmi122.github.io/Recipes/Przepisy/biała_ryba_na_parze_ziemniaki_i.html 
 nowe - Bucatini alla amatriciana; https://kammmmi122.github.io/Recipes/Przepisy/bucatini_alla_amatriciana.html 
 nowe - Burgerki; https://kammmmi122.github.io/Recipes/Przepisy/burgerki.html 
@@ -146,6 +149,9 @@ nowe - Łatwe kimchi; https://kammmmi122.github.io/Recipes/Przepisy/łatwe_kimch
 nowe - Łosoś z sosem koperkowym; https://kammmmi122.github.io/Recipes/Przepisy/łosoś_z_sosem_koperkowym.html 
 nowe - Łukaszkowy ramen; https://kammmmi122.github.io/Recipes/Przepisy/łukaszkowy_ramen.html 
 nowe - Żeberka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/żeberka_w_miodzie.html 
+
+Dania_glowne
+
 nowe - Bigos; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/bigos.html 
 nowe - Buraki po burgundzku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/buraki_po_burgundzku.html 
 nowe - Burito z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/burito_z_chili_con_carne.html 
@@ -157,10 +163,19 @@ nowe - Cukinie z chilli con carne; https://kammmmi122.github.io/Recipes/Przepisy
 nowe - Curry z kalafiora; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/curry_z_kalafiora.html 
 nowe - Dal z soczewicy z sri lanki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html 
 nowe - Pasta alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pasta_alla_norma.html 
+
+Desery
+
 nowe - Kokosanka; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosanka.html 
 nowe - Pierniczki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/pierniczki.html 
 nowe - Sernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik.html 
+
+Przetwory
+
 nowe - Kompot czeresniowy; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/kompot_czeresniowy.html 
+
+Zupy
+
 nowe - Zupa barszcz z uszkami; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_barszcz_z_uszkami.html 
 nowe - Zupa brokułowa z ryżem i koperkiem; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html 
 nowe - Zupa buraczkowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_buraczkowa.html 
