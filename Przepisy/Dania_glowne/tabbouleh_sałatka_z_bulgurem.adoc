@@ -1,4 +1,4 @@
-= Sztuka mięsa łe, tabbouleh, sałatka z bulgurem
+= Tabbouleh, sałatka z bulgurem
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,6 +6,7 @@
 |===
 |
 == Szczegóły
+* czas przygotowania: 20 min
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
 

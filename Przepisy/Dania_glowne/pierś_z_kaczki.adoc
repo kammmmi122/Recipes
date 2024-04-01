@@ -1,4 +1,4 @@
-= Pierś z kaczki z ziemniakami
+= Pierś z kaczki
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,12 +6,13 @@
 |===
 |
 == Szczegóły
+* czas przygotowania: 20 min
 * 2 porcje
 * https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 2 piersi kaczki ze skórką (każda po ok. 200 - 250 g)
-
+ (lub - na szybko - gotowy dżem żurawinowy lub borówkowy)
 
 |
 == Przygotowanie

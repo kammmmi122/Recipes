@@ -1,4 +1,4 @@
-= Gulasz z szynki, ziemniaki, fasolka z bułką tartą
+= Gulasz z szynki
 
 [cols=".<a,.<a"]
 [frame=none]

@@ -6,14 +6,12 @@
 |===
 |
 == Szczegóły
-
 * 8 porcji
 * czas przygotowania: 30 minut
 * czas gotowania: 3 godziny
 * https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
 
 == Składniki
-
 * 40 g suszonych grzybów
 * 200 g boczku
 * 400 g mięsa gulaszowego wieprzowego
@@ -48,7 +46,6 @@ Ciągle gotując bigos dodać grzyby, odciśniętą kapustę kiszoną, posiekane
 Cebulę pokroić w kostkę, następnie zeszklić ją na patelni na 1 łyżce oleju. Przełożyć do garnka z mięsem. Kiełbasę obrać, pokroić w kostkę lub plasterki i podsmażyć na patelni, dodać do bigosu.
 
 Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzinę. Czasem zamieszać i sprawdzić czy bigos nie przywiera do dna. Doprawić pieprzem oraz w razie potrzeby solą.
-
 
 == Zdjęcia
 image::20231105_103826.jpg[width=640,height=480]
