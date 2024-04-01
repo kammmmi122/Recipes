@@ -6,12 +6,10 @@ Dania_glowne
 
 nowe - Biała ryba na parze ziemniaki i; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/biała_ryba_na_parze_ziemniaki_i.html
 nowe - Bigos; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/bigos.html
-nowe - Bucatini alla amatriciana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/bucatini_alla_amatriciana.html
 nowe - Buraki po burgundzku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/buraki_po_burgundzku.html
 nowe - Burgerki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/burgerki.html
 nowe - Burito z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/burito_z_chili_con_carne.html
 nowe - Butter chicken; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/butter_chicken.html
-nowe - Cannelloni; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/cannelloni.html
 nowe - Chakalaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/chakalaka.html
 nowe - Ciecierzyca po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html
 nowe - Cukinia faszerowana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/cukinia_faszerowana.html
@@ -33,7 +31,6 @@ nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/go�
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
 nowe - Gulasz wołowy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_wołowy.html
 nowe - Gulasz z szynki ziemniaki fasolka z bułką tartą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_z_szynki_ziemniaki_fasolka_z_bułką_tartą.html
-nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/hiszpańska_zupa_z_ciecierzycy.html
 nowe - Hotdogi z warzywkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/hotdogi_z_warzywkami.html
 nowe - Kaczka z jabłkami żurawiną i rozmarynem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaczka_z_jabłkami_żurawiną_i_rozmarynem.html
 nowe - Karkówka smażona z przyprawami ziemniaki opiekane; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/karkówka_smażona_z_przyprawami_ziemniaki_opiekane.html
@@ -55,30 +52,15 @@ nowe - Lasagne bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Leczo; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo.html
 nowe - Leczo wegetariańskie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo_wegetariańskie.html
 nowe - Makaronowa sałatka warstwowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html
-nowe - Makaron aglio olio z pomidorkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_aglio_olio_z_pomidorkami.html
-nowe - Makaron carbonara; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_carbonara.html
-nowe - Makaron chiński z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_chiński_z_krewetkami.html
-nowe - Makaron w sosie słodko kwaśnym (uncle ben's); https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_w_sosie_słodko_kwaśnym_(uncle_ben's).html
-nowe - Makaron zapiekany z boczkiem i cukinią; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_zapiekany_z_boczkiem_i_cukinią.html
-nowe - Makaron ze szpinakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_ze_szpinakiem.html
-nowe - Makaron z brokułami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_z_brokułami.html
-nowe - Makaron z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_z_krewetkami.html
-nowe - Makaron z pesto; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_z_pesto.html
-nowe - Makaron z pieczonymi pomidorami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaron_z_pieczonymi_pomidorami.html
 nowe - Mielone kalafiorowe ziemniaki buraczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/mielone_kalafiorowe_ziemniaki_buraczki.html
 nowe - Naleśniki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/naleśniki_z_kurczakiem.html
-nowe - Noodle z krewetkami po koreańsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/noodle_z_krewetkami_po_koreańsku.html
-nowe - Noodle z mielonym mięsem drobiowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/noodle_z_mielonym_mięsem_drobiowym.html
 nowe - Nugetsy z kurczaka frytki sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/nugetsy_z_kurczaka_frytki_sałatka_grecka.html
 nowe - Pad gra prow z wołowiną; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pad_gra_prow_z_wołowiną.html
 nowe - Paella; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paella.html
 nowe - Paella z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paella_z_kurczakiem.html
 nowe - Paluszki rybne frytki sałatka lodowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paluszki_rybne_frytki_sałatka_lodowa.html
 nowe - Papryka faszerowana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/papryka_faszerowana.html
-nowe - Pasta alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pasta_alla_norma.html
 nowe - Pałki z kurczaka pieczone w piekarniku ziemniaki i; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pałki_z_kurczaka_pieczone_w_piekarniku_ziemniaki_i.html
-nowe - Penne alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/penne_alla_norma.html
-nowe - Pesto alla trapanese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pesto_alla_trapanese.html
 nowe - Pieczone udko gęsi   kaczki ziemniaki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pieczone_udko_gęsi___kaczki_ziemniaki.html
 nowe - Pieczony kalafior z ciecierzycą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html
 nowe - Pierogi gyoza; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_gyoza.html
@@ -100,7 +82,6 @@ nowe - Quesadilla 4; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/
 nowe - Quesadilla z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/quesadilla_z_chili_con_carne.html
 nowe - Quinotto z czerwoną fasolą i papryką; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html
 nowe - Racuchy z jabłkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/racuchy_z_jabłkami.html
-nowe - Ragu alla bolonese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ragu_alla_bolonese.html
 nowe - Ramen shoyu; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ramen_shoyu.html
 nowe - Ratatuj; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ratatuj.html
 nowe - Risotto primavera; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/risotto_primavera.html
@@ -112,27 +93,12 @@ nowe - Ryba z porami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne
 nowe - Ryż z krewetkami na ostro; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html
 nowe - Ryż z warzywami chińskimi i kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html
 nowe - Sajgonki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sajgonki.html
-nowe - Sałata z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałata_z_kurczakiem.html
-nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_cezar.html
-nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_grecka.html
-nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_gyros.html
-nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_japońska_z_krewetkami.html
-nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym bez selera; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym_bez_selera.html
-nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_krewetkami.html
-nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_kurczakiem.html
-nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_mango_i_avocado.html
-nowe - Sałatka z rukoli granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_rukoli_granatem_i_pomarańczą.html
-nowe - Sałatka z sałatą lodową suszonymi pomidorami i fetą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html
-nowe - Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html
-nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sałatka_z_łososiem_i_mozzarellą.html
 nowe - Schabowy własnym w sosie z cebulą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html
 nowe - Schabowy ze schabu ziemniaki mizeria; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_ze_schabu_ziemniaki_mizeria.html
 nowe - Schabowy z kurczaka ziemniaki surówka wiosenna mizeria; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_z_kurczaka_ziemniaki_surówka_wiosenna_mizeria.html
 nowe - Schab nadziewany odtłuszczoną mozarellą i pieczarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schab_nadziewany_odtłuszczoną_mozarellą_i_pieczarkami.html
 nowe - Seleryba ziemniaki i; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/seleryba_ziemniaki_i.html
 nowe - Skrzydełka w miodzie pieczone w piekarniku frytki ogórki kiszone; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/skrzydełka_w_miodzie_pieczone_w_piekarniku_frytki_ogórki_kiszone.html
-nowe - Spaghetti bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/spaghetti_bolognese.html
-nowe - Spaghetti napoli; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/spaghetti_napoli.html
 nowe - Stek z sosem béarnaise i szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html
 nowe - Szare kluski ze skwarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html
 nowe - Szaszłyki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html
@@ -142,7 +108,6 @@ nowe - Szwedzkie klopsiki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_g
 nowe - Tortilki ser bekon ala kfc; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tortilki_ser_bekon_ala_kfc.html
 nowe - Tortille; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tortille.html
 nowe - Warzywka z piekarnika; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/warzywka_z_piekarnika.html
-nowe - Wegański tatar; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wegański_tatar.html
 nowe - Wegeburgerki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wegeburgerki.html
 nowe - Wieprzowina po chińsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wieprzowina_po_chińsku.html
 nowe - Wieprzowina po chińsku z mango; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html
@@ -168,6 +133,28 @@ nowe - Pierniczki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/piernicz
 nowe - Sernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik.html
 nowe - Sos waniliowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sos_waniliowy.html
 
+Makarony
+
+nowe - Bucatini alla amatriciana; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/bucatini_alla_amatriciana.html
+nowe - Cannelloni; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/cannelloni.html
+nowe - Makaron aglio olio z pomidorkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_aglio_olio_z_pomidorkami.html
+nowe - Makaron carbonara; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_carbonara.html
+nowe - Makaron chiński z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_chiński_z_krewetkami.html
+nowe - Makaron w sosie słodko kwaśnym (uncle ben's); https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_w_sosie_słodko_kwaśnym_(uncle_ben's).html
+nowe - Makaron zapiekany z boczkiem i cukinią; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_zapiekany_z_boczkiem_i_cukinią.html
+nowe - Makaron ze szpinakiem; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_ze_szpinakiem.html
+nowe - Makaron z brokułami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_brokułami.html
+nowe - Makaron z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_krewetkami.html
+nowe - Makaron z pesto; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_pesto.html
+nowe - Makaron z pieczonymi pomidorami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html
+nowe - Noodle z krewetkami po koreańsku; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html
+nowe - Noodle z mielonym mięsem drobiowym; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html
+nowe - Pasta alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/pasta_alla_norma.html
+nowe - Pesto alla trapanese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/pesto_alla_trapanese.html
+nowe - Ragu alla bolonese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/ragu_alla_bolonese.html
+nowe - Spaghetti bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_bolognese.html
+nowe - Spaghetti napoli; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_napoli.html
+
 Przetwory
 
 nowe - Kompot czeresniowy; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/kompot_czeresniowy.html
@@ -175,9 +162,27 @@ nowe - Kompot czeresniowy; https://kammmmi122.github.io/Recipes/Przepisy/Przetwo
 Przystawki
 
 nowe - Tatar ze śledzia; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/tatar_ze_śledzia.html
+nowe - Wegański tatar; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/wegański_tatar.html
+
+Sałatki
+
+nowe - Sałata z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałata_z_kurczakiem.html
+nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_cezar.html
+nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_grecka.html
+nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_gyros.html
+nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_japońska_z_krewetkami.html
+nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym bez selera; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym_bez_selera.html
+nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_krewetkami.html
+nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_kurczakiem.html
+nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_mango_i_avocado.html
+nowe - Sałatka z rukoli granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_rukoli_granatem_i_pomarańczą.html
+nowe - Sałatka z sałatą lodową suszonymi pomidorami i fetą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html
+nowe - Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html
+nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_łososiem_i_mozzarellą.html
 
 Zupy
 
+nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html
 nowe - Zupa barszcz z uszkami; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_barszcz_z_uszkami.html
 nowe - Zupa brokułowa z ryżem i koperkiem; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html
 nowe - Zupa buraczkowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_buraczkowa.html
