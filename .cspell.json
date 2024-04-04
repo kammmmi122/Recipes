@@ -16,7 +16,10 @@
     "venv",
     "stefanzweifel",
     "asciidoctor",
-    "adoc"
+    "adoc",
+    "docinfo",
+    "glowne"
+
   ],
   "version": "0.2"
 }
