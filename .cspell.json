@@ -18,7 +18,8 @@
     "asciidoctor",
     "adoc",
     "docinfo",
-    "glowne"
+    "glowne",
+    "skladniki"
 
   ],
   "version": "0.2"
