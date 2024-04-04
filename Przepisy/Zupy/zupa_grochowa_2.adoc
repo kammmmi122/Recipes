@@ -47,5 +47,7 @@ Kiedy minie czas gotowania zupy, sprawdzam, czy groch na pewno jest miękki, dod
 
 Zupę podaję z natką pietruszki.
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia

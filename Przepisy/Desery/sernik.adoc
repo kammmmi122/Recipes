@@ -33,8 +33,9 @@ Spód:
 |
 == Przygotowanie
 
+|===
 
+[.text-center]
 == Zdjęcia
 image::20231006_223932.jpg[width=640,height=480]
 image::20231014_215500.jpg[width=480,height=640]
-|===

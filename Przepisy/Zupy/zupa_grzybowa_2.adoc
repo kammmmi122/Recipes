@@ -37,5 +37,7 @@ Pod koniec dodać natkę pietruszki. Doprawić śmietaną, solą i pieprzem do s
 
 Podawać z ugotowanym makaronem.
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia
