@@ -40,8 +40,10 @@ Ubić na sztywno 6 białek. Dodać 3/4 szklanki cukru i kontynuować ubijanie. D
 
 Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół.
 
+|===
+
+[.text-center]
 == Zdjęcia
 image::20231209_214411.jpg[width=640,height=480]
 image::20231210_184314.jpg[width=480,height=640]
 image::20231210_184321.jpg[width=480,height=640]
-|===

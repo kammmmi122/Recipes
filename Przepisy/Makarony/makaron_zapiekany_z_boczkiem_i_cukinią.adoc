@@ -36,5 +36,7 @@ Opcjonalnie danie można dodatkowo zapiec w piekarniku. W tym celu należy je pr
 
 Jeśli dania nie zapiekamy, możemy posypać je serem już po nałożeniu na talerze.
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia

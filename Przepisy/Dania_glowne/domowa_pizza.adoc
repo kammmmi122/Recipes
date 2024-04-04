@@ -33,5 +33,7 @@ Piec około 15 minut w maksymalnej temperaturze piekarnika (260ºC), choć ja za
 
 Podawać gorącą.
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia
