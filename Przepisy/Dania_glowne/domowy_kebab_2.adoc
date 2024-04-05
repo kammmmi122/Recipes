@@ -31,6 +31,7 @@ Jedna porcja mięsa do kebaba:
 * przyprawy: przyprawa do kurczaka "Złocisty Kurczak" - 2-4 g, * przyprawa Garam Masala - 2-4 g
 
 Trzy porcje sosu do kebaba:
+
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
 * majonez - 50 g
@@ -43,6 +44,8 @@ Trzy porcje sosu do kebaba:
 * pomidor malinowy
 * ogórek zielony
 * cebula czerwona
+* feta w kostkach
+
 |
 == Przygotowanie
 Bułka do kebaba: 
