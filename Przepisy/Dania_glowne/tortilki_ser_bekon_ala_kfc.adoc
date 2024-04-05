@@ -17,8 +17,7 @@
 * Doritos HOT Pepper - 40 g
 * panko - 80 g
 
-
-Sos:
+=== Sos:
 
 * maślanka - 120 g
 * czosnek 2 ząbki
@@ -26,12 +25,12 @@ Sos:
 * skyr - 300 g
 * musztarda sarepska - 40 g
 
-Warzywa:
+=== Warzywa:
 
 * 1/2 sałata lodowa
 * pomidor
 
-Przyprawy:
+=== Przyprawy:
 
 * papryka słodka - 6 g
 * papryka ostra - 6 g
