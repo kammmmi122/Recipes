@@ -93,7 +93,7 @@
 86. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą]
 87. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu]
 88. link:Przepisy/Dania_glowne/schabowy_z_kurczaka.html[Schabowy z kurczaka]
-89. link:Przepisy/Dania_glowne/schab_nadziewany_odtłuszczoną_mozarellą_i_pieczarkami.html[Schab nadziewany odtłuszczoną mozarellą i pieczarkami]
+89. link:Przepisy/Dania_glowne/schab_nadziewany_mozarellą_i_pieczarkami.html[Schab nadziewany mozarellą i pieczarkami]
 90. link:Przepisy/Dania_glowne/seleryba.html[Seleryba]
 91. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie_pieczone.html[Skrzydełka w miodzie pieczone]
 92. link:Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html[Stek z sosem béarnaise i szparagami]
