@@ -47,5 +47,7 @@ Przyprawy:
 == Przygotowanie
 
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia

@@ -16,5 +16,7 @@
 == Przygotowanie
 
 
-== Zdjęcia
 |===
+
+[.text-center]
+== Zdjęcia
