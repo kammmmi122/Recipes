@@ -85,7 +85,6 @@ nowe - Risotto primavera; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Risotto z szpinakiem i krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/risotto_z_szpinakiem_i_krewetkami.html
 nowe - Roladki z kurczaka z serem i papryką pieczone w boczku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html
 nowe - Roladki z kurczaka z serem pieczarkami pieczone w boczku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html
-nowe - Ryba smażona pieczona; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryba_smażona_pieczona.html
 nowe - Ryba z porami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryba_z_porami.html
 nowe - Ryż z krewetkami na ostro; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html
 nowe - Ryż z warzywami chińskimi i kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html
