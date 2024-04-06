@@ -15,7 +15,7 @@
 * 1 łyżka oleju roślinnego
 * 1 łyżka oleju sezamowego
 
-Ciasto:
+=== Ciasto:
 
 * 240 g mąki uniwersalnej
 * ½ łyżeczki soli
@@ -23,7 +23,7 @@ Ciasto:
 
 Lub gotowe ciasto na gyozę ze sklepu
 
-Farsz:
+=== Farsz:
 
 * 280 g zmielonego mięsa
 * 2-3 duże liście białej kapusty (ok 120g)
@@ -36,7 +36,7 @@ Farsz:
 * 1 łyżeczka soli
 * Świeżo zmielony pieprz
 
-Sos:
+=== Sos:
 
 * 2 łyżki octu ryżowego
 * 2 łyżki sosu sojowego

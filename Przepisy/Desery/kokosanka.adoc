@@ -12,7 +12,7 @@
 
 == Składniki
 
-Ciasto:
+=== Ciasto:
 
 * 1 kostka Kasi
 * 3/4 szklanki wody
@@ -24,7 +24,7 @@ Ciasto:
 * 3 łyżki dżemu
 * rodzynki
 
-Masa kokosowa:
+=== Masa kokosowa:
 
 * 6 białek
 * 3/4 szklanki cukru

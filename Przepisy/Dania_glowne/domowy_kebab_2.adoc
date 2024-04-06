@@ -11,7 +11,7 @@
 * https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
 == Składniki
-Bułka:
+=== Bułka:
 
 * mąka pszenna typ 650 - 400 g
 * ciepła woda - 150 ml
@@ -23,29 +23,32 @@ Bułka:
 * sezam do posypania ciasta
 
 
-Jedna porcja mięsa do kebaba:
+=== Jedna porcja mięsa do kebaba:
 
 * mięso z piersi indyka - 100 g
 * mięso z uda kurczaka - 50 g (po usunięciu tłuszczu)
 * oliwa - 5 ml
 * przyprawy: przyprawa do kurczaka "Złocisty Kurczak" - 2-4 g, * przyprawa Garam Masala - 2-4 g
 
-Trzy porcje sosu do kebaba:
+=== Trzy porcje sosu do kebaba:
+
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
 * majonez - 50 g
 * czosnek - 1-2 ząbki
 
-Świeże dodatki według uznania:
+=== Świeże dodatki według uznania:
 
 * sałata lodowa
 * kapusta czerwona
 * pomidor malinowy
 * ogórek zielony
 * cebula czerwona
+* feta w kostkach
+
 |
 == Przygotowanie
-Bułka do kebaba: 
+=== Bułka do kebaba: 
 
 Wsyp mąkę do miski.
 Przygotuj rozczyn. W tym celu wlej ciepłą wodę do szklanki, dodaj drożdże oraz jedną łyżkę mąki (odmierz ją z ilości wcześniej wsypanej do miski). Dokładnie wymieszaj, do momentu aż w szklance nie będzie żadnych grudek drożdży ani mąki. Odczekaj 5-10 minut, aby drożdże zaczęły działać.
@@ -68,7 +71,7 @@ Odczekaj, aż bułka ostygnie po wyjęciu z piekarnika, zanim zaczniesz ją kroi
 Pokrój ją na ćwiartki (jeżeli przygotowujesz mniej niż cztery porcje, pozostałe bułki możesz zamrozić).
 
 
-Mięso:
+=== Mięso:
 
 Mięso z indyka oraz mięso z kurczaka pokrój na niewielkie paski.
 
@@ -78,17 +81,17 @@ Dobrze wymieszaj mięso z przyprawami, aby powstała marynata. Pozostaw, aby nab
 
 Mięso przesmaż przy użyciu ceramicznej patelni grillowej bezpośrednio przed składaniem kebaba. Wrzuć mięso na dobrze rozgrzaną patelnię (bez dodatku tłuszczu) i smaż przez 2-3 minuty z każdej strony.
 
-Sos:
+=== Sos:
 
 Do miseczki dodaj jogurt Skyr, rzadki jogurt naturalny oraz majonez. Wymieszaj.
 
 Przeciśnij przez praskę czosnek i dodaj do sosu.
 
-Świeże dodatki:
+=== Świeże dodatki:
 
 Na koniec pokrój świeże warzywa w ilości według uznania.
 
-Całość:
+=== Całość:
 
 Przekrój bułkę w poprzek, aby powstała kieszonka.
 

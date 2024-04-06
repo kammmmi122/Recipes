@@ -1,4 +1,4 @@
-= Mielone kalafiorowe, ziemniaki, buraczki
+= Mielone kalafiorowe
 
 [cols=".<a,.<a"]
 [frame=none]
