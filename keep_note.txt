@@ -100,7 +100,6 @@ nowe - Szare kluski ze skwarkami; https://kammmmi122.github.io/Recipes/Przepisy/
 nowe - Szaszłyki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html
 nowe - Sztuka mięsa łee; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sztuka_mięsa_łee.html
 nowe - Szwedzkie klopsiki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szwedzkie_klopsiki.html
-nowe - Tabbouleh sałatka z bulgurem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tabbouleh_sałatka_z_bulgurem.html
 nowe - Tortilki ser bekon ala kfc; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tortilki_ser_bekon_ala_kfc.html
 nowe - Tortille; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tortille.html
 nowe - Warzywka z piekarnika; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/warzywka_z_piekarnika.html
@@ -161,20 +160,21 @@ Przystawki
 nowe - Tatar ze śledzia; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/tatar_ze_śledzia.html
 nowe - Wegański tatar; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/wegański_tatar.html
 
-Sałatki
+Salatki
 
-nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_cezar.html
-nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_grecka.html
-nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_gyros.html
-nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_japońska_z_krewetkami.html
-nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html
-nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_krewetkami.html
-nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_kurczakiem.html
-nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_mango_i_avocado.html
-nowe - Sałatka z rukoli granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_rukoli_granatem_i_pomarańczą.html
-nowe - Sałatka z sałatą lodową suszonymi pomidorami i fetą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html
-nowe - Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html
-nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Sałatki/sałatka_z_łososiem_i_mozzarellą.html
+nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_cezar.html
+nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_grecka.html
+nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_gyros.html
+nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_japońska_z_krewetkami.html
+nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html
+nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_krewetkami.html
+nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_kurczakiem.html
+nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_mango_i_avocado.html
+nowe - Sałatka z rukoli granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_rukoli_granatem_i_pomarańczą.html
+nowe - Sałatka z sałatą lodową suszonymi pomidorami i fetą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html
+nowe - Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html
+nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_łososiem_i_mozzarellą.html
+nowe - Tabbouleh sałatka z bulgurem; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/tabbouleh_sałatka_z_bulgurem.html
 
 Zupy
 
