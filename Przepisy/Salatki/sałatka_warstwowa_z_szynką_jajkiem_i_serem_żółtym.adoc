@@ -1,4 +1,5 @@
 = Sałatka warstwowa z szynką, jajkiem i serem żółtym
+
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
