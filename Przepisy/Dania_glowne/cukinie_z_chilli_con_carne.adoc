@@ -11,7 +11,7 @@
 * https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
 == Składniki
-Na chilli:
+=== Na chilli:
 
 * 1 łyżka oliwy
 * 1 cebula
@@ -27,7 +27,7 @@ Na chilli:
 * kostka buliony wołowego
 * 100 g boczku
 
-Na cukinie:
+=== Na cukinie:
 
 * 4 cukinie
 * 150 g tartej mozzarelli

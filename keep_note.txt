@@ -24,7 +24,7 @@ nowe - Dorada pieczona; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glow
 nowe - Dorsz pod śródziemnomorską kruszonką; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dorsz_pod_śródziemnomorską_kruszonką.html
 nowe - Dorsz w sosie curry; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dorsz_w_sosie_curry.html
 nowe - Dziwne łukaszkowe danie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dziwne_łukaszkowe_danie.html
-nowe - Falafel humus i świeże warzywa (marchewki sałata); https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa_(marchewki_sałata).html
+nowe - Falafel humus i świeże warzywa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html
 nowe - Fasolka po bretońsku bułki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fasolka_po_bretońsku_bułki.html
 nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki.html
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
@@ -94,7 +94,7 @@ nowe - Schabowy ze schabu; https://kammmmi122.github.io/Recipes/Przepisy/Dania_g
 nowe - Schabowy z kurczaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_z_kurczaka.html
 nowe - Schab nadziewany mozarellą i pieczarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schab_nadziewany_mozarellą_i_pieczarkami.html
 nowe - Seleryba; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/seleryba.html
-nowe - Skrzydełka w miodzie pieczone; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/skrzydełka_w_miodzie_pieczone.html
+nowe - Skrzydełka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/skrzydełka_w_miodzie.html
 nowe - Stek z sosem béarnaise i szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html
 nowe - Szare kluski ze skwarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html
 nowe - Szaszłyki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html
