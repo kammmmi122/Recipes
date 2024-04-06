@@ -12,7 +12,8 @@
 
 == Składniki
 
-Naleśniki
+=== Naleśniki
+
 * jajko 2 sztuki
 * mąka pszenna 250 gram
 * mleko 1 szklanka
@@ -20,17 +21,19 @@ Naleśniki
 * woda gazowana do odpowiedniej konsystencji ciasta
 * olej 1 łyżka
 
-Farsz
+=== Farsz
+
 * cebula 1 duża
 * kiełbasa dowolna 100 gram
 * pieczarki 0,5 kg
 * sól do smaku
-* Pieprz czarny mielony Prymat do smaku ale sporo
+* pieprz czarny mielony Prymat do smaku ale sporo
 
-Panierka
+=== Panierka
+
 * jajko 1 sztuka
 * mleko 5 łyżek
-* Bułka tarta klasyczna Prymat 5 łyżek
+* bułka tarta klasyczna Prymat 5 łyżek
 
 |
 == Przygotowanie

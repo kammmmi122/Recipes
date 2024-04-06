@@ -48,4 +48,6 @@ jobs:
             Przepisy/Przystawki/*.html
             Przepisy/Makarony/*.jpg
             Przepisy/Makarony/*.html
+            Przepisy/Salatki/*.jpg
+            Przepisy/Salatki/*.html
           if-no-files-found: error

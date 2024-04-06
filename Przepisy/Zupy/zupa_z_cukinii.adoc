@@ -13,7 +13,8 @@
 
 == Składniki
 
-Składniki na zupę z cukinii:
+=== Składniki na zupę z cukinii:
+
 * 500 ml bulionu warzywnego lub drobiowego
 * 2 cukinie - 800 g
 * mała cebula cukrowa
@@ -23,7 +24,8 @@ Składniki na zupę z cukinii:
 * przyprawy: po pół płaskiej łyżeczki soli i pieprzu, łyżeczka ziół prowansalskich
 * zioła: garść siekanego szczypiorku, oraz natki pietruszki
 
-Składniki na grzanki do zupy:
+=== Składniki na grzanki do zupy:
+
 * 2 kromki jasnego pieczywa pszennego
 * 4 łyżki delikatnej oliwy
 * łyżeczka ziół prowansalskich
