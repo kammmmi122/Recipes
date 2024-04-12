@@ -65,13 +65,13 @@ def get_number_of_portions(link):
 
         portions = soup.select_one(selector)
         if portions:
-            p_text = clear_text(portions.text)
-            potions_text = f"* {p_text}\n"
+            potions_text = f"* {clear_text(portions.text)}\n"
 
     return potions_text
 
 
 def get_number_of_portion_selector(link):
+    selector = None
     if Webpages.KW.value in link:
         selector = KW_PORTION
     elif Webpages.AG.value in link:
@@ -95,44 +95,46 @@ def get_recipe_ingredients(link):
         req = Request(url=link, headers=headers)
         with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            ingredients_many = soup.select(selector)
-            for ingredients in ingredients_many:
-                if Webpages.J.value in link:
-                    list_of_ingredients = [
-                        ingredient.strip().replace("\u00a0", " ").replace("\u2013", "-")
-                        for ingredient in ingredients.text.split("\n")
-                    ]
-                elif Webpages.ZZ.value in link:
-                    list_of_ingredients = []
 
-                    list_of_ingredients_name = ingredients.select(
-                        "div.mg-span.recipe-ingredient-name"
-                    )
-                    list_of_ingredients_units = ingredients.select(
-                        "div.mg-span.recipe-ingredient-unit"
-                    )
-                    for unit, name in zip(
-                        list_of_ingredients_units, list_of_ingredients_name
-                    ):
-                        unit_text = clear_text(unit.text).lower().split("\n")
-                        unit_text = "".join(unit_text)
-                        name_text = clear_text(name.text).lower().split("\n")
-                        name_text = "".join(name_text)
-                        list_of_ingredients.append(unit_text + " " + name_text)
+        ingredients_many = soup.select(selector)
+        for ingredients in ingredients_many:
+            if Webpages.J.value in link:
+                list_of_ingredients = [
+                    clear_text(ingredient)
+                    for ingredient in ingredients.text.split("\n")
+                ]
+            elif Webpages.ZZ.value in link:
+                list_of_ingredients = []
 
-                else:
-                    list_of_ingredients = [
-                        clear_text(ingredient.text)
-                        for ingredient in ingredients.select("li")
-                    ]
-                ingredients_text += "\n".join(
-                    f"* {ingredient}" for ingredient in list_of_ingredients
+                list_of_ingredients_name = ingredients.select(
+                    "div.mg-span.recipe-ingredient-name"
                 )
-                ingredients_text += "\n"
+
+                list_of_ingredients_units = ingredients.select(
+                    "div.mg-span.recipe-ingredient-unit"
+                )
+
+                for unit, name in zip(
+                    list_of_ingredients_units, list_of_ingredients_name
+                ):
+                    unit_text = "".join(clear_text(unit.text).lower().split("\n"))
+                    name_text = "".join(clear_text(name.text).lower().split("\n"))
+                    list_of_ingredients.append(unit_text + " " + name_text)
+
+            else:
+                list_of_ingredients = [
+                    clear_text(ingredient.text)
+                    for ingredient in ingredients.select("li")
+                ]
+            ingredients_text += "\n".join(
+                f"* {ingredient}" for ingredient in list_of_ingredients
+            )
+            ingredients_text += "\n"
     return ingredients_text
 
 
 def get_recipe_ingredients_selector(link):
+    selector = None
     if Webpages.KW.value in link:
         selector = KW_INGREDIENTS_TAG
     elif Webpages.AG.value in link:
@@ -156,21 +158,23 @@ def get_recipe_text(link):
         req = Request(url=link, headers=headers)
         with urlopen(req) as response:
             soup = BeautifulSoup(response, "html.parser")
-            texts_many = soup.select(selector)
-            for texts in texts_many:
-                if Webpages.AG.value or Webpages.ZZ.value or Webpages.KL.value in link:
-                    list_of_recipe_text = [
-                        clear_text(text) for text in texts.text.split("\n")
-                    ]
-                else:
-                    list_of_recipe_text = [
-                        clear_text(text.text) for text in texts.select("li")
-                    ]
-                recipe_text += "\n".join(list_of_recipe_text)
+
+        texts_many = soup.select(selector)
+        for texts in texts_many:
+            if Webpages.AG.value or Webpages.ZZ.value or Webpages.KL.value in link:
+                list_of_recipe_text = [
+                    clear_text(text) for text in texts.text.split("\n")
+                ]
+            else:
+                list_of_recipe_text = [
+                    clear_text(text.text) for text in texts.select("li")
+                ]
+            recipe_text += "\n".join(list_of_recipe_text)
     return recipe_text
 
 
 def get_recipe_text_selector(link):
+    selector = None
     if Webpages.KW.value in link:
         selector = KW_RECIPE_TEXT_TAG
     elif Webpages.AG.value in link:
