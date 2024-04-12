@@ -31,6 +31,10 @@ KL_INGREDIENTS_TAG = "div.skladniki ul"
 KL_RECIPE_TEXT_TAG = " #opis > p"
 KL_PORTION = "#recipe_meta_1 > a > li"
 
+MW_INGREDIENTS_TAG = "div.article__content > ul"
+MW_RECIPE_TEXT_TAG = " div.article__content > p"
+MW_PORTION = ""
+
 
 class Webpages(Enum):
     KW = "kwestiasmaku"
@@ -38,6 +42,7 @@ class Webpages(Enum):
     J = "jadlonomia"
     ZZ = "zakochanewzupach"
     KL = "kuchnialidla"
+    MW = "mojewypieki"
 
 
 def get_number_of_portions(link):
@@ -53,6 +58,8 @@ def get_number_of_portions(link):
         selector = ZZ_PORTION
     elif Webpages.KL.value in link:
         selector = KL_PORTION
+    elif Webpages.MW.value in link:
+        selector = MW_PORTION
 
     if selector:
         headers = {
@@ -84,6 +91,8 @@ def get_recipe_ingredients(link):
         selector = ZZ_INGREDIENTS_TAG
     elif Webpages.KL.value in link:
         selector = KL_INGREDIENTS_TAG
+    elif Webpages.MW.value in link:
+        selector = MW_INGREDIENTS_TAG
 
     if selector:
         headers = {
@@ -158,6 +167,8 @@ def get_recipe_text(link):
         selector = ZZ_RECIPE_TEXT_TAG
     elif Webpages.KL.value in link:
         selector = KL_RECIPE_TEXT_TAG
+    elif Webpages.MW.value in link:
+        selector = MW_RECIPE_TEXT_TAG
 
     if selector:
         headers = {
@@ -233,7 +244,7 @@ def create_files(text, create_file):
                 f.write(f"{ingredients_text}\n")
                 f.write("\n|\n== Przygotowanie\n")
                 f.write(f"{recipe_text}\n")
-                f.write("\n== Zdjęcia\n|===\n")
+                f.write("\n|===\n\n[.text-center]\n== Zdjęcia\n")
                 print(file, "created")
 
 
