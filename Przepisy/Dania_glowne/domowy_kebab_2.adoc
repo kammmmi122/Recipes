@@ -13,8 +13,8 @@
 == Składniki
 === Bułka:
 
-* mąka pszenna typ 650 - 400 g
-* ciepła woda - 150 ml
+* mąka pszenna typ 650 - 500 g
+* ciepła woda - 190 ml
 * jogurt naturalny - 100 g
 * sól - 10 g
 * oliwa - 10 ml
@@ -22,16 +22,15 @@
 * żółtko do posmarowania ciasta
 * sezam do posypania ciasta
 
-
-=== Jedna porcja mięsa do kebaba:
+=== Dwie porcja mięsa do kebaba:
 
 * mięso z piersi indyka - 100 g
 * mięso z uda kurczaka - 50 g (po usunięciu tłuszczu)
 * oliwa - 5 ml
-* przyprawa do kurczaka "Złocisty Kurczak" - 2-4 g,
-* przyprawa Garam Masala - 2-4 g
+* przyprawa do kurczaka "Złocisty Kurczak" - 3 g,
+* przyprawa Garam Masala - 3 g
 
-=== Trzy porcje sosu do kebaba:
+=== Pięć porcji sosu do kebaba:
 
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
@@ -103,7 +102,6 @@ Dodaj czerwoną kapustę, sałatę lodową, a następnie mięso.
 Polej mięso pozostałą ilością sosu.
 
 Na górę dodaj pomidora, ogórka oraz czerwoną cebulę.
-
 
 |===
 
