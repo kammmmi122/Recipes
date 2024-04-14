@@ -82,7 +82,6 @@ nowe - Quesadilla 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/
 nowe - Quesadilla 3; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/quesadilla_3.html
 nowe - Quesadilla 4; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/quesadilla_4.html
 nowe - Quinotto z czerwoną fasolą i papryką; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html
-nowe - Ramen shoyu; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ramen_shoyu.html
 nowe - Ratatuj; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ratatuj.html
 nowe - Risotto primavera; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/risotto_primavera.html
 nowe - Risotto z szpinakiem i krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/risotto_z_szpinakiem_i_krewetkami.html
@@ -161,6 +160,7 @@ nowe - Pesto alla trapanese; https://kammmmi122.github.io/Recipes/Przepisy/Makar
 nowe - Ragu alla bolonese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/ragu_alla_bolonese.html
 nowe - Spaghetti bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_bolognese.html
 nowe - Spaghetti napoli; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_napoli.html
+nowe - Spaghetti pomodoro; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_pomodoro.html
 
 Przetwory
 
@@ -193,6 +193,7 @@ Zupy
 
 nowe - Francuska zupa cebulowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/francuska_zupa_cebulowa.html
 nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html
+nowe - Ramen shoyu; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/ramen_shoyu.html
 nowe - Zupa barszcz z uszkami; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_barszcz_z_uszkami.html
 nowe - Zupa brokułowa z ryżem i koperkiem; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html
 nowe - Zupa buraczkowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_buraczkowa.html
