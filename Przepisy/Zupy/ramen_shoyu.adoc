@@ -52,3 +52,4 @@ Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany)
 
 [.text-center]
 == Zdjęcia
+image::20230416_155911.jpg[width=480,height=640]
