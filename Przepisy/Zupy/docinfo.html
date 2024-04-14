@@ -5,4 +5,13 @@
   td:first-child {
     border-right: solid 1px #000000;
   }
+
+  [data-status="off"] ~ #status {
+    border: 2px solid red;
+    font-weight: bolder;
+  }
+  [data-status="on"] ~ #status {
+    border: 2px solid green;
+    font-weight: 499
+  }
 </style>
