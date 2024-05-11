@@ -5,4 +5,24 @@
   td:first-child {
     border-right: solid 1px #000000;
   }
+
+  [data-status="off"], [data-status="on"] {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+  }
+
+  [data-status="off"] {
+    background-color: red;
+  }
+  [data-status="on"] {
+    background-color: green;
+  }
+
 </style>
+<script src="screen_wake_lock.js" defer></script>

@@ -1,4 +1,4 @@
-= Hiszpańska zupa z ciecierzycy
+= Hiszpańska zupa z ciecierzycy +++<button data-status="off">Wake Lock OFF</button>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -25,6 +25,7 @@
 
 |
 == Przygotowanie
+[id=status]
 Ciecierzycę płuczemy i odsączamy. W garnku nma oliwie szklimy pokrojoną w dużą kostkę cebulę. Dodajemy przeciśnięty prze praskę czosnek., drobno posiekane chili, kmin rzymski i kolendrę mieloną, smażymy około 2 minut. Do garnka wrzucamy pokrojone w centymetrową kostkę paprykę, seler naciowy i batat. Smażymy 5 minut, co jakiś czas mieszając. Dodajemy pomidory, wlewamy bulion lub wodę i doprowadzamy do wrzenia. Wsypujemy komosę ryżową oraz papryki słodką i wędzoną. Gotujemy około 20 minut. Po tym czasie dodajemy ciecierzycę. Zupę doprawiamy sokiem z limonki, solą i pieprzem. Nalewamy do miseczek i posypujemy posiekaną zieleniną.
 
 |===
