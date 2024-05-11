@@ -1,4 +1,4 @@
-= Sałatka z rukoli, granatem i pomarańczą
+= Sałatka z rukoli +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , granatem i pomarańczą
 
 [cols=".<a,.<a"]
 [frame=none]

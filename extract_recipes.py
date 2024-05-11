@@ -235,7 +235,7 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
         potions_text = get_number_of_portions(link)
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            f.write(f"= {cap_title} +++ <label class=\"switch\">  <input id=\"wakeLockButton\" type=\"checkbox\" onclick=\"button_click()\" >  <span class=\"slider round\"></span></label>+++ \n\n")
+            f.write(f"= {cap_title} +++ <label class=\"switch\">  <input data-status=\"off\" type=\"checkbox\" >  <span class=\"slider round\"></span></label>+++ \n\n")
             f.write(
                 '[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n'
             )

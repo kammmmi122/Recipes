@@ -1,4 +1,4 @@
-= Falafel, humus i świeże warzywa
+= Falafel +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , humus i świeże warzywa
 
 [cols=".<a,.<a"]
 [frame=none]

@@ -1,4 +1,4 @@
-= Ryż z krewetkami na ostro
+= Ryż z krewetkami na ostro +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
 
 [cols=".<a,.<a"]
 [frame=none]

@@ -1,4 +1,4 @@
-= Sałatka z sałatą lodową, suszonymi pomidorami i fetą
+= Sałatka z sałatą lodową +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , suszonymi pomidorami i fetą
 
 [cols=".<a,.<a"]
 [frame=none]

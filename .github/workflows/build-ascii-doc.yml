@@ -37,26 +37,18 @@ jobs:
             *.js
             Przepisy/*.jpg
             Przepisy/*.html
-            Przepisy/*.js
             Przepisy/Przetwory/*.jpg
             Przepisy/Przetwory/*.html
-            Przepisy/Przetwory/*.js
             Przepisy/Desery/*.jpg
             Przepisy/Desery/*.html
-            Przepisy/Desery/*.js
             Przepisy/Dania_glowne/*.jpg
             Przepisy/Dania_glowne/*.html
-            Przepisy/Dania_glowne/*.js
             Przepisy/Zupy/*.jpg
             Przepisy/Zupy/*.html
-            Przepisy/Zupy/*.js
             Przepisy/Przystawki/*.jpg
             Przepisy/Przystawki/*.html
-            Przepisy/Przystawki/*.js
             Przepisy/Makarony/*.jpg
             Przepisy/Makarony/*.html
-            Przepisy/Makarony/*.js
             Przepisy/Salatki/*.jpg
             Przepisy/Salatki/*.html
-            Przepisy/Salatki/*.js
           if-no-files-found: error
