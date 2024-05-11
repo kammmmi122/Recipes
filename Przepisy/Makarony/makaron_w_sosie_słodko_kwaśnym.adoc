@@ -1,4 +1,4 @@
-= Makaron w sosie słodko/kwaśnym
+= Makaron w sosie słodko +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ /kwaśnym
 
 [cols=".<a,.<a"]
 [frame=none]

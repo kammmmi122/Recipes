@@ -1,4 +1,4 @@
-= Zupa grochowa 2
+= Zupa grochowa 2  +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 2
 
 [cols=".<a,.<a"]
 [frame=none]

@@ -1,4 +1,4 @@
-= Sałatka z mango i avocado
+= Sałatka z mango i avocado +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
 
 [cols=".<a,.<a"]
 [frame=none]

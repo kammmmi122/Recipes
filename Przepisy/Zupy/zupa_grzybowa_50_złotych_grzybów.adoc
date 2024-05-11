@@ -1,4 +1,4 @@
-= Zupa grzybowa 50 złotych grzybów
+= Zupa grzybowa 50 złotych grzybów +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 50 złotych grzybów
 
 [cols=".<a,.<a"]
 [frame=none]

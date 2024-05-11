@@ -1,4 +1,4 @@
-= Kurczak w sosie śmietanowo/serowym
+= Kurczak w sosie śmietanowo +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ /serowym
 
 [cols=".<a,.<a"]
 [frame=none]

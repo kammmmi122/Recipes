@@ -1,4 +1,4 @@
-= Tabbouleh, sałatka z bulgurem
+= Tabbouleh, sałatka z bulgurem +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , sałatka z bulgurem
 
 [cols=".<a,.<a"]
 [frame=none]

@@ -1,4 +1,4 @@
-= Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni
+= Sałatka z suszonymi pomidorami +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , serem pleśniowym i pestkami dyni
 
 [cols=".<a,.<a"]
 [frame=none]

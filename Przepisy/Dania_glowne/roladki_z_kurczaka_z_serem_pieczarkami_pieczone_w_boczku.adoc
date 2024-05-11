@@ -1,4 +1,4 @@
-= Roladki z kurczaka z serem, pieczarkami pieczone w boczku
+= Roladki z kurczaka z serem +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , pieczarkami pieczone w boczku
 
 [cols=".<a,.<a"]
 [frame=none]
