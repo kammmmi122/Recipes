@@ -112,6 +112,7 @@ nowe - Wołowina po burgundzku; https://kammmmi122.github.io/Recipes/Przepisy/Da
 nowe - Wątróbka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wątróbka.html
 nowe - Zapiekanka makaronowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa.html
 nowe - Zapiekanka makaronowa 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa_2.html
+nowe - Zapiekanka makaronowa ze szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa_ze_szparagami.html
 nowe - Zapiekanka ziemniaczana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_ziemniaczana.html
 nowe - Zapiekanka łukaszkowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html
 nowe - Zapiekanki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanki.html
@@ -128,6 +129,7 @@ Desery
 nowe - Brownie; https://kammmmi122.github.io/Recipes/Przepisy/Desery/brownie.html
 nowe - Ciasto drożdżowe ze śliwkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html
 nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_marchewkowe.html
+nowe - Ciasto porzeczkowiec; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_porzeczkowiec.html
 nowe - Kokosanka; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosanka.html
 nowe - Kokosowy jabłecznik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosowy_jabłecznik.html
 nowe - Murzynek z wiśniami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/murzynek_z_wiśniami.html
@@ -136,6 +138,7 @@ nowe - Racuchy z jabłkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery
 nowe - Sernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik.html
 nowe - Sos waniliowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sos_waniliowy.html
 nowe - Szybki piernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/szybki_piernik.html
+nowe - Tort czekoladowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tort_czekoladowy.html
 nowe - Tort truskawkowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tort_truskawkowy.html
 nowe - Wiśniowy paj; https://kammmmi122.github.io/Recipes/Przepisy/Desery/wiśniowy_paj.html
 
@@ -146,7 +149,7 @@ nowe - Cannelloni; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/cannel
 nowe - Makaron aglio olio z pomidorkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_aglio_olio_z_pomidorkami.html
 nowe - Makaron carbonara; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_carbonara.html
 nowe - Makaron chiński z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_chiński_z_krewetkami.html
-nowe - Makaron w sosie słodko kwaśnym (uncle ben's); https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_w_sosie_słodko_kwaśnym_(uncle_ben's).html
+nowe - Makaron w sosie słodko kwaśnym; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_w_sosie_słodko_kwaśnym.html
 nowe - Makaron zapiekany z boczkiem i cukinią; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_zapiekany_z_boczkiem_i_cukinią.html
 nowe - Makaron ze szpinakiem; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_ze_szpinakiem.html
 nowe - Makaron z brokułami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_brokułami.html
