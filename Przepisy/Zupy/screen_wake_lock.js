@@ -1,5 +1,5 @@
 // toggle button
-const wakeButton = document.querySelector('wakeLockButton');
+const wakeButton = document.querySelector('[data-status]');
 
 // change button and status if wakelock becomes acquired or is released
 const changeUI = (status = 'acquired') => {
