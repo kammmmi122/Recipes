@@ -1,4 +1,4 @@
-= Makaron w sosie słodko/kwaśnym (uncle ben's)
+= Makaron w sosie słodko/kwaśnym
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -18,7 +18,6 @@
 * 1 cebula
 * słoik sosu słodko-kwaśnego Uncle Ben's
 * sól i pieprz
-
 * makaron 500 g
 
 |
