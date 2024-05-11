@@ -1,9 +1,4 @@
-= Hiszpańska zupa z ciecierzycy
-
-++++
-	<script src="screen_wake_lock.js" defer></script>
-	<button data-status="off">Turn Wake Lock ON</button>
-++++
+= Hiszpańska zupa z ciecierzycy +++<button data-status="off">Wake Lock OFF</button>+++
 
 [cols=".<a,.<a"]
 [frame=none]

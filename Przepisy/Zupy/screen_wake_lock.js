@@ -7,7 +7,7 @@ const wakeButton = document.querySelector('[data-status]');
 const changeUI = (status = 'acquired') => {
   const acquired = status === 'acquired' ? true : false;
   wakeButton.dataset.status = acquired ? 'on' : 'off';
-  wakeButton.textContent = `Turn Wake Lock ${acquired ? 'OFF' : 'ON'}`;
+  wakeButton.textContent = `Wake Lock ${acquired ? 'ON' : 'OFF'}`;
 }
 
 // test support
@@ -43,7 +43,7 @@ if (isSupported) {
     } catch (err) {
       // if wake lock request fails - usually system related, such as battery
       wakeButton.dataset.status = 'off';
-      wakeButton.textContent = 'Turn Wake Lock ON';
+      wakeButton.textContent = 'Wake Lock OFF';
 
     }
   } // requestWakeLock()
