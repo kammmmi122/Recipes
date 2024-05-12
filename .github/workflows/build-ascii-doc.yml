@@ -24,8 +24,11 @@ jobs:
           fetch-depth: 0
           lfs: "true"
 
+      - name: Change permissions
+        run: chmod 755 ./scripts/build.sh
+
       - name: Build
-        run: ./build.sh
+        run: ./scripts/build.sh
 
       - name: Publish
         uses: actions/upload-artifact@v3
