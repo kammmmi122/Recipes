@@ -24,6 +24,9 @@ jobs:
           fetch-depth: 0
           lfs: "true"
 
+      - name: Change permissions
+        run: chmod 755 ./scripts/build.sh
+
       - name: Build
         run: ./scripts/build.sh
 
