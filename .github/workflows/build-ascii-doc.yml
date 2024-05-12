@@ -37,7 +37,7 @@ jobs:
           path: |
             *.html
             *.jpg
-            *.js
+            static/*
             Przepisy/*.jpg
             Przepisy/*.html
             Przepisy/Przetwory/*.jpg
