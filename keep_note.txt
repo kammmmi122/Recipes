@@ -227,9 +227,3 @@ nowe - Zupa warzywna; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_wa
 nowe - Zupa z cukinii; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_z_cukinii.html
 nowe - Zupa żurek z białą kiełbasą; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html
 nowe - Zuppa di pesce; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zuppa_di_pesce.html
-
-scripts
-
-
-static
-

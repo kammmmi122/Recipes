@@ -228,9 +228,3 @@
 28. link:Przepisy/Zupy/zupa_z_cukinii.html[Zupa z cukinii]
 29. link:Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html[Zupa żurek z białą kiełbasą]
 30. link:Przepisy/Zupy/zuppa_di_pesce.html[Zuppa di pesce]
-
-== scripts
-
-
-== static
-
