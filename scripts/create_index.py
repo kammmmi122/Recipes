@@ -2,7 +2,6 @@ import os
 
 
 def in_path(path):
-    print(path)
     in_path_var = False
     for var in [".git", "static", "scripts"]:
         if var in path:
