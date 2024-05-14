@@ -1,0 +1,30 @@
+= Jajecznica +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 15 minut
+* 1 jajecznica
+
+== Składniki
+
+* 2 jajka
+* szczypta soli
+* szczypta pieprzu
+* odrobina wody
+* szczypiorek
+* masło
+
+|
+== Przygotowanie
+
+Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymieszać. Na patelni roztopic masło, wlać jajka i czekać. Od czasu do czasu poruszać drewnianą łyżką, aby rozdzielić na kawałku. Wyłączyć ogień gy białko stanie się białe.
+
+|===
+
+[.text-center]
+== Zdjęcia

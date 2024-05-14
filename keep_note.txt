@@ -27,7 +27,7 @@ nowe - Dorsz w sosie curry; https://kammmmi122.github.io/Recipes/Przepisy/Dania_
 nowe - Dziwne łukaszkowe danie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dziwne_łukaszkowe_danie.html
 nowe - Enchilada z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/enchilada_z_kurczakiem.html
 nowe - Falafel humus i świeże warzywa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html
-nowe - Fasolka po bretońsku bułki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fasolka_po_bretońsku_bułki.html
+nowe - Fasolka po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fasolka_po_bretońsku.html
 nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki.html
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
 nowe - Gulasz wołowy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_wołowy.html
@@ -132,6 +132,7 @@ nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/
 nowe - Ciasto porzeczkowiec; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_porzeczkowiec.html
 nowe - Kokosanka; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosanka.html
 nowe - Kokosowy jabłecznik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosowy_jabłecznik.html
+nowe - Muffinki z malinami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/muffinki_z_malinami.html
 nowe - Murzynek z wiśniami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/murzynek_z_wiśniami.html
 nowe - Pierniczki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/pierniczki.html
 nowe - Racuchy z jabłkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/racuchy_z_jabłkami.html
@@ -171,6 +172,8 @@ nowe - Kompot czeresniowy; https://kammmmi122.github.io/Recipes/Przepisy/Przetwo
 
 Przystawki
 
+nowe - Jajecznica; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/jajecznica.html
+nowe - Pasta z makreli; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pasta_z_makreli.html
 nowe - Rozczyn; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/rozczyn.html
 nowe - Tatar ze śledzia; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/tatar_ze_śledzia.html
 nowe - Tortille placki; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/tortille_placki.html
@@ -224,3 +227,9 @@ nowe - Zupa warzywna; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_wa
 nowe - Zupa z cukinii; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_z_cukinii.html
 nowe - Zupa żurek z białą kiełbasą; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html
 nowe - Zuppa di pesce; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zuppa_di_pesce.html
+
+scripts
+
+
+static
+
