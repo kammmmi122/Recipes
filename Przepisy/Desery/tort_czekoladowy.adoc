@@ -47,3 +47,6 @@ Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast bok
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20240511_114709.jpg[width=640,height=480]
+image::/Recipes/static/images/20240511_114847.jpg[width=480,height=640]
