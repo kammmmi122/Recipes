@@ -28,7 +28,7 @@
 21. link:Przepisy/Dania_glowne/dziwne_łukaszkowe_danie.html[Dziwne łukaszkowe danie]
 22. link:Przepisy/Dania_glowne/enchilada_z_kurczakiem.html[Enchilada z kurczakiem]
 23. link:Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html[Falafel humus i świeże warzywa]
-24. link:Przepisy/Dania_glowne/fasolka_po_bretońsku_bułki.html[Fasolka po bretońsku bułki]
+24. link:Przepisy/Dania_glowne/fasolka_po_bretońsku.html[Fasolka po bretońsku]
 25. link:Przepisy/Dania_glowne/gołąbki.html[Gołąbki]
 26. link:Przepisy/Dania_glowne/gołąbki_bez_zawijania.html[Gołąbki bez zawijania]
 27. link:Przepisy/Dania_glowne/gulasz_wołowy.html[Gulasz wołowy]
@@ -133,15 +133,16 @@
 4. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec]
 5. link:Przepisy/Desery/kokosanka.html[Kokosanka]
 6. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik]
-7. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami]
-8. link:Przepisy/Desery/pierniczki.html[Pierniczki]
-9. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami]
-10. link:Przepisy/Desery/sernik.html[Sernik]
-11. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy]
-12. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik]
-13. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy]
-14. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy]
-15. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj]
+7. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami]
+8. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami]
+9. link:Przepisy/Desery/pierniczki.html[Pierniczki]
+10. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami]
+11. link:Przepisy/Desery/sernik.html[Sernik]
+12. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy]
+13. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik]
+14. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy]
+15. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy]
+16. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj]
 
 == Makarony
 
@@ -172,10 +173,12 @@
 
 == Przystawki
 
-1. link:Przepisy/Przystawki/rozczyn.html[Rozczyn]
-2. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia]
-3. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki]
-4. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar]
+1. link:Przepisy/Przystawki/jajecznica.html[Jajecznica]
+2. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli]
+3. link:Przepisy/Przystawki/rozczyn.html[Rozczyn]
+4. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia]
+5. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki]
+6. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar]
 
 == Salatki
 

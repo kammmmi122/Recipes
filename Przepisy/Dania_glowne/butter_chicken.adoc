@@ -42,3 +42,5 @@ W międzyczasie na patelni rozgrzać drugą łyżkę masła klarowanego i obsma�
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20240421_172701.jpg[width=480,height=640]

@@ -1,0 +1,33 @@
+= Muffinki z malinami +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 30 minut
+* 12 muffinek
+
+== Składniki
+
+* 3/4 szklanki cukru
+* 2,5 szklanki mąki
+* 2 łyżeczki proszku do pieczenia
+* łyżeczka cukru waniliowego
+* szczypta soli
+* 50 g masła
+* 2 jajka
+* 1 1/4 szklanki mleka
+* 250 g malin
+
+|
+== Przygotowanie
+
+Wymieszać ze soba cukier, mąkę, proszek do pieczenia, cukier wanilinowy i sól. W międzyczasie rozpuścić masło, ostudzić. Do masła dodać jajka i mleko. Połączyć wszystko razem. Na koniec dodać maliny. Napełnić foremki do muffinek. Piec pok. 20-25 minut. w 190 st. C. 
+
+|===
+
+[.text-center]
+== Zdjęcia

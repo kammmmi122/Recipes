@@ -1,13 +1,22 @@
 import os
 
 
+def in_path(path):
+    in_path_var = False
+    for var in [".git", "static", "scripts"]:
+        if var in path:
+            in_path_var = True
+            
+    return in_path_var
+  
+
 def create_keep_note():
     with open(f"keep_note.txt", "w", encoding="utf8") as file:
         pass
 
     for path, subdirs, files in os.walk("."):
         folder_name = path.split("\\")[-1]
-        if ".\\" in path and ".git" not in path:
+        if ".\\" in path and not in_path(path):
             with open(f"keep_note.txt", "a+", encoding="utf8") as file:
                 file.write(f"\n{folder_name}\n\n")
         for name in files:
@@ -31,7 +40,7 @@ def create_index_adoc():
     for path, subdirs, files in os.walk("."):
         index = 0
         folder_name = path.split("\\")[-1].replace("_", " ")
-        if ".\\" in path and ".git" not in path:
+        if ".\\" in path and not in_path(path):
             with open(f"index.adoc", "a+", encoding="utf8") as file:
                 file.write(f"\n== {folder_name}\n\n")
         for name in files:
