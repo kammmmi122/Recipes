@@ -39,4 +39,4 @@ Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy ba
 
 [.text-center]
 == Zdjęcia
-image::/Recipes/static/images/20231219_152132.jpg[width=640,height=480]
+image::/Recipes/static/images/20231219_152132.jpg

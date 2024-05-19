@@ -44,6 +44,6 @@ Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, n
 
 [.text-center]
 == Zdjęcia
-image::/Recipes/static/images/20231209_214411.jpg[width=640,height=480]
-image::/Recipes/static/images/20231210_184314.jpg[width=480,height=640]
-image::/Recipes/static/images/20231210_184321.jpg[width=480,height=640]
+image::/Recipes/static/images/20231209_214411.jpg
+image::/Recipes/static/images/20231210_184314.jpg
+image::/Recipes/static/images/20231210_184321.jpg

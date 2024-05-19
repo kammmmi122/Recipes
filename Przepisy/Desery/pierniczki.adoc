@@ -48,5 +48,5 @@ Każdą partię pierniczków piecz na środkowej półce w piekarniku nagrzanym 
 
 [.text-center]
 == Zdjęcia
-image::/Recipes/static/images/20231218_213240.jpg[width=480,height=640]
-image::/Recipes/static/images/20231220_075016.jpg[width=480,height=640]
+image::/Recipes/static/images/20231218_213240.jpg
+image::/Recipes/static/images/20231220_075016.jpg

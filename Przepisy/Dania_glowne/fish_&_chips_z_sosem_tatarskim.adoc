@@ -1,0 +1,68 @@
+= Fish & chips z sosem tatarskim +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1 h
+* 2 porcje
+* https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam/ [link do źródła przepisu]
+
+== Składniki
+
+=== Fish
+
+* 2 duże kawałki dorsza podzielone na mniejsze kawałki do panierowania
+* 200 ml jasnego zimnego piwa
+* 1/2 łyżeczki kurkumy
+* 140 gram mąki pszennej uniwersalnej
+* 1 łyżeczka proszku do pieczenia
+* olej rzepakowy do smażenia
+
+=== Chips
+
+* 6-8 ziemniaków
+* olej rzepakowy do smażenia
+* sól do smaku
+
+=== Sos tarski
+
+* 2 łyżki marynowanych grzybków (lub kaparów)
+* 1/4 czerwonej cebuli
+* 1 ogórek kiszony lub konserwowy
+* 2 łyżki posiekanego szczypiorku
+* 1 łyżka posiekanej natki
+* 200 ml majonezu
+* 2 łyżeczki soku z cytryny
+* świeżo zmielony pieprz
+
+|
+== Przygotowanie
+
+=== Fish
+
+Wyjmujemy z lodówki rybę, myjemy i osuszamy papierowym ręcznikiem. Kroimy na takie kawałki, jakie chcemy serwować. Rybę solimy i pieprzymy. Odkładamy.
+
+Szykujemy panierkę do ryby. W misce mieszamy piwo, mąkę, kurkumę i proszek do pieczenia - najlepiej użyć trzepaczki (my korzystaliśmy z trzepaczki elektrycznej). Panierujemy kawałki ryby w cieście.
+
+Na mocno rozgrzaną patelnię wlewamy 2 szklanki oleju rzepakowego. Rozgrzewamy do 180 stopni. Na mocno rozgrzany olej wrzucamy kawałki ryby i smażymy 2-3 minuty z każdej strony.
+
+=== Chips
+
+Ziemniaki obieramy, myjemy i kroimy na słupki. Słupki wrzucamy do miski z wodą i zostawiamy tak na 10-15 minut.
+
+Ziemniaki wyjmujemy z wody, wrzucamy do garnka i zalewamy wrzątkiem. Doprowadzamy wodę do wrzenia, ale gotujemy tylko przez 2-3 minuty. Przerzucamy ziemniaki na durszlak.
+
+Rybę wyjmujemy, a na ten sam olej wrzucamy frytki - pamiętajcie - musi być mocno rozgrzany. Smażymy 4-5 minut. Sprawdzamy czy gotowe. Po wyjęciu (najlepiej na papierowy ręcznik) solimy.
+
+=== Sos tatarski
+
+Marynowane grzybki drobno posiekać na desce, obok w małą kosteczkę pokroić cebulę oraz ogórka, przez chwilę siekać jeszcze wszystkie składniki.
+Przełożyć do miseczki, dodać posiekany szczypiorek, natkę, majonez i sok z cytryny, wymieszać i doprawić pieprzem.
+
+|===
+
+[.text-center]
+== Zdjęcia

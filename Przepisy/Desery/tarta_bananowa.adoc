@@ -1,0 +1,52 @@
+= Tarta bananowa +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 45 min
+* 20 porcji
+* https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
+
+== Składniki
+
+=== Spód
+
+* 350 g ciastek typu Oreo (lub Neo)
+* 75 g masła
+
+=== Wypełnienie
+
+* 1 budyń waniliowy lub śmietankowy
+* 40 g cukru
+* 500 ml mleka
+* 3 - 4 banany
+* sok z 1 - 2 cytryn
+* 400 g śmietany 36%, bardzo zimnej
+* 1 łyżka cukru
+* 1 i 1/2 łyżeczki żelatyny (do bitej śmietany) lub śmietan-fix
+* 25 g gorzkiej czekolady
+
+|
+== Przygotowanie
+
+Ugotować budyń według przepisu. Odstawić z ognia i przełożyć do miski (tylko nie metalowej). Dokładnie ostudzić, wstawić do lodówki.
+
+=== Spód 
+
+Całe ciasteczka dokładnie pokruszyć na proszek (najlepiej użyć do tego celu pojemnika blendera - rozdrabniacza, można też utłuc tłuczkiem w misce lub w woreczku). Ciasteczka dokładnie połączyć z roztopionym masłem, wyłożyć do tortownicy i wyłożyć nimi spód oraz około 2 - 3 cm boków tortownicy (średnica około 24 cm), mocno uklepać łyżką, docisnąć. Wstawić do lodówki.
+
+=== Wypełnienie
+
+Banany pokroić na plasterki, włożyć do miski i dokładnie obtoczyć w soku z cytryny. Na spód wyłożyć masę budyniową, następnie ułożyć banany pojedynczą warstwą lekko wciskając je w masę (banany mogą miejscami na siebie nachodzić). Wstawić do lodówki na czas przygotowania bitej śmietany.
+
+=== Bita śmietana
+
+Żelatynę wsypać do rondelka, wlać 1/4 szklanki wody i wymieszać. Podgrzewać na małym ogniu ciągle mieszając. Jak tylko żelatyna całkowicie się rozpuści przelać ją do miseczki i ostudzić (najlepiej wstawić miseczkę do zimnej wody). Zimną śmietanę ubić na sztywno z 1 łyżką cukru, pod koniec dodać letnią żelatynę lub śmietan-fix i jeszcze przez chwilę razem ubijać. Śmietanę rozprowadzić po deserze i udekorować roztopioną czekoladą (można ją wycisnąć przez woreczek z wyciętą malutką dziurką).
+
+|===
+
+[.text-center]
+== Zdjęcia
