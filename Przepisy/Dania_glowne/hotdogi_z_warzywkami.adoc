@@ -29,3 +29,4 @@ Ugotować parówki. Chleb lub bułkę lekko zgrillować w opiekaczu. Pokroić wa
 [.text-center]
 == Zdjęcia
 
+image::/Recipes/static/images/20240517_111652.jpg

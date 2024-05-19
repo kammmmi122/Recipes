@@ -1,0 +1,42 @@
+= Chlebek bananowy +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 15 min
+* czas pieczenia: 1 h
+* 10 porcji
+* https://www.kwestiasmaku.com/przepis/chlebek-bananowy[link do źródła przepisu]
+
+== Składniki
+* 4 jajka
+* 1 szklanka cukru
+* 200 ml oleju roślinnego lub 200 g masła
+* 4 banany
+* 2 i 1/2 szklanki mąki pszennej
+* 2 i 1/2 łyżeczki proszku do pieczenia
+* 1 łyżeczka sody oczyszczonej
+* szczypta soli
+* 1 szklanka posiekanych orzechów
+
+|
+== Przygotowanie
+
+Piekarnik nagrzać do 180 stopni C. Jajka wbić do miski i rozmiksować lub roztrzepać. Miksując dodawać cukier, olej roślinny lub roztopione masło, a na końcu rozgniecione lub zmiksowane blenderem banany.
+
+W drugiej misce wymieszać mąkę z proszkiem do pieczenia, sodą i solą. Dodać masę bananową i wymieszać.
+
+Dodać drobno posiekane orzechy oraz wiórki kokosowe jeśli je używamy i połączyć składniki.
+
+Ciasto wyłożyć do wyścielonej papierem do pieczenia dużej podłużnej formy keksowej i piec przez ok. 1 godzinę lub do suchego patyczka.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20240519_085926.jpg
+image::/Recipes/static/images/20240519_085941.jpg

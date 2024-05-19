@@ -28,6 +28,7 @@ nowe - Dziwne łukaszkowe danie; https://kammmmi122.github.io/Recipes/Przepisy/D
 nowe - Enchilada z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/enchilada_z_kurczakiem.html
 nowe - Falafel humus i świeże warzywa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html
 nowe - Fasolka po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fasolka_po_bretońsku.html
+nowe - Fish & chips z sosem tatarskim; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fish_&_chips_z_sosem_tatarskim.html
 nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki.html
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
 nowe - Gulasz wołowy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_wołowy.html
@@ -127,6 +128,7 @@ nowe - Żeberka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_g
 Desery
 
 nowe - Brownie; https://kammmmi122.github.io/Recipes/Przepisy/Desery/brownie.html
+nowe - Chlebek bananowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/chlebek_bananowy.html
 nowe - Ciasto drożdżowe ze śliwkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html
 nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_marchewkowe.html
 nowe - Ciasto porzeczkowiec; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_porzeczkowiec.html
@@ -139,6 +141,7 @@ nowe - Racuchy z jabłkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery
 nowe - Sernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik.html
 nowe - Sos waniliowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sos_waniliowy.html
 nowe - Szybki piernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/szybki_piernik.html
+nowe - Tarta bananowa; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tarta_bananowa.html
 nowe - Tort czekoladowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tort_czekoladowy.html
 nowe - Tort truskawkowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tort_truskawkowy.html
 nowe - Wiśniowy paj; https://kammmmi122.github.io/Recipes/Przepisy/Desery/wiśniowy_paj.html
