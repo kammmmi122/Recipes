@@ -109,5 +109,5 @@ Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie 
 
 [.text-center]
 == Zdjęcia
-image::/Recipes/static/images/20231006_223932.jpg
-image::/Recipes/static/images/20231014_215500.jpg
+image::/Recipes/static/images/20231006_223932.jpg[]
+image::/Recipes/static/images/20231014_215500.jpg[]

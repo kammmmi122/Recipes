@@ -51,4 +51,4 @@ Zdejmij przykrywkę z gotowej Paelli. Przed nałożeniem jej na talerze odczekaj
 
 [.text-center]
 == Zdjęcia
-image::/Recipes/static/images/20240119_201437.jpg
+image::/Recipes/static/images/20240119_201437.jpg[]
