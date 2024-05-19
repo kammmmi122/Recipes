@@ -7,26 +7,25 @@
 |
 == Szczegóły
 * czas przygotowania: 35 min
-* 4 porcje
+* 2 porcje
 
 == Składniki
-* 4 parówki
-* 4 kawałki sporego chleba lub 4 bułki do hotdogów
+* 5 parówki
+* 5 bułek śniadaniowych
 * pomidor
 * mix sałata
-* 1 łyżka ketchupu
-* 1 łyżka majonezu
-* mały kawałek pora
-* pieprz
+* 2 łyżka ketchupu
+* 2 łyżka majonezu
+* 2 łyżki musztardy
 
 |
 == Przygotowanie
 
-Ugotować parówki. Chleb lub bułkę lekko zgrillować w opiekaczu. Pokroić warzywa. Zrobić sos z majonezu, pora i pieprzu. Złożyć hot-dog: spód chleba/bułki wysmarować sosem majonezowym, dodać parówkę, ulubione warzywa. Na wierzch polać ketchupem
+Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobić sos z majonezu i ketchupu. Złożyć hot-dog: spód chleba/bułki wysmarować sosem, dodać parówkę, ulubione warzywa. Na wierzch polać sosem i musztardą.
 
 |===
 
 [.text-center]
 == Zdjęcia
 
-image::/Recipes/static/images/20240517_111652.jpg
+image::/Recipes/static/images/20240517_111652.jpg[]

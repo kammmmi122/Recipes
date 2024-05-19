@@ -45,4 +45,4 @@ Smażyć partiami, w woku lub na patelni, na około 3 mm warstwie oleju (sajgonk
 [.text-center]
 == Zdjęcia
 
-image::/Recipes/static/images/20240502_181440.jpg
+image::/Recipes/static/images/20240502_181440.jpg[]
