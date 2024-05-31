@@ -1,6 +1,6 @@
 import os
 
-symbols = ["🌱"]
+symbols = ["🌱","🐟"]
 
 
 def in_path(path):
