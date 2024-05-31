@@ -1,0 +1,54 @@
+= Cukinie z chili con carne +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1 h
+* 4 porcje
+* https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
+
+== Składniki
+=== Na chili:
+
+* 1 łyżka oliwy
+* 1 cebula
+* 2 ząbki czosnku
+* 1 łyżeczka chili w proszku
+* 1 łyżeczka zmielonego kminu rzymskiego (kuminu)
+* 1 łyżeczka suszonego oregano
+* 500 g mielonej wołowiny (np. gulaszowej, antrykotu)
+* 2 świeże pomidory lub 2/3 puszki obranych pomidorów
+* 1 łyżeczka cukru
+* 1 czerwona papryka
+* 200 g czerwonej fasoli (ugotowanej)
+* kostka buliony wołowego
+* 100 g boczku
+
+=== Na cukinie:
+
+* 5 cukinii
+* 200 g tartej mozzarelli
+
+|
+== Przygotowanie
+
+Wydrążyć cukinie, porobić dziurki i posolić. Po 10 minutach odlać nadmiar wody.
+
+Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
+
+Dodać pomidory, wymieszać i doprawić cukrem, pieprzem oraz szczyptą soli.
+
+Przykryć i dusić przez około 20 na umiarkowanym ogniu, co jakiś czas zamieszać. Dodać pokrojoną w kosteczkę paprykę. Gotować pod przykryciem przez około 10 minut, od czasu do czasu zamieszać. Na koniec dodać fasolę i gotować pod przykryciem przez ok. 3 minuty.
+
+Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeby dolać odrobinę wody.
+
+Nagrzać piekarnik do 180 stopni C. Na cukinie wyłożyć sporą łyżkę sosu i posypać serem. Zapiec przez 10 minut.
+
+
+|===
+
+[.text-center]
+== Zdjęcia
