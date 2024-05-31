@@ -1,0 +1,28 @@
+= Nalewka z kwiatów bzu +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 30 minut + 2 miesiące
+
+== Składniki
+* 40 -50 kwiatostanów bzu bez łodyg
+* 1,5 l wody gazowanej
+* 2 małe opakowania kwasku cytrynowego
+* 1 kh cukru
+* 1 l spirytusu
+
+|
+== Przygotowanie
+
+Kwiaty odciąć od łodyżek i przełożyć do dużego słoja. Wsypać kwasek cytrynowy i dodać wodę gazowaną. Przemieszać i odstawić na 24 h. Po tym czasie odcedzić przez gazę i dodać cukier oraz spirytus. Odstawić na miesiąc. Po miesiącu rozlać do butelek i znowu odstawić na miesiąc.
+
+|===
+
+[.text-center]
+== Zdjęcia
+image::/Recipes/static/images/20240526_205344.jpg[]
+image::/Recipes/static/images/20240531_084134.jpg[]

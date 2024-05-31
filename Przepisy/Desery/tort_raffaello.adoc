@@ -1,0 +1,121 @@
+= Tort Raffaello +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 3 godziny
+* 20 porcji
+* https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
+
+== Składniki
+
+=== Biszkopt
+* 6 jajek
+* 200 g cukru
+* 50 ml wody
+* 230 g mąki pszennej
+* 1 łyżeczka proszku do pieczenia 
+* 2 łyżeczki cukru waniliowego
+
+=== Przełożenie
+* 400 ml mleka kokosowego lub migdałowego
+* 1 budyń śmietankowy
+* 250 g kajmaku z puszki
+* 1 łyżeczka ekstraktu naturalnego migdałowego
+
+=== Krem
+* 70 g wiórków kokosowych
+* 100 ml likieru malibu
+* 100 ml wody
+* 250 g serka mascarpone
+* 500 ml schłodzonej śmietanki 30%
+* 50 g cukru pudru
+* 2 Śmietan fixy Dr. Oetkera
+
+=== Krem maślany (tynk)
+* 400 g miękkiego masła
+* 400 g mleczka skondensowanego słodzonego
+
+=== Poncz
+* 100 ml likieru kokosowego
+* 100 ml wody
+
+=== Do dekoracji
+* 3 łyżki płatków migdałów
+* pralinki Raffaello
+
+|
+== Przygotowanie
+
+=== Biszkopt
+
+Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.
+
+Mąkę przesiej do miski razem z proszkiem do pieczenia, wymieszaj dokładnie.
+
+Białka oddziel od żółtek i ubij na pianę. W połowie ubijania zacznij dodawać stopniowo cukier z cukrem z wanilią, małymi partiami.
+
+Ubijaj do całkowitego rozpuszczenia cukru, aż powstanie gęsta piana.
+
+Następnie wlej wodę i ciągle ubijaj do połączenia składników.
+
+Nie przerywając ubijania, dodawaj kolejno żółtka i miksuj na jednolitą masę.
+
+Na koniec na najmniejszych obrotach lub przy pomocy szpatuły wmieszaj w 2-3 turach suche składniki.
+
+Gotową masę przełóż do formy, wyrównaj i wstaw do nagrzanego piekarnika.
+
+Piecz około 40-45 minut do suchego patyczka.
+
+Po upieczeniu wyjmij z piekarnika, uderz lekko dnem formy o blat (połóż na nim ściereczkę) i odstaw do wystudzenia.
+
+Biszkopt wyjmij z formy dopiero po całkowitym wystudzeniu.
+
+Najlepiej przygotuj biszkopt kilka godzin lub dzień wcześniej, łatwiej go wtedy pokroić.
+
+=== Przełożenie
+
+250 ml mleka przelej do garnka i zagotuj. W pozostałej ilości mleka wymieszaj budyń i przelej do gotującego się mleka. Gotuj, cały czas mieszając, aż budyń zgęstnieje.
+
+Ugotowany budyń przykryj folią spożywczą na styk i odstaw do wystudzenia.
+
+Wystudzony budyń przełóż do miski, dodaj kajmak i ekstrakt z migdałów.
+
+Zmiksuj na jednolitą masę.
+
+Upieczony biszkopt przekrój na 3 blaty. Przełóż na paterę obrotową. Każdy z nich nasącz ponczem i posmaruj połową porcji kremu budyniowego.
+
+=== Krem
+
+Wodę z malibu zagotuj, dodaj wiórki kokosowe. Przykryj i odstaw do całkowitego wchłonięcia płynu (ewentualny nadmiar odciśnij).
+
+Cukier puder wymieszaj z śmietan fixem. Serek umieść w misce, dodaj śmietankę, zmiksuj pod koniec dodając cukier puder z fixem. Na końcu delikatnie wmieszaj wiórki.
+
+Połowę porcji kremu rozsmaruj na kremie budyniowym.
+
+Drugi blat również nasącz, nałóż krem budyniowy oraz śmietankowy. Przykryj trzecim blatem.
+
+=== Krem maślany (tynk)
+
+Miękkie masło ubij na jasny, puszysty krem. 
+
+Na koniec przelej, cały czas miksując, mleczko skondensowane, ubijaj do połączenia się składników.
+
+Na koniec, przy użyciu silikonowe szpatuły mieszaj krem maślany, by pozbyć się pęcherzyków powietrza.
+
+Otynkuj tort przy pomocy skrobki. Po pierwszej warstwie odstaw do lodówki.
+
+Migdały w płatkach upraż na rozgrzanej patelni.
+
+Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozostałą część kremu przełóż do worka z ozdobną końcówką i udekoruj tort. Do ozdoby użyj pralinek Raffaello oraz pokruszonych płatków migdałów.
+
+|===
+
+[.text-center]
+== Zdjęcia
+image::/Recipes/static/images/20240530_115153.jpg[]
+image::/Recipes/static/images/20240530_115148.jpg[]
+image::/Recipes/static/images/20240530_115143.jpg[]
