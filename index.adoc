@@ -7,18 +7,18 @@
 
 1. link:Przepisy/Dania_glowne/biała_ryba_na_parze.html[Biała ryba na parze]
 2. link:Przepisy/Dania_glowne/bigos.html[Bigos]
-3. link:Przepisy/Dania_glowne/buraki_po_burgundzku.html[Buraki po burgundzku]
+3. link:Przepisy/Dania_glowne/buraki_po_burgundzku.html[Buraki po burgundzku]🌱
 4. link:Przepisy/Dania_glowne/burgerki.html[Burgerki]
 5. link:Przepisy/Dania_glowne/burrito_z_chili_con_carne.html[Burrito z chili con carne]
 6. link:Przepisy/Dania_glowne/butter_chicken.html[Butter chicken]
-7. link:Przepisy/Dania_glowne/chakalaka.html[Chakalaka]
+7. link:Przepisy/Dania_glowne/chakalaka.html[Chakalaka]🌱
 8. link:Przepisy/Dania_glowne/chili_con_carne.html[Chili con carne]
-9. link:Przepisy/Dania_glowne/ciasto_na_pizzę_iii.html[Ciasto na pizzę iii]
-10. link:Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html[Ciecierzyca po bretońsku]
+9. link:Przepisy/Dania_glowne/ciasto_na_pizzę_iii.html[Ciasto na pizzę iii]🌱
+10. link:Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html[Ciecierzyca po bretońsku]🌱
 11. link:Przepisy/Dania_glowne/cukinia_faszerowana.html[Cukinia faszerowana]
 12. link:Przepisy/Dania_glowne/cukinie_z_chili_con_carne.html[Cukinie z chili con carne]
-13. link:Przepisy/Dania_glowne/curry_z_kalafiora.html[Curry z kalafiora]
-14. link:Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html[Dal z soczewicy z sri lanki]
+13. link:Przepisy/Dania_glowne/curry_z_kalafiora.html[Curry z kalafiora]🌱
+14. link:Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html[Dal z soczewicy z sri lanki]🌱
 15. link:Przepisy/Dania_glowne/devolaye.html[Devolaye]
 16. link:Przepisy/Dania_glowne/domowa_pizza.html[Domowa pizza]
 17. link:Przepisy/Dania_glowne/domowy_kebab.html[Domowy kebab]
@@ -28,7 +28,7 @@
 21. link:Przepisy/Dania_glowne/dorsz_w_sosie_curry.html[Dorsz w sosie curry]
 22. link:Przepisy/Dania_glowne/dziwne_łukaszkowe_danie.html[Dziwne łukaszkowe danie]
 23. link:Przepisy/Dania_glowne/enchilada_z_kurczakiem.html[Enchilada z kurczakiem]
-24. link:Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html[Falafel humus i świeże warzywa]
+24. link:Przepisy/Dania_glowne/falafel_humus_i_świeże_warzywa.html[Falafel humus i świeże warzywa]🌱
 25. link:Przepisy/Dania_glowne/fasolka_po_bretońsku.html[Fasolka po bretońsku]
 26. link:Przepisy/Dania_glowne/fish_&_chips_z_sosem_tatarskim.html[Fish & chips z sosem tatarskim]
 27. link:Przepisy/Dania_glowne/gołąbki.html[Gołąbki]
@@ -39,14 +39,14 @@
 32. link:Przepisy/Dania_glowne/kaczka_po_wietnamsku.html[Kaczka po wietnamsku]
 33. link:Przepisy/Dania_glowne/kaczka_z_jabłkami_żurawiną_i_rozmarynem.html[Kaczka z jabłkami żurawiną i rozmarynem]
 34. link:Przepisy/Dania_glowne/karkówka_smażona_z_przyprawami.html[Karkówka smażona z przyprawami]
-35. link:Przepisy/Dania_glowne/kaszotto_z_grzybami_leśnymi.html[Kaszotto z grzybami leśnymi]
+35. link:Przepisy/Dania_glowne/kaszotto_z_grzybami_leśnymi.html[Kaszotto z grzybami leśnymi]🌱
 36. link:Przepisy/Dania_glowne/kaszotto_z_indykiem_fasolką_i_cukinią.html[Kaszotto z indykiem fasolką i cukinią]
-37. link:Przepisy/Dania_glowne/kaszotto_z_kurkami.html[Kaszotto z kurkami]
+37. link:Przepisy/Dania_glowne/kaszotto_z_kurkami.html[Kaszotto z kurkami]🌱
 38. link:Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym.html[Klopsiki z pieczarkami w sosie pomidorowym]
 39. link:Przepisy/Dania_glowne/klopsy.html[Klopsy]
-40. link:Przepisy/Dania_glowne/kopytka.html[Kopytka]
+40. link:Przepisy/Dania_glowne/kopytka.html[Kopytka]🌱
 41. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku]
-42. link:Przepisy/Dania_glowne/krokiety_z_kapustą_i_grzybami.html[Krokiety z kapustą i grzybami]
+42. link:Przepisy/Dania_glowne/krokiety_z_kapustą_i_grzybami.html[Krokiety z kapustą i grzybami]🌱
 43. link:Przepisy/Dania_glowne/krokiety_z_pieczarkami.html[Krokiety z pieczarkami]
 44. link:Przepisy/Dania_glowne/kukurydziane_placuszki_z_ryb_i_krewetek.html[Kukurydziane placuszki z ryb i krewetek]
 45. link:Przepisy/Dania_glowne/kurczak_hoisin.html[Kurczak hoisin]
@@ -55,9 +55,9 @@
 48. link:Przepisy/Dania_glowne/kurczak_z_porami_puree_ziemniaczane.html[Kurczak z porami puree ziemniaczane]
 49. link:Przepisy/Dania_glowne/lasagne_bolognese.html[Lasagne bolognese]
 50. link:Przepisy/Dania_glowne/leczo.html[Leczo]
-51. link:Przepisy/Dania_glowne/leczo_wegetariańskie.html[Leczo wegetariańskie]
-52. link:Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html[Makaronowa sałatka warstwowa]
-53. link:Przepisy/Dania_glowne/mielone_kalafiorowe.html[Mielone kalafiorowe]
+51. link:Przepisy/Dania_glowne/leczo_wegetariańskie.html[Leczo wegetariańskie]🌱
+52. link:Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html[Makaronowa sałatka warstwowa]🌱
+53. link:Przepisy/Dania_glowne/mielone_kalafiorowe.html[Mielone kalafiorowe]🌱
 54. link:Przepisy/Dania_glowne/naleśniki_z_kurczakiem.html[Naleśniki z kurczakiem]
 55. link:Przepisy/Dania_glowne/nugetsy_z_kurczaka.html[Nugetsy z kurczaka]
 56. link:Przepisy/Dania_glowne/pad_gra_prow_z_wołowiną.html[Pad gra prow z wołowiną]
@@ -67,26 +67,26 @@
 60. link:Przepisy/Dania_glowne/papryka_faszerowana.html[Papryka faszerowana]
 61. link:Przepisy/Dania_glowne/pałki_z_kurczaka_pieczone.html[Pałki z kurczaka pieczone]
 62. link:Przepisy/Dania_glowne/pieczone_udko_gęsi.html[Pieczone udko gęsi]
-63. link:Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html[Pieczony kalafior z ciecierzycą]
+63. link:Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html[Pieczony kalafior z ciecierzycą]🌱
 64. link:Przepisy/Dania_glowne/pierogi_gyoza.html[Pierogi gyoza]
-65. link:Przepisy/Dania_glowne/pierogi_leniwe.html[Pierogi leniwe]
-66. link:Przepisy/Dania_glowne/pierogi_z_kapustą_i_grzybami.html[Pierogi z kapustą i grzybami]
+65. link:Przepisy/Dania_glowne/pierogi_leniwe.html[Pierogi leniwe]🌱
+66. link:Przepisy/Dania_glowne/pierogi_z_kapustą_i_grzybami.html[Pierogi z kapustą i grzybami]🌱
 67. link:Przepisy/Dania_glowne/pierogi_z_mięsem.html[Pierogi z mięsem]
 68. link:Przepisy/Dania_glowne/pierś_z_kaczki.html[Pierś z kaczki]
 69. link:Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html[Pierś z kaczki z sosem pomarańczowym]
 70. link:Przepisy/Dania_glowne/placek_po_węgiersku.html[Placek po węgiersku]
-71. link:Przepisy/Dania_glowne/placki_z_cukinii.html[Placki z cukinii]
+71. link:Przepisy/Dania_glowne/placki_z_cukinii.html[Placki z cukinii]🌱
 72. link:Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html[Potrawka z udka kurczaka z warzywami]
 73. link:Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html[Pstrąg pieczony w całości]
 74. link:Przepisy/Dania_glowne/pulpety_w_sosie_koperkowym.html[Pulpety w sosie koperkowym]
-75. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem]
+75. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem]🌱
 76. link:Przepisy/Dania_glowne/quesadilla.html[Quesadilla]
 77. link:Przepisy/Dania_glowne/quesadilla_2.html[Quesadilla 2]
 78. link:Przepisy/Dania_glowne/quesadilla_3.html[Quesadilla 3]
 79. link:Przepisy/Dania_glowne/quesadilla_4.html[Quesadilla 4]
-80. link:Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html[Quinotto z czerwoną fasolą i papryką]
-81. link:Przepisy/Dania_glowne/ratatuj.html[Ratatuj]
-82. link:Przepisy/Dania_glowne/risotto_primavera.html[Risotto primavera]
+80. link:Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html[Quinotto z czerwoną fasolą i papryką]🌱
+81. link:Przepisy/Dania_glowne/ratatuj.html[Ratatuj]🌱
+82. link:Przepisy/Dania_glowne/risotto_primavera.html[Risotto primavera]🌱
 83. link:Przepisy/Dania_glowne/risotto_z_szpinakiem_i_krewetkami.html[Risotto z szpinakiem i krewetkami]
 84. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html[Roladki z kurczaka z serem i papryką pieczone w boczku]
 85. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html[Roladki z kurczaka z serem pieczarkami pieczone w boczku]
@@ -98,7 +98,7 @@
 91. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu]
 92. link:Przepisy/Dania_glowne/schabowy_z_kurczaka.html[Schabowy z kurczaka]
 93. link:Przepisy/Dania_glowne/schab_nadziewany_mozarellą_i_pieczarkami.html[Schab nadziewany mozarellą i pieczarkami]
-94. link:Przepisy/Dania_glowne/seleryba.html[Seleryba]
+94. link:Przepisy/Dania_glowne/seleryba.html[Seleryba]🌱
 95. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie.html[Skrzydełka w miodzie]
 96. link:Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html[Stek z sosem béarnaise i szparagami]
 97. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami]
@@ -107,8 +107,8 @@
 100. link:Przepisy/Dania_glowne/szwedzkie_klopsiki.html[Szwedzkie klopsiki]
 101. link:Przepisy/Dania_glowne/tortilki_ser_bekon_ala_kfc.html[Tortilki ser bekon ala kfc]
 102. link:Przepisy/Dania_glowne/tortille.html[Tortille]
-103. link:Przepisy/Dania_glowne/warzywka_z_piekarnika.html[Warzywka z piekarnika]
-104. link:Przepisy/Dania_glowne/wegeburgerki.html[Wegeburgerki]
+103. link:Przepisy/Dania_glowne/warzywka_z_piekarnika.html[Warzywka z piekarnika]🌱
+104. link:Przepisy/Dania_glowne/wegeburgerki.html[Wegeburgerki]🌱
 105. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku.html[Wieprzowina po chińsku]
 106. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html[Wieprzowina po chińsku z mango]
 107. link:Przepisy/Dania_glowne/wołowina_po_burgundzku.html[Wołowina po burgundzku]
@@ -123,67 +123,67 @@
 116. link:Przepisy/Dania_glowne/ziemniaki_faszerowane.html[Ziemniaki faszerowane]
 117. link:Przepisy/Dania_glowne/zrazy_wołowe.html[Zrazy wołowe]
 118. link:Przepisy/Dania_glowne/ćwiartki_pieczone.html[Ćwiartki pieczone]
-119. link:Przepisy/Dania_glowne/łatwe_kimchi.html[Łatwe kimchi]
+119. link:Przepisy/Dania_glowne/łatwe_kimchi.html[Łatwe kimchi]🌱
 120. link:Przepisy/Dania_glowne/łosoś_z_sosem_koperkowym.html[Łosoś z sosem koperkowym]
 121. link:Przepisy/Dania_glowne/żeberka_w_miodzie.html[Żeberka w miodzie]
 
 == Desery
 
-1. link:Przepisy/Desery/brownie.html[Brownie]
-2. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy]
-3. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami]
-4. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe]
-5. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec]
-6. link:Przepisy/Desery/kokosanka.html[Kokosanka]
-7. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik]
-8. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami]
-9. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami]
-10. link:Przepisy/Desery/pierniczki.html[Pierniczki]
-11. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami]
-12. link:Przepisy/Desery/sernik.html[Sernik]
-13. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy]
-14. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik]
-15. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa]
-16. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy]
-17. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello]
-18. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy]
-19. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj]
+1. link:Przepisy/Desery/brownie.html[Brownie]🌱
+2. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy]🌱
+3. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami]🌱
+4. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe]🌱
+5. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec]🌱
+6. link:Przepisy/Desery/kokosanka.html[Kokosanka]🌱
+7. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik]🌱
+8. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami]🌱
+9. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami]🌱
+10. link:Przepisy/Desery/pierniczki.html[Pierniczki]🌱
+11. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami]🌱
+12. link:Przepisy/Desery/sernik.html[Sernik]🌱
+13. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy]🌱
+14. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik]🌱
+15. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa]🌱
+16. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy]🌱
+17. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello]🌱
+18. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy]🌱
+19. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj]🌱
 
 == Makarony
 
 1. link:Przepisy/Makarony/bucatini_alla_amatriciana.html[Bucatini alla amatriciana]
 2. link:Przepisy/Makarony/cannelloni.html[Cannelloni]
-3. link:Przepisy/Makarony/makaron_aglio_olio_z_pomidorkami.html[Makaron aglio olio z pomidorkami]
+3. link:Przepisy/Makarony/makaron_aglio_olio_z_pomidorkami.html[Makaron aglio olio z pomidorkami]🌱
 4. link:Przepisy/Makarony/makaron_carbonara.html[Makaron carbonara]
 5. link:Przepisy/Makarony/makaron_chiński_z_krewetkami.html[Makaron chiński z krewetkami]
 6. link:Przepisy/Makarony/makaron_w_sosie_słodko_kwaśnym.html[Makaron w sosie słodko kwaśnym]
 7. link:Przepisy/Makarony/makaron_zapiekany_z_boczkiem_i_cukinią.html[Makaron zapiekany z boczkiem i cukinią]
-8. link:Przepisy/Makarony/makaron_ze_szpinakiem.html[Makaron ze szpinakiem]
-9. link:Przepisy/Makarony/makaron_z_brokułami.html[Makaron z brokułami]
+8. link:Przepisy/Makarony/makaron_ze_szpinakiem.html[Makaron ze szpinakiem]🌱
+9. link:Przepisy/Makarony/makaron_z_brokułami.html[Makaron z brokułami]🌱
 10. link:Przepisy/Makarony/makaron_z_krewetkami.html[Makaron z krewetkami]
-11. link:Przepisy/Makarony/makaron_z_pesto.html[Makaron z pesto]
-12. link:Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html[Makaron z pieczonymi pomidorami]
+11. link:Przepisy/Makarony/makaron_z_pesto.html[Makaron z pesto]🌱
+12. link:Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html[Makaron z pieczonymi pomidorami]🌱
 13. link:Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html[Noodle z krewetkami po koreańsku]
 14. link:Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html[Noodle z mielonym mięsem drobiowym]
-15. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma]
-16. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese]
+15. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma]🌱
+16. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese]🌱
 17. link:Przepisy/Makarony/ragu_alla_bolonese.html[Ragu alla bolonese]
 18. link:Przepisy/Makarony/spaghetti_bolognese.html[Spaghetti bolognese]
-19. link:Przepisy/Makarony/spaghetti_napoli.html[Spaghetti napoli]
-20. link:Przepisy/Makarony/spaghetti_pomodoro.html[Spaghetti pomodoro]
+19. link:Przepisy/Makarony/spaghetti_napoli.html[Spaghetti napoli]🌱
+20. link:Przepisy/Makarony/spaghetti_pomodoro.html[Spaghetti pomodoro]🌱
 
 == Przetwory
 
-1. link:Przepisy/Przetwory/kompot_czeresniowy.html[Kompot czeresniowy]
-2. link:Przepisy/Przetwory/nalewka_z_kwiatów_bzu.html[Nalewka z kwiatów bzu]
+1. link:Przepisy/Przetwory/kompot_czeresniowy.html[Kompot czeresniowy]🌱
+2. link:Przepisy/Przetwory/nalewka_z_kwiatów_bzu.html[Nalewka z kwiatów bzu]🌱
 
 == Przystawki
 
-1. link:Przepisy/Przystawki/jajecznica.html[Jajecznica]
+1. link:Przepisy/Przystawki/jajecznica.html[Jajecznica]🌱
 2. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli]
 3. link:Przepisy/Przystawki/rozczyn.html[Rozczyn]
 4. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia]
-5. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki]
+5. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki]🌱
 6. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar]
 
 == Salatki

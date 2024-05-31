@@ -1,4 +1,4 @@
-= Pęczotto z burakami i kozim serem +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+= Pęczotto z burakami i kozim serem 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
 
 [cols=".<a,.<a"]
 [frame=none]
