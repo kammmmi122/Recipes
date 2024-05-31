@@ -12,7 +12,7 @@
 5. link:Przepisy/Dania_glowne/burrito_z_chili_con_carne.html[Burrito z chili con carne]
 6. link:Przepisy/Dania_glowne/butter_chicken.html[Butter chicken]
 7. link:Przepisy/Dania_glowne/chakalaka.html[Chakalaka]🌱
-8. link:Przepisy/Dania_glowne/chili_con_carne.html[Chili con carne]
+8. link:Przepisy/Dania_glowne/chili_con_carne.html[Chili con carne]🔥
 9. link:Przepisy/Dania_glowne/ciasto_na_pizzę_iii.html[Ciasto na pizzę iii]🌱
 10. link:Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html[Ciecierzyca po bretońsku]🌱
 11. link:Przepisy/Dania_glowne/cukinia_faszerowana.html[Cukinia faszerowana]
@@ -45,7 +45,7 @@
 38. link:Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym.html[Klopsiki z pieczarkami w sosie pomidorowym]
 39. link:Przepisy/Dania_glowne/klopsy.html[Klopsy]
 40. link:Przepisy/Dania_glowne/kopytka.html[Kopytka]🌱
-41. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku]🐟
+41. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku]🐟 🔥
 42. link:Przepisy/Dania_glowne/krokiety_z_kapustą_i_grzybami.html[Krokiety z kapustą i grzybami]🌱
 43. link:Przepisy/Dania_glowne/krokiety_z_pieczarkami.html[Krokiety z pieczarkami]
 44. link:Przepisy/Dania_glowne/kukurydziane_placuszki_z_ryb_i_krewetek.html[Kukurydziane placuszki z ryb i krewetek]🐟
@@ -91,7 +91,7 @@
 84. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html[Roladki z kurczaka z serem i papryką pieczone w boczku]
 85. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html[Roladki z kurczaka z serem pieczarkami pieczone w boczku]
 86. link:Przepisy/Dania_glowne/ryba_z_porami.html[Ryba z porami]🐟
-87. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro]🐟
+87. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro]🐟 🔥
 88. link:Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html[Ryż z warzywami chińskimi i kurczakiem]
 89. link:Przepisy/Dania_glowne/sajgonki.html[Sajgonki]
 90. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą]
@@ -123,7 +123,7 @@
 116. link:Przepisy/Dania_glowne/ziemniaki_faszerowane.html[Ziemniaki faszerowane]
 117. link:Przepisy/Dania_glowne/zrazy_wołowe.html[Zrazy wołowe]
 118. link:Przepisy/Dania_glowne/ćwiartki_pieczone.html[Ćwiartki pieczone]
-119. link:Przepisy/Dania_glowne/łatwe_kimchi.html[Łatwe kimchi]🌱
+119. link:Przepisy/Dania_glowne/łatwe_kimchi.html[Łatwe kimchi]🌱 🔥
 120. link:Przepisy/Dania_glowne/łosoś_z_sosem_koperkowym.html[Łosoś z sosem koperkowym]
 121. link:Przepisy/Dania_glowne/żeberka_w_miodzie.html[Żeberka w miodzie]
 
