@@ -1,5 +1,7 @@
 import os
 
+symbols = ["🌱"]
+
 
 def in_path(path):
     in_path_var = False
@@ -49,10 +51,18 @@ def create_index_adoc():
                 path_to_html = os.path.join(
                     path.replace(".\\", ""), name.replace("adoc", "html")
                 ).replace("\\", "/")
+                
                 title = name.replace("_", " ").capitalize().replace(".adoc", "")
-
+                tags = []
+                with open(os.path.join(path, name), "r+", encoding="utf8") as ascii_file:
+                    ascii_text = ascii_file.read()
+                     
+                    for symbol in symbols:
+                        if ascii_text.find(symbol) != -1:
+                            tags.append(symbol)
+                
                 with open(f"index.adoc", "a+", encoding="utf8") as file:
-                    file.write(f"{index}. link:{path_to_html}[{title}]\n")
+                    file.write(f"{index}. link:{path_to_html}[{title}]{' '.join(tags)}\n")
 
 
 if __name__ == "__main__":
