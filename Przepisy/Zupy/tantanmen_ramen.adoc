@@ -1,0 +1,106 @@
+= Tantanmen ramen +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 5 h
+* 2 porcje
+* https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
+
+== Składniki
+
+=== Bulion
+* 3 duże marchewki
+* 2 pietruszki
+* 1 mały seler
+* 2-3 cebule (bez znaczenia jakie)
+* 1 mały por
+* 3 łyżki oleju roślinnego dobrej jakości
+* 1/2 pęczku natki pietruszki
+* 1 listek Kombu (glony morskie)
+* 3 cm kawałek imbiru
+* 1/2 czerwonej papryczki chili lub innej
+* 2-3 gwiazdki anyżu
+* 5 ząbków czosnku, zmiażdżonych
+
+* 300 ml mleka kokosowego albo innego roślinnego
+* 1-2 łyżeczki sosu sojowego
+
+=== Tare (serce ramenu):
+* 4 łyżeczki tahini
+* 2 łyżeczki sosu sojowego
+* 1 łyżeczka oleju chilli lub więcej
+* 1 łyżeczka cukru
+
+=== Mięso:
+* 1 opakowanie mielonej wołowiny (ok. 200 g)
+* 1 łyżeczka pasty chilli, imbir i czosnek (zmiksuj 3 cm kawałek imbiru, 1/2 chilli i 2 ząbki czosnku)
+* 1 łyżeczka oleju chilli do smażenia
+* 1 łyżeczka oleju roślinnego do smażenia
+* 1 łyżeczka sosu sojowego do smaku
+* opcjonalnie szczypta cukru lub innego słodzika.
+
+=== Pozostałe składniki:
+* 2 porcje makaronu do ramenu
+* 2 jajka
+* Do gotowania: sól i ocet, które zapobiega pęknięciu
+* 8 brązowych pieczarek
+* 1 łyżeczka sosu sojowego
+* 1/2 pęczka szczypiorku
+* 2 garści szpinaku.
+
+=== Do dekoracji:
+* Olej chili
+* Prażony sezam
+* Nori.
+
+|
+== Przygotowanie
+
+=== Bulion
+
+Warzywa: marchew, seler, pietruszkę dokładnie myjemy, oczyszczamy. Kroimy pod skosem tak, by mogły wypuścić więcej smaku. Cebulę obieramy i kroimy w ćwiartki.
+
+Rozgrzewamy piekarnik do 220 st. C
+
+Warzywa nacieramy sola, pieprzem i oliwą. Rozkładamy równomiernie na blaszce wyłożonej pergaminem. Pieczemy w rozgrzanym piekarniku przez 20 min. Gdy ładnie się skarmelizują, przekładamy je do 5 L garnka i zalewamy lodowatą wodą. Mniej więcej 1 cm od krawędzi garnka. 
+
+Dodajemy zioła i dodatki: imbir, chilli, natkę pietruszki itp. Powolne gotowanie uwolni z warzyw maksymalną ilość smaku.
+
+Na lekko rozgrzaną patelnię wrzucamy suche przyprawy, takie jak np.: ziele angielskie, pieprz, kolendrę, anyż, kozieradkę. Prażymy ok. 3-5 min do momentu, aż zaczną wydzielać olejki eteryczne. Przesypujemy je do bulionu. Gotujemy bulion na małym ogniu, bez przykrycia, przez ok. 2-3 godziny. Im dłużej będzie się gotować, tym lepiej.
+
+Gdy bulion jest gotowy, przecedzamy go przez sito. Teraz możemy doprawić go solą lub sosem sojowym i zjeść w formie rosołu. Możemy go również nie przyprawiać i używać go do zup, podlewania warzyw na patelni.
+
+Jeśli nie wykorzystamy całego bulionu od razu, śmiało można zamrozić go w mniejszych porcjach. Ja używam do tego woreczków strunowych z Ikei, plastikowych lub szklanych pojemników.
+
+Bulion po wystygnięciu chowamy do lodówki. Wytrzyma spokojnie 2-3 dni.
+
+=== Ramen
+
+Bulion gotujemy najlepiej dzień wcześniej. W garnku zagotowujemy bulion, dodajmy mleko roślinne i doprawiamy sosem sojowym.
+
+W miseczce mieszamy składniki na tare.
+
+Na patelni podgrzewamy dwa rodzaje oleju i dorzucamy przygotowaną pastę z chilli, imbiru i czosnku. Smażymy przez 1 minutę i dodajemy mielone tofu. Jeśli używany w kawałku to możemy je zetrzeć na tarce o grubych oczkach. Doprawiamy sosem sojowym i cukrem do smaku.
+
+Na patelnie z niewielką ilością tłuszczu wrzucamy pokrojone w plastry pieczarki. Smażymy na złoto. Na koniec podlewamy delikatnie sosem sojowym.
+
+Jajka wsadzamy do wrzątku z dodatkiem 1 łyżeczki octu i 1 łyżeczki soli. Gotujemy 6 min i wkładamy do miski z lodem/ zimną wodą.
+
+Szczypiorek kroimy cienko pod skosem.
+
+Makaron gotujemy zgodnie z instrukcją. Jeśli zrobimy to za wcześnie, to warto go przelać zimną wodą. Później przed podaniem przelej go wrzątkiem lub zamocz go na sitku w gotującym się bulionie.
+
+Miskę zalewamy wrzątkiem na 5 min przed podaniem Ramenu. Dzięki temu Ramen będzie ciepły.
+
+Na spod miski nakładamy 2-3 łyżeczki tare i zalewamy trochę bulionem, mieszamy i zalewamy ponownie. Próbujemy. W razie potrzeby dodajemy kolejną łyżeczkę tare.
+
+Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe składniki.
+
+|===
+
+[.text-center]
+== Zdjęcia
