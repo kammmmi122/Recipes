@@ -115,6 +115,7 @@ nowe - Wątróbka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/w�
 nowe - Zapiekanka makaronowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa.html
 nowe - Zapiekanka makaronowa 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa_2.html
 nowe - Zapiekanka makaronowa ze szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_makaronowa_ze_szparagami.html
+nowe - Zapiekanka pasterska; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_pasterska.html
 nowe - Zapiekanka ziemniaczana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_ziemniaczana.html
 nowe - Zapiekanka łukaszkowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html
 nowe - Zapiekanki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zapiekanki.html
@@ -206,6 +207,7 @@ Zupy
 nowe - Francuska zupa cebulowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/francuska_zupa_cebulowa.html
 nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html
 nowe - Ramen shoyu; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/ramen_shoyu.html
+nowe - Tantanmen ramen; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/tantanmen_ramen.html
 nowe - Zupa barszcz z uszkami; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_barszcz_z_uszkami.html
 nowe - Zupa brokułowa z ryżem i koperkiem; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html
 nowe - Zupa buraczkowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zupa_buraczkowa.html
