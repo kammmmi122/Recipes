@@ -1,0 +1,68 @@
+= Zapiekanka pasterska +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1,5 h
+* 6 porcje
+* https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
+
+== Składniki
+=== Mięso mielone z warzywami
+* 600 g mielonej jagnięciny lub wołowiny
+* 100 g mrożonego groszku
+* 100 g marchewki - może być mrożona
+* 100 g kukurydzy konserwowej
+* 200 g cebuli - 2 mniejsze sztuki
+* 2 łyżki koncentratu pomidorowego - do 50 g
+* 2 ząbki czosnku - około 10 g
+* 2 łyżki oliwy lub innego oleju do smażenia
+* 1 łyżka mąki pszennej - do 15 g
+* 1 łyżka sosu worcestershire - można pominąć
+* przyprawy: po pół łyżeczki soli, tymianku, rozmarynu; 1/3 łyżeczki pieprzu
+* 100 ml wody
+* kostka wołowa
+* 150 ml czerwonego wina
+
+=== Puree ziemniaczane
+* około 1200 g ziemniaków - waga przed obraniem
+* 100 g masła - pół klasycznej kostki
+* 50 ml mleka - około 1/5 szklanki
+* 20 g tartego parmezanu - lub więcej
+* po sporej szczypcie soli i pieprzu
+
+|
+== Przygotowanie
+Około 1200 gramów ziemniaków (najlepiej typ B lub C) obierz cienko i ugotuj do miękkości w lekko osolonej wodzie.
+
+Nagrzej dużą patelnię z grubym dnem. Wylej 2 łyżki oliwy lub innego oleju do smażenia. Na gorący tłuszcz wyłóż obraną i drobno posiekaną cebulę. Podsmażaj ją na średniej mocy palnika przez około 5-7 minut, do zeszklenia i lekkiego zarumienienia. Podsmaż cebulę
+
+Po tym czasie na patelnię wyłóż chudą, mieloną jagnięcinę, baraninę lub ewentualnie wołowinę (zmieliłam zrazówkę) o wadze około 500 gramów. Dodaj też przyprawy, czyli po pół łyżeczki soli, tymianku, rozmarynu oraz 1/3 łyżeczki pieprzu. Całość podsmażaj około 5 minut, mieszając zawartość patelni, by rozdrobnić mięso. 
+
+Po tym czasie na patelnię wyłóż też marchew pokrojoną w mniejszą kostkę (świeża lub mrożona) oraz dwa, obrane i przepuszczone przez praskę ząbki czosnku. Wymieszaj składniki i smaż przez 10 minut (u mnie bez przykrywki). 
+
+Kolejno dodaj również do 50 gramów koncentratu pomidorowego. Przez drobne sitko wsyp też łyżkę mąki pszennej (może być też bezglutenowa owsiana) i mieszaj mięso z warzywami, by nie było grudek. 
+
+Od razu możesz też dodać 100 gramów odsączonej z zalewy kukurydzy konserwowej i tyle samo mrożonego groszku. Wlej też łyżkę sosu worcestershire. Wymieszaj farsz i smaż jeszcze 5 minut. 
+
+Dodaj wodę, kostkę wołową oraz wino. Smaż 10 minut do momentu odparowania wina.
+
+Do zrobienia zapiekanki pasterskiej użyłam głębokiego naczynia żaroodpornego o wymiarach wewnętrznych 18 x 26 cm. Możesz też użyć innego naczynia żaroodpornego o pojemności około 1800-2000 ml.
+
+Zanim na dno formy wyłożysz farsz, najpierw wysmaruj od środka naczynie np. masłem. Farsz wyłóż, wyrównaj i lekko uklep.
+
+Do ziemniaków dodaj 100 gramów masła (można je pokroić dla wygody na małe kawałki) oraz minimum 20 gramów drobno startego parmezanu i po sporej szczypcie soli i pieprzu. Wlej też 50 ml mleka (może być też roślinne - owsiane lub sojowe). Mleko i masło nie powinny być zimne. 
+
+Ugnieć gorące ziemniaki z dodatkami na puree. Możesz użyć do tego specjalnego sitka lub praski. Uważaj jednak na to, by nie ugniatać ziemniaków za długo. Ugotowane ziemniaki nie powinny zrobić się zbyt klejące i maziste. Sprawdź smak puree i zdecyduj, czy dodasz więcej soli lub pieprzu. Można też dorzucić szczyptę gałki muszkatołowej. 
+
+Na warstwę farszu z mięsa i warzyw wyłóż równo jeszcze ciepłe puree ziemniaczane. Wyrównaj powierzchnię, a na koniec wykonaj wzory przy użyciu widelca. Nie jest to konieczne, ale warto zetrzeć też odrobinę zimnego masła, które w piecu roztopi się i sprawi, że zapiekanka ładniej się zarumieni. 
+
+Formę umieść w piekarniku nagrzanym do 180 stopni. Wybierz środkową półkę z opcją pieczenia góra/dół (jeśli masz małą komorę piekarnika i grzałki od góry, to naczynie umieść na półce niżej). Z termoobiegiem ustaw 170 stopni. Zapiekę pasterską zapiekaj bez przykrycia przez około 20-25 minut. Po 10 minutach zapiekania obserwuj jednak zapiekankę. Jeśli przypieka się za mocno, to obniż temperaturę lub umieść ją o piętro niżej. Upieczoną można od razu wyjąć z piekarnika i podawać. 
+
+|===
+
+[.text-center]
+== Zdjęcia
