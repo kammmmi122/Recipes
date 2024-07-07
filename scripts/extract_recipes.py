@@ -4,13 +4,9 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
 from enum import Enum
 
-KW_INGREDIENTS_TAG = (
-    "div.field.field-name-field-skladniki.field-type-text-long.field-label-hidden ul"
-)
+KW_INGREDIENTS_TAG = "div.field.field-name-field-skladniki.field-type-text-long.field-label-hidden ul"
 KW_RECIPE_TEXT_TAG = "div.group-przepis.field-group-div div ul"
-KW_PORTION = (
-    "div.field.field-name-field-ilosc-porcji.field-type-text.field-label-hidden"
-)
+KW_PORTION = "div.field.field-name-field-ilosc-porcji.field-type-text.field-label-hidden"
 
 AG_INGREDIENTS_TAG = "#recipeIngredients ul"
 AG_RECIPE_TEXT_TAG = ".article-content-body"
@@ -44,9 +40,7 @@ class Webpages(Enum):
     MW = "mojewypieki"
 
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"
-}
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3"}
 
 
 def clear_text(text):
@@ -98,36 +92,22 @@ def get_recipe_ingredients(link):
         ingredients_many = soup.select(selector)
         for ingredients in ingredients_many:
             if Webpages.J.value in link:
-                list_of_ingredients = [
-                    clear_text(ingredient)
-                    for ingredient in ingredients.text.split("\n")
-                ]
+                list_of_ingredients = [clear_text(ingredient) for ingredient in ingredients.text.split("\n")]
             elif Webpages.ZZ.value in link:
                 list_of_ingredients = []
 
-                list_of_ingredients_name = ingredients.select(
-                    "div.mg-span.recipe-ingredient-name"
-                )
+                list_of_ingredients_name = ingredients.select("div.mg-span.recipe-ingredient-name")
 
-                list_of_ingredients_units = ingredients.select(
-                    "div.mg-span.recipe-ingredient-unit"
-                )
+                list_of_ingredients_units = ingredients.select("div.mg-span.recipe-ingredient-unit")
 
-                for unit, name in zip(
-                    list_of_ingredients_units, list_of_ingredients_name
-                ):
+                for unit, name in zip(list_of_ingredients_units, list_of_ingredients_name):
                     unit_text = "".join(clear_text(unit.text).lower().split("\n"))
                     name_text = "".join(clear_text(name.text).lower().split("\n"))
                     list_of_ingredients.append(unit_text + " " + name_text)
 
             else:
-                list_of_ingredients = [
-                    clear_text(ingredient.text)
-                    for ingredient in ingredients.select("li")
-                ]
-            ingredients_text += "\n".join(
-                f"* {ingredient}" for ingredient in list_of_ingredients
-            )
+                list_of_ingredients = [clear_text(ingredient.text) for ingredient in ingredients.select("li")]
+            ingredients_text += "\n".join(f"* {ingredient}" for ingredient in list_of_ingredients)
             ingredients_text += "\n"
     return ingredients_text
 
@@ -161,13 +141,9 @@ def get_recipe_text(link):
         texts_many = soup.select(selector)
         for texts in texts_many:
             if Webpages.AG.value or Webpages.ZZ.value or Webpages.KL.value in link:
-                list_of_recipe_text = [
-                    clear_text(text) for text in texts.text.split("\n")
-                ]
+                list_of_recipe_text = [clear_text(text) for text in texts.text.split("\n")]
             else:
-                list_of_recipe_text = [
-                    clear_text(text.text) for text in texts.select("li")
-                ]
+                list_of_recipe_text = [clear_text(text.text) for text in texts.select("li")]
             recipe_text += "\n".join(list_of_recipe_text)
     return recipe_text
 
@@ -209,15 +185,10 @@ def get_link(text, pattern):
 
 def create_files(text, should_file_be_created):
     list_of_recipes = text.split("\n")
-    list_of_names = [
-        (name.split(";")[0]).split("-")[-1].strip() for name in list_of_recipes
-    ]
+    list_of_names = [(name.split(";")[0]).split("-")[-1].strip() for name in list_of_recipes]
 
     list_of_links = [name.split(";")[-1] for name in list_of_recipes]
-    list_of_files = [
-        name.lower().replace(" ", "_").replace("/", "_").replace(",", "")
-        for name in list_of_names
-    ]
+    list_of_files = [name.lower().replace(" ", "_").replace("/", "_").replace(",", "") for name in list_of_names]
 
     capitalize_case_name = [name.capitalize() for name in list_of_names]
 
@@ -226,18 +197,16 @@ def create_files(text, should_file_be_created):
 
 
 def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
-    for file, link, cap_title in zip(
-        list_of_files, list_of_links, capitalize_case_name
-    ):
+    for file, link, cap_title in zip(list_of_files, list_of_links, capitalize_case_name):
         ingredients_text = get_recipe_ingredients(link)
         recipe_text = get_recipe_text(link)
         potions_text = get_number_of_portions(link)
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            f.write(f"= {cap_title} +++ <label class=\"switch\">  <input data-status=\"off\" type=\"checkbox\" >  <span class=\"slider round\"></span></label>+++ \n\n")
             f.write(
-                '[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n'
+                f'= {cap_title} +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ \n\n'
             )
+            f.write('[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n')
             f.write(f"{potions_text}")
             f.write(f"*{link}[link do źródła przepisu]\n")
             f.write("\n== Składniki\n")
