@@ -1,4 +1,4 @@
-= Nalewka jabłkowa +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+= Nalewka jabłkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
 
 [cols=".<a,.<a"]
 [frame=none]
