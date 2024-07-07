@@ -4,8 +4,9 @@
 #footnotes {
   max-width: none;
 }
+
 td:first-child {
-  border-right: solid 1px #000000;
+  border-right: solid 1px #000;
 }
 
 .switch {
@@ -25,16 +26,13 @@ td:first-child {
 .slider {
   position: absolute;
   cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  inset: 0;
   background-color: #ccc;
-  -webkit-transition: 0.4s;
+  transition: 0.4s;
   transition: 0.4s;
 }
 
-.slider:before {
+.slider::before {
   position: absolute;
   content: "";
   height: 26px;
@@ -42,7 +40,7 @@ td:first-child {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: 0.4s;
+  transition: 0.4s;
   transition: 0.4s;
 }
 
@@ -54,9 +52,9 @@ input:focus + .slider {
   box-shadow: 0 0 1px #2196f3;
 }
 
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
+input:checked + .slider::before {
+  transform: translateX(26px);
+  transform: translateX(26px);
   transform: translateX(26px);
 }
 
@@ -65,6 +63,6 @@ input:checked + .slider:before {
   border-radius: 34px;
 }
 
-.slider.round:before {
+.slider.round::before {
   border-radius: 50%;
 }
