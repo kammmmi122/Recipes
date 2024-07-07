@@ -1,4 +1,4 @@
-= Kurczak z porami +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , puree ziemniaczane
+= Kurczak z porami +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ , puree ziemniaczane
 
 [cols=".<a,.<a"]
 [frame=none]

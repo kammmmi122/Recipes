@@ -1,4 +1,4 @@
-= Quesadilla  +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 3
+= Quesadilla  +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 3
 
 [cols=".<a,.<a"]
 [frame=none]

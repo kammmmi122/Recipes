@@ -1,0 +1,28 @@
+= Nalewka cytrynowa +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 30 minut + 1 miesiąc
+* liczba porcji: około 1,5 l nalewki
+* https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-cytrynowa-najlepsze-przepisy-na-cytrynowke-na-spirytusie-i-na-wodce/[link do źródła przepisu]
+
+== Składniki
+
+* 6 do 8 cytryn (w zależności od wielkości)
+* 0,5 l wódki
+* 1 szklanka wody
+* 1 szklanka cukru
+
+|
+== Przygotowanie
+
+Wodę należy zagotować w garnku, a następnie dodać cukier i gotować, od czas do czasu mieszając - tak, by cukier się rozpuścił. Ze wszystkich cytryn wyciskamy sok, najlepiej przy użyciu wyciskarki, a uprzednio z połowy cytryn ścieramy skórkę. Przygotowaną wcześniej wodę mieszkamy z alkoholem, sokiem, otartą skórką i odstawiamy na co najmniej kilkanaście godzin, a najlepiej na dobę, by składniki mogły dobrze się ze sobą wymieszać. Po tym czasie mieszaninę przecedzamy przez sito i rozlewamy do butelek. Taka domowej roboty szybka nalewka na cytrynie powinna dojrzewać w zacienionym miejscu przez minimum trzy tygodnie. Po tym czasie nadaje się do spożycia.
+
+|===
+
+[.text-center]
+== Zdjęcia

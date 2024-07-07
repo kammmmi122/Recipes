@@ -1,4 +1,4 @@
-= Sałatka warstwowa z szynką +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , jajkiem i serem żółtym
+= Sałatka warstwowa z szynką +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ , jajkiem i serem żółtym
 
 [cols=".<a,.<a"]
 [frame=none]
