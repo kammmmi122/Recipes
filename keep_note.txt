@@ -57,7 +57,6 @@ nowe - Kurczak z porami puree ziemniaczane; https://kammmmi122.github.io/Recipes
 nowe - Lasagne bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/lasagne_bolognese.html
 nowe - Leczo; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo.html
 nowe - Leczo wegetariańskie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo_wegetariańskie.html
-nowe - Makaronowa sałatka warstwowa; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/makaronowa_sałatka_warstwowa.html
 nowe - Mielone kalafiorowe; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/mielone_kalafiorowe.html
 nowe - Naleśniki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/naleśniki_z_kurczakiem.html
 nowe - Nugetsy z kurczaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/nugetsy_z_kurczaka.html
@@ -196,6 +195,7 @@ nowe - Wegański tatar; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki
 
 Salatki
 
+nowe - Makaronowa sałatka warstwowa; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/makaronowa_sałatka_warstwowa.html
 nowe - Sałatka cezar; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_cezar.html
 nowe - Sałatka grecka; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_grecka.html
 nowe - Sałatka gyros; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_gyros.html
