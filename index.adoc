@@ -20,7 +20,7 @@
 13. link:Przepisy/Dania_glowne/curry_z_kalafiora.html[Curry z kalafiora] 🌱
 14. link:Przepisy/Dania_glowne/ćwiartki_pieczone.html[Ćwiartki pieczone]
 15. link:Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html[Dal z soczewicy z sri lanki] 🌱
-16. link:Przepisy/Dania_glowne/devolaye.html[Devolaye]
+16. link:Przepisy/Dania_glowne/dewolaje.html[Dewolaje]
 17. link:Przepisy/Dania_glowne/domowa_pizza.html[Domowa pizza]
 18. link:Przepisy/Dania_glowne/domowy_kebab.html[Domowy kebab]
 19. link:Przepisy/Dania_glowne/domowy_kebab_2.html[Domowy kebab 2]
@@ -105,7 +105,7 @@
 98. link:Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html[Schab nadziewany mozzarellą i pieczarkami]
 99. link:Przepisy/Dania_glowne/seleryba.html[Seleryba] 🌱
 100. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie.html[Skrzydełka w miodzie]
-101. link:Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html[Stek z sosem béarnaise i szparagami]
+101. link:Przepisy/Dania_glowne/stek_z_sosem_bearnaise_i_szparagami.html[Stek z sosem bearnaise i szparagami]
 102. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami]
 103. link:Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html[Szaszłyki z kurczakiem]
 104. link:Przepisy/Dania_glowne/sztuka_mięsa_łee.html[Sztuka mięsa łee]
@@ -170,7 +170,7 @@
 14. link:Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html[Noodle z mielonym mięsem drobiowym]
 15. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma] 🌱
 16. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese] 🌱
-17. link:Przepisy/Makarony/ragu_alla_bolonese.html[Ragu alla bolonese]
+17. link:Przepisy/Makarony/ragu_alla_bolognese.html[Ragu alla bolognese]
 18. link:Przepisy/Makarony/spaghetti_bolognese.html[Spaghetti bolognese]
 19. link:Przepisy/Makarony/spaghetti_napoli.html[Spaghetti napoli] 🌱
 20. link:Przepisy/Makarony/spaghetti_pomodoro.html[Spaghetti pomodoro] 🌱
