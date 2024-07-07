@@ -13,9 +13,8 @@ KW_PORTION = (
 )
 
 AG_INGREDIENTS_TAG = "#recipeIngredients ul"
-AG_RECIPE_TEXT_TAG = "div > p"
+AG_RECIPE_TEXT_TAG = ".article-content-body"
 AG_PORTION = "p.recipe_info"
-
 
 J_INGREDIENTS_TAG = "#RecipeCard > p"
 J_RECIPE_TEXT_TAG = "#RecipeCard > div.hyphenate"
