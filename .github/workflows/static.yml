@@ -30,7 +30,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: [self-hosted]
     steps:
-      - name: Downwload artifact
+      - name: Download artifact
         uses: dawidd6/action-download-artifact@v2.28.0
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}

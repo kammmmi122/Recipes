@@ -18,7 +18,7 @@ nowe - Cukinia faszerowana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_
 nowe - Cukinie z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/cukinie_z_chili_con_carne.html
 nowe - Curry z kalafiora; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/curry_z_kalafiora.html
 nowe - Dal z soczewicy z sri lanki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html
-nowe - Devolaye; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/devolaye.html
+nowe - Dewolaje; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dewolaje.html
 nowe - Domowa pizza; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowa_pizza.html
 nowe - Domowy kebab; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowy_kebab.html
 nowe - Domowy kebab 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowy_kebab_2.html
@@ -100,7 +100,7 @@ nowe - Schabowy z kurczaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_
 nowe - Schab nadziewany mozzarellą i pieczarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html
 nowe - Seleryba; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/seleryba.html
 nowe - Skrzydełka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/skrzydełka_w_miodzie.html
-nowe - Stek z sosem béarnaise i szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html
+nowe - Stek z sosem bearnaise i szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/stek_z_sosem_bearnaise_i_szparagami.html
 nowe - Szare kluski ze skwarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html
 nowe - Szaszłyki z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html
 nowe - Sztuka mięsa łee; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sztuka_mięsa_łee.html
@@ -169,7 +169,7 @@ nowe - Noodle z krewetkami po koreańsku; https://kammmmi122.github.io/Recipes/P
 nowe - Noodle z mielonym mięsem drobiowym; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html
 nowe - Pasta alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/pasta_alla_norma.html
 nowe - Pesto alla trapanese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/pesto_alla_trapanese.html
-nowe - Ragu alla bolonese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/ragu_alla_bolonese.html
+nowe - Ragu alla bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/ragu_alla_bolognese.html
 nowe - Spaghetti bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_bolognese.html
 nowe - Spaghetti napoli; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_napoli.html
 nowe - Spaghetti pomodoro; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/spaghetti_pomodoro.html
