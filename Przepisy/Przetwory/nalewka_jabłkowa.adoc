@@ -1,0 +1,29 @@
+= Nalewka jabłkowa +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 30 minut + 1 miesiąc
+* liczba porcji: około 2,5 l nalewki
+* https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-z-jablek-najlepsze-przepisy-na-nalewke-jablkowa-na-spirytusie/[link do źródła przepisu]
+
+== Składniki
+
+* 1 kg jabłek,
+* 2 szklanki cukru (lub po 1 szklance białego i brązowego),
+* 1 szklanka wody,
+* 3 szklanki wódki (lub 2 szklanki wódki i 1 szklanka innego alkoholu, np. brandy),
+* dodatki do wyboru i łączenia: cynamon, goździki, pół laski wanilii, otarta skórka cytryny.
+
+|
+== Przygotowanie
+
+Z jabłek usuwamy gniazda nasienne i dzielimy je na kawałki, na przykład ćwiartki lun plastry. Tak przygotowane owoce umieszczamy w dużym słoju, wsypujemy wybrane przyprawy i zalewamy wszystko ostudzonym syropem z wody i cukru oraz alkoholem. Tak przygotowaną mieszkankę należy odstawić w zacienione miejsce na kilka tygodni. Po upływie wyznaczonego czasu nalewka z jabłek wymaga zlania, przefiltrowania przez drobne sito lub gazę i rozlania do butelek, by mogła dalej leżakować przez kilka kolejnych tygodni i nabierać smaku.
+
+|===
+
+[.text-center]
+== Zdjęcia

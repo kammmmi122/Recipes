@@ -1,0 +1,30 @@
+= Nalewka gruszkowa +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 30 minut + 1 miesiąc
+* liczba porcji: około 1,5 l nalewki
+* https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-z-gruszek-na-wodce-i-spirytusie-przepisy-krok-po-kroku/[link do źródła przepisu]
+
+== Składniki
+
+* 1 kg dojrzałych i słodkich gruszek,
+* ½ szklanki cukru lub cukru trzcinowego,
+* ½ litra wódki.
+* opcjonalnie: goździki, kawałek laski wanilii, kawałek kory cynamonu, rodzynki, skórka cytryny lub pomarańczy. 
+
+|
+== Przygotowanie
+
+Gruszki należy dokładnie umyć, obrać i wykroić z nich gniazda nasienne. Tak przygotowane owoce kroimy w ósemki lub grubsze plastry i umieszczamy w dużym słoju. Zwartość naczynia zasypujemy cukrem, zakrywamy szczelnie ściereczką obwiązaną sznurkiem i odstawiamy na jeden dzień, by gruszki puściły sok. Po upływie wyznaczonego czasu, dla uzyskania bardziej wyrazistego smaku owoce można dodatkowo rozdrobnić, na przykład przy użyciu blendera.
+
+Kolejny krok to dolanie alkoholu i ewentualnie także wybranych przypraw. Ze smakiem gruszek doskonale komponują się goździki, jednak nie każdy lubi ich specyficzny smak, dlatego z powodzeniem można sięgnąć po inne dodatki. Słój ponownie zamykamy, tym razem szczelnie i odstawiamy a zacienione miejsce na minimum tydzień, od czasu do czasu mieszając. Po upływie wyznaczonego czasu nalewka gruszkowa na wódce wymaga już tylko przefiltrowania przez gazę (drobne sitko może nie zatrzymać charakterystycznych na owoców gruszki drobinek) i przelanie do butelki. Ostawienie jej na minimum miesiąc da gwarancję wybornego smaku, ale jak to w przypadku nalewek jest - im dłuższe leżakowanie, tym dla trunku lepiej.
+
+|===
+
+[.text-center]
+== Zdjęcia

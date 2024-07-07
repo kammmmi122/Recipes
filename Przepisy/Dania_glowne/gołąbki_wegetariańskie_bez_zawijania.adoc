@@ -1,0 +1,58 @@
+= Gołąbki wegetariańskie bez zawijania 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1 godzina
+* liczba porcji: 16 gołąbków
+* https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
+
+== Składniki
+
+* 200 g kleistego ryżu (waga przed ugotowaniem, użyłam tajskiego)
+* 100 g czerwonej soczewicy
+* 100 g masła
+* 1 cebula (u mnie szalotka)
+* 1 marchewka
+* kawałek pora (jasna część)
+* 2 plastry odkrojone z ćwiartki selera
+* 1 nieduża kapusta włoska
+* 250 g boczniaków
+* 1-2 małe jajka
+* przyprawy: sól, pieprz, majeranek, słodka i ostra papryka (u mnie po ok. 1 łyżeczki każdej)
+
+== Sos
+
+* 400 ml bulionu warzywnego lub rosołu
+* 1 łyżka masła
+* 1 cebula
+* 800 g pomidorów w kawałkach bez skórki z passatą
+* sól, pieprz, cukier do smaku
+* pęczek koperku
+
+|
+== Przygotowanie
+
+Ryż gotujemy wraz z czerwoną soczewicą przez 12 minut w podwójnej ilości osolonej wody (przykładowo na 1 szklankę suchych składników odmierzamy 2 szklanki wody). Ryżu i soczewicy nie przepłukujemy wcześniej na sitku! To ważne, by nie wypłukać z nich skrobi. Ryż powinien być raczej odmiany kleistej, niż typowo sypki (jak np. indyjski basmati). Użyłam ryżu tajskiego. Ryż oraz soczewica po ugotowaniu powinny się kleić, by skleić gołąbki.
+
+Warzywa myjemy i obieramy, siekamy bardzo drobno w kosteczkę.
+
+Na patelni rozpuszczamy 50 g masła, ustawiamy na średni ogień. Podsmażamy na nim cebulę do momentu, gdy się zeszkli. Następnie dodajemy pokrojone drobno warzywa: pora, marchewkę, selera i kapustę. W międzyczasie dodajemy trochę masła, by nic się nie przypaliło. Warzywa smażymy ok. 10 minut od włożenia ostatnich składników.
+
+Przekładamy je do garnka z ugotowanym ryżem i soczewicą.
+
+Na tej samej patelni rozgrzewamy kawałek masła i podsmażamy na nim posiekane boczniaki aż do zarumienienia (ok. 10 minut). Dodajemy je do garnka. Dosypujemy także przyprawy i dodajemy 1 jajko. Mieszamy ręką bardzo dokładnie, masując zawartość garnka. Jeśli masa będzie nadal mało zwarta, należy dodać jeszcze jedno jajko i wymieszać.
+
+Następnie formujemy gołąbki i układamy je w brytfannie.
+
+Na patelni rozgrzewamy masło i podsmażamy drugą cebulę, dodajemy bulion i pomidory, doprawiamy solą, pieprzem i cukrem. Gotujemy przez 10 minut, by bulion nieco odparował.
+
+Gołąbki polewamy sosem, wsadzamy do piekarnika rozgrzanego do temperatury 180 stopni C (z termoobiegiem) na 30 minut. Przy czym przez 15 minut pieczemy bez przykrycia, a potem przykrywamy.
+
+|===
+
+[.text-center]
+== Zdjęcia

@@ -1,0 +1,34 @@
+= Łosoś z koperkiem i porem 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 35 min
+* 4 porcje
+* https://www.kwestiasmaku.com/przepis/pieczony-losos-z-koperkiem-porem-i-pomidorkami[link do źródła przepisu]
+
+== Składniki
+* 800 g filetów z łososia
+* 2 pory
+* oliwa extra vergine, masło
+* koperek
+* cytryna
+
+|
+== Przygotowanie
+
+Filety z łososia opłukać i osuszyć, pokroić na 4 porcje, odciąć skórkę. Doprawić solą, pieprzem, wysmarować 1 łyżką soku z cytryny i 1 łyżką oliwy. Odłożyć do zamarynowania jeśli mamy czas (ok. 1 - 3 godziny), w międzyczasie 1 - 2 razy przewrócić na drugą stronę.
+
+Piekarnik nagrzać do 220 stopni C. Pora przekroić wzdłuż na pół, dokładnie opłukać. Osuszyć i pokroić na ok. 2 cm kawałki. Przesmażyć na maśle aż zrobi się miękki i woda odparuje. Ułożyć na dnie nieco większego naczyniu żaroodpornego lub blaszce do pieczenia, doprawić solą, pieprzem i skropić oliwą.
+
+Na porach położyć filety łososia, posypać je posiekanym koperkiem oraz wiórkami masła. Obłożyć plasterkami cytryny.
+
+Wstawić do nagrzanego piekarnika i piec przez 15 minut.
+
+|===
+
+[.text-center]
+== Zdjęcia

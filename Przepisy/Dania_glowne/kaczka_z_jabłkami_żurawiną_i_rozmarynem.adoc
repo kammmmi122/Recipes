@@ -1,4 +1,4 @@
-= Kaczka z jabłkami +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , żurawiną i rozmarynem
+= Kaczka z jabłkami +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ , żurawiną i rozmarynem
 
 [cols=".<a,.<a"]
 [frame=none]

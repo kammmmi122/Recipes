@@ -1,4 +1,4 @@
-= Stek z sosem b +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ éarnaise i szparagami
+= Stek z sosem b +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ éarnaise i szparagami
 
 [cols=".<a,.<a"]
 [frame=none]

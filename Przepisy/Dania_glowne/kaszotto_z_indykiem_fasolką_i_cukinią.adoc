@@ -1,4 +1,4 @@
-= Kaszotto z indykiem +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ , fasolką i cukinią
+= Kaszotto z indykiem +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ , fasolką i cukinią
 
 [cols=".<a,.<a"]
 [frame=none]

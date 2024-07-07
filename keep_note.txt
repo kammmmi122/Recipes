@@ -32,12 +32,14 @@ nowe - Fasolka po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dani
 nowe - Fish & chips z sosem tatarskim; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/fish_&_chips_z_sosem_tatarskim.html
 nowe - Gołąbki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki.html
 nowe - Gołąbki bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_bez_zawijania.html
+nowe - Gołąbki wegetariańskie bez zawijania; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gołąbki_wegetariańskie_bez_zawijania.html
 nowe - Gulasz wołowy; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_wołowy.html
 nowe - Gulasz z szynki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/gulasz_z_szynki.html
 nowe - Hotdogi z warzywkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/hotdogi_z_warzywkami.html
 nowe - Kaczka po wietnamsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaczka_po_wietnamsku.html
 nowe - Kaczka z jabłkami żurawiną i rozmarynem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaczka_z_jabłkami_żurawiną_i_rozmarynem.html
 nowe - Karkówka smażona z przyprawami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/karkówka_smażona_z_przyprawami.html
+nowe - Kartacze; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kartacze.html
 nowe - Kaszotto z grzybami leśnymi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_grzybami_leśnymi.html
 nowe - Kaszotto z indykiem fasolką i cukinią; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_indykiem_fasolką_i_cukinią.html
 nowe - Kaszotto z kurkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kaszotto_z_kurkami.html
@@ -96,7 +98,7 @@ nowe - Sajgonki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/sajg
 nowe - Schabowy własnym w sosie z cebulą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html
 nowe - Schabowy ze schabu; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_ze_schabu.html
 nowe - Schabowy z kurczaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schabowy_z_kurczaka.html
-nowe - Schab nadziewany mozarellą i pieczarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schab_nadziewany_mozarellą_i_pieczarkami.html
+nowe - Schab nadziewany mozzarellą i pieczarkami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html
 nowe - Seleryba; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/seleryba.html
 nowe - Skrzydełka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/skrzydełka_w_miodzie.html
 nowe - Stek z sosem béarnaise i szparagami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/stek_z_sosem_béarnaise_i_szparagami.html
@@ -124,6 +126,7 @@ nowe - Ziemniaki faszerowane; https://kammmmi122.github.io/Recipes/Przepisy/Dani
 nowe - Zrazy wołowe; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/zrazy_wołowe.html
 nowe - Ćwiartki pieczone; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ćwiartki_pieczone.html
 nowe - Łatwe kimchi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/łatwe_kimchi.html
+nowe - Łosoś z koperkiem i porem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/łosoś_z_koperkiem_i_porem.html
 nowe - Łosoś z sosem koperkowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/łosoś_z_sosem_koperkowym.html
 nowe - Żeberka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/żeberka_w_miodzie.html
 
@@ -175,6 +178,11 @@ nowe - Spaghetti pomodoro; https://kammmmi122.github.io/Recipes/Przepisy/Makaron
 Przetwory
 
 nowe - Kompot czeresniowy; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/kompot_czeresniowy.html
+nowe - Nalewka cytrynowa; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_cytrynowa.html
+nowe - Nalewka gruszkowa; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_gruszkowa.html
+nowe - Nalewka jabłkowa; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_jabłkowa.html
+nowe - Nalewka malinowa; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_malinowa.html
+nowe - Nalewka mango; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_mango.html
 nowe - Nalewka z kwiatów bzu; https://kammmmi122.github.io/Recipes/Przepisy/Przetwory/nalewka_z_kwiatów_bzu.html
 
 Przystawki
