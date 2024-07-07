@@ -1,4 +1,7 @@
-#header, #content, #footer, #footnotes {
+#header,
+#content,
+#footer,
+#footnotes {
   max-width: none;
 }
 td:first-child {
@@ -13,7 +16,7 @@ td:first-child {
   float: right;
 }
 
-.switch input { 
+.switch input {
   opacity: 0;
   width: 0;
   height: 0;
@@ -27,8 +30,8 @@ td:first-child {
   right: 0;
   bottom: 0;
   background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 .slider:before {
@@ -39,16 +42,16 @@ td:first-child {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #2196f3;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #2196f3;
 }
 
 input:checked + .slider:before {
@@ -59,9 +62,9 @@ input:checked + .slider:before {
 
 /* Rounded sliders */
 .slider.round {
-border-radius: 34px;
+  border-radius: 34px;
 }
 
 .slider.round:before {
-border-radius: 50%;
+  border-radius: 50%;
 }
