@@ -68,7 +68,7 @@
 61. link:Przepisy/Dania_glowne/pad_gra_prow_z_wołowiną.html[Pad gra prow z wołowiną]
 62. link:Przepisy/Dania_glowne/paella.html[Paella] 🐟
 63. link:Przepisy/Dania_glowne/paella_z_kurczakiem.html[Paella z kurczakiem]
-64. link:Przepisy/Dania_glowne/paluszki_rybne.html[Paluszki rybne]
+64. link:Przepisy/Dania_glowne/paluszki_rybne.html[Paluszki rybne] 🐟
 65. link:Przepisy/Dania_glowne/pałki_z_kurczaka_pieczone.html[Pałki z kurczaka pieczone]
 66. link:Przepisy/Dania_glowne/papryka_faszerowana.html[Papryka faszerowana]
 67. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem] 🌱
@@ -178,17 +178,17 @@
 == Przetwory
 
 1. link:Przepisy/Przetwory/kompot_czeresniowy.html[Kompot czeresniowy] 🌱
-2. link:Przepisy/Przetwory/nalewka_cytrynowa.html[Nalewka cytrynowa]
-3. link:Przepisy/Przetwory/nalewka_gruszkowa.html[Nalewka gruszkowa]
-4. link:Przepisy/Przetwory/nalewka_jabłkowa.html[Nalewka jabłkowa]
-5. link:Przepisy/Przetwory/nalewka_malinowa.html[Nalewka malinowa]
-6. link:Przepisy/Przetwory/nalewka_mango.html[Nalewka mango]
+2. link:Przepisy/Przetwory/nalewka_cytrynowa.html[Nalewka cytrynowa] 🌱
+3. link:Przepisy/Przetwory/nalewka_gruszkowa.html[Nalewka gruszkowa] 🌱
+4. link:Przepisy/Przetwory/nalewka_jabłkowa.html[Nalewka jabłkowa] 🌱
+5. link:Przepisy/Przetwory/nalewka_malinowa.html[Nalewka malinowa] 🌱
+6. link:Przepisy/Przetwory/nalewka_mango.html[Nalewka mango] 🌱
 7. link:Przepisy/Przetwory/nalewka_z_kwiatów_bzu.html[Nalewka z kwiatów bzu] 🌱
 
 == Przystawki
 
 1. link:Przepisy/Przystawki/jajecznica.html[Jajecznica] 🌱
-2. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli]
+2. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli] 🐟
 3. link:Przepisy/Przystawki/rozczyn.html[Rozczyn]
 4. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia] 🐟
 5. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki] 🌱
@@ -205,8 +205,8 @@
 7. link:Przepisy/Salatki/sałatka_z_krewetkami.html[Sałatka z krewetkami] 🐟
 8. link:Przepisy/Salatki/sałatka_z_kurczakiem.html[Sałatka z kurczakiem]
 9. link:Przepisy/Salatki/sałatka_z_łososiem_i_mozzarellą.html[Sałatka z łososiem i mozzarellą] 🐟
-10. link:Przepisy/Salatki/sałatka_z_mango_i_avocado.html[Sałatka z mango i avocado] 🌱
-11. link:Przepisy/Salatki/sałatka_z_rukoli_granatem_i_pomarańczą.html[Sałatka z rukoli granatem i pomarańczą] 🌱
+10. link:Przepisy/Salatki/sałatka_z_mango_i_awokado.html[Sałatka z mango i awokado] 🌱
+11. link:Przepisy/Salatki/sałatka_z_rukolą_granatem_i_pomarańczą.html[Sałatka z rukolą granatem i pomarańczą] 🌱
 12. link:Przepisy/Salatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html[Sałatka z sałatą lodową suszonymi pomidorami i fetą] 🌱
 13. link:Przepisy/Salatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html[Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni] 🌱
 14. link:Przepisy/Salatki/tabbouleh_sałatka_z_bulgurem.html[Tabbouleh sałatka z bulgurem] 🌱

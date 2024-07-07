@@ -203,8 +203,8 @@ nowe - Sałatka japońska z krewetkami; https://kammmmi122.github.io/Recipes/Prz
 nowe - Sałatka warstwowa z szynką jajkiem i serem żółtym; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html
 nowe - Sałatka z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_krewetkami.html
 nowe - Sałatka z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_kurczakiem.html
-nowe - Sałatka z mango i avocado; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_mango_i_avocado.html
-nowe - Sałatka z rukoli granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_rukoli_granatem_i_pomarańczą.html
+nowe - Sałatka z mango i awokado; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_mango_i_awokado.html
+nowe - Sałatka z rukolą granatem i pomarańczą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_rukolą_granatem_i_pomarańczą.html
 nowe - Sałatka z sałatą lodową suszonymi pomidorami i fetą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_sałatą_lodową_suszonymi_pomidorami_i_fetą.html
 nowe - Sałatka z suszonymi pomidorami serem pleśniowym i pestkami dyni; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_suszonymi_pomidorami_serem_pleśniowym_i_pestkami_dyni.html
 nowe - Sałatka z łososiem i mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Salatki/sałatka_z_łososiem_i_mozzarellą.html
