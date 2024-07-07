@@ -74,5 +74,6 @@ jobs:
           REPORT_OUTPUT_FOLDER: none
 
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
+          SPELL_LYCHEE_ARGUMENTS: "--exclude  drive.google.com"
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
