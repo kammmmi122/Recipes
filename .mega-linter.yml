@@ -5,3 +5,5 @@ SPELL_CSPELL_PRE_COMMANDS:
     cwd: "root"
   - command: cspell link add @cspell/dict-pl_pl
     cwd: "root"
+  - command: cspell link ls
+    cwd: "root"
