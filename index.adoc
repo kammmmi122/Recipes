@@ -191,7 +191,7 @@
 1. link:Przepisy/Przystawki/jajecznica.html[Jajecznica] 🌱
 2. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli] 🐟
 3. link:Przepisy/Przystawki/rozczyn.html[Rozczyn]
-4. link:Przepisy/Przystawki/sos_grzybowy.html[Sos grzybowy]
+4. link:Przepisy/Przystawki/sos_grzybowy.html[Sos grzybowy] 🌱
 5. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia] 🐟
 6. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki] 🌱
 7. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar] 🌱
