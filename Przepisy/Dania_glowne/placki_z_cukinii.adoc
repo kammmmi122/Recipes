@@ -33,3 +33,4 @@ Rozgrzać patelnię z olejem lub oliwą. Nakładać po łyżce (nie więcej!) ma
 
 [.text-center]
 == Zdjęcia
+image::/Recipes/static/images/20240725_185950.jpg[]

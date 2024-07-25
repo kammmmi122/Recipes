@@ -6,7 +6,7 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 40 min
+* czas przygotowania: 1 h
 * liczba porcji: 16 średnich kartaczy
 * https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
 
@@ -39,3 +39,5 @@ W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż
 
 [.text-center]
 == Zdjęcia
+image::/Recipes/static/images/20240713_181533.jpg[]
+image::/Recipes/static/images/20240713_201623.jpg[]

@@ -1,0 +1,35 @@
+= Sos grzybowy +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1 h
+* liczba porcji: 16 średnich kartaczy
+* https://aniagotuje.pl/przepis/uniwersalny-sos-grzybowy[link do źródła przepisu]
+
+== Składniki
+* 500 g grzybów - u mnie same podgrzybki
+* 60 g masła - około 3 łyżki
+* mała cebula
+* 4 ząbki czosnku
+* 200 ml śmietanki słodkiej 30%
+* pół pęczka świeżej pietruszki
+* po pół łyżeczki soli i pieprzu
+* 1 - 3 łyżki octu jabłkowego
+
+|
+== Przygotowanie
+
+Na patelni (wystarczy patelnia o średnicy 24 cm) umieść masło (najlepiej klarowane) oraz poszatkowaną cebulę i czosnek pokrojony w plasterki. Całość smaż na średniej mocy palnika przez 5 minut. Dodaj grzyby.
+
+Grzyby razem z zeszkloną cebulą smaż 20 minut. Mieszaj w trakcie. Dodaj śmietankę, przyprawy oraz posiekaną pietruszkę i ocet jabłkowy (jeśli go używasz).
+
+Mieszaj sos drewnianą łyżką jeszcze około 3 minuty i gotowe. Sos można podawać od razu. 
+
+|===
+
+[.text-center]
+== Zdjęcia
