@@ -12,7 +12,6 @@ nowe - Burrito z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/
 nowe - Butter chicken; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/butter_chicken.html
 nowe - Chakalaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/chakalaka.html
 nowe - Chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/chili_con_carne.html
-nowe - Ciasto na pizzę iii; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ciasto_na_pizzę_iii.html
 nowe - Ciecierzyca po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html
 nowe - Cukinia faszerowana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/cukinia_faszerowana.html
 nowe - Cukinie z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/cukinie_z_chili_con_carne.html
