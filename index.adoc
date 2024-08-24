@@ -133,24 +133,25 @@
 == Desery
 
 1. link:Przepisy/Desery/brownie.html[Brownie] 🌱
-2. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy] 🌱
-3. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami] 🌱
-4. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe] 🌱
-5. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec] 🌱
-6. link:Przepisy/Desery/kokosanka.html[Kokosanka] 🌱
-7. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik] 🌱
-8. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami] 🌱
-9. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami] 🌱
-10. link:Przepisy/Desery/pierniczki.html[Pierniczki] 🌱
-11. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami] 🌱
-12. link:Przepisy/Desery/sernik.html[Sernik] 🌱
-13. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy] 🌱
-14. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik] 🌱
-15. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa] 🌱
-16. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy] 🌱
-17. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
-18. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
-19. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
+2. link:Przepisy/Desery/bułki_cynamonowe.html[Bułki cynamonowe] 🌱
+3. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy] 🌱
+4. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami] 🌱
+5. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe] 🌱
+6. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec] 🌱
+7. link:Przepisy/Desery/kokosanka.html[Kokosanka] 🌱
+8. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik] 🌱
+9. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami] 🌱
+10. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami] 🌱
+11. link:Przepisy/Desery/pierniczki.html[Pierniczki] 🌱
+12. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami] 🌱
+13. link:Przepisy/Desery/sernik.html[Sernik] 🌱
+14. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy] 🌱
+15. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik] 🌱
+16. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa] 🌱
+17. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy] 🌱
+18. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
+19. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
+20. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
 
 == Makarony
 
