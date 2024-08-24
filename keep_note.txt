@@ -132,6 +132,7 @@ nowe - Żeberka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_g
 Desery
 
 nowe - Brownie; https://kammmmi122.github.io/Recipes/Przepisy/Desery/brownie.html
+nowe - Bułki cynamonowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/bułki_cynamonowe.html
 nowe - Chlebek bananowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/chlebek_bananowy.html
 nowe - Ciasto drożdżowe ze śliwkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html
 nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_marchewkowe.html

@@ -1,0 +1,73 @@
+= Bułki cynamonowe 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas wyrastania ciasta: 1 godzina 30 minut
+* czas pieczenia: 20 minut
+* 24 bułeczki
+* https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
+
+== Składniki
+* 35 g drożdży świeżych lub około 10 g drożdży suszonych
+* 2 łyżki mąki pszennej - około 30 g
+* 2 łyżki cukru - około 30 g
+* 5 łyżek lekko ciepłego mleka
+* 3 szklanki mąki pszennej tortowej - 480 g
+* pół szklanki lekko ciepłego mleka - 125 ml
+* 3 żółtka jajek dużych lub średnich
+* 80 g masła - trochę mniej niż pół kostki
+* 6 łyżek cukru - około 90 g
+
+=== Nadzienie
+* 60 g miękkiego masła
+* 4 płaskie łyżki cynamonu
+* 8 płaskie łyżki cukru
+* mleko do posmarowania bułek przed pieczeniem
+* lukier cytrynowy
+
+|
+== Przygotowanie
+
+Zacznij od szykowania rozczynu do bułek cynamonowych. W jednej misce umieść razem: 5 łyżek mleka (mleko może być lekko ciepłe, ale nie może być gorące); dwie łyżki mąki pszennej, czyli około 30 gramów mąki; 35 gramów świeżych drożdży lub około 10 gramów drożdży suszonych; 2 łyżki cukru drobnego, czyli około 30 gramów cukru.
+
+Drożdże rozetrzyj z resztą składników. Całość dobrze wymieszaj, przykryj ściereczką lub folią i odstaw w ciepłe miejsce na około 20 minut (lub dłużej). Po tym czasie rozczyn powinien urosnąć i bardzo się spienić. Powstanie Ci wysoka pianka.
+
+A teraz składniki na ciasto drożdżowe. Do większego naczynia przesiej trzy szklanki mąki pszennej tortowej lub poznańskiej (około 480 gramów). Dodaj symboliczną szczyptę soli oraz trzy żółtka jajek.
+Do miski wsyp jeszcze sześć łyżek cukru, czyli około 90 gramów cukru drobnego. Wlej 80 gramów roztopionego i przestudzonego masła oraz pół szklanki lekko ciepłego mleka.
+
+Na koniec wlej buzujący rozczyn.
+
+Całość wymieszaj łyżką drewnianą lub sylikonową szpatułką. Miskę z ciastem przenieś pod mikser z hakami do ciasta drożdżowego. Ciasto wyrabiaj tak minimum 10 minut. Ciasto po wyrabianiu powinno być jednolite, gładkie i elastyczne. Możesz też wyrobić ciasto ręcznie.
+
+Wyrobione ciasto zostaw w tej samej misce lub przenieś do większej, by miało miejsce wyrosnąć. Przykryj je ściereczką bawełnianą lub folią. Odstaw w ciepłe miejsce do wyrastania na około 60-70 minut. Ciasto powinno nawet potroić objętość.
+
+Wyrośnięte ciasto podziel na dwa równe kawałki. Jeden przykryj ściereczką, by nie podsychał. Drugi kawałek ciasta rozwałkuj na wydłużony placek o wymiarach około 20 x 30 cm.
+
+Całą powierzchnię placka posmaruj bardzo miękkim masłem (połowa z 30 gramów ze składników na farsz). Przyda Ci się do tego pędzelek kuchenny. Kolejno rozsyp też jedną łyżkę cynamonu (lub więcej jeśli masz ochotę). Na koniec na całej powierzchni placka wyłóż cukier. Może to być cukier drobny biały lub trzcinowy.
+
+Zacznij zwijać placek drożdżowy zaczynając od węższej strony. Powstanie Ci gruby rulon ciasta. Ostrym nożem wycinaj placki o szerokości około 1 cm (do 14 mm). Z jednego rulonika wycięłam 12 ślimaczków.
+
+Dokładnie tak samo przygotuj sobie ślimaczki cynamonowe z drugiego kawałka ciasta. Wycięte bułeczki układaj obok siebie na papierze do pieczenia. Zachowaj między nimi spore odstępy. Na jednej blaszce z wyposażenia piekarnika zmieściłam 12 bułeczek.
+
+
+Bułeczki odstaw do wyrastania na około 20 minut. Możesz w tym czasie nagrzewać już piekarnik. Ustaw około 175 stopni z opcją pieczenia góra dół lub 160 stopni z termoobiegiem. Bułeczki muśnij odrobiną ciepłego mleka przed samym umieszczeniem formy w piekarniku.
+
+Porada: Aby bułeczki cynamonowe zachowały idealny kształt, polecam wystający koniec ciasta lekko rozciągnąć i podwinąć pod bułeczkę (po wycięciu ślimaczków, a przed ostatnim wyrastaniem cynamonek).
+
+Bułki cynamonowe piekę w dwóch turach. Pierwszą szufladę umieszczam na środku, w komorze nagrzanego piekarnika i piekę około 17-20 minut, do ładnego zarumienienia bułeczek. W tym czasie druga tura bułeczek jeszcze wyrasta.
+
+Cynamonki można wyjmować z piekarnika od razu po upieczeniu. Po chwili polecam przełożyć je na kratkę do studzenia wypieków. Tak samo upiecz drugą szufladę bułeczek cynamonowych.
+
+Bułeczki cynamonowe można po przestudzeniu polukrować.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20240823_130756.jpg[]
+image::/Recipes/static/images/20240823_130801.jpg[]

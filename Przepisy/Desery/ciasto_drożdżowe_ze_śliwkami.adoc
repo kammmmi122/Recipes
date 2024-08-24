@@ -30,7 +30,7 @@
 
 === Dodatkowo:
 
-* ok. 500 g śliwek najlepiej węgierek
+* ok. 1 kg śliwek najlepiej węgierek
 
 |
 == Przygotowanie
@@ -46,3 +46,6 @@ Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnię
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20240820_080313.jpg[]
+image::/Recipes/static/images/20240820_080359.jpg[]
