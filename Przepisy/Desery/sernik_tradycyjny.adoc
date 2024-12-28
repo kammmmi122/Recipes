@@ -1,0 +1,40 @@
+= Sernik tradycyjny 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 1 h 30 min
+* 12 porcje
+* https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
+
+== Składniki
+* 1 kg mielonego twarogu np. gęsty z kubełka
+* 4 średnie jajka - około 240 g po rozbiciu
+* 200 g masła - 1 klasyczna kostka
+* 150 g cukru - około 3/4 szklanki
+* 1 saszetka budyniu waniliowego bez cukru - około 40 g
+
+|
+== Przygotowanie
+
+Nagrzej piekarnik do 190 stopni z pieczeniem góra/dół. Kostkę masła o wadze 200 gramów roztop w rondelku na minimalnej mocy lub w mikrofali. Rondelek odstaw do przestudzenia.
+
+W misce umieść razem: ser twarogowy z wiaderka; 4 jajka; roztopione i przestudzone masło (może być jeszcze lekko ciepłe); 150 gramów cukru (zwykły lub drobny); saszetkę proszku budyniowego bez cukru (waniliowy lub śmietankowy).
+Jeśli nie masz budyniu, to do masy możesz też dodać 40 g skrobi ziemniaczane plus płaską łyżeczkę pasty lub esencji waniliowej.
+Całość dobrze wymieszaj łyżką lub mikserem na niskich obrotach. Masę serową mieszaj krótko, tylko do połączenia składników. Ciasto powinno mieć konsystencję budyniu.
+
+Spód tortownicy o średnicy 24 cm wyłóż papierem do pieczenia. Gęste ciasto przełóż do tortownicy i wyrównaj powierzchnię. 
+
+Formę umieść w piekarniku nagrzanym do 190 stopni. Środkowa półka z grzaniem góra / dół. Po 20 minutach zmniejsz temperaturę do 150 stopni i piecz sernik kolejne 30 minut. Po tym czasie ustaw 120 stopni i piecz sernik ostatnie 30 minut. Po wyłączeniu piekarnika zostaw sernik w komorze pieca jeszcze na 10 minut. Potem stopniowo uchylaj drzwiczki coraz szerzej, aż wyjmiesz formę z pieca.
+
+Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polewą czekoladową.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20241227_221828.jpg[]

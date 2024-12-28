@@ -1,0 +1,25 @@
+= Pierogi z jagodami 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 45 min
+* 2 porcje
+
+== Składniki
+
+
+|
+== Przygotowanie
+
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20241217_165954.jpg[]
+image::/Recipes/static/images/20241217_170950.jpg[]

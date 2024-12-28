@@ -1,0 +1,44 @@
+= Makaron z pulpecikami +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++ 
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* 4 porcje
+* https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
+
+== Składniki
+* 1 mały ziemniak
+* 400 g mielonego mięsa wołowo-wieprzowego
+* 1 mała cebula
+* 5 gałązek natki pietruszki
+* 1 małe jajko
+* mąka, oliwa extra vergine
+* 500 ml przecieru pomidorowego (passaty z butelki)
+* kilka liści bazylii
+* po ok. 75 g makaronu na porcję
+* świeżo starty parmezan lub grana padano
+* sól, pieprz, cukier
+* mąka do obtoczenia
+
+|
+== Przygotowanie
+
+Ziemniaka obrać, przekroić na pół i ugotować w osolonej wodzie. Odcedzić, dokładnie odparować i rozgnieść praską na puree.
+
+Do zmielonego mięsa, dodajemy do niego obraną i startą na drobnej tarce cebulę i drobno posiekane listki natki. Mięso wymieszać i wyrobić dodając puree ziemniaczane, sól i pieprz do smaku oraz jajko.
+
+Wilgotnymi dłońmi odrywać po około pół łyżki mięsa i odkładać na deskę. Następnie formować kuleczki wielkości orzecha włoskiego i obtoczyć je w mące. W międzyczasie nastawić osoloną wodę na makaron i ugotować go al dente.
+
+Gdy wszystkie kuleczki będą już uformowane, rozgrzać dużą patelnię z 4 łyżkami oliwy, stopniowo wkładać pulpeciki i smażyć do czasu aż będą dobrze zrumienione. Dopiero wtedy przewrócić je na drugą stronę podważając delikatnie łopatką. Po ponownym dokładnym podsmażeniu zrumieniać jeszcze z innych stron. W sumie smażymy przez ok. 10 - 12 minut.
+
+Zrobić miejsce na patelni przesuwając delikatnie część pulpecików. W wolne miejsce wlać przecier pomidorowy, doprawić go solą, pieprzem i łyżeczką cukru. Dodać posiekaną bazylię, wymieszać i rozprowadzić sos po całej patelni. Po zagotowaniu przykryć patelnię pokrywą i gotować jeszcze przez ok. 5 - 8 minut aż sos będzie gęsty. Jeśli jest za bardzo gęsty, można rozcieńczać go wodą z makaronu lub zwykłą wodą.
+
+Pulpeciki podawać z makaronem i tartym serem. Potrawę można przygotować wcześniej i odgrzewać.
+
+|===
+
+[.text-center]
+== Zdjęcia
