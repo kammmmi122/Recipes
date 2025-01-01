@@ -1,4 +1,4 @@
-= Tortilki ser bekon ala kfc +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+= Tortilki ser bekon ala KFC +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]

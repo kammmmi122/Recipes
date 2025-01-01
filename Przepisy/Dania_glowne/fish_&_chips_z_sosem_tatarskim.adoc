@@ -1,4 +1,4 @@
-= Fish & chips z sosem tatarskim 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+= Fish & chips z sosem tatarskim 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -8,7 +8,7 @@
 == Szczegóły
 * czas przygotowania: 1 h
 * 2 porcje
-* https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam/ [link do źródła przepisu]
+* https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
 
 == Składniki
 

@@ -1,0 +1,34 @@
+= Pierogi z jagodami 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 45 min
+* 20 pierogów
+
+== Składniki
+
+* 250 g mąki typ 450g
+* 40 g masła
+* 100 ml wrzącej wody
+* 1/2 łyżeczki soli
+* 600 g mrożonych jagód
+* 50 g cukru do jagód
+* 200 ml śmietany
+* 15 g cukru do posypania
+
+|
+== Przygotowanie
+
+Mąkę, masło, wodę i sól połączyć w jednolite gładkie ciasto. Jagody zasypać cukrem. Ciasto na pierogi podzielić na 4. Z każdego kawałka rozwałkować i wyciąć 5 kółek. Kołka napełnić farszem i zamknąć pierogi. Tak przygotowane pierogi ugotować w osolonej wodzie. Podawać ze śmietaną i cukrem.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20241217_165954.jpg[]
+image::/Recipes/static/images/20241217_170950.jpg[]

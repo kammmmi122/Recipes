@@ -1,4 +1,4 @@
-= Pierogi z mięsem +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+= Pierogi z mięsem +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -8,7 +8,7 @@
 == Szczegóły
 * czas przygotowania: 1,5 h
 * ok. 100 sztuk
-* https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
 == Składniki
 * 500 g ugotowanego mięsa z rosołu

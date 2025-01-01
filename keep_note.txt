@@ -70,6 +70,7 @@ nowe - Pieczone udko gęsi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_
 nowe - Pieczony kalafior z ciecierzycą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html
 nowe - Pierogi gyoza; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_gyoza.html
 nowe - Pierogi leniwe; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_leniwe.html
+nowe - Pierogi z jagodami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_z_jagodami.html
 nowe - Pierogi z kapustą i grzybami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_z_kapustą_i_grzybami.html
 nowe - Pierogi z mięsem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierogi_z_mięsem.html
 nowe - Pierś z kaczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki.html
@@ -144,6 +145,7 @@ nowe - Murzynek z wiśniami; https://kammmmi122.github.io/Recipes/Przepisy/Deser
 nowe - Pierniczki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/pierniczki.html
 nowe - Racuchy z jabłkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/racuchy_z_jabłkami.html
 nowe - Sernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik.html
+nowe - Sernik tradycyjny; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sernik_tradycyjny.html
 nowe - Sos waniliowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/sos_waniliowy.html
 nowe - Szybki piernik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/szybki_piernik.html
 nowe - Tarta bananowa; https://kammmmi122.github.io/Recipes/Przepisy/Desery/tarta_bananowa.html
@@ -166,6 +168,7 @@ nowe - Makaron z brokułami; https://kammmmi122.github.io/Recipes/Przepisy/Makar
 nowe - Makaron z krewetkami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_krewetkami.html
 nowe - Makaron z pesto; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_pesto.html
 nowe - Makaron z pieczonymi pomidorami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html
+nowe - Makaron z pulpecikami; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/makaron_z_pulpecikami.html
 nowe - Noodle z krewetkami po koreańsku; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html
 nowe - Noodle z mielonym mięsem drobiowym; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html
 nowe - Pasta alla norma; https://kammmmi122.github.io/Recipes/Przepisy/Makarony/pasta_alla_norma.html
@@ -187,6 +190,7 @@ nowe - Nalewka z kwiatów bzu; https://kammmmi122.github.io/Recipes/Przepisy/Prz
 
 Przystawki
 
+nowe - Granola z owocami i jogurtem; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/granola_z_owocami_i_jogurtem.html
 nowe - Jajecznica; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/jajecznica.html
 nowe - Pasta z makreli; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pasta_z_makreli.html
 nowe - Rozczyn; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/rozczyn.html

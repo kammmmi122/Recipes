@@ -1,4 +1,4 @@
-= Makaron zapiekany z boczkiem i cukinią +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++ 
+= Makaron zapiekany z boczkiem i cukinią +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -20,7 +20,6 @@
 * 2 łyżki posiekanej natki pietruszki
 * 250 ml śmietanki 30% z kartonika
 * 3 łyżki tartego sera twardego typu corregio, parmezan, bursztyn
-
 
 |
 == Przygotowanie
