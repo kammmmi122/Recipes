@@ -1,0 +1,45 @@
+= Dorsz z porami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 50 minut
+* 3 porcje
+* https://www.kwestiasmaku.com/przepis/dorsz-w-kremowym-sosie-z-porami[link do źródła przepisu]
+
+== Składniki
+* 400 g filetu (polędwiczki) z dorsza
+* 2 łyżeczki mąki
+* 1 por
+* 1 łyżka masła
+* 1 łyżka oliwy
+* 1 ząbek czosnku
+* 1 łyżeczka tymianku
+* 125 ml bulionu
+* 125 ml śmietanki 30% lub 18%
+* 2 łyżki posiekanego szczypiorku
+
+|
+== Przygotowanie
+
+Dorsza rozmrozić jeśli był mrożony i osuszyć. Doprawić solą i pieprzem, obtoczyć w mące.
+
+Odkroić zielone liście pora. Białą i jasnozieloną część przekroić wzdłuż na pół i dokładnie opłukać. Pokroić na cienkie plasterki.
+
+Rozgrzać patelnię z połową masła i połową oliwy, dodać starty czosnek, a po chwili dodać pory. Doprawić solą oraz pieprzem, dodać tymianek i smażyć co chwilę mieszając przez około 5 minut.
+
+Wlać bulion, zagotować, przykryć i gotować przez ok. 5 minut.
+
+W międzyczasie na drugiej patelni na pozostałej oliwie i maśle usmażyć kawałki dorsza, po około 5 minut z każdej strony.
+
+Przełożyć na patelnię z porami i zagotować bez przykrycia. Dodać śmietankę i delikatnie wymieszać ją z porami. Gotować jeszcze przez ok. 2 minuty aż sos zgęstnieje.
+
+Kawałki ryby posypać posiekanym szczypiorkiem.
+
+|===
+
+[.text-center]
+== Zdjęcia

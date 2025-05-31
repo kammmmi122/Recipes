@@ -1,0 +1,32 @@
+= Kanapka z pieczonym indykiem +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://www.kwestiasmaku.com/kuchnia_polska/indyk/kanapka_z_indykiem/przepis.html[link do źródła przepisu]
+
+== Składniki
+* pieczywo, np. domowa focaccia
+* plasterki pieczonego indyka
+* sałata, roszponka
+* żurawina ze słoiczka
+* ser (np. camembert, brie, kozi, pleśniowy)
+* majonez lub masło
+* lekko zrumienione orzeszki pinii
+
+|
+== Przygotowanie
+
+Pieczywo przekroić na pół, posmarować cienko majonezem lub masłem.
+
+Na jednej połówce położyć sałatę, dodać plasterki mięsa, ser, żurawinę, zrumienionymi orzeszki pinii jeśli ich używamy, przykryć roszponką i drugą kromką pieczywa.
+
+Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół i podawać.
+
+|===
+
+[.text-center]
+== Zdjęcia
