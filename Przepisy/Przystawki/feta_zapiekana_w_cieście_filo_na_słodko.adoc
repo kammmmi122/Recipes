@@ -1,0 +1,21 @@
+= Feta zapiekana w cieście filo na słodko +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
+
+== Składniki
+
+
+|
+== Przygotowanie
+
+
+|===
+
+[.text-center]
+== Zdjęcia
