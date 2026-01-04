@@ -56,7 +56,7 @@ include::filters.html[]
 45. link:Przepisy/Dania_glowne/klopsiki_z_pieczarkami_w_sosie_pomidorowym.html[Klopsiki z pieczarkami w sosie pomidorowym]
 46. link:Przepisy/Dania_glowne/klopsy.html[Klopsy]
 47. link:Przepisy/Dania_glowne/kopytka.html[Kopytka] 🌱
-48. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku] 🐟 🔥
+48. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku] 🔥
 49. link:Przepisy/Dania_glowne/krokiety_z_kapustą_i_grzybami.html[Krokiety z kapustą i grzybami] 🌱
 50. link:Przepisy/Dania_glowne/krokiety_z_pieczarkami.html[Krokiety z pieczarkami]
 51. link:Przepisy/Dania_glowne/kukurydziane_placuszki_z_ryb_i_krewetek.html[Kukurydziane placuszki z ryb i krewetek] 🐟
@@ -109,7 +109,7 @@ include::filters.html[]
 98. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html[Roladki z kurczaka z serem i papryką pieczone w boczku]
 99. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html[Roladki z kurczaka z serem pieczarkami pieczone w boczku]
 100. link:Przepisy/Dania_glowne/ryba_z_porami.html[Ryba z porami] 🐟
-101. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro] 🐟 🔥
+101. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro] 🔥
 102. link:Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html[Ryż z warzywami chińskimi i kurczakiem]
 103. link:Przepisy/Dania_glowne/sajgonki.html[Sajgonki]
 104. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą]
@@ -176,16 +176,16 @@ include::filters.html[]
 3. link:Przepisy/Makarony/makaron_aglio_olio_z_pomidorkami.html[Makaron aglio olio z pomidorkami] 🌱
 4. link:Przepisy/Makarony/makaron_azjatycki_z_pikantną_wołowiną.html[Makaron azjatycki z pikantną wołowiną]
 5. link:Przepisy/Makarony/makaron_carbonara.html[Makaron carbonara]
-6. link:Przepisy/Makarony/makaron_chiński_z_krewetkami.html[Makaron chiński z krewetkami] 🐟
+6. link:Przepisy/Makarony/makaron_chiński_z_krewetkami.html[Makaron chiński z krewetkami]
 7. link:Przepisy/Makarony/makaron_w_sosie_słodko_kwaśnym.html[Makaron w sosie słodko kwaśnym]
 8. link:Przepisy/Makarony/makaron_zapiekany_z_boczkiem_i_cukinią.html[Makaron zapiekany z boczkiem i cukinią]
 9. link:Przepisy/Makarony/makaron_ze_szpinakiem.html[Makaron ze szpinakiem] 🌱
 10. link:Przepisy/Makarony/makaron_z_brokułami.html[Makaron z brokułami] 🌱
-11. link:Przepisy/Makarony/makaron_z_krewetkami.html[Makaron z krewetkami] 🐟
+11. link:Przepisy/Makarony/makaron_z_krewetkami.html[Makaron z krewetkami]
 12. link:Przepisy/Makarony/makaron_z_pesto.html[Makaron z pesto] 🌱
 13. link:Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html[Makaron z pieczonymi pomidorami] 🌱
 14. link:Przepisy/Makarony/makaron_z_pulpecikami.html[Makaron z pulpecikami]
-15. link:Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html[Noodle z krewetkami po koreańsku] 🐟
+15. link:Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html[Noodle z krewetkami po koreańsku]
 16. link:Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html[Noodle z mielonym mięsem drobiowym]
 17. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma] 🌱
 18. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese] 🌱
@@ -228,7 +228,7 @@ include::filters.html[]
 2. link:Przepisy/Salatki/sałatka_cezar.html[Sałatka cezar]
 3. link:Przepisy/Salatki/sałatka_grecka.html[Sałatka grecka] 🌱
 4. link:Przepisy/Salatki/sałatka_gyros.html[Sałatka gyros]
-5. link:Przepisy/Salatki/sałatka_japońska_z_krewetkami.html[Sałatka japońska z krewetkami] 🐟
+5. link:Przepisy/Salatki/sałatka_japońska_z_krewetkami.html[Sałatka japońska z krewetkami]
 6. link:Przepisy/Salatki/sałatka_warstwowa_z_szynką_jajkiem_i_serem_żółtym.html[Sałatka warstwowa z szynką jajkiem i serem żółtym]
 7. link:Przepisy/Salatki/sałatka_z_krewetkami.html[Sałatka z krewetkami] 🐟
 8. link:Przepisy/Salatki/sałatka_z_kurczakiem.html[Sałatka z kurczakiem]
