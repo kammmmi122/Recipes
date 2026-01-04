@@ -7,7 +7,7 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const list = document.querySelector("ul, ol"); // adjust if needed
+  const list = document.querySelectorAll("ul, ol"); // adjust if needed
   const items = Array.from(list.querySelectorAll("li"));
   const buttons = document.querySelectorAll("#filters button");
 
