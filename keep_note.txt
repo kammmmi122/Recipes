@@ -70,6 +70,7 @@ nowe - Paella; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paella
 nowe - Paella z kurczakiem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paella_z_kurczakiem.html
 nowe - Paluszki rybne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/paluszki_rybne.html
 nowe - Papryka faszerowana; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/papryka_faszerowana.html
+nowe - Pasztet; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pasztet.html
 nowe - Pasztet z białej fasoli; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pasztet_z_białej_fasoli.html
 nowe - Pałki z kurczaka pieczone; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pałki_z_kurczaka_pieczone.html
 nowe - Pieczone udko gęsi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pieczone_udko_gęsi.html
@@ -140,12 +141,15 @@ nowe - Żeberka w miodzie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_g
 
 Desery
 
+nowe - Baklava; https://kammmmi122.github.io/Recipes/Przepisy/Desery/baklava.html
 nowe - Brownie; https://kammmmi122.github.io/Recipes/Przepisy/Desery/brownie.html
 nowe - Bułki cynamonowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/bułki_cynamonowe.html
 nowe - Chlebek bananowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/chlebek_bananowy.html
+nowe - Ciastka z maszynki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciastka_z_maszynki.html
 nowe - Ciasto drożdżowe ze śliwkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html
 nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_marchewkowe.html
 nowe - Ciasto porzeczkowiec; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_porzeczkowiec.html
+nowe - Fluffy pancakes; https://kammmmi122.github.io/Recipes/Przepisy/Desery/fluffy_pancakes.html
 nowe - Jogurt grecki z miodem i orzechami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/jogurt_grecki_z_miodem_i_orzechami.html
 nowe - Kokosanka; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosanka.html
 nowe - Kokosowy jabłecznik; https://kammmmi122.github.io/Recipes/Przepisy/Desery/kokosowy_jabłecznik.html
