@@ -81,93 +81,97 @@ include::filters.html[]
 70. link:Przepisy/Dania_glowne/paluszki_rybne.html[Paluszki rybne] 🐟
 71. link:Przepisy/Dania_glowne/pałki_z_kurczaka_pieczone.html[Pałki z kurczaka pieczone] 🐔
 72. link:Przepisy/Dania_glowne/papryka_faszerowana.html[Papryka faszerowana] 🐖
-73. link:Przepisy/Dania_glowne/pasztet_z_białej_fasoli.html[Pasztet z białej fasoli] 🌱
-74. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem] 🌱
-75. link:Przepisy/Dania_glowne/pieczone_udko_gęsi.html[Pieczone udko gęsi] 🐔
-76. link:Przepisy/Dania_glowne/pieczony_filet_z_indyka.html[Pieczony filet z indyka] 🐔
-77. link:Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html[Pieczony kalafior z ciecierzycą] 🌱
-78. link:Przepisy/Dania_glowne/pierogi_gyoza.html[Pierogi gyoza] 🐖
-79. link:Przepisy/Dania_glowne/pierogi_leniwe.html[Pierogi leniwe] 🌱
-80. link:Przepisy/Dania_glowne/pierogi_z_jagodami.html[Pierogi z jagodami] 🌱
-81. link:Przepisy/Dania_glowne/pierogi_z_kapustą_i_grzybami.html[Pierogi z kapustą i grzybami] 🌱
-82. link:Przepisy/Dania_glowne/pierogi_z_mięsem.html[Pierogi z mięsem] 🐔
-83. link:Przepisy/Dania_glowne/pierś_z_kaczki.html[Pierś z kaczki] 🦆
-84. link:Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html[Pierś z kaczki z sosem pomarańczowym] 🦆
-85. link:Przepisy/Dania_glowne/placek_po_węgiersku.html[Placek po węgiersku] 🐖
-86. link:Przepisy/Dania_glowne/placki_z_cukinii.html[Placki z cukinii] 🌱
-87. link:Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html[Potrawka z udka kurczaka z warzywami] 🐔
-88. link:Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html[Pstrąg pieczony w całości] 🐟
-89. link:Przepisy/Dania_glowne/pulpety_w_sosie_koperkowym.html[Pulpety w sosie koperkowym] 🐖
-90. link:Przepisy/Dania_glowne/quesadilla.html[Quesadilla] 🐔
-91. link:Przepisy/Dania_glowne/quesadilla_2.html[Quesadilla 2] 🐔
-92. link:Przepisy/Dania_glowne/quesadilla_3.html[Quesadilla 3] 🐔
-93. link:Przepisy/Dania_glowne/quesadilla_4.html[Quesadilla 4]
-94. link:Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html[Quinotto z czerwoną fasolą i papryką] 🌱
-95. link:Przepisy/Dania_glowne/ratatuj.html[Ratatuj] 🌱
-96. link:Przepisy/Dania_glowne/risotto_primavera.html[Risotto primavera] 🌱
-97. link:Przepisy/Dania_glowne/risotto_z_szpinakiem_i_krewetkami.html[Risotto z szpinakiem i krewetkami] 🦐
-98. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html[Roladki z kurczaka z serem i papryką pieczone w boczku] 🐔
-99. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html[Roladki z kurczaka z serem pieczarkami pieczone w boczku] 🐔
-100. link:Przepisy/Dania_glowne/ryba_z_porami.html[Ryba z porami] 🐟
-101. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro] 🦐 🔥
-102. link:Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html[Ryż z warzywami chińskimi i kurczakiem]
-103. link:Przepisy/Dania_glowne/sajgonki.html[Sajgonki] 🐖
-104. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą] 🐖
-105. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu]
-106. link:Przepisy/Dania_glowne/schabowy_z_kurczaka.html[Schabowy z kurczaka] 🐔
-107. link:Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html[Schab nadziewany mozzarellą i pieczarkami] 🐖
-108. link:Przepisy/Dania_glowne/seleryba.html[Seleryba] 🌱
-109. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie.html[Skrzydełka w miodzie] 🐔
-110. link:Przepisy/Dania_glowne/stek_z_sosem_bearnaise_i_szparagami.html[Stek z sosem bearnaise i szparagami] 🥩
-111. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami]
-112. link:Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html[Szaszłyki z kurczakiem] 🐔
-113. link:Przepisy/Dania_glowne/sztuka_mięsa_łee.html[Sztuka mięsa łee] 🐖
-114. link:Przepisy/Dania_glowne/szwedzkie_klopsiki.html[Szwedzkie klopsiki] 🐖 🥩
-115. link:Przepisy/Dania_glowne/tortilki_ser_bekon_ala_kfc.html[Tortilki ser bekon ala kfc] 🐔
-116. link:Przepisy/Dania_glowne/tortille.html[Tortille] 🐔
-117. link:Przepisy/Dania_glowne/warzywka_z_piekarnika.html[Warzywka z piekarnika] 🌱
-118. link:Przepisy/Dania_glowne/wątróbka.html[Wątróbka] 🐔
-119. link:Przepisy/Dania_glowne/wegeburgerki.html[Wegeburgerki] 🌱
-120. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku.html[Wieprzowina po chińsku] 🐖
-121. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html[Wieprzowina po chińsku z mango] 🐖
-122. link:Przepisy/Dania_glowne/wołowina_po_burgundzku.html[Wołowina po burgundzku] 🥩
-123. link:Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html[Zapiekanka łukaszkowa]
-124. link:Przepisy/Dania_glowne/zapiekanka_makaronowa.html[Zapiekanka makaronowa]
-125. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_ze_szparagami.html[Zapiekanka makaronowa ze szparagami] 🐟
-126. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_2.html[Zapiekanka makaronowa 2] 🐔
-127. link:Przepisy/Dania_glowne/zapiekanka_pasterska.html[Zapiekanka pasterska] 🥩
-128. link:Przepisy/Dania_glowne/zapiekanka_ziemniaczana.html[Zapiekanka ziemniaczana] 🐖
-129. link:Przepisy/Dania_glowne/zapiekanki.html[Zapiekanki]
-130. link:Przepisy/Dania_glowne/zielone_curry_z_groszkiem_cukrowym.html[Zielone curry z groszkiem cukrowym] 🐔
-131. link:Przepisy/Dania_glowne/ziemniaki_faszerowane.html[Ziemniaki faszerowane] 🐖
-132. link:Przepisy/Dania_glowne/zrazy_wołowe.html[Zrazy wołowe] 🥩
-133. link:Przepisy/Dania_glowne/żeberka_w_miodzie.html[Żeberka w miodzie] 🐖
+73. link:Przepisy/Dania_glowne/pasztet.html[Pasztet] 🐖 🥩
+74. link:Przepisy/Dania_glowne/pasztet_z_białej_fasoli.html[Pasztet z białej fasoli] 🌱
+75. link:Przepisy/Dania_glowne/pęczotto_z_burakami_i_kozim_serem.html[Pęczotto z burakami i kozim serem] 🌱
+76. link:Przepisy/Dania_glowne/pieczone_udko_gęsi.html[Pieczone udko gęsi] 🐔
+77. link:Przepisy/Dania_glowne/pieczony_filet_z_indyka.html[Pieczony filet z indyka] 🐔
+78. link:Przepisy/Dania_glowne/pieczony_kalafior_z_ciecierzycą.html[Pieczony kalafior z ciecierzycą] 🌱
+79. link:Przepisy/Dania_glowne/pierogi_gyoza.html[Pierogi gyoza] 🐖
+80. link:Przepisy/Dania_glowne/pierogi_leniwe.html[Pierogi leniwe] 🌱
+81. link:Przepisy/Dania_glowne/pierogi_z_jagodami.html[Pierogi z jagodami] 🌱
+82. link:Przepisy/Dania_glowne/pierogi_z_kapustą_i_grzybami.html[Pierogi z kapustą i grzybami] 🌱
+83. link:Przepisy/Dania_glowne/pierogi_z_mięsem.html[Pierogi z mięsem] 🐔
+84. link:Przepisy/Dania_glowne/pierś_z_kaczki.html[Pierś z kaczki] 🦆
+85. link:Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html[Pierś z kaczki z sosem pomarańczowym] 🦆
+86. link:Przepisy/Dania_glowne/placek_po_węgiersku.html[Placek po węgiersku] 🐖
+87. link:Przepisy/Dania_glowne/placki_z_cukinii.html[Placki z cukinii] 🌱
+88. link:Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html[Potrawka z udka kurczaka z warzywami] 🐔
+89. link:Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html[Pstrąg pieczony w całości] 🐟
+90. link:Przepisy/Dania_glowne/pulpety_w_sosie_koperkowym.html[Pulpety w sosie koperkowym] 🐖
+91. link:Przepisy/Dania_glowne/quesadilla.html[Quesadilla] 🐔
+92. link:Przepisy/Dania_glowne/quesadilla_2.html[Quesadilla 2] 🐔
+93. link:Przepisy/Dania_glowne/quesadilla_3.html[Quesadilla 3] 🐔
+94. link:Przepisy/Dania_glowne/quesadilla_4.html[Quesadilla 4]
+95. link:Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html[Quinotto z czerwoną fasolą i papryką] 🌱
+96. link:Przepisy/Dania_glowne/ratatuj.html[Ratatuj] 🌱
+97. link:Przepisy/Dania_glowne/risotto_primavera.html[Risotto primavera] 🌱
+98. link:Przepisy/Dania_glowne/risotto_z_szpinakiem_i_krewetkami.html[Risotto z szpinakiem i krewetkami] 🦐
+99. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_i_papryką_pieczone_w_boczku.html[Roladki z kurczaka z serem i papryką pieczone w boczku] 🐔
+100. link:Przepisy/Dania_glowne/roladki_z_kurczaka_z_serem_pieczarkami_pieczone_w_boczku.html[Roladki z kurczaka z serem pieczarkami pieczone w boczku] 🐔
+101. link:Przepisy/Dania_glowne/ryba_z_porami.html[Ryba z porami] 🐟
+102. link:Przepisy/Dania_glowne/ryż_z_krewetkami_na_ostro.html[Ryż z krewetkami na ostro] 🦐 🔥
+103. link:Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html[Ryż z warzywami chińskimi i kurczakiem] 🐔
+104. link:Przepisy/Dania_glowne/sajgonki.html[Sajgonki] 🐖
+105. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą] 🐖
+106. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu]
+107. link:Przepisy/Dania_glowne/schabowy_z_kurczaka.html[Schabowy z kurczaka] 🐔
+108. link:Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html[Schab nadziewany mozzarellą i pieczarkami] 🐖
+109. link:Przepisy/Dania_glowne/seleryba.html[Seleryba] 🌱
+110. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie.html[Skrzydełka w miodzie] 🐔
+111. link:Przepisy/Dania_glowne/stek_z_sosem_bearnaise_i_szparagami.html[Stek z sosem bearnaise i szparagami] 🥩
+112. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami]
+113. link:Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html[Szaszłyki z kurczakiem] 🐔
+114. link:Przepisy/Dania_glowne/sztuka_mięsa_łee.html[Sztuka mięsa łee] 🐖
+115. link:Przepisy/Dania_glowne/szwedzkie_klopsiki.html[Szwedzkie klopsiki] 🐖 🥩
+116. link:Przepisy/Dania_glowne/tortilki_ser_bekon_ala_kfc.html[Tortilki ser bekon ala kfc] 🐔
+117. link:Przepisy/Dania_glowne/tortille.html[Tortille] 🐔
+118. link:Przepisy/Dania_glowne/warzywka_z_piekarnika.html[Warzywka z piekarnika] 🌱
+119. link:Przepisy/Dania_glowne/wątróbka.html[Wątróbka] 🐔
+120. link:Przepisy/Dania_glowne/wegeburgerki.html[Wegeburgerki] 🌱
+121. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku.html[Wieprzowina po chińsku] 🐖
+122. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html[Wieprzowina po chińsku z mango] 🐖
+123. link:Przepisy/Dania_glowne/wołowina_po_burgundzku.html[Wołowina po burgundzku] 🥩
+124. link:Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html[Zapiekanka łukaszkowa]
+125. link:Przepisy/Dania_glowne/zapiekanka_makaronowa.html[Zapiekanka makaronowa]
+126. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_ze_szparagami.html[Zapiekanka makaronowa ze szparagami] 🐟
+127. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_2.html[Zapiekanka makaronowa 2] 🐔
+128. link:Przepisy/Dania_glowne/zapiekanka_pasterska.html[Zapiekanka pasterska] 🥩
+129. link:Przepisy/Dania_glowne/zapiekanka_ziemniaczana.html[Zapiekanka ziemniaczana] 🐖
+130. link:Przepisy/Dania_glowne/zapiekanki.html[Zapiekanki]
+131. link:Przepisy/Dania_glowne/zielone_curry_z_groszkiem_cukrowym.html[Zielone curry z groszkiem cukrowym] 🐔
+132. link:Przepisy/Dania_glowne/ziemniaki_faszerowane.html[Ziemniaki faszerowane] 🐖
+133. link:Przepisy/Dania_glowne/zrazy_wołowe.html[Zrazy wołowe] 🥩
+134. link:Przepisy/Dania_glowne/żeberka_w_miodzie.html[Żeberka w miodzie] 🐖
 
 == Desery
 
-1. link:Przepisy/Desery/brownie.html[Brownie] 🌱
-2. link:Przepisy/Desery/bułki_cynamonowe.html[Bułki cynamonowe] 🌱
-3. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy] 🌱
-4. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami] 🌱
-5. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe] 🌱
-6. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec] 🌱
-7. link:Przepisy/Desery/jogurt_grecki_z_miodem_i_orzechami.html[Jogurt grecki z miodem i orzechami] 🌱
-8. link:Przepisy/Desery/kokosanka.html[Kokosanka] 🌱
-9. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik] 🌱
-10. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami] 🌱
-11. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami] 🌱
-12. link:Przepisy/Desery/pierniczki.html[Pierniczki] 🌱
-13. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami] 🌱
-14. link:Przepisy/Desery/sernik.html[Sernik] 🌱
-15. link:Przepisy/Desery/sernik_tradycyjny.html[Sernik tradycyjny] 🌱
-16. link:Przepisy/Desery/skyrnik.html[Skyrnik] 🌱
-17. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy] 🌱
-18. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik] 🌱
-19. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa] 🌱
-20. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy] 🌱
-21. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
-22. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
-23. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
+1. link:Przepisy/Desery/baklava.html[Baklava] 🌱
+2. link:Przepisy/Desery/brownie.html[Brownie] 🌱
+3. link:Przepisy/Desery/bułki_cynamonowe.html[Bułki cynamonowe] 🌱
+4. link:Przepisy/Desery/chlebek_bananowy.html[Chlebek bananowy] 🌱
+5. link:Przepisy/Desery/ciastka_z_maszynki.html[Ciastka z maszynki] 🌱
+6. link:Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html[Ciasto drożdżowe ze śliwkami] 🌱
+7. link:Przepisy/Desery/ciasto_marchewkowe.html[Ciasto marchewkowe] 🌱
+8. link:Przepisy/Desery/ciasto_porzeczkowiec.html[Ciasto porzeczkowiec] 🌱
+9. link:Przepisy/Desery/fluffy_pancakes.html[Fluffy pancakes] 🌱
+10. link:Przepisy/Desery/jogurt_grecki_z_miodem_i_orzechami.html[Jogurt grecki z miodem i orzechami] 🌱
+11. link:Przepisy/Desery/kokosanka.html[Kokosanka] 🌱
+12. link:Przepisy/Desery/kokosowy_jabłecznik.html[Kokosowy jabłecznik] 🌱
+13. link:Przepisy/Desery/muffinki_z_malinami.html[Muffinki z malinami] 🌱
+14. link:Przepisy/Desery/murzynek_z_wiśniami.html[Murzynek z wiśniami] 🌱
+15. link:Przepisy/Desery/pierniczki.html[Pierniczki] 🌱
+16. link:Przepisy/Desery/racuchy_z_jabłkami.html[Racuchy z jabłkami] 🌱
+17. link:Przepisy/Desery/sernik.html[Sernik] 🌱
+18. link:Przepisy/Desery/sernik_tradycyjny.html[Sernik tradycyjny] 🌱
+19. link:Przepisy/Desery/skyrnik.html[Skyrnik] 🌱
+20. link:Przepisy/Desery/sos_waniliowy.html[Sos waniliowy] 🌱
+21. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik] 🌱
+22. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa] 🌱
+23. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy] 🌱
+24. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
+25. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
+26. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
 
 == Makarony
 
