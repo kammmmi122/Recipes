@@ -1,4 +1,4 @@
-= Grecki klopsiki w sosie pomidorowym +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Grecki klopsiki w sosie pomidorowym 🇬🇷 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -10,10 +10,39 @@
 
 == Składniki
 
+* 1 kg mięsa mielonego wieprzowo-wołowego
+* 1 cebula starta na tarce o grubych oczkach
+* 2 łyżki tłuczonej lub grubo mielonej kolendry
+* 1 łyżeczka mielonego kminu rzymskiego
+* 1 łyżka płatków chilli
+* 2 ząbki czosnku startego na tarce
+* 2 łyżeczki soli
+* 1/2 pęczka mięty pieprzowej (samych liści) lub 1 łyżeczka suszonej mięty pieprzowej
+* 1 pęczek natki pietruszki
+* 2-3 łyżki bułki tartej
+* 1 jajko
+* 2-3 łyżki lodowatej wody
+* 2-3 łyżki mąki pszennej
+* 200 ml oliwy
+* passata pomidorowa
+* 200 g fety
 
 |
 == Przygotowanie
 
+Do mięsa dodaj cebulę, przyprawy, starty czosnek, sól oraz posiekaną miętę i natkę pietruszki. Dokładnie wszystko wymieszaj i odstaw do lodówki na minimum pół godziny (a najlepiej na całą noc).
+
+Wyjmij mięso z lodówki i dodaj jajko, bułkę tartą oraz lodowatą wodę.
+
+Wyrabiaj dłońmi tak długo, aż masa zacznie kleić się do rąk.
+
+Formuj klopsiki wielkości orzecha włoskiego (lub większe jeśli wolisz) i obtaczaj je w mące, strzepując jej nadmiar.
+
+Na szerokiej patelni rozgrzej oliwę.
+
+Smaż klopsiki z każdej strony na złoty kolor, następnie odsącz je na talerzu wyłożonym ręcznikiem papierowym.
+
+Zagotuj passatę pomidorową, włóż klopsiki i podgotuj przez 3 minuty. Skrusz fetę i dodaj do potrawy.
 
 |===
 
