@@ -1,4 +1,4 @@
-= Klopsiki z pieczarkami w sosie pomidorowym +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Klopsiki z pieczarkami w sosie pomidorowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
