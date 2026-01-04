@@ -1,0 +1,38 @@
+= Pasztet z białej fasoli 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 40 minut + 40 minut pieczenia
+* 10 porcji
+* https://www.jadlonomia.com/przepisy/idealny-pasztet-z-bialej-fasoli/[link do źródła przepisu]
+
+== Składniki
+* 2 szklanki drobnej białej fasoli, namoczonej przez noc w zimnej wodzie
+* 2 duże cebule, pokrojone w pióra
+* 1 jabłko, obrane i pokrojone w kostkę
+* 2 łyżeczki majeranku
+* 1 łyżeczka tymianku
+* spora szczypta gałki, startej
+* 2 ząbki czosnku
+* łyżeczka musztardy
+* 100 ml oleju + sporo do smażenia
+* 5 czubatych łyżek zmielonych płatków owsianych
+* sól i pieprz
+
+|
+== Przygotowanie
+
+Namoczoną fasolę odcedzić, opłukać i ugotować w nieosolonej wodzie do miękkości.
+W międzyczasie na patelni na minimalnym ogniu zeszklić cebulę oraz jabłka, powinny się lekko rozpadać.
+Ugotowaną fasolę opłukać, przestudzić i połączyć z podduszonymi cebulami, jabłkami oraz resztą składników. Przepuścić przez maszynkę do mielenia lub zmiksować ręcznym blenderem. Doprawić solą i pieprzem do smaku.
+Piekarnik rozgrzać do 180 stopni. Keksówkę wysmarować olejem, przełożyć masę fasolową i piec przez około 40 minut, w połowie pieczenia można przykryć wierzch pasztetu folią aluminiową - dzięki temu nie będzie zbyt spieczony i nie będzie się kruszył. Wyjąc na blat, zostawić do całkowitego wystudzenia i dopiero wtedy wyjąć z formy i kroić. Pyszny z dobrą musztardą, chrzanem, ćwikłą albo sosem tatarskim.
+
+|===
+
+[.text-center]
+== Zdjęcia
