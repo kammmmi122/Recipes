@@ -1,0 +1,29 @@
+<div id="filters" style="margin-bottom:1em;">
+  <button data-filter="all">Wszystkie</button>
+  <button data-filter="🌱">🌱 Vege</button>
+  <button data-filter="🐟">🐟 Ryba</button>
+  <button data-filter="🔥">🔥 Ostro</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const list = document.querySelector("ul, ol"); // adjust if needed
+  const items = Array.from(list.querySelectorAll("li"));
+  const buttons = document.querySelectorAll("#filters button");
+
+  buttons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const filter = btn.getAttribute("data-filter");
+
+      items.forEach(li => {
+        const text = li.textContent || "";
+        if (filter === "all" || text.includes(filter)) {
+          li.style.display = "";
+        } else {
+          li.style.display = "none";
+        }
+      });
+    });
+  });
+});
+</script>
