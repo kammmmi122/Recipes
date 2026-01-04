@@ -44,6 +44,7 @@ def create_index_adoc():
 
     with open(f"index.adoc", "w", encoding="utf8") as file:
         file.write("= Lista przepisów\n")
+        file.write("++++\ninclude::filters.html[]\n++++\n")
 
     for path, subdirs, files in os.walk("."):
         files = sorted(files, key=lambda word: [get_value(c) for c in word])

@@ -2,6 +2,9 @@
 
 == Przepisy
 
+++++
+include::filters.html[]
+++++
 
 == Dania glowne
 
