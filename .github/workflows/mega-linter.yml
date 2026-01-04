@@ -30,7 +30,7 @@ jobs:
     steps:
       # Git Checkout
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@latest
         with:
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
 
         # You can override MegaLinter flavor used to have faster performances
         # More info at https://megalinter.io/latest/flavors/
-        uses: oxsecurity/megalinter/flavors/documentation@v7
+        uses: oxsecurity/megalinter/flavors/documentation@latest
 
         id: ml
 
