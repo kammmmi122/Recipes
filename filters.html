@@ -1,0 +1,119 @@
+<style>
+  #filters {
+    margin-bottom: 1em;
+    display: flex;
+    gap: 0.5em;
+    flex-wrap: wrap;
+  }
+
+  #filters button {
+    padding: 0.4em 0.8em;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #f7f7f7;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+  }
+
+  #filters button:hover {
+    background: #eaeaea;
+  }
+
+  #filters button.active {
+    background: #007acc;
+    color: white;
+    border-color: #007acc;
+  }
+
+  /* collapsed list */
+  .collapsed {
+    display: none;
+  }
+</style>
+
+<div id="filters">
+  <button data-filter="🌱">🌱 Vege</button>
+  <button data-filter="🐟">🐟 Ryba</button>
+  <button data-filter="🔥">🔥 Ostro</button>
+  <button data-filter="all">Wszystkie</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const lists = document.querySelectorAll("ul, ol");
+  const buttons = document.querySelectorAll("#filters button");
+
+  // Track active filters (multi-select)
+  const activeFilters = new Set();
+
+  function applyFilters() {
+    lists.forEach(list => {
+      const items = Array.from(list.querySelectorAll("li"));
+      let visibleCount = 0;
+
+      items.forEach(li => {
+        const text = li.textContent || "";
+
+        // If "all" is active → show everything
+        if (activeFilters.has("all") || activeFilters.size === 0) {
+          li.style.display = "";
+          visibleCount++;
+          return;
+        }
+
+        // Otherwise match ANY selected tag
+        const matches = [...activeFilters].some(tag => text.includes(tag));
+
+        if (matches) {
+          li.style.display = "";
+          visibleCount++;
+        } else {
+          li.style.display = "none";
+        }
+      });
+
+      // Collapse list if no visible items
+      if (visibleCount === 0) {
+        list.classList.add("collapsed");
+      } else {
+        list.classList.remove("collapsed");
+      }
+    });
+  }
+
+  buttons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const filter = btn.getAttribute("data-filter");
+
+      if (filter === "all") {
+        // Reset everything
+        activeFilters.clear();
+        buttons.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+      } else {
+        // Toggle filter on/off
+        if (activeFilters.has(filter)) {
+          activeFilters.delete(filter);
+          btn.classList.remove("active");
+        } else {
+          activeFilters.add(filter);
+          btn.classList.add("active");
+        }
+
+        // Remove "all" highlight if any specific filter is used
+        buttons.forEach(b => {
+          if (b.getAttribute("data-filter") === "all") {
+            b.classList.remove("active");
+          }
+        });
+      }
+
+      applyFilters();
+    });
+  });
+
+  // Initial state: show all
+  applyFilters();
+});
+</script>
