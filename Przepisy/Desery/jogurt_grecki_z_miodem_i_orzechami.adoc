@@ -1,4 +1,4 @@
-= Jogurt grecki z miodem i orzechami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Jogurt grecki z miodem i orzechami 🌱 🇬🇷 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -7,12 +7,19 @@
 |
 == Szczegóły
 
+* czas przygotowania: 10 minut
+* 1 porcja
+
 == Składniki
 
+* 200 ml oleju
+* 2 łyżki miodu
+* garść orzechów
 
 |
 == Przygotowanie
 
+Zmieszaj miód z jogurtem greckim. Posyp całość orzechami
 
 |===
 

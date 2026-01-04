@@ -1,4 +1,4 @@
-= Tzatiki +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tzatiki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,14 +6,33 @@
 |===
 |
 == Szczegóły
-* https://krytykakulinarna.com/tzatziki-przepis/[link do źródła przepisu]
+* czas przygotowania: 30 minut
+* 8 porcji
+* https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
 
 == Składniki
 
+* 1 kg odsączonego jogurtu greckiego
+* 1 duży szklarniowy ogórek
+* 3 ząbki czosnku
+* 3-4 łyżki octu z czerwonego wina
+* 3-4 łyżki oliwy (plus trochę do podania)
+* sól
 
 |
 == Przygotowanie
 
+Czosnek obierz i zetrzyj na tarce, wrzuć do dużej miski i posól.
+
+Dodaj jogurt, ocet i oliwę, następnie dokładnie wymieszaj i odstaw.
+
+Ogórka obierz (lub nie - jak lubisz) i zetrzyj na tarce o grubych oczkach. Posól, wygnieć dokładnie dłońmi i odstaw na 5 minut, aż puści dużo soku.
+
+Ogórka odciskaj mocno w dłoniach i partiami dodawaj do jogurtu.
+
+Wymieszaj dokładnie łyżką i wstaw do lodówki do schłodzenia.
+
+Podawaj polane oliwą.
 
 |===
 
