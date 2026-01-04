@@ -1,4 +1,33 @@
-<div id="filters" style="margin-bottom:1em;">
+<style>
+  #filters {
+    margin-bottom: 1em;
+    display: flex;
+    gap: 0.5em;
+    flex-wrap: wrap;
+  }
+
+  #filters button {
+    padding: 0.4em 0.8em;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #f7f7f7;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+  }
+
+  #filters button:hover {
+    background: #eaeaea;
+  }
+
+  #filters button.active {
+    background: #007acc;
+    color: white;
+    border-color: #007acc;
+  }
+</style>
+
+<div id="filters">
   <button data-filter="all">Wszystkie</button>
   <button data-filter="🌱">🌱 Vege</button>
   <button data-filter="🐟">🐟 Ryba</button>
@@ -7,10 +36,7 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  // Select ALL lists in the document
   const lists = document.querySelectorAll("ul, ol");
-
-  // Convert each list into an array of <li> items
   const listItems = Array.from(lists).map(list =>
     Array.from(list.querySelectorAll("li"))
   );
@@ -21,6 +47,11 @@ document.addEventListener("DOMContentLoaded", function () {
     btn.addEventListener("click", () => {
       const filter = btn.getAttribute("data-filter");
 
+      // highlight active button
+      buttons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      // apply filtering to all lists
       listItems.forEach(items => {
         items.forEach(li => {
           const text = li.textContent || "";
