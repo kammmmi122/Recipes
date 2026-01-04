@@ -7,21 +7,29 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const list = document.querySelectorAll("ul, ol"); // adjust if needed
-  const items = Array.from(list.querySelectorAll("li"));
+  // Select ALL lists in the document
+  const lists = document.querySelectorAll("ul, ol");
+
+  // Convert each list into an array of <li> items
+  const listItems = Array.from(lists).map(list =>
+    Array.from(list.querySelectorAll("li"))
+  );
+
   const buttons = document.querySelectorAll("#filters button");
 
   buttons.forEach(btn => {
     btn.addEventListener("click", () => {
       const filter = btn.getAttribute("data-filter");
 
-      items.forEach(li => {
-        const text = li.textContent || "";
-        if (filter === "all" || text.includes(filter)) {
-          li.style.display = "";
-        } else {
-          li.style.display = "none";
-        }
+      listItems.forEach(items => {
+        items.forEach(li => {
+          const text = li.textContent || "";
+          if (filter === "all" || text.includes(filter)) {
+            li.style.display = "";
+          } else {
+            li.style.display = "none";
+          }
+        });
       });
     });
   });
