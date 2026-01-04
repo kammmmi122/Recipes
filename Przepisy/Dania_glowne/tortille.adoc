@@ -39,3 +39,4 @@ Gotowe tortile składać, używając sosu, miesa i warzyw.
 [.text-center]
 == Zdjęcia
 
+image::/Recipes/static/images/20250809_202330.jpg[]
