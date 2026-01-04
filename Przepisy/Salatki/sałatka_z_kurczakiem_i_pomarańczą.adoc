@@ -1,0 +1,49 @@
+= Sałatka z kurczakiem i pomarańczą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 20 minut
+* 2 porcje
+* https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
+
+== Składniki
+
+* 2 pomarańcze
+* 400 g filetu z piersi kurczaka (np. polędwiczki)
+* 50 g rukoli
+* 50 g orzechów włoskich
+* 6 kawałków suszonych pomidorów
+
+=== Sos
+
+* 4 łyżki soku z pomarańczy
+* 2 łyżki oliwy extra vergine
+* 2 łyżki miodu
+* 1 łyżka musztardy dijon
+
+|
+== Przygotowanie
+
+Pomarańcze obrać ze skórek a następnie wyfiletować (ostrym nożem wykroić cząstki miąższu pomiędzy błonkami). Z resztek pomarańczy wycisnąć sok i zachować go do sosu (około 4 - 5 łyżek).
+
+Do soku z pomarańczy dodać resztę składników sosu, czyli: oliwę, miód i musztardę, następnie doprawić solą oraz pieprzem.
+
+Filet z kurczaka pokroić na 4 mniejsze kawałki (polędwiczki zachować w całości). Doprawić solą oraz pieprzem i  położyć na rozgrzanej patelni z oliwą. Smażyć po około 4 minuty z każdej strony. Skropić 2 łyżkami sosu i już na mniejszym ogniu smażyć jeszcze po pół minuty z każdej strony. Odłożyć na talerz. Pozostały sos wykorzystać do polania sałatki.
+
+Rukolę opłukać na sitku, osuszyć i wyłożyć do salaterek.
+
+Orzechy lekko zrumienić na patelni, grubo posiekać.
+
+Suszone pomidory wyjąć z zalewy i pokroić na cienkie paseczki.
+
+Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszone pomidory, polać pozostałym sosem.
+
+|===
+
+[.text-center]
+== Zdjęcia

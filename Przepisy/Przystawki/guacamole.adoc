@@ -1,0 +1,49 @@
+= Guacamole 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 20 minut
+* około 610 g pasty
+* https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
+
+== Składniki
+
+* 3 większe dojrzałe awokado - 650 g
+* 4 łyżki dobrej jakości oliwy
+* 6 łyżek soku z limonki lub cytryny
+* 2 średnie ząbki czosnku
+* pół mniejszej cebuli czerwonej - 60 g
+* 6 pomidorków koktajlowych - 90 g
+* spora garść świeżej kolendry
+* przyprawy: pół łyżeczki soli i spora szczypta świeżo mielonego pieprzu
+
+|
+== Przygotowanie
+
+Aby zrobić guacamole wybierz zdrowe i dojrzałe awokado. U mnie były to dwie sztuki awokado Hass i jedno zwykłe, zielone awokado o łącznej wadze około 650 gramów. Dojrzałe awokado umyj i natnij po całości, aż do pestki. Rozdziel na dwie połówki. Usuń pestkę a miąższ wyjmij przy pomocy łyżki lub też najpierw delikatnie zdejmij palcami twardą skórkę. Połówki awokado ugniataj kawałek po kawałku przy pomocy widelca.
+Tak naprawdę z miąższem możesz postąpić dowolnie, zatem awokado w formie bardziej jednolitej też jest super. Ostatecznie wyszło mi 450 gramów gotowej pasty. Moje awokado były dość duże, więc bardzo możliwe, że u Ciebie potrzebne będą aż cztery sztuki.
+
+Dwa średniej wielkości ząbki czosnku obierz i przeciśnij przez praskę prosto do ugniecionego miąższu z awokado. Dodaj też sporą garść świeżo siekanej kolendry lub ewentualnie natki pietruszki oraz cztery łyżki dobrej jakości oliwy.
+
+Do miseczki wyciśnij też około 6 łyżek świeżo wyciśniętego soku z limonek lub cytryny. U mnie był to sok z jednej całej limonki oraz z połówki cytryny. Całość dokładnie wymieszaj.
+
+Do miąższu z awokado dodaj jeszcze pół łyżeczki soli i sporą szczyptę świeżo mielonego pieprzu. Wymieszaj guacamole i sprawdź jego smak. Być może zechcesz dodać więcej soli lub soku z limonki.
+
+Gotową bazę guacamole umieść na szerokim talerzu lub półmisku.
+
+Małą cebulkę czerwoną pokrój w drobną kostkę. Tak samo drobno pokrój pomidorki.
+
+
+Cebulkę oraz pomidorki wyłóż na guacamole. Całość możesz dodatkowo oprószyć świeżo mielonym kolorowym pieprzem oraz polać dodatkową porcją oliwy.
+
+Guacamole podawaj od razu lub też po schłodzeniu w lodówce. Pastę guacamole możesz jeść z chipsami kukurydzianymi o dowolnym smaku. U nas wygrywa zazwyczaj serowe Doritos.
+
+|===
+
+[.text-center]
+== Zdjęcia

@@ -1,0 +1,54 @@
+= Makaron azjatycki z pikantną wołowiną 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 10 minut
+* 3 porcje
+* https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina[link do źródła przepisu]
+
+== Składniki
+
+* 250 g pszennego makaronu orientalnego np. Mie, Chow Mein
+* 2 łyżki oleju
+* 300 g mielonej wołowiny
+* 1 czerwona cebula
+* 200 g kapusty młodej lub pekińskiej
+* 1/2 czerwonej papryki
+* 2 ząbki czosnku
+* 1 łyżka startego imbiru
+* dymka lub szczypiorek
+* 1 łyżka nasion sezamu lub 1 łyżeczka oleju sezamowego
+
+=== Sos
+
+* 40 ml sosu sojowego
+* 1 łyżka miodu
+* 4 łyżki słodko - pikantnego sosu chili lub słodkiego sosu chili
+* 1 łyżka octu ryżowego
+
+|
+== Przygotowanie
+
+Makaron ugotować zgodnie z instrukcją na opakowaniu, odcedzić.
+
+Rozgrzać wok (lub dużą patelnię) z 1 łyżką oleju. Partiami wkładać mięso i obsmażyć na większym ogniu.
+
+Dodać drugą łyżkę oleju oraz posiekane warzywa: pokrojoną czerwoną cebulę, posiekaną kapustę oraz pokrojoną na paseczki czerwoną paprykę. Smażyć co chwilę mieszając przez ok. 4 minuty, aż warzywa zmiękną.
+
+Dodać drobno starty imbir oraz czosnek, wymieszać.
+
+Wymieszać składniki sosu: sos sojowy, miód, sos chili, ocet ryżowy i wlać do woka. Wymieszać i smażyć przez ok. 2 minuty.
+
+Dodać makaron i chwilę razem podsmażać.
+
+Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem sezamowym).
+
+|===
+
+[.text-center]
+== Zdjęcia

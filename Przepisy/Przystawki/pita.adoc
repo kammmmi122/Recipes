@@ -1,0 +1,34 @@
+= Pita 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 2 h
+* 6 chlebków
+* https://aniagotuje.pl/przepis/pita[link do źródła przepisu]
+
+== Składniki
+* 2,5 szklanki mąki pszennej tortowej - 400 g
+* 5 gramów drożdży suszonych lub 15 gramów drożdży świeżych
+* 1 niecała szklanka lekko ciepłej wody - 220 ml
+* 1 łyżka delikatnej oliwy
+* 1 płaska łyżeczka soli
+
+|
+== Przygotowanie
+
+Umieść razem wszystkie składniki i wyrób je na elastyczne i jednolite ciasto. Miskę z ciastem przykryj ściereczką bawełnianą lub folią przezroczystą. Odstaw do wyrastania na godzinę lub nawet 90 minut.
+
+Wyrośnięte ciasto na chlebki pita przełóż na blat obsypany lekko mąką. Ciasto wyrabiaj chwilę a następnie podziel na sześć równych kawałków. Każdy kawałek uformuj w dłoniach na kształt kuli.
+
+Każdą kulkę ciasta rozwałkuj ostrożnie na na placek o średnicy około 16-18 cm. Placki kładź obok siebie na desce, blacie lub papierze do pieczenia i przykryj ściereczką bawełnianą. Ważne jest to, by placki nie przywarły do deski, ponieważ mają one zachować idealnie rozwałkowany kształt. Placki pod chlebki pita można zostawić do wyrastania na 20-30 minut.
+
+Chlebki upraż na suchej i dobrze nagrzanej patelni. Wybierz niedużą patelnię z grubym dnem. Patelnię nagrzewaj na średniej mocy palnika. Niczym jej nie smaruj. Na nagrzaną patelnię kładź pojedynczo chlebki pita. Po około 1,5 do 2 minut zmień stronę i praż chlebek kolejne 1,5 - 2 minuty. Na chlebku najpierw pojawiają się małe pęcherzyki a po chwili rosną i zaczynają się ze sobą łączyć, aż utworzą kieszeń. W ten sposób upraż po kolei wszystkie chlebki.
+
+|===
+
+[.text-center]
+== Zdjęcia

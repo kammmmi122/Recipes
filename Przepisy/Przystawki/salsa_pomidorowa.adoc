@@ -1,0 +1,40 @@
+= Salsa pomidorowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 15 minut
+* około 470 g salsy
+* https://aniagotuje.pl/przepis/salsa[link do źródła przepisu]
+
+== Składniki
+
+* 400 g dojrzałych pomidorów
+* malutka czerwona cebula - około 80 g
+* 3 ząbki czosnku - 15 g
+* 3 łyżki soku z limonki
+* pół małej papryczki chili - około 10 g
+* garść świeżej kolendry
+* przyprawy: płaska łyżeczka soli; pół płaskiej łyżeczki cukru; po szczypcie cynamonu, kminku i ziela angielskiego
+
+|
+== Przygotowanie
+
+Około 400 gramów pomidorów bardzo drobno siekam nożem. Jeśli używam dużych pomidorów, to najpierw wykrajam twarde fragmenty przy szypułce. Latem sięgam po pachnące, bardzo dojrzałe i czerwone pomidory sezonowe. Poza sezonem kupuję zazwyczaj mini pomidorki: truskawkowe, cherry, koktajlowe.
+Malutką, czerwoną cebulę obieram i bardzo drobno siekam. Śmiało można też użyć trzech cebulek szalotek lub równie małej cebuli czosnkowej albo zwykłej. Trzy ząbki czosnku również obieram i osobno siekam drobniutko nożem. Garść świeżej kolendry (listki i łodyżki) przepłukuję, osuszam i siekam równie drobno jak czosnek. Jeśli nie masz lub nie lubisz smaku świeżej kolendry, to polecam w zastępstwie natkę pietruszki (kolendra jest jednak według mnie obowiązkowa ;).
+Jeśli chodzi o papryczki chili, to z nimi bywa bardzo różnie. Sprawdzam zawsze, jak ostre papryczki mi się trafiły i decyduję, czy posiekać całą papryczkę, czy tylko kawałek. Tym razem dodałam połowę świeżej papryczki, czyli około 10 gramów. Pamiętaj o tym podczas szykowania salsy.
+Wyciskam jeszcze trzy łyżki soku z limonki (czasem daję więcej). Można też dać sok z cytryny, ale limonka będzie najlepsza. Na koniec jeszcze przyprawy: płaska łyżeczka soli; pół płaskiej łyżeczki cukru; po szczypcie cynamonu, kminku i ziela angielskiego. Jeśli nie masz mielonego ziela, to możesz pominąć tę przyprawę.
+Wszystkie składniki na salsę bardzo dokładnie wymieszaj. Salsa pomidorowa jest już gotowa.
+
+Salsę warto na 20 minut odłożyć do lodówki, by wszystkie smaki się przegryzły a salsa schłodziła. Po tym czasie warto spróbować jak smakuje i zdecydować, czy dolać więcej soku z limonki lub może dosypać odrobinę soli. Jeśli salsa wyszła za ostra, to dodaj do niej więcej siekanych drobno pomidorów lub też wlej sok z pomidorów.
+
+Salsa jest bardzo ważna w kuchni meksykańskiej. To salsa nadaje wyrazistości każdemu daniu. Podaje się ją praktycznie do każdej uczty. Podajemy ją do dań z użyciem tortilli, fasoli, ryżu, czy tacos. Najczęściej jednak podajemy ją jaką przekąskę z chipsami nachos.
+
+|===
+
+[.text-center]
+== Zdjęcia

@@ -1,0 +1,41 @@
+= Pieczony filet z indyka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 2 h
+* 30 porcji
+* https://www.kwestiasmaku.com/kuchnia_polska/indyk/pieczony_filet_z_indyka/przepis.html [link do źródła przepisu]
+
+== Składniki
+
+* 1,3 kg filetu indyka (1 duża)
+* 2 łyżki ciemnego sosu sojowego
+* 3 łyżki miodu
+* 1 łyżka octu winnego
+* 2 łyżki powideł śliwkowych (można zastąpić dżemem brzoskwiniowym, morelowym lub pominąć)
+
+|
+== Przygotowanie
+
+
+Filet opłukać, włożyć do garnka, dodać 2 łyżeczki soli, zalać zimną wodą (z kranu) i odstawić na 15 minut.
+
+Do rondelka włożyć składniki marynaty: sos sojowy, miód, ocet i powidła. Zagotować, zmniejszyć ogień i gotować przez 1 minutę, odstawić z ognia i ostudzić.
+
+Mięso wyjąć z wody i osuszyć papierowymi ręcznikami. Włożyć do szczelnego woreczka (np. na mrożonki) i wlać ostudzoną marynatę. Szczelnie zamknąć, chwilę powygniatać i włożyć do lodówki. Zostawić na całą noc, jeśli potrzebujemy na jeszcze dłużej. Przez ten czas można woreczek przemieszać 2 - 3 razy.
+
+Piekarnik nagrzać do 180 stopni C. Mięso wyjąć z woreczka, marynatę wlać do miseczki. Mięso ułożyć w blaszce do pieczenia, do blaszki wlać wrzącą wodę (na wysokość około 1/2 - 1 cm) i wstawić do piekarnika.
+
+Piec przez 80 minut (mniejsze filety, około 700 g pieczemy krócej, około 60 minut). W trakcie pieczenia polewać mięso pozostałą marynatą, mniej więcej co 15 minut. Jeśli mamy termometr kucharski możemy sprawdzić czy mięso jest już upieczone, poprzez włożenie go w sam środek pieczeni, temperatura powinna sięgać 60 stopni C.
+
+Mięso wyjąć w piekarnika, przykryć folią aluminiową i odstawić na minimum 15 minut. Mięso wyjąć na deskę a blaszkę z sosem postawić na kuchence, podgrzewać co chwilę mieszając aż sos się zredukuje (zgęstnieje). Zlać do miseczki, zebrać wszystko to co pozostało na blaszce.
+
+|===
+
+[.text-center]
+== Zdjęcia

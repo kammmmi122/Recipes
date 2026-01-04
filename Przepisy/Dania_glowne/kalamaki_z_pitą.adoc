@@ -1,0 +1,34 @@
+= Kalamaki z pitą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 20 minut
+* 4 porcje
+* inspirowane grecką restauracją Souvlaki Kostas
+
+== Składniki
+
+* 4 pity
+* 4 souvlaki
+* 2 pomidory
+* przecier pomidorowy
+* cebula
+* 8 frytek
+* szczypta papryki słodkiej
+* szczypta chili
+
+|
+== Przygotowanie
+
+Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawiń.
+
+
+|===
+
+[.text-center]
+== Zdjęcia
