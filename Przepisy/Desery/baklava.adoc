@@ -1,0 +1,45 @@
+= Baklava 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 1 h
+* 10 porcji 
+* https://mojewypieki.com/przepis/baklawa-baklava[link do źródła przepisu]
+
+== Składniki
+* około 500 g ciasta filo (2 opakowania, czyli około 24 płaty), jeśli kupne płaty filo są większe, należy je przyciąć do rozmiarów foremki (podzielić na pół)
+* 500 g orzechów włoskich
+* 2 łyżeczki cynamonu
+* ¼ szklanki cukru
+* 300 g klarowanego masła, roztopionego
+* pistacje drobno posiekane, do dekoracji
+* 1,5 szklanki cukru
+* 3/4 szklanki wody
+* 1 łyżeczka wody z kwiatu pomarańczy (dodałam świeżo wyciśniętego soku z pomarańczy)
+
+|
+== Przygotowanie
+
+Najpierw przygotować syrop (musi wystygnąć). Do niedużego garnuszka wlać wodę, dodać cukier i wodę z kwiatu pomarańczy. Zagotować, do rozpuszczenia cukru. Gotować na małym ogniu do uzyskania syropu (około 10 minut). Zdjąć z palnika i odstawić do wystudzenia.
+
+Orzechy, cynamon i cukier włożyć do malaksera (można również zmiksować blenderem) i zmiksować, by orzechy były drobno posiekane (według mnie najlepiej wygląda jak część orzechów jest zmielona, a część tylko posiekana).
+
+Przygotować foremkę o wymiarach 23 x 30 cm i wysmarować ją masłem. Pracując z jednym płatem ciasta (reszta pozostaje pod ściereczką, by nie wyschła), położyć go na spód foremki i przy pomocy pędzelka posmarować masłem. Na niego położyć kolejny płat ciasta filo i znowu posmarować masłem. Na spodzie powinno być w sumie 8 warstw ciasta filo, każda posmarowana masłem. Następnie wyłożyć połowę przygotowanych orzechów, wyrównać. Na orzechy wyłożyć 4 płaty ciasta filo, każdy dokładnie posmarować masłem. Kolejno wyłożyć resztę orzechów, wyrównać. Orzechy przykryć 12 płatami ciasta filo, każdy z osobna wysmarować masłem, łącznie z warstwą wierzchnią.
+
+Ostrym nożem (może być z piłką) pokroić ciasto w romby, kwadraty lub trójkąty (dowolnie), przecinając je prawie do spodniej warstwy (po upieczeniu byłoby trudno je pokroić).
+
+Piec w temperaturze 140°C przez około 2 godziny, do zezłocenia ciasta. Wyjąć i gorące jeszcze ciasto polać równomiernie wystudzonym syropem. Ozdobić drobno posiekanymi pistacjami. Odstawić do przestudzenia.
+
+Bakława (Baklava) jest najlepsza na drugi lub trzeci dzień.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20250724_215629.jpg[]

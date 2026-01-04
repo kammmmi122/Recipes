@@ -1,0 +1,53 @@
+= Pasztet 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 2h
+* 12 porcji
+* https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
+
+== Składniki
+
+* 1/2 kg surowego boczku lub podgardla
+* 1 kg wieprzowiny (np. łopatka, karczek, szynka, biodrówka)
+* 1 kg wołowiny (bez kości, np. antrykot, udziec)
+* 3 średnie cebule
+* 1/2 szklanki wody
+* przyprawy: 2 łyżeczki soli, 2 listki laurowe, 4 szt. ziela angielskiego, 1 łyżeczka zmielonego pieprzu i 1/2 łyżeczki gałki muszkatołowej
+* 1/2 podłużnej bułki np. paryskiej
+* 5 dkg wątróbki drobiowej (opcjonalnie)
+* 5 jajek
+* smalec do wysmarowania formy
+* ok. 300 g słoniny, pokrojonej w cienkie plasterki
+* bułka tarta
+
+|
+== Przygotowanie
+
+Boczek pokroić i ułożyć na spodzie dużego oraz szerokiego garnka. Mięso wieprzowe i wołowe pokroić na małe kawałki około 3 x 3 cm i położyć na boczku.
+
+Cebule obrać i pokroić na grube plastry, położyć na mięsie. Wlać wodę, dodać sól, listki laurowe oraz ziele angielskie. Zagotować na dużym ogniu.
+
+Po zagotowaniu składniki wymieszać i dusić pod przykryciem na małym ogniu aż do miękkości mięsa, przez około 1,5 godziny.
+
+Na koniec odstawić z ognia, dodać pokrojoną na grube plastry bułkę, zanurzyć ją w wywarze. Ugotowane mięso dokładnie ostudzić (najlepiej zostawić całość w wywarze przez całą noc).
+
+Wątróbkę sparzyć we wrzątku przez około 3 minuty. Wątróbkę oraz ugotowane mięso wraz z bułką oraz cebulą zmielić trzykrotnie w maszynce do mięsa z sitkiem o małych oczkach (wcześniej usunąć liście laurowe i ziela).
+
+Następnie dodać żółtka, świeżo zmielony pieprz, gałkę muszkatołową i doprawić solą w razie potrzeby, wszystko wymieszać. Na koniec delikatnie połączyć z ubitymi na sztywną pianę białkami.
+
+Dwie wąskie i podłużne formy o długości 30 cm wysmarować smalcem, boki i dno wyłożyć plasterkami słoniny. Posypać bułką tartą. Wyłożyć masę mięsną, dobrze docisnąć, aby nie pozostały wewnątrz pęcherze powietrza.
+
+Wstawić do nagrzanego do 190 stopni C piekarnika i piec przez ok 1,5 godziny. Ostudzić. Można trzymać w lodówce lub część pasztetu zamrozić.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20241228_223850.jpg[]

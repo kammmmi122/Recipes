@@ -38,3 +38,5 @@ Podawać gorącą.
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20250822_173944.jpg[]

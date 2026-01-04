@@ -1,0 +1,37 @@
+= Ciastka z maszynki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* https://domowe-wypieki.pl/ciasteczka/705-ciasteczka-z-maszynki[link do źródła przepisu]
+
+== Składniki
+
+* 400 g mąki pszennej (lub w wersji kakaowej: 350 g mąki pszennej + 50 g kakao)
+* 100 g cukru pudru
+* 2 żółtka
+* 200 g masła, temperatura pokojowa
+* 2 łyżki gęstego jogurtu naturalnego lub kwaśnej śmietany 10- 18%
+* ½ łyżeczki proszku do pieczenia
+
+|
+== Przygotowanie
+
+Wszystkie składniki zagnieść ręcznie lub robotem kuchennym, używając haka do zagniatania ciasta. (Ciasto powinno być gładkie, nie za suche, o konsystencji miękkiej plasteliny. Gdyby zdarzyło się, że będzie za suche należy dodać jeszcze troszkę jogurtu).
+
+Ciasto nakładać porcjami do maszynki do ciastek (lub maszynki do mięsa z nakładką do ciastek) i wyciskać dowolne kształty. Długie "taśmy" ciasteczek pokroić na kilkucentymetrowe kawałki i ułożyć na blasze wyłożonej papierem do pieczenia.
+
+Piec w nagrzanym piekarniku, jedną blachę po drugiej, ok. 15 minut na złoty kolor w temperaturze 180°C, grzałka góra- dół.
+
+Chłodne ciasteczka dobrze przechowują się w szczelnej puszce, w temperaturze pokojowej, przez co najmniej 2 miesiące.
+
+|===
+
+[.text-center]
+== Zdjęcia
+
+image::/Recipes/static/images/20251230_232424.jpg[]
+image::/Recipes/static/images/20251230_232420.jpg[]

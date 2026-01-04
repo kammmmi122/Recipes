@@ -25,3 +25,5 @@ Zmieszaj miód z jogurtem greckim. Posyp całość orzechami
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20250606_192348.jpg[]

@@ -51,3 +51,6 @@ Zagotuj passatę pomidorową, włóż klopsiki i podgotuj przez 3 minuty. Skrusz
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20250622_184004.jpg[]
+image::/Recipes/static/images/20250622_184733.jpg[]

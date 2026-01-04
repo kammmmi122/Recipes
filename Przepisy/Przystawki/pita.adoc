@@ -32,3 +32,6 @@ Chlebki upraż na suchej i dobrze nagrzanej patelni. Wybierz niedużą patelnię
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20251123_183549.jpg[]
+image::/Recipes/static/images/20251123_184210.jpg[]

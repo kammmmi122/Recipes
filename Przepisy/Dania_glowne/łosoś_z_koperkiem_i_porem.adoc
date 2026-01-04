@@ -32,3 +32,5 @@ Wstawić do nagrzanego piekarnika i piec przez 15 minut.
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20240911_131337.jpg[]
