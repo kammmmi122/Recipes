@@ -9,7 +9,7 @@
 
 * czas przygotowania: 2 h
 * 30 porcji
-* https://www.kwestiasmaku.com/kuchnia_polska/indyk/pieczony_filet_z_indyka/przepis.html [link do źródła przepisu]
+* https://www.kwestiasmaku.com/kuchnia_polska/indyk/pieczony_filet_z_indyka/przepis.html[link do źródła przepisu]
 
 == Składniki
 
@@ -21,7 +21,6 @@
 
 |
 == Przygotowanie
-
 
 Filet opłukać, włożyć do garnka, dodać 2 łyżeczki soli, zalać zimną wodą (z kranu) i odstawić na 15 minut.
 
