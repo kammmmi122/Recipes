@@ -1,4 +1,4 @@
-= Sos grzybowy 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+= Sos grzybowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,28 +6,34 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
-* liczba porcji: 16 średnich kartaczy
-* https://aniagotuje.pl/przepis/uniwersalny-sos-grzybowy[link do źródła przepisu]
+* czas przygotowania: 30 minut
+* 2 - 4 porcje
+* https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
 
 == Składniki
-* 500 g grzybów - u mnie same podgrzybki
-* 60 g masła - około 3 łyżki
-* mała cebula
-* 4 ząbki czosnku
-* 200 ml śmietanki słodkiej 30%
-* pół pęczka świeżej pietruszki
-* po pół łyżeczki soli i pieprzu
-* 1 - 3 łyżki octu jabłkowego
+* ok. 500 g grzybów (np. borowików, podgrzybków, kurek, maślaków)
+* 1 cebula
+* 2 ząbki czosnku
+* 50 g masła
+* 125 ml bulionu (np. z kostki)*
+* 125 ml śmietanki 30%
+* 1 łyżka posiekanej natki pietruszki lub koperku
+* kilka kropli soku z cytryny lub octu winnego
 
 |
 == Przygotowanie
 
-Na patelni (wystarczy patelnia o średnicy 24 cm) umieść masło (najlepiej klarowane) oraz poszatkowaną cebulę i czosnek pokrojony w plasterki. Całość smaż na średniej mocy palnika przez 5 minut. Dodaj grzyby.
+Grzyby przebrać, wybrać do sosu ładne, nierobaczywe grzyby. Przyciąć nóżki w razie konieczności, dokładnie oczyścić grzyby nożykiem oraz szczoteczką, unikając w miarę możliwości płukania / moczenia. Następnie pokroić na plasterki.
 
-Grzyby razem z zeszkloną cebulą smaż 20 minut. Mieszaj w trakcie. Dodaj śmietankę, przyprawy oraz posiekaną pietruszkę i ocet jabłkowy (jeśli go używasz).
+Cebulę posiekać w drobną kostkę, czosnek przecisnąć przez praskę lub zetrzeć na drobnej tarce.
 
-Mieszaj sos drewnianą łyżką jeszcze około 3 minuty i gotowe. Sos można podawać od razu. 
+Na większej patelni roztopić połowę masła. Włożyć cebulę i zeszklić ją, smażąc na umiarkowanym ogniu, przez około 3 - 4 minuty. Pod koniec dodać czosnek.
+
+Zwiększyć ogień, dodać grzyby oraz pozostałe masło. Doprawić solą oraz pieprzem i dokładnie obsmażyć, przez ok. 8 minut, od czasu do czasu mieszając.
+
+Wlać bulion i gotować przez około 2 minuty. Wlać śmietankę, wymieszać i zagotować. Dodać posiekaną natkę pietruszki lub koperek i odstawić z ognia.
+
+Sos można doprawić kwaśnym dodatkiem np. odrobiną soku z cytryny lub octu.
 
 |===
 

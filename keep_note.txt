@@ -84,6 +84,7 @@ nowe - Pierogi z mięsem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Pierś z kaczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki.html
 nowe - Pierś z kaczki z sosem pomarańczowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html
 nowe - Placek po węgiersku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placek_po_węgiersku.html
+nowe - Placki ziemniaczane; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placki_ziemniaczane.html
 nowe - Placki z cukinii; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placki_z_cukinii.html
 nowe - Potrawka z udka kurczaka z warzywami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html
 nowe - Pstrąg pieczony w całości; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html
