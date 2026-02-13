@@ -1,0 +1,29 @@
+= Bułeczki baozi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 2 h
+* 3 porcje
+* https://kuchnialidla.pl/baozi-azjatyckie-buleczki-z-wieprzowina[link do źródła przepisu]
+
+== Składniki
+* mąka pszenna - 400 g
+* mleko 1,5% - 200 ml
+* drożdże świeże - 12 g
+* masło - 45 g
+* olej słonecznikowy - 1,5 łyżki
+* sól - 1 szczypta
+* olej sezamowy - 1 łyżeczka
+
+|
+== Przygotowanie
+W rondelku podgrzewamy delikatnie mleko, a potem rozpuszczamy w nim drożdże. W misce łączymy ze sobą sól, masło, mąkę oraz rozpuszczone drożdże i wyrabiamy ciasto. Miskę delikatnie smarujemy olejem sezamowym i zostawiamy w niej ciasto pod przykryciem na godzinę.
+
+|===
+
+[.text-center]
+== Zdjęcia
