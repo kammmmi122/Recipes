@@ -1,4 +1,4 @@
-= Szare kluski ze skwarkami +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Szare kluski ze skwarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -26,27 +26,19 @@
 |
 == Przygotowanie
 
-Jeden kilogram sypkich ziemniaków obierz cienko i zetrzyj na tarce, na bardzo drobnych oczkach. (Po obraniu otrzymałam 880 gramów ziemniaków gotowych do tarcia). Do starcia ziemniaków używam wyłącznie tarki o bardzo drobnych oczkach, co widać też na zdjęciu poniżej. Ziemniaki można też zetrzeć przy użyciu malaksera/maszynki do mielenia z odpowiednią nakładką.
+Jeden kilogram sypkich ziemniaków obierz cienko i zetrzyj na tarce, na bardzo drobnych oczkach. Odciśnij nadmiar wody ze startych ziemniaków.
 
-Każdy używa trochę innych ziemniaków i jedne będą bardziej a inne mniej mączyste. Polecam lekko odcisnąć nadmiar wody ze startych ziemniaków. Ja używam do tego bawełnianej ściereczki, ale nie odciskam mocno masy i nie trzymam jej na ściereczce dłużej niż kilka minut. Tak więc odlałam do osobnej miski około 80 ml płynu (wody ze startych ziemniaków). Masa powinna być mokra, jednak nie powinna stać w niej woda.
+Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków. Skrobię dołóż do masy ziemniaczanej i dodaj 1-2 niepełnych łyżek dodatkowej porcji skrobi/mąki ziemniaczanej. Do miski z ziemniakami wsyp tez pół płaskiej łyżeczki soli i wbij jedno jajko. 
 
-Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków. Skrobię dołóż do masy ziemniaczanej i dodaj 1-2 niepełnych łyżek dodatkowej porcji skrobi/mąki ziemniaczanej. Jedną łyżkę daję zawsze, zaś dwie tylko wtedy, gdy ze startych ziemniaków odlewam więcej niż 80 ml wody. Do miski z ziemniakami wsyp tez pół płaskiej łyżeczki soli i wbij jedno jajko. 
-
-Zostało już tylko dosypanie odpowiedniej ilości mąki. Zazwyczaj wsypuję jedną szklankę mąki, czyli około 160 gramów mąki. Można użyć mąki pszennej uniwersalnej, szymanowskiej lub poznańskiej. Dla osób, które nie używają lub nie mogą używać mąki pszennej, mam dobrą wiadomość. Szare kluski wychodzą rewelacyjne z dodatkiem mąki żytniej jasnej typ. 720. Tym razem wymieszałam mąkę pszenną uniwersalną z mąką żytnią w proporcji pół na pół. 
+Wsyp jedną szklankę mąki, czyli około 160 gramów mąki.
 
 Masa ziemniaczana powinna być po wymieszaniu gęsta jak przestudzony budyń. Podczas nakładania ma nie wylewać się z łyżki, jednak nie może być tez tak sztywna, by można z niej było formować nierozpływające się kształty. Tak więc mąkę dodawaj ostrożnie i stopniowo. W razie potrzeby zwiększ lub zmniejsz jej ilość. 
 
-W dużym, szerokim garnku można już zacząć gotować wodę. Płaską łyżkę soli wsyp w momencie, gdy woda zacznie się gotować. Solenie wody nie jest jednak konieczne. Łyżką stołową (jak do jedzenia zupy) nakładaj porcje masy wielkości małego orzecha włoskiego (lub mniejsze) i od razu umieszczaj w garnku z wrzątkiem. Szarych klusek nie formujemy, tylko przekładamy do wody. Po ugotowaniu każda kluseczka ma trochę inny kształt, a w trakcie gotowania kluski odrobinę się powiększają. 
+W dużym, szerokim garnku można już zacząć gotować wodę. Płaską łyżkę soli wsyp w momencie, gdy woda zacznie się gotować. Łyżką stołową (jak do jedzenia zupy) nakładaj porcje masy wielkości małego orzecha włoskiego (lub mniejsze) i od razu umieszczaj w garnku z wrzątkiem. Szarych klusek nie formujemy, tylko przekładamy do wody. Po ugotowaniu każda kluseczka ma trochę inny kształt, a w trakcie gotowania kluski odrobinę się powiększają. 
 
 Po umieszczeniu jednej serii klusek, odczekaj do dwóch minut, zanim lekko zamieszasz kluski. Szare kluski lubią opadać na dno garnka i lekko do niego przywierać, ponieważ robimy je z luźniejszej masy i nie są formowane. Dlatego zalecam chwilę poczekać i dopiero, gdy już lekko się podgotują, ostrożnie je zamieszać. Gdy kluski wypłyną na powierzchnię, czekamy jeszcze około pięciu minut i wyławiamy je przy pomocy szerokiego cedzaka. Wyłów wszystkie kluseczki, poczekaj aż odcedzisz nadmiar wody i umieść je na szerokim talerzu lub w salaterce. W ten sposób ugotuj wszystkie porcje szarych klusek. Ja swoje kluski szare gotowałam w trzech turach. 
 
-Porada: Cały czas kontroluj moc palnika. Woda ma się gotować, ale nie mocno wrzeć, by kluseczki się nie rozpadały. Dla pewności można zawsze wyłowić jedną kluskę i przekroić ją na pół, by sprawdzić, czy kluski są już gotowe do wyłowienia.
-
 Szare kluski najczęściej podaję z okrasą, którą szykuję z podsmażonego z cebulką boczku. Okrasę warto przygotować sobie wcześniej lub smażyć w tym samym czasie, w którym szykujesz szare kluski. Boczek surowy wędzony (bez skóry) kroję w drobną kostkę i umieszczam na zimnej patelni. Ustawiam trochę niższą niż średnia moc palnika i powoli wytapiam z boczku cały tłuszcz. Trwa to do 10 minut. Następnie dolewam jeszcze około pięciu łyżek oleju do smażenia (jeśli boczek jest dość chudy). Na patelnię wykładam obrane i drobno poszatkowane cebule. Całość smażę jeszcze około 15 minut, aż do ładnego zarumienienia się cebulki. 
-
-Całą zawartość patelni przekładam na półmisek z gotowymi szarymi kluskami i od razu podaję. Szare kluski z cebulką i boczkiem można dodatkowo udekorować siekanym szczypiorkiem, koperkiem lub natką pietruszki. Jeśli mam ochotę, to kruszę też odrobinę twarogu i rozkładam na porcje szarych klusek z okrasą. Jeśli dodajesz twaróg, to możesz też śmiało zrezygnować z boczku i podać szare kluski w wersji bezmięsnej, czyli tylko z podsmażoną na oleju cebulką i twarogiem lub serem ricotta. 
-
-Szare kluski świetnie smakują również w towarzystwie kapusty na ciepło lub dobrego bigosu.
 
 |===
 

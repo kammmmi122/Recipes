@@ -25,7 +25,7 @@ include::filters.html[]
 14. link:Przepisy/Dania_glowne/ćwiartki_pieczone.html[Ćwiartki pieczone] 🐔
 15. link:Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html[Dal z soczewicy z sri lanki] 🌱
 16. link:Przepisy/Dania_glowne/dewolaje.html[Dewolaje] 🐔
-17. link:Przepisy/Dania_glowne/domowa_pizza.html[Domowa pizza]
+17. link:Przepisy/Dania_glowne/domowa_pizza.html[Domowa pizza] 🐖
 18. link:Przepisy/Dania_glowne/domowa_pizza_2.html[Domowa pizza 2]
 19. link:Przepisy/Dania_glowne/domowy_kebab.html[Domowy kebab] 🐔
 20. link:Przepisy/Dania_glowne/domowy_kebab_2.html[Domowy kebab 2] 🐔
@@ -60,7 +60,7 @@ include::filters.html[]
 49. link:Przepisy/Dania_glowne/kopytka.html[Kopytka] 🌱
 50. link:Przepisy/Dania_glowne/krewetki_po_luizjańsku.html[Krewetki po luizjańsku] 🦐 🔥
 51. link:Przepisy/Dania_glowne/krokiety_z_kapustą_i_grzybami.html[Krokiety z kapustą i grzybami] 🌱
-52. link:Przepisy/Dania_glowne/krokiety_z_pieczarkami.html[Krokiety z pieczarkami]
+52. link:Przepisy/Dania_glowne/krokiety_z_pieczarkami.html[Krokiety z pieczarkami] 🐖
 53. link:Przepisy/Dania_glowne/kukurydziane_placuszki_z_ryb_i_krewetek.html[Kukurydziane placuszki z ryb i krewetek] 🐟 🦐
 54. link:Przepisy/Dania_glowne/kurczak_hoisin.html[Kurczak hoisin] 🐔
 55. link:Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowo_serowym.html[Kurczak w sosie śmietanowo serowym] 🐔
@@ -105,7 +105,7 @@ include::filters.html[]
 94. link:Przepisy/Dania_glowne/quesadilla.html[Quesadilla] 🐔
 95. link:Przepisy/Dania_glowne/quesadilla_2.html[Quesadilla 2] 🐔
 96. link:Przepisy/Dania_glowne/quesadilla_3.html[Quesadilla 3] 🐔
-97. link:Przepisy/Dania_glowne/quesadilla_4.html[Quesadilla 4]
+97. link:Przepisy/Dania_glowne/quesadilla_4.html[Quesadilla 4] 🌱
 98. link:Przepisy/Dania_glowne/quinotto_z_czerwoną_fasolą_i_papryką.html[Quinotto z czerwoną fasolą i papryką] 🌱
 99. link:Przepisy/Dania_glowne/ratatuj.html[Ratatuj] 🌱
 100. link:Przepisy/Dania_glowne/risotto_primavera.html[Risotto primavera] 🌱
@@ -123,7 +123,7 @@ include::filters.html[]
 112. link:Przepisy/Dania_glowne/seleryba.html[Seleryba] 🌱
 113. link:Przepisy/Dania_glowne/skrzydełka_w_miodzie.html[Skrzydełka w miodzie] 🐔
 114. link:Przepisy/Dania_glowne/stek_z_sosem_bearnaise_i_szparagami.html[Stek z sosem bearnaise i szparagami] 🥩
-115. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami]
+115. link:Przepisy/Dania_glowne/szare_kluski_ze_skwarkami.html[Szare kluski ze skwarkami] 🐖
 116. link:Przepisy/Dania_glowne/szaszłyki_z_kurczakiem.html[Szaszłyki z kurczakiem] 🐔
 117. link:Przepisy/Dania_glowne/sztuka_mięsa_łee.html[Sztuka mięsa łee] 🐖
 118. link:Przepisy/Dania_glowne/szwedzkie_klopsiki.html[Szwedzkie klopsiki] 🐖 🥩
@@ -136,13 +136,13 @@ include::filters.html[]
 125. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku.html[Wieprzowina po chińsku] 🐖
 126. link:Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html[Wieprzowina po chińsku z mango] 🐖
 127. link:Przepisy/Dania_glowne/wołowina_po_burgundzku.html[Wołowina po burgundzku] 🥩
-128. link:Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html[Zapiekanka łukaszkowa]
-129. link:Przepisy/Dania_glowne/zapiekanka_makaronowa.html[Zapiekanka makaronowa]
+128. link:Przepisy/Dania_glowne/zapiekanka_łukaszkowa.html[Zapiekanka łukaszkowa] 🐖 🥩
+129. link:Przepisy/Dania_glowne/zapiekanka_makaronowa.html[Zapiekanka makaronowa] 🐖
 130. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_ze_szparagami.html[Zapiekanka makaronowa ze szparagami] 🐟
 131. link:Przepisy/Dania_glowne/zapiekanka_makaronowa_2.html[Zapiekanka makaronowa 2] 🐔
 132. link:Przepisy/Dania_glowne/zapiekanka_pasterska.html[Zapiekanka pasterska] 🥩
 133. link:Przepisy/Dania_glowne/zapiekanka_ziemniaczana.html[Zapiekanka ziemniaczana] 🐖
-134. link:Przepisy/Dania_glowne/zapiekanki.html[Zapiekanki]
+134. link:Przepisy/Dania_glowne/zapiekanki.html[Zapiekanki] 🐖
 135. link:Przepisy/Dania_glowne/zielone_curry_z_groszkiem_cukrowym.html[Zielone curry z groszkiem cukrowym] 🐔
 136. link:Przepisy/Dania_glowne/ziemniaki_faszerowane.html[Ziemniaki faszerowane] 🐖
 137. link:Przepisy/Dania_glowne/zrazy_wołowe.html[Zrazy wołowe] 🥩
@@ -222,7 +222,7 @@ include::filters.html[]
 6. link:Przepisy/Przystawki/nocna_owsianka.html[Nocna owsianka] 🌱
 7. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli] 🐟
 8. link:Przepisy/Przystawki/pita.html[Pita] 🌱
-9. link:Przepisy/Przystawki/roladki_tortilowe.html[Roladki tortilowe]
+9. link:Przepisy/Przystawki/roladki_tortilowe.html[Roladki tortilowe] 🐖
 10. link:Przepisy/Przystawki/rozczyn.html[Rozczyn] 🌱
 11. link:Przepisy/Przystawki/salsa_pomidorowa.html[Salsa pomidorowa] 🌱
 12. link:Przepisy/Przystawki/sos_grzybowy.html[Sos grzybowy] 🌱
