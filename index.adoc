@@ -19,7 +19,7 @@ include::filters.html[]
 8. link:Przepisy/Dania_glowne/chakalaka.html[Chakalaka] 🌱
 9. link:Przepisy/Dania_glowne/chili_con_carne.html[Chili con carne] 🥩 🔥
 10. link:Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html[Ciecierzyca po bretońsku] 🌱
-11. link:Przepisy/Dania_glowne/cukinia_faszerowana.html[Cukinia faszerowana]
+11. link:Przepisy/Dania_glowne/cukinia_faszerowana.html[Cukinia faszerowana] 🐖
 12. link:Przepisy/Dania_glowne/cukinie_z_chili_con_carne.html[Cukinie z chili con carne] 🥩
 13. link:Przepisy/Dania_glowne/curry_z_kalafiora.html[Curry z kalafiora] 🌱
 14. link:Przepisy/Dania_glowne/ćwiartki_pieczone.html[Ćwiartki pieczone] 🐔
@@ -117,7 +117,7 @@ include::filters.html[]
 106. link:Przepisy/Dania_glowne/ryż_z_warzywami_chińskimi_i_kurczakiem.html[Ryż z warzywami chińskimi i kurczakiem] 🐔
 107. link:Przepisy/Dania_glowne/sajgonki.html[Sajgonki] 🐖
 108. link:Przepisy/Dania_glowne/schabowy_własnym_w_sosie_z_cebulą.html[Schabowy własnym w sosie z cebulą] 🐖
-109. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu]
+109. link:Przepisy/Dania_glowne/schabowy_ze_schabu.html[Schabowy ze schabu] 🐖
 110. link:Przepisy/Dania_glowne/schabowy_z_kurczaka.html[Schabowy z kurczaka] 🐔
 111. link:Przepisy/Dania_glowne/schab_nadziewany_mozzarellą_i_pieczarkami.html[Schab nadziewany mozzarellą i pieczarkami] 🐖
 112. link:Przepisy/Dania_glowne/seleryba.html[Seleryba] 🌱
