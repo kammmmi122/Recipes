@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 20 min
 * 1 porcja
 * https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 5 krewetek
 * garść mieszanej sałaty z rukolą
 * 1/2 dojrzałego awokado
@@ -23,6 +25,7 @@
 
 |
 == Przygotowanie
+
 Krewetki ugotować na parze. Marchewkę, kalarepkę i ogórka obrać i pokroić w słupki. Awokado przekroić na pół, obrać i pokroić na plasterki.
 
 Na talerzach ułożyć posiekaną sałatę, dodać awokado, marchewkę, ogórka oraz krewetki.

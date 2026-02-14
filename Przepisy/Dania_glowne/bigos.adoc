@@ -6,12 +6,14 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 30 minut
 * czas gotowania: 3 godziny
 * 8 porcji
 * https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
 
 == Składniki
+
 * 40 g suszonych grzybów
 * 200 g boczku
 * 400 g mięsa gulaszowego wieprzowego

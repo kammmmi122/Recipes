@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 3 h
 * 6 porcji
 * https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
 == Składniki
+
 * oliwa z oliwek
 * 1 średnia cebula
 * 1 średnia marchewka
@@ -28,6 +30,7 @@
 
 |
 == Przygotowanie
+
 Cebulę, marchewkę myjemy i kroimy w drobną kostkę.
 
 W żeliwnym garnku rozgrzewamy kilka łyżek oliwy. Wrzucamy warzywa, podsmażamy ok. 10 minut.

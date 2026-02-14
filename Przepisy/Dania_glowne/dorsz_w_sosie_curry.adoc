@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 15 min
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry[link do źródła przepisu]
 
 == Składniki
+
 * 400 g filetów dorsza
 * 1 łyżka czerwonej pasty curry
 * 1 łyżka oleju kokosowego
@@ -24,6 +26,7 @@
 
 |
 == Przygotowanie
+
 Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
 
 Rozgrzać wok lub dużą patelnię i na oleju kokosowym obsmażyć z dwóch stron rybę, odłożyć na talerz.

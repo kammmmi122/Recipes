@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 1,5 h
 * ok. 100 sztuk
 * https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 500 g ugotowanego mięsa z rosołu
 * ugotowane warzywa z zupy (1 marchewka, 1/2 pietruszki)
 * 300 g pieczarek
@@ -19,6 +21,7 @@
 * 1 jajko (opcjonalnie)
 |
 == Przygotowanie
+
 Przygotować ciasto na pierogi z podwójnej porcji.
 
 Pieczarki oczyścić szczoteczką lub gąbką, pokroić na mniejsze części. Cebulę obrać i pokroić w drobną kosteczkę. Pieczarki i cebulę wrzucić na dobrze rozgrzaną patelnię z dodatkiem masła i na większym ogniu odparować i zrumienić co chwilę mieszając.

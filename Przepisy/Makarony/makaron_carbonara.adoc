@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 20 min
 * 2 porcje
 * https://www.kwestiasmaku.com/pasta/makaron_carbonara/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 2 jajka
 * 100 g boczku (wędzonego lub suszonego - pancetty)
 * 150 g makaronu spaghetti
@@ -22,6 +24,7 @@
 
 |
 == Przygotowanie
+
 Makaron ugotować al dente w osolonej wodzie. Jajka sparzyć wrzątkiem, wbić do głębokiego talerza, doprawić solą i roztrzepać widelcem.
 
 Na patelnię włożyć pokrojony w kosteczkę boczek i podsmażyć na małym ogniu przez kilka minut aż się lekko zrumieni. Dodać starty czosnek oraz posiekaną natkę pietruszki i smażyć jeszcze przez kilkanaście sekund.

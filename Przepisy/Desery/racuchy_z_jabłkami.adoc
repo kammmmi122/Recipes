@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 35 min
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/racuchy-z-jablkami[link do źródła przepisu]
 
 == Składniki
+
 * 2 jabłka
 * 200 ml mleka (niepełna 1 szklanka)
 * 1 jajko
@@ -22,6 +24,7 @@
 
 |
 == Przygotowanie
+
 Mąkę przesiać do miski, dodać cukier wanilinowy, cukier oraz proszek do pieczenia, wymieszać.
 
 Dodać mleko i jajko i wymieszać składniki rózgą na jednolitą masę bez grudek.

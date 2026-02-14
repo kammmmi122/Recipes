@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 1 h
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
 
 == Składniki
+
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
 * 2 litry bulionu lub wody
 * 1 cebula
@@ -27,6 +29,7 @@
 
 |
 == Przygotowanie
+
 Mięso opłukać i włożyć do dużego garnka. Wlać 2 litry bulionu lub wody, zagotować, a następnie zszumować.
 
 Dodać obraną cebulę, ziele angielskie i listek laurowy, doprawić solą.

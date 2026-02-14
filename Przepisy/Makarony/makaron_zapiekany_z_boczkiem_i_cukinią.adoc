@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 25 min
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem[link do źródła przepisu]
 
 == Składniki
+
 * 250 g makaronu świderki
 * 1 łyżka oliwy
 * 200 g boczku wędzonego
@@ -23,6 +25,7 @@
 
 |
 == Przygotowanie
+
 Makaron ugotować al dente w osolonej wodzie, odcedzić, włożyć z powrotem do garnka. Piekarnik nagrzać do 190 stopni C (jeśli danie będziemy dodatkowo zapiekać).
 
 Na dużej patelni na oliwie zeszklić pokrojonego pora. Dodać drobno starty czosnek a następnie boczek pokrojony w kostkę.

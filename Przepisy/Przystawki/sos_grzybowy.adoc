@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 30 minut
 * 2 - 4 porcje
 * https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * ok. 500 g grzybów (np. borowików, podgrzybków, kurek, maślaków)
 * 1 cebula
 * 2 ząbki czosnku

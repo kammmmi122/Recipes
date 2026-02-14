@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 30 min
 * 4 porcje
 * https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
 
 == Składniki
+
 * szalotka 3 szt.
 * oliwa 3 łyżki
 * masło 82% 140 g
@@ -29,6 +31,7 @@
 
 |
 == Przygotowanie
+
 Szalotki posiekaj w drobną kostkę i zeszklij na oliwie i 20 g masła.
 
 Dodaj suchy ryż i smaż przez ok. 2 minuty, często mieszając, aż do zmiany koloru.

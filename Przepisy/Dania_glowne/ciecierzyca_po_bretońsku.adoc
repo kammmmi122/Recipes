@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 25 minut
 * 4 - 6 porcji
 * https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
 
 == Składniki
+
 * 1 cebula czerwona
 * 4 liście laurowe
 * 2 ziarna ziela angielskiego
@@ -32,6 +34,7 @@
 
 |
 == Przygotowanie
+
 Cebulę pokroić w kostkę. Na dnie garnka rozgrzać olej, dodać cebulę oraz liście laurowe, ziele angielskie i ziarna pieprzu. Smażyć przez 2 - 3 minuty do czasu, aż cebula będzie złota.
 
 Wtedy dodać ciecierzycę, dokładnie wymieszać i dodać wszystkie pozostałe przyprawy. Smażyć minutę po czym dodać pozostałe składniki.

@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 20 min
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
 
 == Składniki
+
 * 35 g surowej kaszy bulgur
 * 1 duży pęczek natki pietruszki
 * 1 pomidor
@@ -22,6 +24,7 @@
 
 |
 == Przygotowanie
+
 Ugotować kaszę bulgur zgodnie z instrukcją na opakowaniu. Odcedzić i włożyć do miski.
 
 Natkę pietruszki opłukać, osuszyć i oderwać listki od gałązek. Drobno posiekać, dodać do miski z kaszą.

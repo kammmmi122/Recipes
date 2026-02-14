@@ -6,12 +6,14 @@
 |===
 |
 == Szczegóły
+
 * czas przygotowania: 15 min
 * czas trzymania w lodówce minimum: 6 godzin
 * 1 duża porcja na każdy przepis
 * https://aniagotuje.pl/przepis/nocna-owsianka[link do źródła przepisu]
 
 == Składniki
+
 === Owocowa
 * 200 ml mleka
 * 2 łyżki jogurtu naturalnego - do 30 g

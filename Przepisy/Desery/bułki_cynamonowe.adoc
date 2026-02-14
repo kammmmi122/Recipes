@@ -6,12 +6,14 @@
 |===
 |
 == Szczegóły
+
 * czas wyrastania ciasta: 1 godzina 30 minut
 * czas pieczenia: 20 minut
 * 24 bułeczki
 * https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
 
 == Składniki
+
 * 35 g drożdży świeżych lub około 10 g drożdży suszonych
 * 2 łyżki mąki pszennej - około 30 g
 * 2 łyżki cukru - około 30 g
