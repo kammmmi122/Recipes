@@ -31,3 +31,5 @@ Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porc
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20260115_185756.jpg[]

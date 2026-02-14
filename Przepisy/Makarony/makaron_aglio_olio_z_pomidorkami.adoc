@@ -13,7 +13,7 @@
 == Składniki
 * 500 g makaronu typu spaghetti
 * 6 ząbków czosnku
-* 100 ml oliwy Monini Extra Vergine GranFrutatto
+* 100 ml oliwy
 * 400 g pomidorków koktajlowych
 * garść natki pietruszki
 * sól
@@ -28,3 +28,6 @@ Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo dr
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20260208_173706.jpg[]
+image::/Recipes/static/images/20260208_173830.jpg[]
