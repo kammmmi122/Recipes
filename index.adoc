@@ -219,16 +219,17 @@ include::filters.html[]
 3. link:Przepisy/Przystawki/granola_z_owocami_i_jogurtem.html[Granola z owocami i jogurtem] 🌱
 4. link:Przepisy/Przystawki/guacamole.html[Guacamole] 🌱
 5. link:Przepisy/Przystawki/jajecznica.html[Jajecznica] 🌱
-6. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli] 🐟
-7. link:Przepisy/Przystawki/pita.html[Pita] 🌱
-8. link:Przepisy/Przystawki/roladki_tortilowe.html[Roladki tortilowe]
-9. link:Przepisy/Przystawki/rozczyn.html[Rozczyn] 🌱
-10. link:Przepisy/Przystawki/salsa_pomidorowa.html[Salsa pomidorowa] 🌱
-11. link:Przepisy/Przystawki/sos_grzybowy.html[Sos grzybowy] 🌱
-12. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia] 🐟
-13. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki] 🌱
-14. link:Przepisy/Przystawki/tzatziki.html[Tzatziki] 🌱
-15. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar] 🌱
+6. link:Przepisy/Przystawki/nocna_owsianka.html[Nocna owsianka] 🌱
+7. link:Przepisy/Przystawki/pasta_z_makreli.html[Pasta z makreli] 🐟
+8. link:Przepisy/Przystawki/pita.html[Pita] 🌱
+9. link:Przepisy/Przystawki/roladki_tortilowe.html[Roladki tortilowe]
+10. link:Przepisy/Przystawki/rozczyn.html[Rozczyn] 🌱
+11. link:Przepisy/Przystawki/salsa_pomidorowa.html[Salsa pomidorowa] 🌱
+12. link:Przepisy/Przystawki/sos_grzybowy.html[Sos grzybowy] 🌱
+13. link:Przepisy/Przystawki/tatar_ze_śledzia.html[Tatar ze śledzia] 🐟
+14. link:Przepisy/Przystawki/tortille_placki.html[Tortille placki] 🌱
+15. link:Przepisy/Przystawki/tzatziki.html[Tzatziki] 🌱
+16. link:Przepisy/Przystawki/wegański_tatar.html[Wegański tatar] 🌱
 
 == Salatki
 
