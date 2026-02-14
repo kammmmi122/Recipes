@@ -60,7 +60,7 @@ nowe - Kurczak hoisin; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glown
 nowe - Kurczak w sosie śmietanowo serowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowo_serowym.html
 nowe - Kurczak w sosie śmietanowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowym.html
 nowe - Kurczak z mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_mozzarellą.html
-nowe - Kurczak z porami puree ziemniaczane; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_porami_puree_ziemniaczane.html
+nowe - Kurczak z porami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_porami.html
 nowe - Lasagne bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/lasagne_bolognese.html
 nowe - Leczo; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo.html
 nowe - Leczo wegetariańskie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo_wegetariańskie.html

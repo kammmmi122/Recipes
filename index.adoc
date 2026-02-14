@@ -66,7 +66,7 @@ include::filters.html[]
 55. link:Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowo_serowym.html[Kurczak w sosie śmietanowo serowym] 🐔
 56. link:Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowym.html[Kurczak w sosie śmietanowym] 🐔
 57. link:Przepisy/Dania_glowne/kurczak_z_mozzarellą.html[Kurczak z mozzarellą] 🐔
-58. link:Przepisy/Dania_glowne/kurczak_z_porami_puree_ziemniaczane.html[Kurczak z porami puree ziemniaczane] 🐔
+58. link:Przepisy/Dania_glowne/kurczak_z_porami.html[Kurczak z porami] 🐔
 59. link:Przepisy/Dania_glowne/lasagne_bolognese.html[Lasagne bolognese] 🐖 🥩
 60. link:Przepisy/Dania_glowne/leczo.html[Leczo] 🐖
 61. link:Przepisy/Dania_glowne/leczo_wegetariańskie.html[Leczo wegetariańskie] 🌱
