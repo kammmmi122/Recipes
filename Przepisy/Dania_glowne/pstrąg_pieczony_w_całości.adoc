@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * 4 porcje
 * https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
 
 == Składniki
+
 * 4 średnie wypatroszone pstrągi (tęczowy lub łososiowy)
 * 2 cytryny
 * 1 limonka
@@ -25,6 +27,7 @@
 
 |
 == Przygotowanie
+
 Pstrągi dokładnie patroszymy, czyścimy i myjemy. Generalnie są dwie szkoły czyszczenia, jedni rybę skrobią z łusek, inni natomiast jedynie czyszczą wierzchnią warstwę śluzu, którym powleczone są łuski. My wykonujemy jedynie tę drugą czynność... wychodzimy z założenia, że i tak przecież zjada się samo mieso, a skóra wędruje do kosza.
 
 Suszymy papierowymi ręcznikami. Robimy kilka nacięć na jednym boku pstrąga.

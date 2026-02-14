@@ -1,7 +1,2 @@
-nowe - Pasztet z białej fasoli; https://www.kwestiasmaku.com/kuchnia_polska/indyk/pieczony_filet_z_indyka/przepis.html
-nowe - Kurczak w sosie śmietanowym; https://aniagotuje.pl/przepis/kurczak-w-sosie-smietanowym
-nowe - Makaron azjatycki z pikantną wołowiną; https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina
-nowe - Sałatka z kurczakiem i pomarańczą; https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami
-nowe - Bułeczki czosnkowe; https://aniagotuje.pl/przepis/buleczki-czosnkowe
-nowe - Roladki tortilowe; https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka
-nowe - Skyrnik; https://aniagotuje.pl/przepis/skyrnik-z-morelami
+nowe - Nocna owsianka; https://aniagotuje.pl/przepis/nocna-owsianka
+

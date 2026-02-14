@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 25 min
+
+* czas przygotowania: 25 minut
 * 2 porcje, po 600 kcal
 * https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
 
 == Składniki
+
 * 200 g mrożonych krewetek
 * 125 g makaronu np. tagliatelle
 * 1 łyżka oliwy extra vergine
@@ -23,6 +25,7 @@
 * 125 ml śmietanki 30%
 |
 == Przygotowanie
+
 Krewetki rozmrozić, oczyścić jeśli jest konieczność, oderwać ogonki, opłukać i osuszyć.
 
 Makaron ugotować w osolonej wodzie zgodnie z instrukcją na opakowaniu.

@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 15 min
+
+* czas przygotowania: 15 minut
 * 4 porcje
 * https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 2 pomidory
 * 4 ogórki gruntowe lub 2 szklarniowe
 * 1/2 czerwonej cebuli
@@ -21,6 +23,7 @@
 * świeżo zmielony pieprz
 |
 == Przygotowanie
+
 Pomidory pokroić na ćwiartki, usunąć szypułki, następnie pokroić na jeszcze mniejsze kawałki.
 
 Ogórki obrać (można pozostawić miejscami paseczki zielonej skórki), przekroić wzdłuż na pół a następnie na grubsze półplasterki.

@@ -1,0 +1,52 @@
+= Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 30 minuty
+* czas gotowania: 30 minuty
+* 4 porcje
+* https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
+
+== Składniki
+
+* 1 kg wieprzowiny łopatka, karkówka lub polędwiczka wieprzowa
+
+=== Marynata:
+* ½ szklanki sosu sojowego
+* ⅓ szklanki sosu hoisin
+* 3 łyżki wina Shaoxing
+* 2 łyżki miodu
+* 2 ząbki czosnku
+* 1 łyżeczka przyprawy 5 smaków
+
+=== Glazura:
+* 3 łyżki miodu
+* 40 ml pozostałej marynaty
+
+|
+== Przygotowanie
+
+===Dzień przed podaniem:
+Przygotować marynatę. Do miski dodać sos sojowy, sos hoisin, wino Shaoxing, miód, przyprawę 5 smaków. Dodać czosnek przeciśnięty przez praskę i opcjonalnie odrobinę czerwonego barwnika. Całość dobrze wymieszać.
+Mięso wieprzowe pokroić prostopadle do włókien na podłużne, wysokie kawałki o szerokości ok. 7 cm. Ja z 1 kg wieprzowiny otrzymuje 5-6 takich kawałków.
+Mięso włożyć do miski lub woreczka strunowego i zalać marynatą. Wymieszać, aby każdy kawałek mięsa był dobrze pokryty marynatą. Odłożyć do lodówki na minimum 12 godzin (ja marynowałam je przez 24 godziny).
+
+===W dniu podania:
+Zamarynowane mięso wyjąć z lodówki minimum 30 minut przed pieczeniem. Rozgrzać piekarnik do 200 stopni.
+W piekarniku, ułożyć kratkę do pieczenia, a pod nią blachę wyłożoną folią aluminiową lub papierem do pieczenia (aby łatwiej było sprzątnąć kapiącą marynatę).
+Kawałki wieprzowiny wyłożyć na kratkę do pieczenia, pozostałą marynatę zachować. Piec przez 15 minut.
+W międzyczasie przygotować glazurę: w miseczce dobrze wymieszać 3 łyżki miodu z ok. 40 ml marynaty pozostałej z mięsa, do powstania lekko gęstego płynu.
+Następny etap polega na pieczeniu wieprzowiny i smarowaniu jej 3 razy glazurą. Otworzyć piekarnik i posmarować wieprzowinę przygotowaną glazurą, a następnie piec przez 7 minut.
+Kolejny raz otworzyć piekarnik, posmarować wieprzowinę glazurą i piec przez kolejne 5 minut.
+Ostatni raz otworzyć piekarnik i posmarować wieprzowinę glazurą. Piec ostatnie 5-7 minut, do momentu w którym glazura zastygnie na mięsie.
+Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Dopiero po tym czasie możemy kroić mięso na cienkie plasterki.
+
+|===
+
+[.text-center]
+== Zdjęcia

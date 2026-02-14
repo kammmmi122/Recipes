@@ -1,4 +1,4 @@
-= Cukinia faszerowana +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Cukinia faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,7 +6,8 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * 4 porcje po 383 kcal
 * https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
 
@@ -27,6 +28,7 @@
 
 |
 == Przygotowanie
+
 Na dużej patelni na oliwie zeszklić cebulę pokrojoną w kosteczkę, pod koniec dodać starty czosnek. Zwiększyć ogień i dodać zmielone mięso. Smażyć przez 5 minut, mieszając od czasu do czasu.
 
 Dodać sos worcestershire lub sos sojowy oraz przyprawy: sól, pieprz oraz po pół łyżeczki słodkiej i ostrej papryki, oregano oraz kurkumy. Smażyć jeszcze przez 1 minutę, następnie wlać gorący bulion, wsypać ryż i zagotować. Przykryć patelnię i dusić przez około 25 minut. Jeśli na koniec pozostał jakiś płyn, należy go wygotować bez przykrycia.

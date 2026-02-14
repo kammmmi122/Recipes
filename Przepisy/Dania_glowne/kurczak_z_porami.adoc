@@ -1,4 +1,4 @@
-= Kurczak z porami, puree ziemniaczane 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kurczak z porami 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 35 min
+
+* czas przygotowania: 35 minut
 * 4 porcje
 * https://www.kwestiasmaku.com/zielony_srodek/pory/kurczak_z_porami_ziemniakami/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 1 duży por
 * 30 g masła + 2 łyżki do podsmażenia kurczaka
 * 1 łyżeczka suszonego tymianku
@@ -25,6 +27,7 @@
 
 |
 == Przygotowanie
+
 Odciąć zielone części porów, pozostawić białą i jasno zieloną część. Przekroić wzdłuż na 4 części i dokładnie opłukać. Pokroić w poprzek na pół centymetrowe kawałki.
 
 Roztopić masło na większej patelni lub w garnku, dodać pory, posolić, dodać połowę tymianku i smażyć na umiarkowanym ogniu przez 5 minut od czasu do czasu mieszając. Przykryć i dusić przez kolejne 10 minut lub do czasu aż pory całkowicie zmiękną (będą szkliste), w międzyczasie 1 - 2 razy przemieszać.

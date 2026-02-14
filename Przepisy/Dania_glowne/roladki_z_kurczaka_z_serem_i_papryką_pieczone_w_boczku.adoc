@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 45 min
+
+* czas przygotowania: 45 minut
 * 3 porcje
 * https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella[link do źródła przepisu]
 
 == Składniki
+
 * 3 piersi z kurczaka, duże
 * 1 papryka czerwona
 * 1 mozzarella
@@ -24,6 +26,7 @@
 
 |
 == Przygotowanie
+
 Paprykę wstawiamy do nagrzanego piekarnika do 230ºC i opiekamy ją z każdej strony. Wyjmujemy i wkładamy do foliowej torebki. Po kilku minutach wyjmujemy ją, zdejmujemy skórkę, usuwamy nasiona i kroimy w paski.
 
 Piersi z kurczaka myjemy i osuszamy, następnie kroimy na pół, wzdłuż. Każdy kawałek układamy na torebce śniadaniowej (to ułatwi zwijanie roladek), przykrywamy drugą i rozbijamy dość cienko.

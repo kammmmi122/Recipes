@@ -1,57 +1,71 @@
-// toggle button
-const wakeButton = document.querySelector("[data-status]");
 
-// change button and status if wakelock becomes acquired or is released
-const changeUI = (status = "acquired") => {
-  const acquired = status === "acquired" ? true : false;
-  wakeButton.dataset.status = acquired ? "on" : "off";
-};
+// Screen Wake Lock API robust handler
+// This script ensures the wake lock is reacquired on visibility changes (e.g., card navigation)
 
-// test support
-let isSupported = false;
+const wakeButton = document.querySelector('[data-status]');
+let wakeLock = null;
+let wakeLockActive = false;
 
-if ("wakeLock" in navigator) {
-  isSupported = true;
-} else {
-  wakeButton.disabled = true;
+function updateButton(status) {
+  if (!wakeButton) return;
+  if (status === 'on') {
+    wakeButton.dataset.status = 'on';
+    wakeButton.textContent = 'Screen Wake: ON';
+  } else {
+    wakeButton.dataset.status = 'off';
+    wakeButton.textContent = 'Screen Wake: OFF';
+  }
 }
 
-if (isSupported) {
-  // create a reference for the wake lock
-  let wakeLock = null;
+async function requestWakeLock() {
+  if (!('wakeLock' in navigator)) {
+    if (wakeButton) wakeButton.disabled = true;
+    return;
+  }
+  try {
+    wakeLock = await navigator.wakeLock.request('screen');
+    wakeLockActive = true;
+    updateButton('on');
+    wakeLock.addEventListener('release', () => {
+      wakeLockActive = false;
+      updateButton('off');
+    });
+  } catch (err) {
+    wakeLockActive = false;
+    updateButton('off');
+  }
+}
 
-  // create an async function to request a wake lock
-  const requestWakeLock = async () => {
+async function releaseWakeLock() {
+  if (wakeLock && wakeLockActive) {
     try {
-      wakeLock = await navigator.wakeLock.request("screen");
+      await wakeLock.release();
+    } catch (e) {}
+    wakeLock = null;
+    wakeLockActive = false;
+    updateButton('off');
+  }
+}
 
-      // change up our interface to reflect wake lock active
-      changeUI();
+if (wakeButton) {
+  if (!('wakeLock' in navigator)) {
+    wakeButton.disabled = true;
+    updateButton('off');
+  } else {
+    updateButton('off');
+    wakeButton.addEventListener('click', async () => {
+      if (wakeLockActive) {
+        await releaseWakeLock();
+      } else {
+        await requestWakeLock();
+      }
+    });
+  }
+}
 
-      // listen for our release event
-      wakeLock.onrelease = function (ev) {
-        console.log(ev);
-      };
-      wakeLock.addEventListener("release", () => {
-        // if wake lock is released alter the button accordingly
-        changeUI("released");
-      });
-    } catch (err) {
-      // if wake lock request fails - usually system related, such as battery
-      wakeButton.dataset.status = "off";
-    }
-  }; // requestWakeLock()
-
-  // if we click our button
-  wakeButton.addEventListener("click", () => {
-    // if wakelock is off request it
-    if (wakeButton.dataset.status === "off") {
-      requestWakeLock();
-    } else {
-      // if it's on release it
-      wakeLock.release().then(() => {
-        wakeLock = null;
-      });
-    }
-  });
-} // isSupported
+// Reacquire wake lock on visibility change (e.g., card navigation)
+document.addEventListener('visibilitychange', async () => {
+  if (wakeLockActive && document.visibilityState === 'visible') {
+    await requestWakeLock();
+  }
+});

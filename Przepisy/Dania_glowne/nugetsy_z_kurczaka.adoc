@@ -6,10 +6,12 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 35 min
+
+* czas przygotowania: 35 minut
 * 4 porcje
 
 == Składniki
+
 * 2 piersi z kurczaka
 * mąka
 * 2 jajka
@@ -20,6 +22,7 @@
 
 |
 == Przygotowanie
+
 Piersi z kurczaka przekroić na większą kostkę. Oprószyć solą, pieprzem i czerwoną papryką. Opanierować w mące, jajku i bułce tartej. Usmażyć nugetsy na rozgrzanym oleju.
 
 |===

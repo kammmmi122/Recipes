@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 45 min
+
+* czas przygotowania: 45 minut
 * 4 porcje
 * https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
 == Składniki
+
 === Bułka:
 
 * mąka pszenna typ 650 - 500 g
@@ -48,6 +50,7 @@
 
 |
 == Przygotowanie
+
 === Bułka do kebaba: 
 
 Wsyp mąkę do miski.

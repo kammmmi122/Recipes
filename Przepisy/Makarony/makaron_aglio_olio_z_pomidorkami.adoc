@@ -6,15 +6,16 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 10 min
+
+* czas przygotowania: 10 minut
 * 4 porcje
 * https://www.monini.com/pl/r/makaron-aglio-olio-z-pomidorkami[link do źródła przepisu]
 
 == Składniki
-* 500 g makaronu typu spaghetii
+
+* 500 g makaronu typu spaghetti
 * 6 ząbków czosnku
-8 100 ml oliwy Monini Extra Vergine GranFrutatto
-* kawałek ostrej czerwonej papryczki
+* 100 ml oliwy
 * 400 g pomidorków koktajlowych
 * garść natki pietruszki
 * sól
@@ -23,9 +24,12 @@
 |
 == Przygotowanie
 
-Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo drobno czosnek, ostrą papryczkę, pomidorki pokroić na pół. Na patelnię lub garnek żeliwny wlać oliwę, delikatnie podgrzać i wrzucić pokrojone warzywa. Smażyć maksymalnie przez minutę na małym ogniu, tak aby jedynie delikatnie wydobyć smak. Ugotowany makaron odlać i wrzucić do sosu, doprawić do smaku solą, dodać posiekaną pietruszkę. Wyłożyć na talerze i posypać tartym serem parmezanem/ pecorino lub grana padano
+Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo drobno czosnek, pomidorki pokroić na pół. Na patelnię lub garnek żeliwny wlać oliwę, delikatnie podgrzać i wrzucić pokrojone warzywa. Smażyć maksymalnie przez minutę na małym ogniu, tak aby jedynie delikatnie wydobyć smak. Ugotowany makaron odlać i wrzucić do sosu, doprawić do smaku solą, dodać posiekaną pietruszkę. Wyłożyć na talerze i posypać tartym serem parmezanem/ pecorino lub grana padano
 
 |===
 
 [.text-center]
 == Zdjęcia
+
+image::/Recipes/static/images/20260208_173706.jpg[]
+image::/Recipes/static/images/20260208_173830.jpg[]

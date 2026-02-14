@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 90 min
+
+* czas przygotowania: 90 minut
 * 6 porcje
 * https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 
 == Składniki
+
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -23,6 +25,7 @@
 
 |
 == Przygotowanie
+
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.

@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1,5 h
+
+* czas przygotowania: 1,5 godziny
 * ok. 80 sztuk
 * https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_kapusta/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 1 słoik litrowy suszonych grzybów (ok. 100 g)
 * 1 kg kiszonej kapusty
 * 1 marchewka
@@ -26,6 +28,7 @@
 
 |
 == Przygotowanie
+
 Grzyby opłukać, zalać zimną wodą i odstawić na 6 godzin lub na całą noc. Następnego dnia zagotować, dodać obraną marchewkę, pietruszkę i gotować aż będą miękkie. Pod koniec gotowania doprawić solą i pieprzem.
 
 Kapustę odcisnąć i ugotować w 300 ml wody do miękkości z dodatkiem soli do smaku (ok. 45 minut), dokładnie odcisnąć.

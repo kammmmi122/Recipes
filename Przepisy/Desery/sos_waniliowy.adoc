@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 20 min
+
+* czas przygotowania: 20 minut
 * 4 porcje
 * https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
 
 == Składniki
+
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
@@ -19,6 +21,7 @@
 
 |
 == Przygotowanie
+
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.
 Zmniejsz obroty miksera i małym strumieniem wlewaj powoli mleko ze śmietanką do misy miksera, cały czas ubijając.

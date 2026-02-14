@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * 4 porcje
 * https://www.kwestiasmaku.com/kuchnia_polska/wielkanoc/zurek_na_zakwasie/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 1,5 litra bulionu lub wywaru mięsnego
 * 400 g wędzonych żeberek lub kości wieprzowych lub wędzonego ew. parzonego boczku
 * 500 g surowej białej kiełbasy
@@ -23,6 +25,7 @@
 
 |
 == Przygotowanie
+
 Bulion lub wywar zagotować z dodatkiem pokrojonych na 2 - 3 części wędzonych żeberek lub kości lub pokrojonego na 4 części boczku. Gotować przez ok. 20 minut.
 
 Dodać surową białą kiełbasę, zmniejszyć ogień i gotować na wolnym ogniu przez ok. 20 minut.

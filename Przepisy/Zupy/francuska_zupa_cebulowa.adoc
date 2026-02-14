@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * 6 porcji
 * https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 900 g cebuli
 * 2 łyżki masła
 * 2 łyżki oliwy
@@ -26,6 +28,7 @@
 
 |
 == Przygotowanie
+
 Cebulę obrać, przekroić wzdłuż na pół i posiekać w poprzek na półplasterki grubości ok. 1,5 - 2 mm. W dużym i szerokim garnku roztopić masło z oliwą.
 
 Ustawić ogień na średni, dodać cebulę i mieszając smażyć na średnim ogniu przez ok. 25 minut, aż cebula będzie skarmelizowana (miękka i lekko brązowa).

@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * liczba porcji: 16 średnich kartaczy
 * https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
 
 == Składniki
+
 * 2 kg surowych ziemniaków - waga po obraniu
 * 1 kg ugotowanych ziemniaków
 * 500 g mielonej łopatki wieprzowej

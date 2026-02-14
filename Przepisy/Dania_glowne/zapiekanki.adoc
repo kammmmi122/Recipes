@@ -1,4 +1,4 @@
-= Zapiekanki +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zapiekanki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,10 +6,12 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 35 min
+
+* czas przygotowania: 35 minut
 * 6 porcje
 
 == Składniki
+
 * 3 półbagietki
 * 200 g pieczarek
 * 1 cebula
@@ -20,6 +22,7 @@
 
 |
 == Przygotowanie
+
 Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki i cebulę do brązowego koloru. Ostudzić
 
 Szynkę pokroić w kostkę

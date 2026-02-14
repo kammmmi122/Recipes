@@ -206,12 +206,12 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write(
                 f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n\n'
             )
-            f.write('[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n')
+            f.write('[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n\n')
             f.write(f"{potions_text}")
             f.write(f"*{link}[link do źródła przepisu]\n")
-            f.write("\n== Składniki\n")
+            f.write("\n== Składniki\n\n")
             f.write(f"{ingredients_text}\n")
-            f.write("\n|\n== Przygotowanie\n")
+            f.write("\n|\n== Przygotowanie\n\n")
             f.write(f"{recipe_text}\n")
             f.write("\n|===\n\n[.text-center]\n== Zdjęcia\n")
             print(file, "created")

@@ -1,4 +1,4 @@
-= Krokiety z pieczarkami +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krokiety z pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -6,7 +6,8 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1,5 h
+
+* czas przygotowania: 1,5 godziny
 * 4 porcje
 * https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku--364765[link do źródła przepisu]
 

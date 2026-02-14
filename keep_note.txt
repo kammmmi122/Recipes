@@ -10,6 +10,7 @@ nowe - Buraki po burgundzku; https://kammmmi122.github.io/Recipes/Przepisy/Dania
 nowe - Burgerki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/burgerki.html
 nowe - Burrito z chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/burrito_z_chili_con_carne.html
 nowe - Butter chicken; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/butter_chicken.html
+nowe - Bułeczki baozi; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/bułeczki_baozi.html
 nowe - Chakalaka; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/chakalaka.html
 nowe - Chili con carne; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/chili_con_carne.html
 nowe - Ciecierzyca po bretońsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/ciecierzyca_po_bretońsku.html
@@ -19,6 +20,7 @@ nowe - Curry z kalafiora; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Dal z soczewicy z sri lanki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dal_z_soczewicy_z_sri_lanki.html
 nowe - Dewolaje; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dewolaje.html
 nowe - Domowa pizza; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowa_pizza.html
+nowe - Domowa pizza 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowa_pizza_2.html
 nowe - Domowy kebab; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowy_kebab.html
 nowe - Domowy kebab 2; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/domowy_kebab_2.html
 nowe - Dorada pieczona; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/dorada_pieczona.html
@@ -58,7 +60,7 @@ nowe - Kurczak hoisin; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glown
 nowe - Kurczak w sosie śmietanowo serowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowo_serowym.html
 nowe - Kurczak w sosie śmietanowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_w_sosie_śmietanowym.html
 nowe - Kurczak z mozzarellą; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_mozzarellą.html
-nowe - Kurczak z porami puree ziemniaczane; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_porami_puree_ziemniaczane.html
+nowe - Kurczak z porami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/kurczak_z_porami.html
 nowe - Lasagne bolognese; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/lasagne_bolognese.html
 nowe - Leczo; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo.html
 nowe - Leczo wegetariańskie; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/leczo_wegetariańskie.html
@@ -84,6 +86,7 @@ nowe - Pierogi z mięsem; https://kammmmi122.github.io/Recipes/Przepisy/Dania_gl
 nowe - Pierś z kaczki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki.html
 nowe - Pierś z kaczki z sosem pomarańczowym; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pierś_z_kaczki_z_sosem_pomarańczowym.html
 nowe - Placek po węgiersku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placek_po_węgiersku.html
+nowe - Placki ziemniaczane; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placki_ziemniaczane.html
 nowe - Placki z cukinii; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/placki_z_cukinii.html
 nowe - Potrawka z udka kurczaka z warzywami; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/potrawka_z_udka_kurczaka_z_warzywami.html
 nowe - Pstrąg pieczony w całości; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/pstrąg_pieczony_w_całości.html
@@ -118,6 +121,7 @@ nowe - Tortilki ser bekon ala kfc; https://kammmmi122.github.io/Recipes/Przepisy
 nowe - Tortille; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/tortille.html
 nowe - Warzywka z piekarnika; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/warzywka_z_piekarnika.html
 nowe - Wegeburgerki; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wegeburgerki.html
+nowe - Wieprzowina char siu; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wieprzowina_char_siu.html
 nowe - Wieprzowina po chińsku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wieprzowina_po_chińsku.html
 nowe - Wieprzowina po chińsku z mango; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wieprzowina_po_chińsku_z_mango.html
 nowe - Wołowina po burgundzku; https://kammmmi122.github.io/Recipes/Przepisy/Dania_glowne/wołowina_po_burgundzku.html
@@ -210,6 +214,7 @@ nowe - Feta zapiekana w cieście filo na słodko; https://kammmmi122.github.io/R
 nowe - Granola z owocami i jogurtem; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/granola_z_owocami_i_jogurtem.html
 nowe - Guacamole; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/guacamole.html
 nowe - Jajecznica; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/jajecznica.html
+nowe - Nocna owsianka; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/nocna_owsianka.html
 nowe - Pasta z makreli; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pasta_z_makreli.html
 nowe - Pita; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pita.html
 nowe - Roladki tortilowe; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/roladki_tortilowe.html

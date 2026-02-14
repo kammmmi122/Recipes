@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 45 min
+
+* czas przygotowania: 45 minut
 * 20 porcji
 * https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
 
 == Składniki
+
 === Biszkopt:
 
 * 6 jajek, osobno żółtka i białka
@@ -46,6 +48,7 @@
 
 |
 == Przygotowanie
+
 === Biszkopt:
 
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.

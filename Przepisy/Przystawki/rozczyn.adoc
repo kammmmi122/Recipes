@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 20 min
+
+* czas przygotowania: 20 minut
 * 1 porcja
 * https://mojewypieki.com/post/jak-zrobic-rozczyn-ze-swiezych-drozdzy[link do źródła przepisu]
 
 == Składniki
+
 * 25 g drożdży świeżych
 * 1 łyżka cukru
 * 1/4 szklanki letniego mleka
@@ -18,6 +20,7 @@
 
 |
 == Przygotowanie
+
 Do niedużego garnuszka rozkruszyć drożdże, zasypać cukrem. Zalać letnim mlekiem (nie gorącym! - zbyt wysoka temperatura zabije drożdże). Wymieszać do rozpuszczenia się drożdży.
 
 Dodać mąkę, wymieszać, by nie było grudek.

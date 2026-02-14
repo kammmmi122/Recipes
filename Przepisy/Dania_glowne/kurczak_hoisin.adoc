@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 30 min
+
+* czas przygotowania: 30 minut
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
 
 == Składniki
+
 * 500 g filetu z kurczaka
 * 2 ząbki czosnku
 * 1 łyżeczka ostrej papryki
@@ -29,6 +31,7 @@
 
 |
 == Przygotowanie
+
 Mięso oczyścić z błonek i kostek, pokroić w małą kostkę. Doprawić solą, startym czosnkiem, ostrą papryką i białym pieprzem.
 
 Na jednym głębokim talerzu wymieszać skrobię ziemniaczaną. Do drugiego wbić jajko i roztrzepać.

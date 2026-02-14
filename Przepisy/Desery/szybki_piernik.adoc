@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 45 min
+
+* czas przygotowania: 45 minut
 * 2 nieduże pierniki
 * https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
 
 == Składniki
+
 * 1 szklanka miodu
 * 3/4 szklanki cukru
 * 1 szklanka mleka
@@ -34,6 +36,7 @@
 
 |
 == Przygotowanie
+
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 Miód, cukier, mleko, masło, przyprawę korzenną i cynamon umieścić w garnku i postawić na palniku. Podgrzewać, mieszając, do rozpuszczenia się poszczególnych składników i otrzymania gładkiej mieszanki. Zdjąć z palnika i lekko przestudzić.

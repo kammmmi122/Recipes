@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 35 min
+
+* czas przygotowania: 35 minut
 * 4 - 5 porcji
 * https://www.kwestiasmaku.com/przepis/zupa-krem-grzybowa-z-suszonych-grzybow[link do źródła przepisu]
 
 == Składniki
+
 * 70 g grzybów suszonych (borowików i/lub podgrzybków)
 * 1,5 litra bulionu (np. grzybowy, warzywny, mięsny)
 * 1 łyżka oleju roślinnego
@@ -24,6 +26,7 @@
 
 |
 == Przygotowanie
+
 Suszone grzyby opłukać pod bieżącą chłodną wodą, włożyć do miski, zalać bulionem i odstawić na noc do namoczenia.
 
 Do większego garnka wlać oliwę i zeszklić pokrojoną w kosteczkę cebulę.

@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 1 h
+
+* czas przygotowania: 1 godzina
 * 6 porcji
 * https://www.kwestiasmaku.com/zielony_srodek/fasolka/fasolka_po_bretonsku/przepis.html[link do źródła przepisu]
 
 == Składniki
+
 * 400 g suchej fasolki "Piękny Jaś" lub 2 puszki fasolki
 * 250 g boczku (parzonego lub wędzonego)
 * 250 g kiełbasy
@@ -21,6 +23,7 @@
 
 |
 == Przygotowanie
+
 Suchą fasolę wsypać do garnka, zalać zimną wodą (ok. 10 cm ponad poziom fasolki) i odstawić na noc do namoczenia.
 
 Następnego dnia odcedzić, wlać 1 litr świeżej wody, dodać 1 łyżeczkę soli, ziele angielskie i liść laurowy i gotować pod przykryciem przez około 1 i 1/2 godziny do miękkości.

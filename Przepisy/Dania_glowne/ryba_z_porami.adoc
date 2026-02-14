@@ -6,11 +6,13 @@
 |===
 |
 == Szczegóły
-* czas przygotowania: 45 min
+
+* czas przygotowania: 45 minut
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/ryba-z-porami[link do źródła przepisu]
 
 == Składniki
+
 * 600 g filetów ryby (np. mintaj, dorsz, halibut)
 * 1 por
 * 1/3 łyżeczki nasion kopru włoskiego
@@ -20,6 +22,7 @@
 * 5 łyżek śmietanki 30%
 |
 == Przygotowanie
+
 Rybę pokroić na porcje i umieścić w naczyniu żaroodpornym. Doprawić solą, pieprzem, posypać nasionami kopru włoskiego i wysmarować oliwą.
 
 Piekarnik nagrzać do 200 stopni C.
