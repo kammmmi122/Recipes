@@ -151,6 +151,7 @@ nowe - Bułki cynamonowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/b
 nowe - Chlebek bananowy; https://kammmmi122.github.io/Recipes/Przepisy/Desery/chlebek_bananowy.html
 nowe - Ciastka z maszynki; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciastka_z_maszynki.html
 nowe - Ciasto drożdżowe ze śliwkami; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_drożdżowe_ze_śliwkami.html
+nowe - Ciasto kokosowe z borówkami amerykańskimi; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_kokosowe_z_borówkami_amerykańskimi.html
 nowe - Ciasto marchewkowe; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_marchewkowe.html
 nowe - Ciasto porzeczkowiec; https://kammmmi122.github.io/Recipes/Przepisy/Desery/ciasto_porzeczkowiec.html
 nowe - Fluffy pancakes; https://kammmmi122.github.io/Recipes/Przepisy/Desery/fluffy_pancakes.html
@@ -214,6 +215,7 @@ nowe - Feta zapiekana w cieście filo na słodko; https://kammmmi122.github.io/R
 nowe - Granola z owocami i jogurtem; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/granola_z_owocami_i_jogurtem.html
 nowe - Guacamole; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/guacamole.html
 nowe - Jajecznica; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/jajecznica.html
+nowe - Nitamago; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/nitamago.html
 nowe - Nocna owsianka; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/nocna_owsianka.html
 nowe - Pasta z makreli; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pasta_z_makreli.html
 nowe - Pita; https://kammmmi122.github.io/Recipes/Przepisy/Przystawki/pita.html
@@ -248,6 +250,7 @@ Zupy
 
 nowe - Francuska zupa cebulowa; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/francuska_zupa_cebulowa.html
 nowe - Hiszpańska zupa z ciecierzycy; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html
+nowe - Miso ramen; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/miso_ramen.html
 nowe - Ramen shoyu; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/ramen_shoyu.html
 nowe - Tantanmen ramen; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/tantanmen_ramen.html
 nowe - Zapiekany rosół; https://kammmmi122.github.io/Recipes/Przepisy/Zupy/zapiekany_rosół.html

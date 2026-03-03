@@ -1,0 +1,35 @@
+= Nitamago +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania: 12 godzin
+* 4 porcje
+* https://www.napaleczkach.pl/2018/01/nitamago.html[link do źródła przepisu]
+
+== Składniki
+
+* 0,5 kubka sosu sojowego
+* 2 łyżki sake
+* 1 łyżka cukru
+* 1 łyżka mirinu
+* 1 kubek wody
+* 1 ząbek czosnku
+* 2 kawałki imbiru
+* 4 jajka
+
+|
+== Przygotowanie
+
+Na samym początku przygotowujemy jajka. My gotujemy je we wrzącej wodzie, przez około sześć minut. Po tym czasie wyciągamy je prosto do zimnej wody, aby zatrzymać proces ich gotowania. Jajka obieramy i odstawiamy.
+W garnuszku łączymy razem sos sojowy, sake, cukier, mirin oraz wodę. Podgrzewamy razem aż do zagotowania i rozpuszczenia cukru i odstawiamy z ognia. Dorzucamy rozgnieciony ząbek czosnku oraz imbir i zostawiamy do przestygnięcia.
+
+Kiedy marynata nie jest już gorąca przelewamy ją do pojemnika lub woreczka,  a następnie wrzucamy do niej obrane jajka. Wstawiamy na około 12 godzin do lodówki (najlepiej na noc).
+
+|===
+
+[.text-center]
+== Zdjęcia
