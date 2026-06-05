@@ -5,6 +5,14 @@ import re
 symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
 
+category_colors = {
+  "Dania glowne": "#ff6b6b",
+"Makarony": "#ffa94d",
+  "Zupy": "#4dabf7",
+  "Salatki": "#69db7c",
+  "Desery": "#f06595",
+  "Przetwory": "#ffd43b",
+};
 
 def in_path(path):
     in_path_var = False
@@ -109,7 +117,9 @@ def create_index_adoc():
 
                 # CATEGORY LABEL (colored in CSS/JS)
                 category_label = (
-                    f'<div class="card-category-label">{html.escape(folder_name)}</div>'
+                    f'<div class="card-category-label" style="background:{category_colors.get(folder_name, "#999")}">'
+                    f'{html.escape(folder_name)}'
+                    f'</div>'
                 )
 
                 # NEW CARD HTML — MATCHES YOUR NEW CSS
