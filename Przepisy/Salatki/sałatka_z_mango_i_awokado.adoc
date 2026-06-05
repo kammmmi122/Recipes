@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 mango
 * 1 awokado
@@ -39,9 +25,6 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka oliwy extra
 * szczypta płatków chili
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mango i awokado obrać, pokroić w kosteczkę i włożyć do salaterki lub szklanej miski. Polać sokiem wyciśniętym z całej limonki.
 
@@ -49,3 +32,8 @@ Dodać drobno posiekaną czerwoną cebulę, pokrojoną w kosteczkę czerwoną pa
 
 Dodać listki kolendry, syrop klonowy, oliwę oraz chili. Wymieszać i podawać.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

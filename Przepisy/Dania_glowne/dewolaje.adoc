@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 4 porcje
+* 🔗 https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * pierś z kurczaka 1 kg
 * pieczarki 250 g
@@ -37,9 +23,6 @@ Brak zdjęcia przepisu 🍲
 * jaja 2 szt
 * Sól, pieprz, majeranek
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piersi z kurczaka oczyścić,rozbić.Pieczarki oczyścić, pokroić w plasterki.
 
@@ -51,3 +34,8 @@ Zwijamy. Tak przygotowane rolady obtaczamy najpierw w mące potem w roztrzepanym
 
 Możliwość smażenia we frytkownicy.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

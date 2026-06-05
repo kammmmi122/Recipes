@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 40 g suszonych grzybów
 * 500 g kapusty kiszonej
@@ -46,9 +32,6 @@ Brak zdjęcia przepisu 🍲
 * masło klarowane do smażenia
 * barszcz wigilijny lub barszcz czerwony
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Grzyby wypłukać w chłodnej wodzie, włożyć do rondelka, zalać 2 szklankami wody i odstawić do namoczenia na całą noc lub na kilka godzin.
 
@@ -74,3 +57,8 @@ Nadzienie dzielimy na 10 części i smarujemy nim 10 naleśników. Zwijamy: najp
 
 Jajka roztrzepać widelcem w głębokim talerzu z dodatkiem soli. Do drugiego talerza nasypać bułki tartej. Maczać krokiety w jajku a następnie obtaczać w bułce tartej. Smażyć na rozgrzanym maśle klarowanym  po około 2 minuty z każdej strony, w razie potrzeby dodawać więcej masła w trakcie smażenia.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

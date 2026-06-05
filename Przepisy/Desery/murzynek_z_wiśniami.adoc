@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 20 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/desery/ciasta/murzynek_z_czekolada_wisniami/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/desery/ciasta/murzynek_z_czekolada_wisniami/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 200 g masła
 * 1 szklanka (200 g) cukru
@@ -39,9 +25,6 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki mąki ziemniaczanej lub pszennej do obtoczenia wiśni
 * 50 - 100 g czekolady
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Jeśli używamy mrożonych wiśni należy je wcześniej rozmrozić na sitku i osuszyć z soku. Sok zachować. Wiśnie z kompotu odcedzić, zachować część kompotu.
 
@@ -55,3 +38,8 @@ Masę wyłożyć do tortownicy. Osuszone wiśnie obtoczyć w mące ziemniaczanej
 
 Do odłożonej masy na polewę dodać roztopioną czekoladę i wymieszać. Rozprowadzić po cieście.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

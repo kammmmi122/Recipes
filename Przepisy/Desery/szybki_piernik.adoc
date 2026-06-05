@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-📝 2 nieduże pierniki
-
-[.recipe-details-item]
-🔗 https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 2-3 porcje
+* 🔗 https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 szklanka miodu
 * 3/4 szklanki cukru
@@ -38,19 +24,10 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka cynamonu
 * 1 łyżka sody oczyszczonej
 * opcjonalnie - pół szklanki dowolnych bakalii (posiekane orzechy, namoczone w rumie rodzynki itp.)
-
-=== Do przełożenia:
-
 * powidła śliwkowe, masa marcepanowa, itp.
-
-=== Polewa czekoladowa (na 2 pierniki z przepisu):
-
 * 100 ml śmietany kremówki 30% lub 36%
 * 100 g czekolady deserowej, posiekanej
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
@@ -60,7 +37,10 @@ Do wystudzonej mieszanki dodać żółtka, przesiać mąkę pszenną, kakao i so
 
 Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześniej wysmarowanych masłem i oprószonych mąką pszenną). Piec w temperaturze 170ºC przez około 50 - 60 minut lub do tzw. suchego patyczka. Wyjąć z piekarnika, wystudzić.Wystudzone pierniki przekroić na pół i przełożyć powidłami śliwkowymi lub masą marcepanową. Polać polewą czekoladową.
 
-=== Polewa czekoladowa (na 2 pierniki z przepisu):
-
 Śmietanę kremówkę podgrzać w małym garnuszku. Zdjąć z palnika, dodać posiekaną czekoladę, odstawić na 2 minuty. Po tym czasie wymieszać, do roztopienia czekolady i otrzymania gładkiej polewy. Poczekać do lekkiego zgęstnienia, udekorować pierniki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

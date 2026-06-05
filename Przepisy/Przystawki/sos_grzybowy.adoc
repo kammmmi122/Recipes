@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 2 - 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * ok. 500 g grzybów (np. borowików, podgrzybków, kurek, maślaków)
 * 1 cebula
@@ -36,9 +22,6 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka posiekanej natki pietruszki lub koperku
 * kilka kropli soku z cytryny lub octu winnego
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Grzyby przebrać, wybrać do sosu ładne, nierobaczywe grzyby. Przyciąć nóżki w razie konieczności, dokładnie oczyścić grzyby nożykiem oraz szczoteczką, unikając w miarę możliwości płukania / moczenia. Następnie pokroić na plasterki.
 
@@ -52,3 +35,8 @@ Wlać bulion i gotować przez około 2 minuty. Wlać śmietankę, wymieszać i z
 
 Sos można doprawić kwaśnym dodatkiem np. odrobiną soku z cytryny lub octu.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

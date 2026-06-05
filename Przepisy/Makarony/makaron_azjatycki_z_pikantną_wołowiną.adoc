@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 10 minut
-
-[.recipe-details-item]
-👥 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 10 minut
+* 🕒 czas gotowania: 10 minut
+* 👥 3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 250 g pszennego makaronu orientalnego np. Mie, Chow Mein
 * 2 łyżki oleju
@@ -37,17 +23,11 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka startego imbiru
 * dymka lub szczypiorek
 * 1 łyżka nasion sezamu lub 1 łyżeczka oleju sezamowego
-
-=== Sos
-
 * 40 ml sosu sojowego
 * 1 łyżka miodu
 * 4 łyżki słodko - pikantnego sosu chili lub słodkiego sosu chili
 * 1 łyżka octu ryżowego
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Makaron ugotować zgodnie z instrukcją na opakowaniu, odcedzić.
 
@@ -63,3 +43,8 @@ Dodać makaron i chwilę razem podsmażać.
 
 Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem sezamowym).
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

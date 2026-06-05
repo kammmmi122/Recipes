@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 6 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 900 g cebuli
 * 2 łyżki masła
@@ -40,9 +26,6 @@ Brak zdjęcia przepisu 🍲
 * opcjonalnie - świeży tymianek
 * 4 żaroodporne miseczki lub 1 żaroodporny garnek lub naczynie do zapiekania
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Cebulę obrać, przekroić wzdłuż na pół i posiekać w poprzek na półplasterki grubości ok. 1,5 - 2 mm. W dużym i szerokim garnku roztopić masło z oliwą.
 
@@ -54,3 +37,8 @@ Piekarnik nagrzać do 220 stopni, ustawić kratkę na nieco wyższej półce ni�
 
 Do 4 małych żaroodpornych misek (lub do jednego większego garnka żaroodpornego lub naczynia) nalać gorącą zupę i przykryć grzankami, posypać tartym serem i ewentualnie posypać świeżym tymiankiem. Zapiekać przez około 5 minut aż ser się roztopi.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

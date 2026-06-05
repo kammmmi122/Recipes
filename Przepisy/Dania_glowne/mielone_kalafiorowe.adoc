@@ -2,30 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: do 45 minut
-
-[.recipe-details-item]
-📝 8 - 10 kotletów
-
-[.recipe-details-item]
-🔗 https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 ½ szklanki startego kalafiora / ½ kalafiora
 * 1 duża cebula
@@ -39,9 +24,6 @@ Brak zdjęcia przepisu 🍲
 * 1 ½ - 2 łyżeczki pieprzu ziołowy
 * sól i czarny pieprz
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piekarnik rozgrzać do 180 stopni, blachę do pieczenia wyłożyć papierem. Kalafiora wraz z łodygą zetrzeć na dużych oczkach tarki, cebulę zetrzeć na dużych oczkach tarki, a czosnek na małych oczkach. Wszystko przełożyć do bardzo dużej miski.
 
@@ -63,3 +45,8 @@ Umycie rąk po wyrobieniu masy jest bardzo ważne - dzięki temu kotlety łatwo 
 
 Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygodnia w lodówce, świetnie smakują na zimno.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

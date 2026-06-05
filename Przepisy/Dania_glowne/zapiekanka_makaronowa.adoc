@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 3 porcje
+* 🔗 https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * ok. 170 g makaronu (użyłam cienkie rurki)
 * 150 g szynki
@@ -36,9 +22,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki koncentratu pomidorowego
 * 1 łyżka mąki pszennej
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Surowy makaron wsypać na naczynia żaroodpornego.
 
@@ -52,3 +35,8 @@ Sosem zalać makaron i szynkę. (Dokładnie przykryć cały makaron, aby ładnie
 
 Odkryte naczynie żaroodporne wstawić do nagrzanego piekarnika i piec przez ok. 30 minut w temperaturze 200°C, grzałka góra- dół.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 4 porcje
+* 🔗 https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * szalotka 3 szt.
 * oliwa 3 łyżki
@@ -43,9 +29,6 @@ Brak zdjęcia przepisu 🍲
 * parmezan starty 150 g
 * orzeszki pinii 50 g
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Szalotki posiekaj w drobną kostkę i zeszklij na oliwie i 20 g masła.
 
@@ -63,3 +46,8 @@ Do risotto dodaj 150 g startego parmezanu i 100 g masła. Całość dobrze wymie
 
 Gotowe danie udekoruj krewetkami i orzeszkami pinii.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 mała czerstwa bułka (np. kajzerka)
 * mleko lub woda do namoczenia bułki
@@ -42,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * 1 - 2 łyżeczki mąki
 * 1 łyżka posiekanego koperku
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 15 minut. Do większej miski włożyć zmielone mięso, dodać obraną i startą na tarce (o dużych oczkach) cebulę, jajko, sól i pieprz oraz odciśniętą bułkę. Wszystko dobrze wymieszać. Uformować niewielkie kulki, otoczyć je w mące.
 
@@ -58,3 +41,8 @@ W razie potrzeby można zagęścić sos mąką, którą przesiewamy przez sitko,
 
 Na koniec dodać posiekany koperek i odstawić z ognia.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

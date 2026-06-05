@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://kuchnialidla.pl/chakalaka[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2 porcje
+* 🔗 https://kuchnialidla.pl/chakalaka[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * cebula - 1 szt.
 * curry - 3 szczypty
@@ -42,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * tymianek świeży - 10 g
 * papryka żółta - 1 szt.
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Pokrojoną w drobną kostkę cebulę oraz drobno posiekany czosnek i imbir podsmażamy w garnku na rozgrzanym oleju. Dodajemy curry, tymianek, sól i pieprz. Mieszamy i smażymy, aż cebula się zeszkli.
 
@@ -52,3 +35,8 @@ Dodajemy marchew startą na tarce o dużych oczkach, chwilę podsmażamy i dodaj
 
 Gotową chakalakę przekładamy na talerz i posypujemy z wierzchu odrobiną curry. Podajemy z kilkoma gałązkami świeżego tymianku.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

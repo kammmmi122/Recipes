@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina 40 minut
-
-[.recipe-details-item]
-👥 6 porcji
-
-[.recipe-details-item]
-🔗 https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * cebula - 1 szt.
 * pieprz czarny - 1 szczypta
@@ -52,9 +38,6 @@ Brak zdjęcia przepisu 🍲
 * ziemniak - 1 kg
 * ser cheddar - 100 g
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Marchew i pietruszkę pokrojone w kostkę smażymy w garnku na rozgrzanym oleju. Doprawiamy solą i pieprzem. Dodajemy cebulę pokrojoną w kostkę i posiekany czosnek. Smażymy, mieszając. Usmażone warzywa przekładamy na talerz.
 
@@ -66,7 +49,7 @@ Przysmażone mięso doprawiamy ziołami prowansalskimi, gałką muszkatołową i
 
 Ugotowane, przeciśnięte przez praskę ziemniaki przekładamy do garnka i przyprawiamy gałką muszkatołową.
 
-Dodajemy masło i mleko. Delikatnie podgrzewamy i mieszamy do uzyskania jednolitej masy. Purée doprawiamy solą i pieprzem, mieszamy i zdejmujemy z ognia. Dodajemy żółtka jaj i dokładnie mieszamy. 
+Dodajemy masło i mleko. Delikatnie podgrzewamy i mieszamy do uzyskania jednolitej masy. Purée doprawiamy solą i pieprzem, mieszamy i zdejmujemy z ognia. Dodajemy żółtka jaj i dokładnie mieszamy.
 
 Do uduszonego mięsa dodajemy podsmażone warzywa i pieczarki. Dodajemy ciecierzycę i posiekaną natkę pietruszki. Mieszamy.
 
@@ -74,3 +57,8 @@ Masę mięsno-warzywną przekładamy do naczynia żaroodpornego, rozprowadzamy r
 
 Na wierzch wykładamy purée, które również rozprowadzamy po całej powierzchni i lekko dociskamy. Pieczemy ok. 20-30 minut w piekarniku rozgrzanym do temperatury 180°C. Po tym czasie zapiekankę posypujemy z wierzchu serem startym na tarce o grubych oczkach i zapiekamy przez kolejne 20 minut.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

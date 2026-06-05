@@ -2,32 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20231209_214411.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-🕒 czas pieczenia: 50 minut
-
-[.recipe-details-item]
-📝 źródło przepisu: zeszyt mamy
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
-=== Ciasto:
-
 * 1 kostka Kasi
 * 3/4 szklanki wody
 * 1 szklanka cukru
@@ -37,16 +21,10 @@ image::20231209_214411.jpg[]
 * 2 płaskie łyżeczki proszku do pieczenia
 * 3 łyżki dżemu
 * rodzynki
-
-=== Masa kokosowa:
-
 * 6 białek
 * 3/4 szklanki cukru
 * 200 g wiórków kokosowych
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
@@ -56,13 +34,8 @@ Ubić na sztywno 6 białek. Dodać 3/4 szklanki cukru i kontynuować ubijanie. D
 
 Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20231209_214411.jpg[]
-image::/Recipes/static/images/20231210_184314.jpg[]
-image::/Recipes/static/images/20231210_184321.jpg[]
-
+image::20231209_214411.jpg[]

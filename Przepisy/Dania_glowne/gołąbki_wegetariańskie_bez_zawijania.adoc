@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 liczba porcji: 16 gołąbków
-
-[.recipe-details-item]
-🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 200 g kleistego ryżu (waga przed ugotowaniem, użyłam tajskiego)
 * 100 g czerwonej soczewicy
@@ -38,9 +24,6 @@ Brak zdjęcia przepisu 🍲
 * 250 g boczniaków
 * 1-2 małe jajka
 * przyprawy: sól, pieprz, majeranek, słodka i ostra papryka (u mnie po ok. 1 łyżeczki każdej)
-
-== Sos
-
 * 400 ml bulionu warzywnego lub rosołu
 * 1 łyżka masła
 * 1 cebula
@@ -48,9 +31,6 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz, cukier do smaku
 * pęczek koperku
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Ryż gotujemy wraz z czerwoną soczewicą przez 12 minut w podwójnej ilości osolonej wody (przykładowo na 1 szklankę suchych składników odmierzamy 2 szklanki wody). Ryżu i soczewicy nie przepłukujemy wcześniej na sitku! To ważne, by nie wypłukać z nich skrobi. Ryż powinien być raczej odmiany kleistej, niż typowo sypki (jak np. indyjski basmati). Użyłam ryżu tajskiego. Ryż oraz soczewica po ugotowaniu powinny się kleić, by skleić gołąbki.
 
@@ -68,3 +48,8 @@ Na patelni rozgrzewamy masło i podsmażamy drugą cebulę, dodajemy bulion i po
 
 Gołąbki polewamy sosem, wsadzamy do piekarnika rozgrzanego do temperatury 180 stopni C (z termoobiegiem) na 30 minut. Przy czym przez 15 minut pieczemy bez przykrycia, a potem przykrywamy.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

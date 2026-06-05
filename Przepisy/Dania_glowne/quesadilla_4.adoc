@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * tortille kukurydziane rozm. 18 cm
 * 1 czerwona cebula lub biała ze szczypiorem
@@ -35,9 +21,6 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka masła klarowanego
 * salsa pomidorowa
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Przygotowanie quesadilli rozpoczynamy od podsmażenia pieczarek. Najpierw je obieramy i tniemy na plasterki. Następnie rozgrzewamy na patelni łyżkę masła klarowanego (można również użyć zwykłego) i wrzucamy pokrojone pieczarki. Smażymy na bardzo mocno rozgrzanej patelni. Od czasu do czasu mieszamy, ale pozwalamy, żeby pieczarki lekko się nawet przyprażyły.
 
@@ -67,3 +50,8 @@ Tak przygotowana quesadilla jest gotowa do podania.
 
 Można jeszcze przeciąć na pół lub w trójkąciki. Podawać z salsami np. pomidorową. Zobacz jak przygotować salsę pomidorową.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

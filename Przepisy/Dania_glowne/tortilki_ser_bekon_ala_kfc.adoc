@@ -2,52 +2,29 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-📝 6 sztuk
-
-[.recipe-details-item]
-🔗 https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 1 porcję
+* 🔗 https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * pierś z kurczaka - 720 g
 * wrapy - 6 szt.
 * chipsy STRONG EXTRA HOT Pepperoni - 40 g
 * Doritos HOT Pepper - 40 g
 * panko - 80 g
-
-=== Sos:
-
 * maślanka - 120 g
 * czosnek 2 ząbki
 * jogurt grecki - 160 g
 * skyr - 300 g
 * musztarda sarepska - 40 g
-
-=== Warzywa:
-
 * 1/2 sałata lodowa
 * pomidor
-
-=== Przyprawy:
-
 * papryka słodka - 6 g
 * papryka ostra - 6 g
 * papryka wędzona - 4 g
@@ -58,13 +35,11 @@ Brak zdjęcia przepisu 🍲
 * 6 plasterków sera
 * 6 plasterków bekonu
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Zaczynam od kurczaka. Staram się kroić piersi na 60 g kawałki.
 
 Teraz marynata, zaprawa musztarda 100 g ,do tego wleję na razie 200 ml maślanki, aby lepiej się mieszało. No i nasze przyprawy (mnóstwo prochu), które dadzą świetny smak.
+
 Mamy tutaj 3 rodzaje papryk: jest słodka, jest wędzona, jest ostra
 
 Mamy suszony czosnek, po prostu sól, nieco świeżo mielonego pieprzu
@@ -99,3 +74,8 @@ Czyli sałata lodowa, połowa główki pokrojona w kosteczkę. Tak samo pomidor.
 
 Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję około 75 g na 1 porcję. Rozsmarowuje dokładnie po każdym. Na to sałata lodowa, pół główki idealnie wystarczyło oraz pomidor. Duże, dwa malinowe pomidory również się sprawdziły. Pora na króla naszego odcinka pikantne kawałki kurczaka. Po dwa na twistera. Rozkładam po jednym, aby później wizualnie dopasować kawałki
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

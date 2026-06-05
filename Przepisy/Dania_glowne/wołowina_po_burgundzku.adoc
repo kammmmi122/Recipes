@@ -2,30 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 3,5 godziny
-
-[.recipe-details-item]
-👥 8 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/boeuf-bourguignon-wolowina-po-burgundzku[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/boeuf-bourguignon-wolowina-po-burgundzku[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1,5 kg wołowiny (np. karkówka, łopatka)
 * 150 g wędzonego boczku
@@ -46,9 +31,6 @@ Brak zdjęcia przepisu 🍲
 * 8 małych cebulek szalotek lub 24 małych marynowanych cebulek
 * 200 g małych pieczarek
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mięso pokroić na większe kawałki (ok. 4 - 5 cm). Na dużą patelnię z grubym dnem włożyć pokrojony w kosteczkę boczek i powoli smażyć aż do zrumienienia. Wyjąć na talerz pozostawiając tłuszcz.
 
@@ -62,3 +44,8 @@ Po ponownym zagotowaniu przykryć naczynie i wstawić do nagrzanego do 150 stopn
 
 Na patelni na reszcie masła podsmażyć obrane cebulki szalotki i pieczarki w całości (cebulek marynowanych nie podsmażamy). Dodać do gulaszu, wymieszać i piec tym razem bez przykrycia przez około 30 minut, do czasu aż mięso będzie już całkowicie miękkie.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

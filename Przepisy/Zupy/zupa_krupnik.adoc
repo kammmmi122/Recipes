@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
 * 2 litry bulionu lub wody
@@ -40,9 +26,6 @@ Brak zdjęcia przepisu 🍲
 * kawałek selera i pora
 * 1 łyżka posiekanego koperku
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mięso opłukać i włożyć do dużego garnka. Wlać 2 litry bulionu lub wody, zagotować, a następnie zszumować.
 
@@ -62,3 +45,8 @@ Pod koniec dodać posiekany świeży koperek.
 
 Mięso wyjąć z zupy, usunąć skórę i kości, resztę pokroić na kawałki i włożyć z powrotem do zupy.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

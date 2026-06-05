@@ -2,26 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250425_171213.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcji
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 cebula
 * 1 ząbek czosnku
@@ -33,24 +22,17 @@ image::20250425_171213.jpg[]
 * 1 łyzeczka oregano
 * pieprz
 * sól
-* makaron spaghetti (75 g / porcję)
 * tarty parmezan
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Dodać 2 łyżki oliwy, włożyć drobno posiekaną cebulę i zeszklić. Dodać przeciśnięty przez praskę ząbek czosnku.
 
-Na patelnię dodać mięso i rozpocząć obsmażanie. Przyprawić pieprzem, solą, bazylią i oregano. Dodać pasattę pomidorowa i koncentrat pomidorowy, wymieszać. 
+Na patelnię dodać mięso i rozpocząć obsmażanie. Przyprawić pieprzem, solą, bazylią i oregano. Dodać pasattę pomidorowa i koncentrat pomidorowy, wymieszać.
 
 Przykryć i gotować na małym ogniu przez 20 minut, od czasu do czasu mieszając. Podawać z ugotowanym makaronem spaghetti posypując tartym parmezanem.
-
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250425_171213.jpg[]
-
+image::20250425_171213.jpg[]

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/773-chrupiaca-quesadilla-z-szarpanym-kurczakiem-w-pikantnym-sosie-pomidorowym-adobo.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/773-chrupiaca-quesadilla-z-szarpanym-kurczakiem-w-pikantnym-sosie-pomidorowym-adobo.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * ser cheddar (ok. 300 g)
 * 1 pierś z kurczaka
@@ -41,9 +27,6 @@ Brak zdjęcia przepisu 🍲
 * pół łyżeczki wędzonej mielonej papryki
 * sól i pieprz
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Na początek gotujemy pierś kurczaka. Do garnka wkładamy pierś kurczaka i wlewamy wodę w ilości tak aby zakryła mięso. Do smaku możemy dodać dwa - trzy nasiona ziela angielskiego i listek laurowy oraz sól i pieprz do smaku. Gotujemy około 30 minut na średnim ogniu. Po tym czasie mięso wyjmujemy i przekładamy na deskę do ostygnięcia.
 
@@ -85,3 +68,8 @@ Następnie odwracamy i przysmażamy z drugiej strony również do momentu aż to
 
 Zdejmujemy z patelni i rozkładamy na desce do krojenia. Quesadillę kroimy na trójkąty, tak jak robi się z to z pizzą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

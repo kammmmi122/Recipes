@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://madameedith.com/przepis/wolowina-z-tajska-bazylia-pad-gra-prow[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://madameedith.com/przepis/wolowina-z-tajska-bazylia-pad-gra-prow[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 250 g ryżu jaśminowego
 * 4 łyżki oleju (użyłam rzepakowego)
@@ -41,9 +27,6 @@ Brak zdjęcia przepisu 🍲
 * pęczek tajskiej bazylii + 1 łyżeczka suszonej bazylii Holy (najlepiej pęczek świeżej bazylii Holy, ale trudno ją dostać poza wyspecjalizowanymi sklepami)
 * pęczek kolendry
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Ryż gotujemy w podwójnej objętości osolonej wody.
 
@@ -59,3 +42,8 @@ Wołowinę podajemy z ryżem jaśminowym. Warto posypać ją dodatkową porcją 
 
 Wrzucamy suszoną bazylię Holy oraz świeże listki bazylii tajskiej. Mieszamy i zdejmujemy z ognia.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

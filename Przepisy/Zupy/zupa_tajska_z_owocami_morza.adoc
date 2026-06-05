@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
@@ -40,9 +26,6 @@ Brak zdjęcia przepisu 🍲
 * 1 czerwona papryczka chili świeża lub suszona + mielona papryka ostra do smaku
 * ryż jaśminowy, kolendra
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
@@ -54,3 +37,8 @@ Do lekko gotującego się wywaru włożyć pokrojone filety i owoce morza. Gotow
 
 Doprawić papryczką chili. Podawać z ugotowanym ryżem i świeżą kolendrą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

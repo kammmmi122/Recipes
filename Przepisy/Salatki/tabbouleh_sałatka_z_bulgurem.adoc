@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 35 g surowej kaszy bulgur
 * 1 duży pęczek natki pietruszki
@@ -36,9 +22,6 @@ Brak zdjęcia przepisu 🍲
 * sok z 1 cytryny
 * sól i zmielony pieprz
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Ugotować kaszę bulgur zgodnie z instrukcją na opakowaniu. Odcedzić i włożyć do miski.
 
@@ -48,3 +31,8 @@ Pomidora pokroić na ćwiartki, wykroić szypułki, usunąć nasiona z komór. P
 
 Dodać posiekany szczypiorek, cynamon, oliwę i sok z cytryny. Doprawić solą i pieprzem, wymieszać. Można podawać do dań mięsnych, lub np. nabierać porcje sałatki za pomocą liści małej sałaty rzymskiej.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

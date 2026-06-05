@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 ok. 2 - 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * ok. 375 g krewetek
 * 1 łyżka oleju roślinnego
@@ -40,9 +26,6 @@ Brak zdjęcia przepisu 🍲
 * przyprawy: po 1 łyżeczce suszonego oregano i tymianku, 2 łyżeczki papryki w proszku
 * do podania: bagietka, natka pietruszki
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Krewetki rozmrozić jeśli były zamrożone i oczyścić jeśli jest potrzeba.
 
@@ -54,3 +37,8 @@ Do sosu dodać krewetki i gotować przez ok. 1 minutę, doprawić szczyptą soli
 
 Dodać pozostałą łyżkę masła, roztopić i wymieszać. Posypać posiekaną natką pietruszki i podawać z pokrojoną bagietką.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 filety z kurczaka (ok. 400 g)
 * oliwa, masło, jajko, bułka tarta
@@ -36,9 +22,6 @@ Brak zdjęcia przepisu 🍲
 * 1/2 szklanki tartego parmezanu lub grana padano
 * listki tymianku lub bazylii
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Filety z kurczaka oczyścić z błonek i kostek, odkroić polędwiczkę, przekroić wzdłuż na 2 cieńsze filety, rozbić je w najgrubszej części na kotlety o mniej więcej podobnej grubości. Doprawić je solą, pieprzem i łyżeczką suszonego oregano.
 
@@ -52,3 +35,8 @@ Do naczynia żaroodpornego włożyć połowę sosu pomidorowego, ułożyć podsm
 
 Wstawić do nagrzanego piekarnika i piec przez 15 minut.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 3 - 5 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 5 dużych tortilli
 * 100 g ryżu długoziarnistego
@@ -37,27 +23,18 @@ Brak zdjęcia przepisu 🍲
 * 200 g tartej mozzarelli
 * świeża kolendra
 * papryczka chili
-
-=== Przyprawy do kurczaka
-
 * 2 ząbki czosnku, starte
 * 1/2 łyżeczki ostrej papryki
 * 1 łyżeczka słodkiej papryki
 * 2 łyżeczki kuminu
 * 1 łyżeczka suszonego oregano
 * 2 łyżeczki płatków chili
-
-=== Sos pomidorowy
-
 * 300 g krojonych pomidorów
 * 1 łyżka koncentratu pomidorowego
 * 1 ząbek czosnku
 * 1 łyżeczka oliwy
 * przyprawy: 1 łyżeczka suszonego oregano, 1/2 łyżeczki kuminu, szczypta ostrej papryki, szczypta cukru, sól, pieprz
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Nastawić do ugotowania ryż. Kurczaka pokroić na 2 cm paski. Doprawić go solą, pieprzem oraz mieszanką przypraw i nasmarować 2 łyżkami oleju roślinnego.
 
@@ -73,3 +50,8 @@ Rozłożyć farsz na tortille, posypać połową sera i listkami kolendry, zwin�
 
 Piekarnik nagrzać do 180 stopni C. W formie lub na blaszce ułożyć zwinięte tortille łączeniem do dołu, polać sosem i posypać drugą połową sera. Zapiekać przez 20 minut. Posypać kolendrą i posiekanym chili.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

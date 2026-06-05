@@ -2,26 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240517_111652.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 5 parówki
 * 5 bułek śniadaniowych
@@ -31,17 +20,11 @@ image::20240517_111652.jpg[]
 * 2 łyżka majonezu
 * 2 łyżki musztardy
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobić sos z majonezu i ketchupu. Złożyć hot-dog: spód chleba/bułki wysmarować sosem, dodać parówkę, ulubione warzywa. Na wierzch polać sosem i musztardą.
-
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240517_111652.jpg[]
-
+image::20240517_111652.jpg[]

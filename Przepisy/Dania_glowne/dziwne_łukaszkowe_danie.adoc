@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 piersi z kurczaka
 * sól i pieprz
@@ -34,17 +20,12 @@ Brak zdjęcia przepisu 🍲
 * olej do smażenia
 * 50 g tartej mozzarelli
 * 2 żółtka
-
-=== Na farsz:
 * 50 g serka filadelfia
 * 1 ząbek czosnku
 * 2 łyżki szczypiorku
 * 50 g boczku
 * 50 g tartej mozzarelli
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piersi z kurczaka naciąć na środku tworząc dziurę. Oprószyć przyprawami. Wypełnić dziurę kulką folii aluminiowej owiniętą  papierem do pieczenia. Zesmażyć tak przygotowanie piersi na patelni przez 4-5 minut
 
@@ -52,3 +33,8 @@ Zesmażyć pocięty w kostkę boczek. Przygotować farsz, mieszając wszystkie s
 
 Wyjąc kulkę z folii i dodać do środka farsz. Na górę dodać żółtko i tarty ser. Zapiec w piekarniku rozgrzanym do 180 stopni C przez 10 minut.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,45 +2,23 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * ¼ szklanki wody
 * 1 łyżka oleju roślinnego
 * 1 łyżka oleju sezamowego
-
-=== Ciasto:
-
 * 240 g mąki uniwersalnej
 * ½ łyżeczki soli
 * 120 ml wody
-
-Lub gotowe ciasto na gyozę ze sklepu
-
-=== Farsz:
-
 * 280 g zmielonego mięsa
 * 2-3 duże liście białej kapusty (ok 120g)
 * 15 g zielonej cebulki
@@ -51,16 +29,10 @@ Lub gotowe ciasto na gyozę ze sklepu
 * 1 łyżka sosu sojowego
 * 1 łyżeczka soli
 * Świeżo zmielony pieprz
-
-=== Sos:
-
 * 2 łyżki octu ryżowego
 * 2 łyżki sosu sojowego
 * 2-3 krople oleju chili - la-yu
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Jeżeli nie macie gotowego ciasta na gyozę to zacznijcie właśnie od tego. Dokładnie odmierzcie mąkę i przesiejcie ją do miski. Do przegotowanej, wciąż ciepłej wody dodajcie sól i wymieszajcie. Powoli dodawajcie wodę do mąki mieszając szpatułką lub drewnianą łyżką aż będziecie mogli uformować z ciasta kulę. Jeżeli ciasto będzie zbyt twarde dodajcie jeszcze odrobinę wody. Wyrabiajcie przez 10 minut (nie mniej!), aż stanie się gładkie. Zawińcie w folię i włóżcie do lodówki na 10 minut. Po wyciągnięciu z lodówki dobrze rozwałkujcie na posypanym skrobią ziemniaczaną blacie i wytnijcie szklanką cieniutkie plasterki jak na pierogi. Gotowe ciasto przykryjcie ręcznikiem by nie wyschło.
 
@@ -72,3 +44,8 @@ Na patelni rozgrzejcie łyżkę oleju roślinnego. Ułóżcie pierożki płaską
 
 W tym czasie możecie przygotować sos. Po prostu wlewacie wszystkie składniki do spodeczka i mieszacie zachowując podane wyżej proporcje. Uważajcie jednak z olejem chili, gdyż jest on bardzo ostry! 2-3 krople wystarczą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,27 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 15 minut
-
-[.recipe-details-item]
-📝 1 jajecznica
-
-
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 jajka
 * szczypta soli
@@ -31,9 +20,11 @@ Brak zdjęcia przepisu 🍲
 * szczypiorek
 * masło
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymieszać. Na patelni roztopic masło, wlać jajka i czekać. Od czasu do czasu poruszać drewnianą łyżką, aby rozdzielić na kawałku. Wyłączyć ogień gy białko stanie się białe.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

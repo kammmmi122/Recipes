@@ -197,66 +197,50 @@ def create_files(text, should_file_be_created):
 
 
 def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
-    # Domyślna kategoria dla generowanych automatycznie przepisów
-    category = "Dania główne"
-
     for file, link, cap_title in zip(list_of_files, list_of_links, capitalize_case_name):
         ingredients_text = get_recipe_ingredients(link)
         recipe_text = get_recipe_text(link)
         potions_text = get_number_of_portions(link)
         
-        # Parsowanie składników (wyciągamy tekst bez gwiazdek)
         ingredients_lines = [l.strip()[2:].strip() for l in ingredients_text.splitlines() if l.strip().startswith("*")]
-        # Parsowanie kroków przygotowania
         steps_lines = [l.strip() for l in recipe_text.splitlines() if l.strip()]
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            # 1. Tytuł z przełącznikiem
+            # 1. Tytuł i konfiguracja
             f.write(f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
             f.write(':imagesdir: /Recipes/static/images\n\n')
 
-            # 2. Sekcja Hero - domyślnie jako placeholder (bo skrypt pobiera tylko tekst, a nie zdjęcia)
-            f.write('[.recipe-hero]\n--\n')
-            f.write(f'[.recipe-category-label]\n{category}\n\n')
-            f.write('[.card-image-placeholder]\nBrak zdjęcia przepisu 🍲\n')
-            f.write('--\n\n')
+            # 2. Hero - klasa i element bez pstej linii!
+            f.write('[.recipe-hero]\n')
+            f.write('[.card-image-placeholder]\n')
+            f.write('Brak zdjęcia przepisu 🍲\n\n')
 
-            # 3. Sekcja Szczegóły (Boksy z ikonami)
-            f.write('[.recipe-details]\n--\n')
-            f.write('[.recipe-details-item]\n🕒 czas przygotowania: nie podano\n\n') # Domyślny boks czasu, bo serwisy różnie go podają
-            
+            # 3. Szczegóły - klasa i lista bez pustej linii!
+            f.write('[.recipe-details]\n')
+            f.write('* 🕒 czas przygotowania: nie podano\n')
             if potions_text:
-                # Czyszczenie tekstu porcji z ewentualnej gwiazdki na początku
                 clean_portions = potions_text.replace("*", "").strip()
-                f.write(f'[.recipe-details-item]\n👥 {clean_portions}\n\n')
+                f.write(f'* 👥 {clean_portions}\n')
             else:
-                f.write('[.recipe-details-item]\n👥 2-3 porcje\n\n')
-                
-            f.write(f'[.recipe-details-item]\n🔗 {link}[link do źródła przepisu]\n')
-            f.write('--\n\n')
+                f.write('* 👥 2-3 porcje\n')
+            f.write(f'* 🔗 {link}[link do źródła przepisu]\n\n')
 
-            # 4. Sekcja Dwukolumnowa (Składniki + Przygotowanie)
-            f.write('[.recipe-columns]\n--\n')
-            
-            # Kolumna Składników
-            f.write('[.recipe-column-box]\n')
+            # 4. Kolumny - Składniki i Przygotowanie jako podnagłówki pod jedną klasą
+            f.write('[.recipe-columns]\n')
             f.write('=== Składniki\n')
             for ing in ingredients_lines:
                 f.write(f'* {ing}\n')
             f.write('\n')
 
-            # Kolumna Przygotowania
-            f.write('[.recipe-column-box]\n')
             f.write('=== Przygotowanie\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
-                
-            f.write('--\n\n')
 
-            # 5. Galeria na zdjęcia na samym dole
-            f.write('[.recipe-gallery]\n== Zdjęcia\n\n[.gallery-grid]\n--\n')
-            f.write('// Tutaj możesz wrzucić linki do zdjęć, np. image::nazwa.jpg[]\n')
-            f.write('--\n')
+            # 5. Galeria zdjęć na samym dole
+            f.write('[.recipe-gallery]\n')
+            f.write('== Zdjęcia\n\n')
+            f.write('[.gallery-grid]\n')
+            f.write('// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]\n')
 
             print(file, "created")
 

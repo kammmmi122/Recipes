@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 20 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 200 g masła
 * 200 g gorzkiej czekolady
@@ -35,9 +21,6 @@ Brak zdjęcia przepisu 🍲
 * mała szczypta soli
 * dodatkowo: ok. 50 - 100 g gorzkiej czekolady na wierzch
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.
 
@@ -53,3 +36,8 @@ Wstawić do piekarnika i piec przez ok. 30 minut aż ciasto lekko urośnie. Jeś
 
 Po upieczeniu i ostudzeniu pokroić na małe kawałeczki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/salatka-warstwowa-z-szynka-jajkiem-i-serem-zoltym[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/salatka-warstwowa-z-szynka-jajkiem-i-serem-zoltym[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 5 jajek
 * 1 puszka kukurydzy
@@ -34,9 +20,6 @@ Brak zdjęcia przepisu 🍲
 * 150 g szynki konserwowej
 * 2/3 szklanki majonezu + 1/3 szklanki gęstej śmietany lub jogurtu greckiego
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Jajka ugotować na twardo, obrać i posiekać na desce. Na sitku odcedzić kolejno kukurydzę, potem ananasa.
 
@@ -44,3 +27,8 @@ Na dnie salaterki o średnicy ok. 20 cm ułożyć selera, potem kukurydzę, star
 
 Wyłożyć majonez wymieszany ze śmietaną lub jogurtem, kawałki ananasa, starty na tarce ser żółty oraz jajka. Doprawić solą i pieprzem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

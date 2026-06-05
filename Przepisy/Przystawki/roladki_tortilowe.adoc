@@ -2,33 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-🕒 czas chłodzenia: 10 minut
-
-[.recipe-details-item]
-📝 24 roladki
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 3 placki z tortilli pszennej
 * 200 g serka kremowego serka typu Philadelphia
@@ -39,9 +22,6 @@ Brak zdjęcia przepisu 🍲
 * pół małej czerwonej papryki
 * mały pęczek szczypiorku
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Placki wysmaruj dość grubo kremowym serkiem typu Philadelphia.
 
@@ -57,3 +37,8 @@ Zwinięte tortille można przekroić na pół lub na 4 kawałki albo tak jak ja,
 
 Roladki można przed podaniem schłodzić w lodówce. Nie jest to jednak konieczne. Jeśli obawiasz się o to, że roladki się otworzą podczas np. nakładania ich na talerz, to możesz w każdą sztukę wpić wykałaczkę. W wystający patyczek wbij wówczas np. czarną lub zieloną oliwkę lub mini pomidorki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

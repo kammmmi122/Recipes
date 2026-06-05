@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 łyżki oleju roślinnego
 * 200 g mielonego mięsa drobiowego
@@ -42,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki sosu sojowego
 * 2 łyżki sosu chili
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Rozgrzać wok z olejem, włożyć mięso oraz przeciśnięty przez praskę czosnek, obrany i drobno starty imbir, sól i pieprz. Smażyć na dużym ogniu co chwilę mieszając, mniej więcej przez ok. 8 minut.
 
@@ -56,3 +39,8 @@ Do woka z mięsem i warzywami dodać ugotowany makaron i wymieszać.
 
 Wlać sos, wymieszać i podgrzać. Posypać szczypiorkiem i sezamem lub orzeszkami.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

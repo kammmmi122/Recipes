@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-z-pieczonymi-pomidorami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-z-pieczonymi-pomidorami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 250 g makaronu (np. większego jak Rigatoni, Peccheri)
 * 600 g pomidorów
@@ -35,9 +21,6 @@ Brak zdjęcia przepisu 🍲
 * sól morskia i świeżo zmielony pieprz
 * 4 łyżki oliwy extra vergine
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piekarnik nagrzać do 190 stopni C. Pomidory umyć, pokroić w nieco większą kostkę, włożyć do odpowiednio dużego naczynia żaroodpornego.
 
@@ -47,3 +30,8 @@ Skropić oliwą, doprawić solą morską i pieprzem. Piec bez przykrycia przez o
 
 W międzyczasie ugotować makaron w osolonej wodzie. Odcedzić, wyłożyć do głębokich talerzy. Na wierzch wyłożyć pomidory (wcześniej można usunąć z nich skórkę) wraz z sokami z pieczeni i mozzarellę. Posypać resztą bazylii, doprawić w razie potrzeby solą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

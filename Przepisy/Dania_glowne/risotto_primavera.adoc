@@ -2,30 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 m
-
-[.recipe-details-item]
-👥 2 - 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/risotto-primavera[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/risotto-primavera[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 150 g ryżu do risotto np. Arborio
 * 60 ml białego wina (można pominąć)
@@ -43,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki posiekanej bazylii
 * 3 łyżki tartego parmezanu lub grana padano lub wegańskiego*
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Jeśli używamy szparagów, należy je opłukać, odłamać (same złamią się we właściwym miejscu), wyrzucić twarde, zdrewniałe końce (są włókniste i nie nadają się do jedzenia). Pozostałą zieloną część szparagów pokroić ukośnie na kawałeczki, zachowując zielone główki w całości.
 
@@ -71,3 +53,8 @@ Gotowe warzywa przełożyć do garnka z ugotowanym, gorącym ryżem. Odstawić z
 
 Sprawdzić doprawienie solą i pieprzem. Podawać z dodatkowym serem i oliwą wedle uznania.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

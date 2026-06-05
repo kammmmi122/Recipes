@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2 porcje
+* 🔗 https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 400 g fety (dwa kawałki po 200 g)
 * 2 łyżki sezamu (może być biały, czarny lub mieszanka)
@@ -33,9 +19,6 @@ Brak zdjęcia przepisu 🍲
 * 5-6 łyżek oliwy
 * 2 łyżki miodu
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Piekarnik rozgrzewamy do 220 stopni bez termoobiegu, grzanie góra/dół. Do miseczki wlewamy oliwę.
 
@@ -49,3 +32,8 @@ Zapiekamy w 220 stopniach bez termoobiegu przez 20 minut.
 
 Podajemy od razu po upieczeniu obficie skropione miodem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

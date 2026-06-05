@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://kuron.com.pl/artykuly/przepisy/rozne-przepisy/zupa-pieczarkowa[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://kuron.com.pl/artykuly/przepisy/rozne-przepisy/zupa-pieczarkowa[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1,7 l wywaru drobiowego
 * 3 małe marchewki
@@ -39,9 +25,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki posiekanego koperku
 * sól, pieprz
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Do wywaru dodaj pokrojone warzywa: marchew, pietruszkę i seler. Gotuj na małym ogniu około 15, aż warzywa zmiękną.
 
@@ -55,3 +38,8 @@ Po tym czasie dodaj śmietanę, posiekany koperek, dopraw solą i pieprzem do sm
 
 Zamiast ziemniaków pieczarkowa równie dobrze smakuje z makaronem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

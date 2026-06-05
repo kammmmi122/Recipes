@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 8 porcji
-
-[.recipe-details-item]
-🔗 https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 kg odsączonego jogurtu greckiego
 * 1 duży szklarniowy ogórek
@@ -34,9 +20,6 @@ Brak zdjęcia przepisu 🍲
 * 3-4 łyżki oliwy (plus trochę do podania)
 * sól
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Czosnek obierz i zetrzyj na tarce, wrzuć do dużej miski i posól.
 
@@ -50,3 +33,8 @@ Wymieszaj dokładnie łyżką i wstaw do lodówki do schłodzenia.
 
 Podawaj polane oliwą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

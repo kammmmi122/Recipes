@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 3 godziny
-
-[.recipe-details-item]
-👥 6 porcji
-
-[.recipe-details-item]
-🔗 https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 3 godziny
+* 🕒 czas gotowania: 3 godziny
+* 👥 2-3 porcje
+* 🔗 https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * oliwa z oliwek
 * 1 średnia cebula
@@ -42,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * świeżo stary parmezan
 * odrobina posiekanej natki pietruszki i/lub bazylii
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Cebulę, marchewkę myjemy i kroimy w drobną kostkę.
 
@@ -62,3 +45,8 @@ Ragu serwujemy z szerokim makaronem. Przed podaniem posypujemy parmezanem i opcj
 
 Jeśli robicie ragu dzień wcześniej, przed podaniem podgrzejcie je. Jeśli będzie bardzo gęste, wówczas warto dodać odrobinę wody z gotowania makaronu, by rozluźnić sos.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

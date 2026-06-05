@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/salatka-z-krewetkami-smazonymi-z-czosnkiem-i-papryczka-chili[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-krewetkami-smazonymi-z-czosnkiem-i-papryczka-chili[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 200 g oczyszczonych krewetek
 * 1/2 opakowania miksu sałat
@@ -38,9 +24,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki białego wina (opcjonalnie)
 * 3 łyżki soku z cytryny
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mrożone krewetki rozmrozić (w temp. pokojowej lub pod strumieniem bieżącej, chłodnej wody). Opłukać i oderwać ogonki, osuszyć.
 
@@ -52,3 +35,8 @@ Na patelni roztopić masło z oliwą i gdy zacznie skwierczeć dodać plasterki 
 
 Następnie dodać starty czosnek, wymieszać i smażyć przez pół minuty co chwilę mieszając. Wlać wino, sok z cytryny, wymieszać i odstawić z ognia. Wyłożyć na sałatę. Można skropić dodatkową oliwą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,32 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20251230_232429.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 10 minut
-
-[.recipe-details-item]
-🕒 czas pieczenia: 1 godzina
-
-[.recipe-details-item]
-📝 keksówka 10 x 30 cm
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/skyrnik-z-morelami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 10 minut
+* 🕒 czas gotowania: 10 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/skyrnik-z-morelami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 800 g Skyru naturalnego
 * 3 duże lub 4 małe jajka - do 200 g po rozbiciu
@@ -36,27 +19,23 @@ image::20251230_232429.jpg[]
 * 250 g małych moreli - około 5 sztuk
 * 1 płaska łyżka skrobi ziemniaczanej
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Zacznij już nagrzewać piekarnik do 170 stopni z opcją pieczenia góra/dół lub ustaw 160 stopni z termoobiegiem.
+
 W jednym naczyniu umieść wszystkie składniki na masę skyrnikową. Będzie to: 800 gramów Skyru naturalnego; 3 duże lub 4 małe jajka; 100 gramów zwykłego cukru; saszetka budyniu waniliowego lub śmietankowego bez cukru o wadze około 40 gramów. Wszystko razem miksuj krótko na niskich obrotach, tylko do momentu, gdy masa zrobi się jednolita.
 
 Keksówkę o wymiarach wewnętrznych 10 x 30 cm wyłóż od środka arkuszami papieru do pieczenia. Masę skyrnikową wylej do przygotowanej formy.
 
 Małe, dojrzałe i zdrowe morele umyj, osusz i podziel na pół, a następnie usuń pestki. Przed wyłożeniem na masę połówek owoców polecam posypać z wierzchu masę skyrnikową płaską łyżką skrobi ziemniaczanej, proszku budyniowego lub nawet proszku kisielowego np. o smaku cytrynowym. Następnie delikatnie układaj połówki moreli - jedna obok drugiej, wypukłą stroną do skyrnika.
+
 Formę umieść mniej więcej na środkowej półce (lub o piętro niżej) w piekarniku nagrzanym do 170 stopni (pieczenie góra/dół). Skyrnik z morelami piecz pełną godzinę. Po wyłączeniu piekarnika nie uchylaj drzwiczek pieca przynajmniej przez 10 minut. Potem uchyl je nieznacznie na 30 minut. Po tym czasie otwórz piekarnik i wyjmij skyrnik.
 
 Przestudzony skyrnik umieść w lodówce pod kloszem na minimum cztery godziny, a najlepiej na całą noc. Idealną strukturę osiąga bowiem po schłodzeniu, jednak naprawdę bardzo dobry jest jeszcze lekko ciepły. Skyrnik może pod koniec wyrosnąć, ale podczas studzenia pewnie lekko opadnie.
 
 Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod przykryciem. Trzymany w chłodzie (6-10 stopni, w lodówce) świeżość zachowa przynajmniej przez tydzień.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20251230_232429.jpg[]
-
+image::20251230_232429.jpg[]

@@ -2,30 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: powyżej godziny
-
-[.recipe-details-item]
-👥 6 - 8 porcji
-
-[.recipe-details-item]
-🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 6 szalotek
 * 500 g małych pieczarek
@@ -44,9 +29,6 @@ Brak zdjęcia przepisu 🍲
 * sól i świeżo mielony czarny pieprz
 * oliwa
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Szalotki obrać, ale nie kroić. Po kolei nadziewać każdą z nich na widelec i opalać nad palnikiem gazowym przez kilka minut, dopóki nie będzie mocno przypalona. Opalone szalotki odłożyć na bok.
 
@@ -58,3 +40,8 @@ Po upływie godziny spróbować i dodać sól oraz pieprz do smaku. W razie potr
 
 Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód talerza kawałkiem pieczywa. Gulasz jest lepszy z każdym kolejnym dniem, szczególnie warto poczekać do trzeciego dnia.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

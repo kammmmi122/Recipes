@@ -2,30 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: powyżej 1 godziny
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.doradcasmaku.pl/przepis-schab-w-sosie-wlasnym-300432[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2 porcje
+* 🔗 https://www.doradcasmaku.pl/przepis-schab-w-sosie-wlasnym-300432[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * schab bez kości 300-400 gramów
 * cebula 1 sztuka
@@ -36,9 +21,6 @@ Brak zdjęcia przepisu 🍲
 * natka pietruszki do posypania
 * woda 150 mililitrów
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Schab pokroić w plastry o grubości 1-2 cm.
 
@@ -48,3 +30,8 @@ Gdy mięso jest dość dobrze przyrumienione, dodać posiekaną cebulę i zalać
 
 Gdy mięso jest miękkie, zagęścić sos łyżką mąki wymieszaną z 50 ml zimnej wody. Następnie dodać łyżkę śmietany, posiekaną natkę pietruszki, zamieszać i wyłączyć źródło ciepła. Sos i schab gotowy - smacznego!
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -30,7 +30,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Asciidoctor global containers */
+/* Kontenery strukturalne Asciidoctor */
 #header,
 #content,
 #footer,
@@ -60,7 +60,7 @@ body {
 }
 
 /* ==========================================================================
-   FILTERS & NAVIGATION (MAIN PAGE)
+   FILTERS & CARDS (MAIN PAGE)
    ========================================================================== */
 
 .filters-wrapper {
@@ -100,10 +100,6 @@ body {
   border-color: var(--accent);
   box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
 }
-
-/* ==========================================================================
-   RECIPE CARDS GRID (MAIN PAGE)
-   ========================================================================== */
 
 .cards-wrapper {
   margin: 24px 0 40px;
@@ -191,10 +187,7 @@ body {
   text-decoration: underline;
 }
 
-/* ==========================================================================
-   INTERACTIVE TOGGLE SWITCH
-   ========================================================================== */
-
+/* Toggle switch */
 .switch {
   position: relative;
   display: inline-block;
@@ -239,34 +232,37 @@ body {
 }
 
 /* ==========================================================================
-   SINGLE RECIPE PAGE LAYOUT
+   UKŁAD STRONY PRZEPISU (NOWA STRUKTURA BEZ DZIELNIKÓW BLOKOWYCH)
    ========================================================================== */
 
-.recipe-page {
-  margin-top: 16px;
-}
-
-/* Hero Image Banner & Categories */
-.recipe-hero {
-  position: relative;
-  margin: 0 0 24px;
-}
-
-.recipe-hero img,
-.recipe-hero .imageblock img {
+/* 1. Hero Banner */
+.recipe-hero, 
+.recipe-hero.paragraph,
+.recipe-hero .card-image-placeholder {
   width: 100%;
-  max-height: 360px;
+  height: 360px;
+  background: #e5e7eb;
+  color: var(--muted);
+  font-size: 1.3rem;
+  font-weight: 500;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  margin: 16px 0 24px !important;
+  box-shadow: var(--shadow-soft);
+  position: relative;
+}
+
+.recipe-hero img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   border-radius: 14px;
-  display: block;
 }
 
-.recipe-hero .imageblock {
-  margin: 0 !important;
-}
-
-.recipe-hero .recipe-category-label,
-.recipe-hero .openblock .recipe-category-label {
+.recipe-hero::before {
+  content: "Dania główne";
   position: absolute;
   top: 16px;
   left: 16px;
@@ -279,126 +275,95 @@ body {
   z-index: 5;
 }
 
-/* Recipe Hero Image Placeholder */
-.recipe-hero .card-image-placeholder {
-  width: 100%;
-  height: 360px;
-  background: #e5e7eb;
-  color: var(--muted);
-  font-size: 1.2rem;
-  font-weight: 500;
-  display: flex !important;
-  align-items: center;
-  justify-content: center;
-  border-radius: 14px;
-}
-
-/* ==========================================================================
-   RECIPE DETAILS (METRICS BAR WITH BOXES)
-   ========================================================================== */
-
-.recipe-details {
+/* 2. Pasek szczegółów */
+.recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
   gap: 12px;
-  margin: 16px 0 24px;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 24px 0 32px !important;
 }
 
-/* Uodpornienie na kontenery blokowe parsera Asciidoctor (.paragraph) */
-.recipe-details .paragraph {
+.recipe-details.ulist ul li {
   flex: 1 1 180px;
-  margin: 0 !important;
-}
-
-.recipe-details .recipe-details-item,
-.recipe-details .paragraph p {
   display: flex;
   align-items: center;
   justify-content: center;
   background: var(--card-bg);
   border: var(--border-subtle);
   border-radius: var(--radius);
-  padding: 12px 16px;
+  padding: 14px 16px;
   font-size: 0.95rem;
   font-weight: 500;
   color: var(--text-main);
-  margin: 0 !important;
-  min-height: 52px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.01);
+  min-height: 52px;
   text-align: center;
 }
 
-.recipe-details .paragraph p a {
+.recipe-details.ulist ul li a {
   color: var(--accent);
   text-decoration: none;
 }
 
-.recipe-details .paragraph p a:hover {
-  text-decoration: underline;
+/* 3. UKŁAD DWUKOLUMNOWY (Nagłówki H2 jako elementy niezależne) */
+@media (min-width: 901px) {
+  /* Sprytne łączenie: jeśli sekcje .recipe-ingredients i .recipe-preparation leżą obok siebie,
+     zmniejszamy ich szerokość i ustawiamy jako float lub inline-block obok siebie */
+  .recipe-ingredients, 
+  .recipe-preparation {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .recipe-ingredients {
+    margin-right: 4%;
+  }
 }
 
-/* ==========================================================================
-   SPLIT COLUMNS (INGREDIENTS & PREPARATION)
-   ========================================================================== */
-
-.recipe-columns {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr;
-  gap: 36px;
-  margin: 28px 0;
-}
-
-/* Zgodność ze strukturą otwartych bloków */
-.recipe-columns .recipe-column-box,
-.recipe-columns .openblock {
-  display: flex;
-  flex-direction: column;
-}
-
-.recipe-columns h3 {
+/* Stylizacja nagłówków H2 wewnątrz kolumn */
+.recipe-column-box h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
-  margin-bottom: 16px;
-  font-size: 1.4rem;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
   color: var(--text-main);
 }
 
-/* Wyczyszczenie wcięć domyślnych list w kolumnach */
-.recipe-columns .ulist ul {
+.recipe-ingredients .ulist ul {
   padding-left: 20px;
   margin: 0;
 }
 
-.recipe-columns .ulist li {
+.recipe-ingredients .ulist li {
   margin-bottom: 8px;
   line-height: 1.5;
 }
 
-/* Formatowanie tekstu przygotowania */
-.recipe-columns .paragraph {
+.recipe-preparation .paragraph {
   margin-bottom: 16px;
   line-height: 1.6;
 }
 
-/* ==========================================================================
-   IMAGE GALLERY (BOTTOM OF THE PAGE)
-   ========================================================================== */
-
+/* 4. Galeria Zdjęć */
 .recipe-gallery {
-  margin: 32px 0 40px;
+  clear: both; /* Resetuje opływanie szerokich kolumn powyżej */
+  margin-top: 48px;
   border-top: var(--border-subtle);
   padding-top: 24px;
 }
 
 .recipe-gallery > h2 {
-  margin-bottom: 16px;
   font-size: 1.6rem;
+  margin-bottom: 20px;
 }
 
 .gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
 }
 
@@ -416,17 +381,10 @@ body {
 }
 
 /* ==========================================================================
-   RESPONSIVENESS (MEDIA QUERIES)
+   MEDIA QUERIES (RESPONSYWNOŚĆ)
    ========================================================================== */
 
 @media (max-width: 900px) {
-  #header,
-  #content,
-  #footer,
-  #footnotes {
-    padding: 0 12px;
-  }
-
   #header > h1,
   #content > h1 {
     flex-direction: column;
@@ -435,17 +393,20 @@ body {
     font-size: 1.8rem;
   }
 
-  .recipe-columns {
-    grid-template-columns: 1fr !important;
-    gap: 28px;
+  .recipe-ingredients, 
+  .recipe-preparation {
+    width: 100% !important; /* Na mobile zajmują pełną szerokość i spadają pod siebie */
+    display: block !important;
+    margin-right: 0 !important;
+    margin-bottom: 32px;
   }
 
-  .recipe-details {
+  .recipe-details.ulist ul {
     flex-direction: column;
   }
-
-  .recipe-details .paragraph {
-    flex: 1 1 100%;
+  
+  .recipe-details.ulist ul li {
+    width: 100%;
   }
 }
 
@@ -455,15 +416,12 @@ body {
     gap: 20px;
   }
 
-  .card {
-    border-radius: 10px;
+  .recipe-hero, 
+  .recipe-hero.paragraph,
+  .recipe-hero .card-image-placeholder {
+    height: 240px;
   }
 
-  .recipe-hero img,
-  .recipe-hero .card-image-placeholder {
-    max-height: 240px;
-  }
-  
   .gallery-grid {
     grid-template-columns: 1fr 1fr;
     gap: 10px;

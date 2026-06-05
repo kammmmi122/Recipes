@@ -2,29 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250118_150205.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 250 g makaronu świderki
 * 1 łyżka oliwy
@@ -36,9 +22,6 @@ image::20250118_150205.jpg[]
 * 250 ml śmietanki 30% z kartonika
 * 3 łyżki tartego sera twardego typu corregio, parmezan, bursztyn
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Makaron ugotować al dente w osolonej wodzie, odcedzić, włożyć z powrotem do garnka. Piekarnik nagrzać do 190 stopni C (jeśli danie będziemy dodatkowo zapiekać).
 
@@ -52,12 +35,8 @@ Opcjonalnie danie można dodatkowo zapiec w piekarniku. W tym celu należy je pr
 
 Jeśli dania nie zapiekamy, możemy posypać je serem już po nałożeniu na talerze.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250118_150205.jpg[]
-image::/Recipes/static/images/20250118_150249.jpg[]
-
+image::20250118_150205.jpg[]

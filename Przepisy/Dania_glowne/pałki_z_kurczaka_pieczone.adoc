@@ -2,27 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 50 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-
+* 🕒 czas przygotowania: 50 minut
+* 🕒 czas gotowania: 50 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 8 pałek z kurczaka
 * 2 łyżeczka czerwonej papryki
@@ -30,9 +19,11 @@ Brak zdjęcia przepisu 🍲
 * pieprz i sól
 * olej
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Nastawić piekarni na 180 stopni C. Mięso włożyć do worka do pieczenia. Do mięsa dodać przyprawy i 1 łyżkę oleju. Piec przez 45 minut.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

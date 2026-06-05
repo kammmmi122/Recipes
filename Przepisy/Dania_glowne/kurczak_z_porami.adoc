@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/zielony_srodek/pory/kurczak_z_porami_ziemniakami/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/zielony_srodek/pory/kurczak_z_porami_ziemniakami/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 duży por
 * 30 g masła + 2 łyżki do podsmażenia kurczaka
@@ -39,9 +25,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki masła
 * 1 łyżka śmietanki kremówki
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Odciąć zielone części porów, pozostawić białą i jasno zieloną część. Przekroić wzdłuż na 4 części i dokładnie opłukać. Pokroić w poprzek na pół centymetrowe kawałki.
 
@@ -53,3 +36,8 @@ Do miękkich porów wlać śmietankę i zagotować na małym ogniu. Filety zdją
 
 Ugotowane w osolonej wodzie ziemniaki odcedzić, włożyć z powrotem do garnka, dodać masło i śmietankę i od razu rozgnieść praską na puree.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

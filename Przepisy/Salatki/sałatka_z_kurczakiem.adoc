@@ -2,33 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-🕒 czas smażenia: 10 minut
-
-[.recipe-details-item]
-👥 6 porcji
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 500 g piersi z kurczaka - 1 większa pierś
 * po pół łyżeczki soli i pieprzu
@@ -44,24 +27,27 @@ Brak zdjęcia przepisu 🍲
 * świeżo mielony pieprz i sól
 * kiełki jarmużu lub słonecznika
 
-
-
-[.recipe-column-box]
 == Przygotowanie
-Dużą pierś z kurczaka umyj i osusz ręcznikiem papierowym. Usuń włókna i ewentualne chrząstki. Dodam jeszcze, że mięso warto jest wyjąć wcześniej z lodówki, by miało jednolitą temperaturę. Jeśli mięso będzie w środku zimne, będzie potrzebowało dłuższej obróbki termicznej. 
+Dużą pierś z kurczaka umyj i osusz ręcznikiem papierowym. Usuń włókna i ewentualne chrząstki. Dodam jeszcze, że mięso warto jest wyjąć wcześniej z lodówki, by miało jednolitą temperaturę. Jeśli mięso będzie w środku zimne, będzie potrzebowało dłuższej obróbki termicznej.
 
 Pierś z kurczaka smażona w całości, oprócz podsmażenia na patelni wymaga dodatkowego pieczenia w piekarniku. Dwie połówki piersi z kurczaka obtocz dokładnie w soli, pieprzu i słodkiej papryce. Pół łyżeczki soli, pół łyżeczki pieprzu i jedna łyżeczka słodkiej papryki.
 
-Nagrzej dobrze patelnię z grubym dnem. Wlej łyżkę oliwy i wyłóż oba kawałki piersi. Smaż je po około trzy minuty z obu stron na średniej mocy palnika, a następnie przenieś do piekarnika nagrzanego do 180 stopni. Piersi potrzebują się dopiec w środku. Wystarczy około 8 minut pieczenia na środkowej półce z opcją pieczenia góra/dół. 
+Nagrzej dobrze patelnię z grubym dnem. Wlej łyżkę oliwy i wyłóż oba kawałki piersi. Smaż je po około trzy minuty z obu stron na średniej mocy palnika, a następnie przenieś do piekarnika nagrzanego do 180 stopni. Piersi potrzebują się dopiec w środku. Wystarczy około 8 minut pieczenia na środkowej półce z opcją pieczenia góra/dół.
 
 Piersi z kurczaka odstaw do przestudzenia. To dobry moment na zrobienie sałatki.
+
 Przygotuj sobie szeroki półmisek. Zacznij od umycia sałat. Szpinak baby, sałatę rukolę oraz mieszankę sałat przepłucz pod zimną, bieżącą wodą. Sałaty umieść razem na półmisku. Zamiast mieszanki sałat możesz też użyć świeżej roszponki lub siekanej kapusty pekińskiej.
 
-Do sałat dodaj też umyte pomidorki cherry lub pomidorki koktajlowe. Każdą sztukę przekrój na pół. Cebulę obierz i pokrój cienkie piórka. 
+Do sałat dodaj też umyte pomidorki cherry lub pomidorki koktajlowe. Każdą sztukę przekrój na pół. Cebulę obierz i pokrój cienkie piórka.
 
-Na warzywa wylej 3 łyżki delikatnej oliwy. Przed wyłożeniem kurczaka możesz też dodać twardy ser. Ja wybrałam ser włoski Parmigiano Reggiano. Ser starłam w płatki przy pomocy gilotynki do serów i warzyw. 
+Na warzywa wylej 3 łyżki delikatnej oliwy. Przed wyłożeniem kurczaka możesz też dodać twardy ser. Ja wybrałam ser włoski Parmigiano Reggiano. Ser starłam w płatki przy pomocy gilotynki do serów i warzyw.
 
-Pierś z kurczaka pokrój w plasterki i wyłóż na sałatkę. Sałatkę z kurczakiem polej resztą oliwy. Będą to trzy łyżki. Jeszcze tylko symboliczne oprószenie świeżo mielonym pieprzem oraz solą. Ja dodałam też trochę kiełków jarmużu. Jeśli jednak nie masz żadnych kiełków, to możesz śmiało pominąć ten składnik. 
+Pierś z kurczaka pokrój w plasterki i wyłóż na sałatkę. Sałatkę z kurczakiem polej resztą oliwy. Będą to trzy łyżki. Jeszcze tylko symboliczne oprószenie świeżo mielonym pieprzem oraz solą. Ja dodałam też trochę kiełków jarmużu. Jeśli jednak nie masz żadnych kiełków, to możesz śmiało pominąć ten składnik.
 
 W przepisie nie ma dodatku w postaci orzechów lub pestek, ale jeśli lubisz, gdy coś Ci przyjemnie chrupie, to gorąco polecam dodać na koniec prażone pestki słonecznika lub też siekane orzechy włoskie.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

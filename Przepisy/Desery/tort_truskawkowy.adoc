@@ -2,46 +2,24 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240427_105458.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 20 porcji
-
-[.recipe-details-item]
-🔗 https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 2-3 porcje
+* 🔗 https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
-=== Biszkopt:
-
 * 6 jajek, osobno żółtka i białka
 * 170g mąki (użyłam tortowej)
 * 1 łyżeczka proszku do pieczenia
 * 170g cukru
 * 1/3 łyżeczki aromatu śmietankowego (polecam Dr.Oetkera)
 * 2-3 krople aromatu waniliowego
-
-=== Do nasączania:
-
 * 150g truskawek, umytych i obranych
 * 8-10 łyżek wody
-
-=== Środek:
-
 * 400g schłodzonej śmietanki kremówki 30% lub 36%
 * 250g serka mascarpone
 * 600-700g truskawek, umytych i obranych
@@ -49,9 +27,6 @@ image::20240427_105458.jpg[]
 * 2-3 krople aromatu śmietankowego
 * 1 łyżeczka cukru wanilinowego
 * 5-7 łyżek cukru pudru (dosładzamy do własnego gustu, ja dodałam 5 bardziej kopiastych łyżek cukru pudru)
-
-=== Wykończenie:
-
 * 250g schłodzonej śmietanki kremówki 30% lub 36%
 * 250g serka mascarpone
 * około 700-900g truskawek (to już zależy od tego, jak go ozdobimy, na koronę zużyjemy około 700g)
@@ -59,12 +34,7 @@ image::20240427_105458.jpg[]
 * 2 łyżeczki cukru wanilinowego
 * 1/2 opakowania galaretki truskawkowej (w proszku)
 
-
-
-[.recipe-column-box]
 == Przygotowanie
-=== Biszkopt:
-
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.
 
 W drugiej misce żółtka utrzeć z resztą cukru na jasną, kremową masę. Dodać aromaty, wymieszać.
@@ -81,8 +51,6 @@ Jeden krążek ciasta włożyć z powrotem do tortownicy (zamknąć obręcz).
 
 Zmiksować na mus 150g truskawek, dodać około 8-10 łyżek wody, wymieszać. Ciasto w tortownicy nasączyć około 5-6 łyżkami truskawkowego musu.
 
-=== Środek:
-
 Żelatynę wsypać do rondelka i zalać około 1/3 szklanki zimnej wody, odstawić, aby napęczniała.
 
 Zmiksować na mus 200g truskawek, resztę pokroić na kawałeczki.
@@ -95,8 +63,6 @@ Serek przełożyć do miski i rozmieszać go łyżką. Dodać stopniowo mus z tr
 
 Połowę kremu przełożyć do na ciasto w torownicy, wyrównać. Przykryć drugim krążkiem ciasta i nasączyć go jak poprzedni. Na wierzch wyłożyć resztę kremu, wyrównać. Ostatni krążek ciasta nasączyć musem truskawkowym z wodą i stroną, na którą nakładaliśmy mus położyć na krem. Ciasto wstawić na parę godzin do lodówki, aż stężeje (najlepiej zostawić na całą noc i wykończyć na drugi dzień).
 
-=== Wykończenie: 
-
 Galaretkę rozpuścić w około 1/4 szklanki gorącej wody.
 
 Serek rozmieszać łyżką, dodać cukier puder, cukier wanilinowy i wymieszać.
@@ -105,13 +71,8 @@ Serek rozmieszać łyżką, dodać cukier puder, cukier wanilinowy i wymieszać.
 
 Tort truskawkowy wyjąć ostrożnie z tortownicy i położyć na paterze. Gotowym kremem posmarować bok i wierzch tortu. Truskawki na koronę obrać i przekroić w pionie 3 razy. Układać je okręgami na wierzchu ciasta, zaczynając od krawędzi toru. Następnie posmarować je delikatnie galaretką (będą ładnie błyszczały). Resztę truskawek przepołowić i ozdobić nimi dolną cześć toru, jak na zdjęciach.Udanych wypieków:)
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240427_105458.jpg[]
-image::/Recipes/static/images/20240427_105504.jpg[]
-image::/Recipes/static/images/20240427_110531.jpg[]
-
+image::20240427_105458.jpg[]

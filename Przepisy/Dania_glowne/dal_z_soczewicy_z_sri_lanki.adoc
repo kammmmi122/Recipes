@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 10 minut + 20 minut czekania
-
-[.recipe-details-item]
-👥 4 - 6 porcji
-
-[.recipe-details-item]
-🔗 https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 10 minut
+* 🕒 czas gotowania: 10 minut
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 350 g soczewicy czerwonej / 2 szklanki
 * 2 ½ szklanki wody
@@ -41,9 +27,6 @@ Brak zdjęcia przepisu 🍲
 * 1 puszka kokosowego mleczka / 400 ml
 * sól
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Soczewicę dokładnie opłukać. Następnie przełożyć do garnka, dodać odmierzoną wodę oraz kurkumą i gotować pod przykryciem na niedużym ogniu do momentu, aż soczewica będzie lekko miękka, czyli około 10 minut.
 
@@ -55,3 +38,8 @@ Suszone liście curry kupicie w Kuchniach Świata oraz każdym sklepie z żywno�
 
 Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywnością orientalną lub w dobrze zaopatrzonych delikatesach. Najprościej jednak jest zamówić je na Vegepacku, gdzie można za jednym zamachem kupić wszystkie na raz.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

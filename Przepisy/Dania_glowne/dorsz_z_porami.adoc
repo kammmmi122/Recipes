@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 50 minut
-
-[.recipe-details-item]
-👥 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/dorsz-w-kremowym-sosie-z-porami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 50 minut
+* 🕒 czas gotowania: 50 minut
+* 👥 3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/dorsz-w-kremowym-sosie-z-porami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 400 g filetu (polędwiczki) z dorsza
 * 2 łyżeczki mąki
@@ -38,9 +24,6 @@ Brak zdjęcia przepisu 🍲
 * 125 ml śmietanki 30% lub 18%
 * 2 łyżki posiekanego szczypiorku
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Dorsza rozmrozić jeśli był mrożony i osuszyć. Doprawić solą i pieprzem, obtoczyć w mące.
 
@@ -56,3 +39,8 @@ Przełożyć na patelnię z porami i zagotować bez przykrycia. Dodać śmietank
 
 Kawałki ryby posypać posiekanym szczypiorkiem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

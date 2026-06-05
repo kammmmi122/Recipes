@@ -2,29 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250622_184004.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-📝 30 sztuk
-
-[.recipe-details-item]
-🔗 https://polikala.com/index.php/2022/11/22/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://polikala.com/index.php/2022/11/22/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 1 kg mięsa mielonego wieprzowo-wołowego
 * 1 cebula starta na tarce o grubych oczkach
@@ -43,9 +29,6 @@ image::20250622_184004.jpg[]
 * passata pomidorowa
 * 200 g fety
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Do mięsa dodaj cebulę, przyprawy, starty czosnek, sól oraz posiekaną miętę i natkę pietruszki. Dokładnie wszystko wymieszaj i odstaw do lodówki na minimum pół godziny (a najlepiej na całą noc).
 
@@ -61,12 +44,8 @@ Smaż klopsiki z każdej strony na złoty kolor, następnie odsącz je na talerz
 
 Zagotuj passatę pomidorową, włóż klopsiki i podgotuj przez 3 minuty. Skrusz fetę i dodaj do potrawy.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250622_184004.jpg[]
-image::/Recipes/static/images/20250622_184733.jpg[]
-
+image::20250622_184004.jpg[]

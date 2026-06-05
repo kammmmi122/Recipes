@@ -2,43 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20241225_131152.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 15 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 200 g granoli
 * 200 g jogurtu owoce leśne
 * świeże maliny
 * świeże borówki
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
-
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20241225_131152.jpg[]
-
+image::20241225_131152.jpg[]

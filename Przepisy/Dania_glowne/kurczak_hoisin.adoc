@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 500 g filetu z kurczaka
 * 2 ząbki czosnku
@@ -43,9 +29,6 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka oleju sezamowego
 * 1 płaska łyżka cukru
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mięso oczyścić z błonek i kostek, pokroić w małą kostkę. Doprawić solą, startym czosnkiem, ostrą papryką i białym pieprzem.
 
@@ -63,3 +46,8 @@ Podgrzewać przez ok. 1 - 2 minuty, następnie przesunąć mięso na bok a w wol
 
 Zagotować a następnie połączyć z mięsem i co chwilę mieszając zagotować jeszcze wszystko razem. Podawać posypując lekko zrumienionym sezamem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,29 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250528_183240.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_polska/indyk/kanapka_z_indykiem/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/indyk/kanapka_z_indykiem/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * pieczywo, np. domowa focaccia
 * plasterki pieczonego indyka
@@ -34,9 +20,6 @@ image::20250528_183240.jpg[]
 * majonez lub masło
 * lekko zrumienione orzeszki pinii
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Pieczywo przekroić na pół, posmarować cienko majonezem lub masłem.
 
@@ -44,12 +27,8 @@ Na jednej połówce położyć sałatę, dodać plasterki mięsa, ser, żurawin�
 
 Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół i podawać.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250528_183240.jpg[]
-image::/Recipes/static/images/20250528_183245.jpg[]
-
+image::20250528_183240.jpg[]

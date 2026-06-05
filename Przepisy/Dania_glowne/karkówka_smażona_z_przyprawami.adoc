@@ -2,36 +2,27 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 15 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 4 kawałki karkówki
 * ulubione przyprawy
 * pieprz i sól
 * olej do smażenia
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Oprószyć kawałki solą, pieprzem i ulubionymi przyprawami. Rozgrzać grillową patelnię. Dodać odrobinę oleju. Usmażyć karkówkę na rozgrzanej patelni.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

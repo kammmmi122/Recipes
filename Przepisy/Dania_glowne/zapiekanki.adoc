@@ -2,27 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 6 porcje
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 6 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 3 półbagietki
 * 200 g pieczarek
@@ -32,9 +21,6 @@ Brak zdjęcia przepisu 🍲
 * 150 g mozzarelli tartej
 * sól i pieprz czarny
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki i cebulę do brązowego koloru. Ostudzić
 
@@ -42,3 +28,8 @@ Szynkę pokroić w kostkę
 
 Połbagietki przekroić na pół. Wysmarować ketchupem, nałożyć pieczarki z cebulą, szynkę i tarty ser. Piec 78 minut góra-dół i 5 minut na grillu.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

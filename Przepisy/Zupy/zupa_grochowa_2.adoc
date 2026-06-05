@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina 21 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 l wody
 * 2 ziemniaki
@@ -42,9 +28,6 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżek suszonego majeranku
 * 1 pęczek natki pietruszki
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
@@ -64,3 +47,8 @@ Kiedy minie czas gotowania zupy, sprawdzam, czy groch na pewno jest miękki, dod
 
 Zupę podaję z natką pietruszki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

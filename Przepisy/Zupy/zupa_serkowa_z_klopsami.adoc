@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 3 kostki rosołowe
 * 1 l wody
@@ -39,15 +25,10 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki świeżo posiekanej natki pietruszki
 * trochę pieczywo
 * 3 łyżki oliwy z oliwek
-
-=== Na klopsy
 * 500 g mięsa mielonego
 * sól i pieprz do smaku
 * 1 cebula
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Cebulę i czosnek obierz oraz drobno posiekaj. Szczypiorek posiekaj.
 
@@ -67,3 +48,8 @@ Grzanki podsmaż na patelni na złoty kolor.
 
 Zupę z serków topionych posyp grzankami, posiekaną natką pietruszki i szczypiorkiem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

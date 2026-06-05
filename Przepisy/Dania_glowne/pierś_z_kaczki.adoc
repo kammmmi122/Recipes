@@ -2,37 +2,20 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
 == Składniki
 * 2 piersi kaczki ze skórką (każda po ok. 200 - 250 g)
 * (lub - na szybko - gotowy dżem żurawinowy lub borówkowy)
 
-
-
-[.recipe-column-box]
 == Przygotowanie
 Mięso ogrzać w temperaturze pokojowej. Piekarnik nagrzać do 200 st. C. Piersi kaczki ponacinać "w kratkę" od strony ze skórą, nie uszkadzając mięsa. Doprawić świeżo zmielonym pieprzem i solą morską. Położyć na zimnej patelni z grubym dnem (np. żeliwnej) skórką do dołu i podgrzewać na umiarkowanym ogniu stopniowo wytapiając skórkę. W sumie potrwa to ok. 12-14 minut. Następnie przewrócić mięso skórką do góry i podsmażyć ok. 2 minuty.
 
@@ -40,3 +23,8 @@ Tak podsmażone piersi wstawić do nagrzanego piekarnika. Jeśli rączka patelni
 
 W tym czasie na dobrze rozgrzanej patelni i na tłuszczu wytopionym ze skórki kaczki podsmażyć ziemniaczki. Gdy mięso odpocznie pokroić je na cienkie i ukośne plasterki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
