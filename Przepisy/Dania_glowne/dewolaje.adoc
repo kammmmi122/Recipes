@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * pierś z kurczaka 1 kg
@@ -50,4 +50,4 @@ Ser pokroić w słupki.Na rozłożony filet nakładać farsz oraz kawałek sera.
 Zwijamy. Tak przygotowane rolady obtaczamy najpierw w mące potem w roztrzepanym jajku i na koniec w bułce tartej. Smażymy na gorącym tłuszczu z każdej strony na złoty kolor.
 
 Możliwość smażenia we frytkownicy.
---
+

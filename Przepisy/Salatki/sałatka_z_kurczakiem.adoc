@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g piersi z kurczaka - 1 większa pierś
@@ -64,4 +64,4 @@ Na warzywa wylej 3 łyżki delikatnej oliwy. Przed wyłożeniem kurczaka możesz
 Pierś z kurczaka pokrój w plasterki i wyłóż na sałatkę. Sałatkę z kurczakiem polej resztą oliwy. Będą to trzy łyżki. Jeszcze tylko symboliczne oprószenie świeżo mielonym pieprzem oraz solą. Ja dodałam też trochę kiełków jarmużu. Jeśli jednak nie masz żadnych kiełków, to możesz śmiało pominąć ten składnik. 
 
 W przepisie nie ma dodatku w postaci orzechów lub pestek, ale jeśli lubisz, gdy coś Ci przyjemnie chrupie, to gorąco polecam dodać na koniec prażone pestki słonecznika lub też siekane orzechy włoskie.
---
+

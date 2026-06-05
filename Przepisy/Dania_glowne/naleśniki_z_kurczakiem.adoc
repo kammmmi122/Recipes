@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/nalesniki-z-kurczakiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 pełna szklanka i 2 łyżki mąki pszennej
@@ -86,4 +86,4 @@ W ten sposób przygotuj sobie wszystkie naleśniki z kurczakiem.
 Naleśniki z kurczakiem zalecam przed podaniem zapiec w piekarniku lub też podsmażyć na patelni. Ja swoje naleśniki podsmażyłam na patelni z dodatkiem odrobiny masła. Podałam je ze świeżym, siekanym pomidorem i ziołami.
 
 Naleśniki podsmażone na patelni lub zapieczone w papierniku będą nie tylko bardziej chrupiące. Ser żółty, który znajduje się w farszu będzie się ciągnął podczas jedzenia a cały farsz będzie lepiej związany.
---
+

@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 👥 4 porcje
 
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/dania_z_grilla/losos_teriyaki/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 filety z łososia, po ok. 200 g
@@ -45,4 +45,4 @@ Brak zdjęcia przepisu 🍲
 Łososia ułożyć skórką do dołu na grillu (lub patelni grillowej) i grillować przez około 8 minut, aż mięso będzie wysmażone do 2/3 wysokości filetu, a skórka będzie chrupiąca. Następnie przewrócić na drugą stronę i grillować jeszcze przez około 2 minuty.
 
 Zdjąć skórkę z filetów, polać ciepłym sosem teriyaki i posypać zrumienionym sezamem.
---
+

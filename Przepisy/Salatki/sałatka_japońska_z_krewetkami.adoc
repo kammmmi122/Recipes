@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 5 krewetek
@@ -46,4 +46,4 @@ Krewetki ugotować na parze. Marchewkę, kalarepkę i ogórka obrać i pokroić 
 Na talerzach ułożyć posiekaną sałatę, dodać awokado, marchewkę, ogórka oraz krewetki.
 
 Wymieszać śmietankę i sos sojowy, polać po sałatce. Posypać posiekanym szczypiorkiem.
---
+

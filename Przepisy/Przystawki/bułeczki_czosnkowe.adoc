@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -27,10 +27,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/buleczki-czosnkowe[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2,5 szklanki mąki pszennej np. tortowej - 400 g
@@ -61,4 +61,4 @@ Wyrośnięte bułeczki (posmarowane mlekiem i żółtkiem lub też nie) natnij w
 Zacznij nagrzewać piekarnik. Ustaw opcję pieczenia góra/dół i temperaturę 190 stopni lub 180 stopni z termoobiegiem. Gotową blaszkę z bułkami umieść na środkowej półce w dobrze nagrzanym piekarniku. Bułeczki czosnkowe piecz tak około 20 minut. Upieczone bułki są wyrośnięte i rumiane. Po upieczeniu uchyl drzwi piekarnika na 5 minut, a następnie wyjmij blaszkę z upieczonymi bułkami.
 
 Bułki czosnkowe można kroić po całkowitym przestudzeniu. Jeśli bułeczki czosnkowe nie zostaną zjedzone w dniu pieczenia, polecam zawinąć je w papier śniadaniowy, a następnie luźno w torbę spożywczą przezroczystą i trzymać w szafce, w suchym i chłodnym pomieszczeniu.
---
+

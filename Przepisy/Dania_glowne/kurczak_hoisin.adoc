@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g filetu z kurczaka
@@ -62,4 +62,4 @@ Wytrzeć patelnię ręcznikiem papierowym z resztek oleju ze smażenia, włoży�
 Podgrzewać przez ok. 1 - 2 minuty, następnie przesunąć mięso na bok a w wolne miejsce wlać sos hoisin (wymieszać wcześniej jego składniki).
 
 Zagotować a następnie połączyć z mięsem i co chwilę mieszając zagotować jeszcze wszystko razem. Podawać posypując lekko zrumienionym sezamem.
---
+

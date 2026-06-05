@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 800 g łopatki wieprzowej
@@ -80,4 +80,4 @@ Na koniec możesz jeszcze zagęścić sos pomidorowy dodając płaską łyżkę 
 Gołąbki bez zawijania podaję z ziemniakami lub kluskami śląskimi. Kopytka oraz makaron lub kasza gryczana też pasują. W sezonie na świeże pomidory bardzo często dodaję je do sosu na sam koniec lub też bezpośrednio na talerz przed podaniem. Polecam też ogórki kiszone i małosolne. Całość posyp też koperkiem, szczypiorkiem lub natką pietruszki. 
 
 Aby zrobić gołąbki bez zawijania w piekarniku wystarczy, że po podsmażeniu na patelni kotlecików gołąbkowych ułożysz je jeden obok drugiego w dużym naczyniu żaroodpornym. Gołąbki zalej sosem pomidorowym. Sos pomidorowy to: 2 szklanki bulionu; 2 szklanki przecieru pomidorowego; 4 łyżki koncentratu; 4 łyżki śmietanki słodkiej 30 %, po łyżeczce soli i oregano oraz pół łyżeczki pieprzu. Gołąbki bez zawijania umieść na środkowej półce w piekarniku nagrzanym do 180 stopni. Ustaw opcję pieczenia góra/dół. Naczynie z gołąbkami piecz bez przykrycia przez około 35 minut.
---
+

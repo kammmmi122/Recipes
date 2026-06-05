@@ -2,25 +2,25 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240822_190210.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 50 minut
 
 [.recipe-details-item]
 👥 2 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Klopsy:
@@ -47,12 +47,12 @@ image::20240822_190210.jpg[]
 Mięso mielone w temperaturze pokojowej przenieść do miski. Dodać pieprz, sól, pokrojoną w kostkę cebulę, jajko i łyżkę bułki tartej. uformować klopsy. Opanierować w bułce tartej. Usmażyć klopsy na rozgrzanym oleju.
 
 Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, śmietanę i natkę pietruszki. Całość wymieszać.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240822_190210.jpg[]
---
+

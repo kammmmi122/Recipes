@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20231006_223932.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas pieczenia spodu: 20 minut (lub do zarumienienia brzegów): 180°C, górna i dolna grzałka, środkowa półka piekarnika
 
@@ -20,10 +20,10 @@ image::20231006_223932.jpg[]
 [.recipe-details-item]
 🔗 https://www.youtube.com/watch?v=-CXjNP2rEU0[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Masa serowa:
@@ -118,13 +118,13 @@ Minęło półtorej godziny w sumie pieczenia się sernika.
 Ja teraz wyłączam całkowicie piekarnik, bo sernik bez otwierania piekarnika musi sobie teraz powoli ostygnąć.
 
 Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie bez pękania.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20231006_223932.jpg[]
 image::/Recipes/static/images/20231014_215500.jpg[]
---
+

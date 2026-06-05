@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://zakochanewzupach.pl/zupa-fasolowa-tradycyjna-z-boczkiem-i-kielbasa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 puszka białej fasoli
@@ -55,4 +55,4 @@ Na suchej patelni lekko rumienimy pokrojony w kosteczkę boczek i kiełbaskę.
 Do zupy dodajemy fasolkę z puszki, łyżkę majeranku i podsmażony z kiełbasą boczek. Chwilę gotujemy, zestawiamy z kuchenki. W razie konieczności doprawiamy solą i pieprzem.
 
 Zupę podajemy ze świeżo posiekaną natką pietruszki.
---
+

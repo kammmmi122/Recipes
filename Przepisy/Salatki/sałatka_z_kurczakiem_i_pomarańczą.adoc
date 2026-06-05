@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 pomarańcze
@@ -57,4 +57,4 @@ Orzechy lekko zrumienić na patelni, grubo posiekać.
 Suszone pomidory wyjąć z zalewy i pokroić na cienkie paseczki.
 
 Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszone pomidory, polać pozostałym sosem.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-ogorkowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 łyżka masła
@@ -50,4 +50,4 @@ Dodać obrane i pokrojone w kosteczkę ziemniaki i gotować przez ok. 10 minut.
 Dodać starte na tarce obrane ogórki oraz 1/2 szklanki soku z kiszonych ogórków (zalewy) jeśli mamy. Gotować przez ok. 10 minut. Odstawić z ognia.
 
 Dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z 2 łyżkami wody, potem z kilkoma łyżkami wywaru).
---
+

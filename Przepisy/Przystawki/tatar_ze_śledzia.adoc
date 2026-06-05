@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20231216_212653.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 15 minut
 
@@ -20,10 +20,10 @@ image::20231216_212653.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/ryby_i_owoce_morza/sledzie/tatar_ze_sledzia/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 filety śledziowe (np. w oleju lub marynowane w occie lub wypłukanych z soli)
@@ -48,12 +48,12 @@ Filety marynowane w occie dokładnie osuszyć papierowym ręcznikiem, filety w o
 Posiekać też marynowane papryczki jalapeño, marynowane podgrzybki i cebulkę, szczypiorek, wszystko wymieszać ze śledziami.
 
 Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na talerzyki. Udekorować listkiem natki lub posiekanym szczypiorkiem, ewentualnie grzybkiem marynowanym.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20231216_212653.jpg[]
---
+

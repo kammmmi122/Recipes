@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://kuchnialidla.pl/zielone-curry-z-groszkiem-cukrowym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * pieprz biały - 1 szczypta
@@ -54,4 +54,4 @@ Pieczarki kroimy w ćwiartki i podsmażamy na rozgrzanym maśle. Dodajemy drobno
 Do curry dodajemy podsmażonego kurczaka i surowy groszek. Doprawiamy solą, pieprzem, cukrem, otartą skórką i sokiem z limonki. Posypujemy posiekanym szczypiorkiem.
 
 Podajemy z ugotowanym ryżem jaśminowym.
---
+

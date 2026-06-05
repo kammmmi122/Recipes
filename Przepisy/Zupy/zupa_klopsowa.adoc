@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.doradcasmaku.pl/przepis-zupa-klopsowa-z-koperkiem-i-ziemniakami-310942[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * mięso mielone 0,5 kg (z łopatki)
@@ -59,4 +59,4 @@ Dodajemy resztę warzyw : potartą marchewkę i pietruszkę oraz por w całości
 Na samym końcu dodajemy przyprawy : sól, pieprz, ziele angielskie, majeranek oraz czosnek. Dodajemy także posiekany koperek oraz szklankę śmietany kremówki. Zagotowujemy zupę i podajemy gorącą.
 
 Zupkę klopsową serwujemy gorącą, przybraną listkiem świeżej mięty.
---
+

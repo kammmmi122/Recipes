@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kuchnia-domowa.pl/przepisy/zupy/474-zupa-grzybowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g świeżych lub mrożonych grzybów (np. prawdziwki, podgrzybki, zajączki, maślaki, kozaki)
@@ -53,4 +53,4 @@ Grzyby z cebulą przełożyć do niedużego garnka, dodać marchewkę i zalać g
 Pod koniec dodać natkę pietruszki. Doprawić śmietaną, solą i pieprzem do smaku.
 
 Podawać z ugotowanym makaronem.
---
+

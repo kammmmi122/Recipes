@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240823_130756.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas wyrastania ciasta: 1 godzina 30 minut
 
@@ -23,10 +23,10 @@ image::20240823_130756.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 35 g drożdży świeżych lub około 10 g drożdży suszonych
@@ -81,13 +81,13 @@ Bułki cynamonowe piekę w dwóch turach. Pierwszą szufladę umieszczam na śro
 Cynamonki można wyjmować z piekarnika od razu po upieczeniu. Po chwili polecam przełożyć je na kratkę do studzenia wypieków. Tak samo upiecz drugą szufladę bułeczek cynamonowych.
 
 Bułeczki cynamonowe można po przestudzeniu polukrować.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240823_130756.jpg[]
 image::/Recipes/static/images/20240823_130801.jpg[]
---
+

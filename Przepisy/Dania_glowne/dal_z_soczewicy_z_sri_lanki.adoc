@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 10 minut + 20 minut czekania
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 350 g soczewicy czerwonej / 2 szklanki
@@ -54,4 +54,4 @@ Do garnka z soczewicą dodać kokosowe mleko, pół łyżeczki soli, doprowadzi�
 Suszone liście curry kupicie w Kuchniach Świata oraz każdym sklepie z żywnością orientalną. Odsyłam też do internetu, na allegro kupicie je za mniej niż 10 złotych wraz z dostawą. Mieszkańcy i mieszkanki Warszawy mogą też zaopatrzyć się za kilka złotych w świeże liście curry, sprzedaje je na Hali Mirowskiej Pan Darek w budce numer 17. Świeże liście curry są bardziej aromatyczne i wytrzymają w lodówce nawet 2 tygodnie.
 
 Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywnością orientalną lub w dobrze zaopatrzonych delikatesach. Najprościej jednak jest zamówić je na Vegepacku, gdzie można za jednym zamachem kupić wszystkie na raz.
---
+

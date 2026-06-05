@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-krem-marchewkowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 łyżka masła
@@ -53,4 +53,4 @@ Później obraną i pokrojoną na cienkie plasterki marchewkę i obrane i pokroj
 Zalać gorącym bulionem, dodać przyprawy (kurkumę i curry) i zagotować, przykryć pokrywą i gotować ok. 15 minut do miękkości warzyw.
 
 Dodać mleko i zmiksować na krem.
---
+

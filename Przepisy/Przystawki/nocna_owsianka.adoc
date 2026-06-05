@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20260110_233721.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 15 minut
 
@@ -23,10 +23,10 @@ image::20260110_233721.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/nocna-owsianka[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Owocowa
@@ -58,12 +58,12 @@ Kolejno dodaj też 2 łyżki jogurtu naturalnego, czyli do 30 gramów i odżywk�
 Słoik z nakrętką umyj dokładnie i osusz. Pojemność około 450 ml.
 Do słoika daj pół garści orzechów np. nerkowca (włoskie, pekan), czyli około 20 gramów oraz 70 gramów płatków owsianych błyskawicznych, czyli około 7 płaskich łyżek. Wlej 200 ml mleka. Mleko może być wrzące lub gorące, albo zimne. Jeśli wlewasz wrzątek, to poczekaj około 10 minut, zanim dodasz resztę składników.
 Na koniec jeszcze 2 łyżeczki kremu orzechowego i odżywkę białkową. Całość zamieszaj. Posyp z wierzchu orzechami nerkowca.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20260110_233721.jpg[]
---
+

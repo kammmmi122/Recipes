@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Na chili:
@@ -63,4 +63,4 @@ Przykryć i dusić przez około 20 na umiarkowanym ogniu, co jakiś czas zamiesz
 Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeby dolać odrobinę wody.
 
 Nagrzać piekarnik do 180 stopni C. Na cukinie wyłożyć sporą łyżkę sosu i posypać serem. Zapiec przez 10 minut.
---
+

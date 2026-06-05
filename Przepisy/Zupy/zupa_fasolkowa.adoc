@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 łyżka oliwy
@@ -54,4 +54,4 @@ Dodać obraną i pokrojoną na cienkie plasterki marchewkę oraz pietruszkę wym
 Wlać gorący bulion, doprawić solą i pieprzem, dodać kurkumę i zagotować. Przykryć i gotować przez ok. 15 minut. W połowie gotowania dodać opłukaną na sitku (i rozmrożoną jeśli używamy mrożonej) zieloną fasolkę.
 
 Odstawić z ognia i dodać posiekany koperek oraz śmietanę (gęstą z kubka należy wcześniej zahartować kilkoma łyżkami zupy, natomiast słodką śmietankę z kartonika można wlać bezpośrednio do zupy).
---
+

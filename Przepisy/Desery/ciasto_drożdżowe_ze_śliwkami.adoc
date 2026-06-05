@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240820_080313.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2 godziny
 
@@ -20,10 +20,10 @@ image::20240820_080313.jpg[]
 [.recipe-details-item]
 🔗 https://ilovebake.pl/przepis/ciasto-drozdzowe-ze-sliwkami [link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Składniki na ciasto drożdżowe:
@@ -56,13 +56,13 @@ Mąkę przesiewamy do dużej miski, dodajemy suche drożdże lub zaczyn ze świe
 Wszystkie składniki na kruszonkę łączymy, aż powstaną grudki. Śliwki kroimy i pozbywamy się pestek.
 
 Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnięte ciasto, wyrównujemy. Układamy śliwki, jedną obok drugiej miąższem do góry. Obsypujemy kruszonką i owijamy folią, zostawiamy na ok. 30 minut do napuszenia. Pieczemy w temp. 180 C przez ok. 50 minut do zarumienienia wierzchu.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240820_080313.jpg[]
 image::/Recipes/static/images/20240820_080359.jpg[]
---
+

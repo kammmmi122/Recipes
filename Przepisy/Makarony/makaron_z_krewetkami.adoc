@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g mrożonych krewetek
@@ -55,4 +55,4 @@ Dodać pokrojone na ćwiartki pomidorki koktajlowe oraz natkę pietruszki. Wymie
 Wlać śmietankę i zagotować. Gotować przez ok. 1 minutę aż sos zgęstnieje, doprawić świeżo zmielonym pieprzem oraz solą w razie potrzeby.
 
 Dodać odcedzony makaron i wszystko razem podgrzać.
---
+

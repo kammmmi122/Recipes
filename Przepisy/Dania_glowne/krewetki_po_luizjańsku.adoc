@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * ok. 375 g krewetek
@@ -53,4 +53,4 @@ Dodać 1 łyżkę masła, słodki sos chili, sos worcestershire, bulion, sok z c
 Do sosu dodać krewetki i gotować przez ok. 1 minutę, doprawić szczyptą soli i pieprzem (przed posoleniem sprawdzić czy sos nie jest już wystarczająco słony). Przewrócić na drugą stronę i powtórzyć gotowanie przez 1 minutę.
 
 Dodać pozostałą łyżkę masła, roztopić i wymieszać. Posypać posiekaną natką pietruszki i podawać z pokrojoną bagietką.
---
+

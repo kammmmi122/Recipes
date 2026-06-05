@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: do 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.jadlonomia.com/przepisy/na-przednowku-czyli-ulubione-curry-z[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * Składniki na curry:
@@ -62,4 +62,4 @@ Następnie dodać kalafiora i ziemniaka, wszystko delikatnie, ale bardzo dokład
 W międzyczasie przygotować ryż. Do niedużego garnka dodać wszystkie składniki, garnek przykryć i gotować na małym ogniu przez 5 minut. Potem wyłączyć ogień i pozostawić ryż w garnku kolejne 15 minut - w tym czasie wchłonie wodę i będzie puszysty.
 
 Gotowe curry spróbować, dosolić do smaku i ewentualnie dodać kilka kropel soku z cytryny. Podawać bardzo gorące, z cynamonowym ryżem.
---
+

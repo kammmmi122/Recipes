@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-krem-grzybowa-z-suszonych-grzybow[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 70 g grzybów suszonych (borowików i/lub podgrzybków)
@@ -57,4 +57,4 @@ Po zagotowaniu zmniejszyć ogień i gotować pod przykryciem przez ok. 20 minut 
 Odstawić z ognia i zmiksować z dodatkiem oderwanych listków natki pietruszki oraz śmietanki.
 
 Zupę można zawekować (wlać gorącą do słoików) i po ostudzeniu przechować przez kilka dni w lodówce. Lub też od razu podawać z grzankami (chleb pokroić w małą kosteczkę, rozłożyć na blaszce i suszyć w piekarniku nagrzanym do 160 stopni C, aż będzie chrupiący).
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minuty
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg wieprzowiny łopatka, karkówka lub polędwiczka wieprzowa
@@ -62,4 +62,4 @@ Następny etap polega na pieczeniu wieprzowiny i smarowaniu jej 3 razy glazurą.
 Kolejny raz otworzyć piekarnik, posmarować wieprzowinę glazurą i piec przez kolejne 5 minut.
 Ostatni raz otworzyć piekarnik i posmarować wieprzowinę glazurą. Piec ostatnie 5-7 minut, do momentu w którym glazura zastygnie na mięsie.
 Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Dopiero po tym czasie możemy kroić mięso na cienkie plasterki.
---
+

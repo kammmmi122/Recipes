@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 kostki rosołowe
@@ -66,4 +66,4 @@ Teraz czas na grzanki - kromki chleba pokrój w niedużą kostkę. W misce wymie
 Grzanki podsmaż na patelni na złoty kolor.
 
 Zupę z serków topionych posyp grzankami, posiekaną natką pietruszki i szczypiorkiem.
---
+

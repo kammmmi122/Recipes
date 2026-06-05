@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 400 g fety (dwa kawałki po 200 g)
@@ -48,4 +48,4 @@ Dno naczynia żaroodpornego smarujemy oliwą, układamy fetę w cieście filo i 
 Zapiekamy w 220 stopniach bez termoobiegu przez 20 minut.
 
 Podajemy od razu po upieczeniu obficie skropione miodem.
---
+

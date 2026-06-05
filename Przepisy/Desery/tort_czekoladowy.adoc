@@ -2,22 +2,22 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240511_114709.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🔗 https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 jajka (rozmiar L) o temp. pokojowej
@@ -53,13 +53,13 @@ Dzień wcześniej śmietankę mocno podgrzewamy, następnie dodajemy kawałki cz
 Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast boki smarujemy lekko masłem i oprószamy bułką tartą lub kaszką manną. Jajka mieszamy z cukrem, maślanką oraz olejem. Do miseczki przesiewamy mąkę, sodę, proszek do pieczenia oraz kakao. Wlewamy mokre składniki, dodajemy sól i delikatnie mieszamy trzepaczką. Na koniec wlewamy gorący napar z kakao i mieszamy do połączenia. Wylewamy ciasto do formy i pieczemy w temp. 175ºC przez ok. 50 - 65 minut do tzw. suchego patyczka. Po upieczeniu studzimy i przekrawamy na trzy części.
 
 Śmietankę miksujemy razem z mascarpone oraz masłem orzechowym na gęsty krem, następnie dodajemy przesiany cukier puder. Wykładamy połowę kremu na blat ciasta, przykrywamy drugim i dalej druga część kremu i ostatni krążek ciasta. Wkładamy do lodówki na minimum kilka godzin, a najlepiej na całą noc. Przed podaniem wykonujemy polewę. Śmietankę mocno podgrzewamy i dodajemy kawałki czekolady. Dokładnie mieszamy do rozpuszczenia i wylewamy na wierzch ciasta. Dekorujemy posypką czekoladową lub startą czekoladą.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240511_114709.jpg[]
 image::/Recipes/static/images/20240511_114847.jpg[]
---
+

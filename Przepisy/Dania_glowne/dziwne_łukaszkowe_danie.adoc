@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 piersi z kurczaka
@@ -51,4 +51,4 @@ Piersi z kurczaka naciąć na środku tworząc dziurę. Oprószyć przyprawami. 
 Zesmażyć pocięty w kostkę boczek. Przygotować farsz, mieszając wszystkie składniki razem.
 
 Wyjąc kulkę z folii i dodać do środka farsz. Na górę dodać żółtko i tarty ser. Zapiec w piekarniku rozgrzanym do 180 stopni C przez 10 minut.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/papryka-faszerowana-mielonym-miesem-i-ryzem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 papryki
@@ -57,4 +57,4 @@ Piekarnik nagrzać do 200 stopni C. Papryki przekroić na połówki (postawić p
 Wstawić do piekarnika, do naczynia wlać ok. 1/2 szklanki wody i piec przez 35 minut.
 
 Na każdej papryce położyć plasterek sera lub starty ser i zapiekać jeszcze przez ok. 5 - 10 minut, aż ser będzie roztopiony lub również zrumieniony.
---
+

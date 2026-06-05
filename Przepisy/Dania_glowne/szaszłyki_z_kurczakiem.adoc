@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 4 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g pieczarek
@@ -42,4 +42,4 @@ Pokroić boczek, pieczarki, cebulę i paprykę na kawałki
 Na przemian nadziewać patyczki od szaszłyków mięsem i warzywami
 
 Piec 20 minut w 180 stopniach C.
---
+

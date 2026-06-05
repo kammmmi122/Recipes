@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20231209_214411.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -20,10 +20,10 @@ image::20231209_214411.jpg[]
 [.recipe-details-item]
 📝 źródło przepisu: zeszyt mamy
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Ciasto:
@@ -55,14 +55,14 @@ Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego p
 Ubić na sztywno 6 białek. Dodać 3/4 szklanki cukru i kontynuować ubijanie. Do ubitych białek dodać wiórki kokosowe i delikatnie wymieszać.
 
 Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20231209_214411.jpg[]
 image::/Recipes/static/images/20231210_184314.jpg[]
 image::/Recipes/static/images/20231210_184321.jpg[]
---
+

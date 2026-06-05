@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 4 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/flaki[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg wołowiny - np. szponder plus karczek
@@ -57,4 +57,4 @@ Bulion zostaw w garnku. Dodaj do niego obgotowane flaki. W garnku umieść też:
 Po minimum 30 minutach gotowania (w zależności od tego jak długo trzeba jeszcze gotować flaczki) do garnka dodaj odłożone z wywaru mięso oraz pokrojone warzywa. Zamieszaj flaki i sprawdź ich smak. W tym momencie możesz zdecydować, ile dodasz do nich soli oraz pierzu. Jeśli chcesz je dosolić, to zacznij od połowy łyżeczki. Dobrze wymieszaj flaki, sprawdź ich smak i dopiero wtedy dodaj ewentualnie trochę więcej soli. Jeśli dodajesz pieprz, to zacznij od 1/4 płaskiej łyżeczki. Po ponownym zagotowaniu flaki są już gotowe do podania.
 
 Do flaków można też na koniec dodać zasmażkę (do flaków pokazanych na zdjęciach nie szykowałam zasmażki). Na małej patelni umieszczasz 5 łyżek masła (do 80 g). Gdy tłuszcz się roztopi dodajesz pięć łyżek mąki (do 70 g) i od razu mieszasz zawartość patelni przy pomocy drewnianej łyżki. Gdy tłuszcz z mąką zacznie się pienić przelewasz całość do garnka z gotującą się zupą. Flaki od razu mieszasz i czekasz, aż ponownie się zagotują. Po 2-3 minutach można je wyłączyć. Zasmażkę można wzbogacić o pokrojoną w drobną kostkę cebulę. Na patelnię z masłem dodaj wówczas dodatkowe dwie łyżki oleju do smażenia. Cebulkę podsmażaj kilka minut do lekkiego zarumienienia, i dopiero dodawaj mąkę.
---
+

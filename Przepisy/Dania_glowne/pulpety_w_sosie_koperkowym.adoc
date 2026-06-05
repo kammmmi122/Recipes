@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 mała czerstwa bułka (np. kajzerka)
@@ -57,4 +57,4 @@ Zmniejszyć ogień do minimum i gotować powoli, na małym ogniu, pod przykrycie
 W razie potrzeby można zagęścić sos mąką, którą przesiewamy przez sitko, bezpośrednio do wywaru. Możemy też rozprowadzić mąkę najpierw z 2 łyżkami wody, później dodać kilka łyżek wywaru i po wymieszaniu wszystko wlać do garnka z pulpecikami, następnie zagotować.
 
 Na koniec dodać posiekany koperek i odstawić z ognia.
---
+

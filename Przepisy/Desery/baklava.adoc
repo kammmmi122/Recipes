@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20250724_215629.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -20,10 +20,10 @@ image::20250724_215629.jpg[]
 [.recipe-details-item]
 🔗 https://mojewypieki.com/przepis/baklawa-baklava[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * około 500 g ciasta filo (2 opakowania, czyli około 24 płaty), jeśli kupne płaty filo są większe, należy je przyciąć do rozmiarów foremki (podzielić na pół)
@@ -51,12 +51,12 @@ Ostrym nożem (może być z piłką) pokroić ciasto w romby, kwadraty lub trój
 Piec w temperaturze 140°C przez około 2 godziny, do zezłocenia ciasta. Wyjąć i gorące jeszcze ciasto polać równomiernie wystudzonym syropem. Ozdobić drobno posiekanymi pistacjami. Odstawić do przestudzenia.
 
 Bakława (Baklava) jest najlepsza na drugi lub trzeci dzień.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20250724_215629.jpg[]
---
+

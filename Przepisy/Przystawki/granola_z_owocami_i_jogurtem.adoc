@@ -2,25 +2,25 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20241225_131152.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 15 minut
 
 [.recipe-details-item]
 👥 2 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g granoli
@@ -33,12 +33,12 @@ image::20241225_131152.jpg[]
 [.recipe-column-box]
 === Przygotowanie
 Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20241225_131152.jpg[]
---
+

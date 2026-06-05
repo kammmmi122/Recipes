@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 10 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 250 g pszennego makaronu orientalnego np. Mie, Chow Mein
@@ -62,4 +62,4 @@ Wymieszać składniki sosu: sos sojowy, miód, sos chili, ocet ryżowy i wlać d
 Dodać makaron i chwilę razem podsmażać.
 
 Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem sezamowym).
---
+

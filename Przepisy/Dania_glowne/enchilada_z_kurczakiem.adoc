@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 5 dużych tortilli
@@ -72,4 +72,4 @@ Czosnek obrać i przekroić na pół. Włożyć do rondelka z oliwą i chwilę p
 Rozłożyć farsz na tortille, posypać połową sera i listkami kolendry, zwinąć w ruloniki.
 
 Piekarnik nagrzać do 180 stopni C. W formie lub na blaszce ułożyć zwinięte tortille łączeniem do dołu, polać sosem i posypać drugą połową sera. Zapiekać przez 20 minut. Posypać kolendrą i posiekanym chili.
---
+

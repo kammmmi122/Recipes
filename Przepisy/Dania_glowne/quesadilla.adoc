@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 300 g filetu z kurczaka
@@ -57,4 +57,4 @@ Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć place
 Podgrzaną z jednej strony quesadillę przełożyć na drugą stronę* i ponownie podsmażyć na maśle do zrumienienia. Powtórzyć z pozostałymi dwoma plackami tortilli i drugą połową farszu.
 
 Podgrzane quesadille kroić nożem na kawałki jak pizzę, podawać z wybranymi dodatkami.
---
+

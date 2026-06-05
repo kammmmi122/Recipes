@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1,5 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g ugotowanego mięsa z rosołu
@@ -51,4 +51,4 @@ Gotowe pierogi układać na stolnicy lub blacie podsypanych mąką. Przykryć ś
 W dużym garnku zagotować osoloną wodę, i jak będzie mocno wrzała, włożyć pierwszą partię pierogów. Po ponownym zagotowaniu zmniejszyć ogień do średniego i gotować pierogi do miękkości ciasta.
 
 Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub odsmażać (ostudzone, wysuszone pierogi). Pierogi z wody można polewać roztopionym masłem a odsmażane posypać skwarkami i podawać z kwaśną śmietaną.
---
+

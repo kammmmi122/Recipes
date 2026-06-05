@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
@@ -61,4 +61,4 @@ Doprawić zmielonym pieprzem i solą. Gotować przez ok. 30 minut.
 Pod koniec dodać posiekany świeży koperek.
 
 Mięso wyjąć z zupy, usunąć skórę i kości, resztę pokroić na kawałki i włożyć z powrotem do zupy.
---
+

@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20251230_232429.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 10 minut
 
@@ -23,10 +23,10 @@ image::20251230_232429.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/skyrnik-z-morelami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 800 g Skyru naturalnego
@@ -51,12 +51,12 @@ Formę umieść mniej więcej na środkowej półce (lub o piętro niżej) w pie
 Przestudzony skyrnik umieść w lodówce pod kloszem na minimum cztery godziny, a najlepiej na całą noc. Idealną strukturę osiąga bowiem po schłodzeniu, jednak naprawdę bardzo dobry jest jeszcze lekko ciepły. Skyrnik może pod koniec wyrosnąć, ale podczas studzenia pewnie lekko opadnie.
 
 Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod przykryciem. Trzymany w chłodzie (6-10 stopni, w lodówce) świeżość zachowa przynajmniej przez tydzień.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20251230_232429.jpg[]
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/773-chrupiaca-quesadilla-z-szarpanym-kurczakiem-w-pikantnym-sosie-pomidorowym-adobo.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * ser cheddar (ok. 300 g)
@@ -84,4 +84,4 @@ Na patelni rozgrzewamy odrobinę masła klarowane i układamy na nim quesadillę
 Następnie odwracamy i przysmażamy z drugiej strony również do momentu aż tortilla stanie się rumiana.
 
 Zdejmujemy z patelni i rozkładamy na desce do krojenia. Quesadillę kroimy na trójkąty, tak jak robi się z to z pizzą.
---
+

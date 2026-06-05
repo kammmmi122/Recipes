@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -27,10 +27,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/zeberka-pieczone[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg żeberek wieprzowych
@@ -65,4 +65,4 @@ Blaszkę z żeberkami umieść w piekarniku na wyższej półce. Ustaw średnią
 Żeberka pieczone podawaj z warzywami z naczynia żaroodpornego. Część sosu możesz zlać do małego garnuszka i zagęścić odrobiną mąki pszennej lub skrobi ziemniaczanej. Do sosu możesz dodać jeszcze trochę chili lub też musztardy. 
 
 Żeberka podałam z domowymi frytkami po chłopsku oraz z surówkami z czerwonej i białej kapusty.
---
+

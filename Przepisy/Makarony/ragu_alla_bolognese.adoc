@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 3 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * oliwa z oliwek
@@ -61,4 +61,4 @@ Mleko podgrzewamy i dodajemy małymi partiami do sosu. Dokładnie mieszamy. Zost
 Ragu serwujemy z szerokim makaronem. Przed podaniem posypujemy parmezanem i opcjonalnie natką pietruszki lub posiekaną bazylią.
 
 Jeśli robicie ragu dzień wcześniej, przed podaniem podgrzejcie je. Jeśli będzie bardzo gęste, wówczas warto dodać odrobinę wody z gotowania makaronu, by rozluźnić sos.
---
+

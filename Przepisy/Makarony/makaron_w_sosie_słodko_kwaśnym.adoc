@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 4 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g piersi z kurczaka
@@ -49,4 +49,4 @@ Dodać sos do całości
 Ugotować makaron według instrukcji na opakowani.
 
 Zmieszać makaron i powstały sos.
---
+

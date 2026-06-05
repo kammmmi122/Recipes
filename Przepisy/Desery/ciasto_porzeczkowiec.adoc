@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240512_215751.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -20,10 +20,10 @@ image::20240512_215751.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/ciasto-porzeczkowiec[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3/4 szklanki oleju roślinnego
@@ -74,13 +74,13 @@ Schłodzoną śmietankę ubić z cukrem pudrem. Dodać śmietan-fix i zmiksować
 Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 
 *  likieru amaretto lub sangrii lub czerwonego wina słodkiego lub posłodzonego wytrawnego (lub herbaty w wersji bezalkoholowej)
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240512_215751.jpg[]
 image::/Recipes/static/images/20240512_223800.jpg[]
---
+

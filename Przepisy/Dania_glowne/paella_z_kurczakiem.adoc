@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.uwielbiamgotowac.com/2017/01/paella-z-kurczakiem.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 300 g ryżu (do paelli lub risotto, arborio)
@@ -55,4 +55,4 @@ Na drugiej patelni na łyżce oleju obsmażam kurczaka oprószonego solą, piepr
 Zrumienione mięso dodaję do ugotowanego ryżu (po tych 12 minutach duszenia). Dodaję koncentrat pomidorowy i osączoną z zalewy kukurydzę. Doprawiam do smaku. Dokładnie mieszam.
 
 Potrawę podaję w naczyniu, w których została przygotowana. Przed podaniem posypuję posiekaną natką pietruszki.
---
+

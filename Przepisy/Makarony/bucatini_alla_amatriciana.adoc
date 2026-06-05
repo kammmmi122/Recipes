@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.chilliczosnekioliwa.pl/2022/01/bucatini-all-amatriciana.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 150 g guanciale - wędzonego podgardla (można zamienić na pancettę)
@@ -57,4 +57,4 @@ W międzyczasie zagotuj duży garnek osolonej wody. Wrzuć do niego bucatini i g
 Gdy sos zgęstnieje, wrzuć do niego makaron razem z wodą z gotowania i szybko mieszaj, aby dokładnie obtoczył się sosem. Gotuj przez ok. 2 minuty.
 
 Makaron przełóż na talerze i posyp startym serem Pecorino. Jeśli chcesz możesz go udekorować listkami bazylii lub natki pietruszki. Podawaj od razu.
---
+

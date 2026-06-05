@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20260115_185756.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -20,10 +20,10 @@ image::20260115_185756.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/placki-ziemniaczane[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1/2 kg ziemniaków
@@ -42,12 +42,12 @@ Ziemniaki i cebulę obrać i zetrzeć na tarce o małych oczkach bezpośrednio d
 W międzyczasie odlewać zbierający się sok, delikatnie przytrzymując masę, nadal ich nie mieszać. Na koniec docisnąć dłonią do miski i odlać jeszcze więcej soku. Dodać mąkę, jajko oraz dwie szczypty soli.
 
 Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porcje masy (2 łyżki) na rozgrzany olej i rozprowadzać ją na dość cienki placek. Smażyć na średnim ogniu przez ok. 2 - 3 minuty na złoty kolor, przewrócić na drugą stronę i powtórzyć smażenie.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20260115_185756.jpg[]
---
+

@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20241228_223850.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2h
 
@@ -20,10 +20,10 @@ image::20241228_223850.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1/2 kg surowego boczku lub podgardla
@@ -58,12 +58,12 @@ Następnie dodać żółtka, świeżo zmielony pieprz, gałkę muszkatołową i 
 Dwie wąskie i podłużne formy o długości 30 cm wysmarować smalcem, boki i dno wyłożyć plasterkami słoniny. Posypać bułką tartą. Wyłożyć masę mięsną, dobrze docisnąć, aby nie pozostały wewnątrz pęcherze powietrza.
 
 Wstawić do nagrzanego do 190 stopni C piekarnika i piec przez ok 1,5 godziny. Ostudzić. Można trzymać w lodówce lub część pasztetu zamrozić.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20241228_223850.jpg[]
---
+

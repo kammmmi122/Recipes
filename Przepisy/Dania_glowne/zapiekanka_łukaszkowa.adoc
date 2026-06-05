@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina 40 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * cebula - 1 szt.
@@ -73,4 +73,4 @@ Do uduszonego mięsa dodajemy podsmażone warzywa i pieczarki. Dodajemy ciecierz
 Masę mięsno-warzywną przekładamy do naczynia żaroodpornego, rozprowadzamy równomiernie i wyrównujemy.
 
 Na wierzch wykładamy purée, które również rozprowadzamy po całej powierzchni i lekko dociskamy. Pieczemy ok. 20-30 minut w piekarniku rozgrzanym do temperatury 180°C. Po tym czasie zapiekankę posypujemy z wierzchu serem startym na tarce o grubych oczkach i zapiekamy przez kolejne 20 minut.
---
+

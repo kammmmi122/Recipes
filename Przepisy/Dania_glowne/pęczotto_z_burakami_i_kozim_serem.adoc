@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * wino białe - 100 ml
@@ -52,4 +52,4 @@ Całość zalewamy winem. Odparowujemy, mieszając.
 Gdy wino odparuje, zalewamy kaszę pierwszą porcją bulionu. Gotujemy, cały czas mieszając, aż płyn odparuje. Czynność powtarzamy, aż pęczak będzie ugotowany al dente - ten etap powinien trwać ok. 20 minut.
 
 Gotowe pęczotto przekładamy na talerze. Na wierzchu układamy kawałki koziego sera (lub sera feta) i listki ulubionych, świeżych ziół (np. pietruszki lub lubczyku).
---
+

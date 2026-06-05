@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240329_154743.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -20,10 +20,10 @@ image::20240329_154743.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/wielkanoc/zurek_na_zakwasie/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1,5 litra bulionu lub wywaru mięsnego
@@ -51,12 +51,12 @@ Zupę odstawić z ognia. Dodać śmietanę i doprawić w razie potrzeby solą or
 Wyjąć kiełbasę z zupy, pokroić ją na plasterki, włożyć z powrotem do garnka z zupą (część kiełbasy można upiec według wskazówek poniżej).
 
 Żurek podawać z ugotowanym jajkiem i pieczywem.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240329_154743.jpg[]
---
+

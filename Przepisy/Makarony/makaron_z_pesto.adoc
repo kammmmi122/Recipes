@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20241007_174207.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -20,10 +20,10 @@ image::20241007_174207.jpg[]
 [.recipe-details-item]
 🔗 https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 300 g makaronu
@@ -46,12 +46,12 @@ Przełóż orzeszki do wysokiego naczynia, dodaj do nich oliwę z oliwek, bazyli
 Za pomocą blendera zmiksuj całość na gładki sos, dopraw do smaku. Jeśli sos jest za gęsty - dodaj więcej oliwy, jeżeli za rzadki - dodaj bazylię lub parmezan.
 
 Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20241007_174207.jpg[]
---
+

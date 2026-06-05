@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * szalotka 3 szt.
@@ -62,4 +62,4 @@ Na patelni rozpuść 20 g masła. Dodaj krewetki, dopraw solą i smaż przez ok.
 Do risotto dodaj 150 g startego parmezanu i 100 g masła. Całość dobrze wymieszaj.
 
 Gotowe danie udekoruj krewetkami i orzeszkami pinii.
---
+

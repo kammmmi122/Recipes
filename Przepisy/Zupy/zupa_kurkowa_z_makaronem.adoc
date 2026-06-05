@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 37 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.winiary.pl/przepisy/zupa-kurkowa-z-makaronem-i-tymiankiem-zwz/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 30 dag świeże kurki
@@ -53,4 +53,4 @@ Kiedy cebula się zeszkli, dodajemy posiekany czosnek, a po chwili, gdy uwolni s
 Podlewamy kurki wrzącą wodą lub wywarem, dodajemy makaron, szczyptę soli i gotujemy do jego miękkości.
 
 Zabielamy zupę śmietanką. Na talerzach doprawiamy zupę kurkową z makaronem świeżo mielonym pieprzem i oprószamy listkami tymianku.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: do godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.jadlonomia.com/przepisy/seleryba[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg selera
@@ -48,4 +48,4 @@ Miękkie plastry selera delikatnie wyjąć i chwilę ostudzić. W tym czasie ark
 Każdy plaster selera oprószać solą i pieprzem, następnie owijać paskiem nori i na chwilę moczyć w mleku, dzięki temu wodorosty zmiękną i lepiej przylepią się do selera. Tak przygotowany plaster selera delikatnie zanurzać w mące.
 
 Na dużej patelni mocno rozgrzać olej i układać gotowe plastry selera. Obsmażać z każdej strony przez około 2 - 3 minuty, podawać z ziemniakami, surówką lub wigilijną kapustą.
---
+

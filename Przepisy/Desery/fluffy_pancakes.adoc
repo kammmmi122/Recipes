@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20251109_210923.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -20,10 +20,10 @@ image::20251109_210923.jpg[]
 [.recipe-details-item]
 🔗 https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 żółtka
@@ -50,13 +50,13 @@ W misie miksera ubić białka ze szczyptą soli. Kiedy będą sztywne zacząć d
 Większą łyżką (u mnie łyżka do lodów) odmierzać porcje ciasta i smażyć na nieprzywierającej patelni i na minimalnej ilości tłuszczu (oleju), z obu stron, na złoty kolor, koniecznie pod przykryciem (placuszki są wysokie i nie możemy pozwolić na to, by były niedopieczone). Smażyłam na niewielkiej mocy palnika, ale dłużej, by dobrze się wypiekły w środku, trzeba wyczuć czas i temperaturę rozgrzania swojej patelni.
 
 Puszyste japońskie placuszki podawać prosto z patelni, z ulubionymi owocami i syropem klonowym (odłożone do wystudzenia - nieco opadną).
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20251109_210923.jpg[]
 image::/Recipes/static/images/20251109_210926.jpg[]
---
+

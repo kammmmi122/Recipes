@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 6 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 półbagietki
@@ -41,4 +41,4 @@ Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki 
 Szynkę pokroić w kostkę
 
 Połbagietki przekroić na pół. Wysmarować ketchupem, nałożyć pieczarki z cebulą, szynkę i tarty ser. Piec 78 minut góra-dół i 5 minut na grillu.
---
+

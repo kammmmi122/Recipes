@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * tortille kukurydziane rozm. 18 cm
@@ -66,4 +66,4 @@ Zdejmujemy z patelni i dajemy chwilę odpocząć na desce (około 1 minuty) aby 
 Tak przygotowana quesadilla jest gotowa do podania.
 
 Można jeszcze przeciąć na pół lub w trójkąciki. Podawać z salsami np. pomidorową. Zobacz jak przygotować salsę pomidorową.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2,5 godziny
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 Gulasz węgierski:
@@ -86,4 +86,4 @@ Ziemniaki obrać i zetrzeć na tarce o małych oczkach. Zostawić je na ok. 5 mi
 Rozgrzać patelnię (śr. 20-22 cm), wlać 3 łyżki oleju. Wyłożyć całą masę ziemniaczaną na rozgrzany olej i rozprowadzić ją na równy placek. Smażyć na średnim ogniu przez ok. 4 minuty na złoty kolor, przewrócić na drugą stronę, dodać pozostałe 2 łyżki oleju i powtórzyć smażenie (ok. 3 minuty).
 
 Przełożyć na talerz, nałożyć gorący gulasz i złożyć na pół. Po wierzchu polać gęstą śmietaną i posypać natką.
---
+

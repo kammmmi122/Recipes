@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.winiary.pl/przepisy/soczyste-skrzydelka-z-miodem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg skrzydełek
@@ -41,4 +41,4 @@ Delikatnie obracając woreczek, równomiernie rozprowadź przyprawę na skrzyde�
 Włóż woreczek do żaroodpornego naczynia i wstaw do piekarnika rozgrzanego do temperatury 200°C. Piecz na najniższym poziomie około 50 minut.
 
 Po wyjęciu z piekarnika ostrożnie odetnij końcówkę z zapinką. Soczyste skrzydełka idealnie komponują się z sałatką Coleslaw i domowymi frytkami.
---
+

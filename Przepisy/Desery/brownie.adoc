@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g masła
@@ -52,4 +52,4 @@ Dodatkową czekoladę pokroić na kawałki i posypać po wierzchu ciasta.
 Wstawić do piekarnika i piec przez ok. 30 minut aż ciasto lekko urośnie. Jeśli używamy większej blaszki, ciasto będzie gotowe szybciej, jeśli mniejszej - czas pieczenia należy wydłużyć.
 
 Po upieczeniu i ostudzeniu pokroić na małe kawałeczki.
---
+

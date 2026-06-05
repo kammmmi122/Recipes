@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Fish
@@ -77,4 +77,4 @@ Rybę wyjmujemy, a na ten sam olej wrzucamy frytki - pamiętajcie - musi być mo
 
 Marynowane grzybki drobno posiekać na desce, obok w małą kosteczkę pokroić cebulę oraz ogórka, przez chwilę siekać jeszcze wszystkie składniki.
 Przełożyć do miseczki, dodać posiekany szczypiorek, natkę, majonez i sok z cytryny, wymieszać i doprawić pieprzem.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_francuska/zupa_cebulowa/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 900 g cebuli
@@ -53,4 +53,4 @@ Zwiększyć ogień, wlać wino i wymieszać cebulę drewnianą łyżką, zeskrob
 Piekarnik nagrzać do 220 stopni, ustawić kratkę na nieco wyższej półce niż połowa piekarnika. Bagietkę pokroić na kromki i opiec na złoty kolor z dwóch stron na tosterze lub w piekarniku, następnie grzanki delikatnie natrzeć przekrojonym ząbkiem czosnku.
 
 Do 4 małych żaroodpornych misek (lub do jednego większego garnka żaroodpornego lub naczynia) nalać gorącą zupę i przykryć grzankami, posypać tartym serem i ewentualnie posypać świeżym tymiankiem. Zapiekać przez około 5 minut aż ser się roztopi.
---
+

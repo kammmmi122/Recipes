@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20231119_165036.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -20,10 +20,10 @@ image::20231119_165036.jpg[]
 [.recipe-details-item]
 🔗 https://easyvege.pl/weganski-tatar[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Tatar:
@@ -71,12 +71,12 @@ Do miski z czerwonym płynem wsypujemy ekspandowane ziarno i mieszamy. Spróbujc
 Następnie do czerwonej masy dodajemy cebulę, czosnek, pomidory suszone i boczniaki. Mieszamy wszystko dokładnie i odstawiamy na blat, na ok. 20-30 minut.
 Teraz warto nastawić sobie przypomnienie w telefonie i co kilka minut mieszać tatara raz jeszcze. Każde kolejne mieszanie sprawi, że uzyskamy coraz lepszą konsystencję.
 Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawić na kilka godzin do lodówki. Najpyszniejszy będzie oczywiście na drugi dzień po przyrządzeniu.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20231119_165036.jpg[]
---
+

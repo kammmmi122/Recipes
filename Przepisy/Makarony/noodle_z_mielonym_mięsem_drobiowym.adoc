@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 łyżki oleju roślinnego
@@ -55,4 +55,4 @@ Przygotować sos mieszając wszystkie składniki: gorący bulion, pastę tahini,
 Do woka z mięsem i warzywami dodać ugotowany makaron i wymieszać.
 
 Wlać sos, wymieszać i podgrzać. Posypać szczypiorkiem i sezamem lub orzeszkami.
---
+

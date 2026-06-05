@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-grochowa-z-ziemniakami-i-kielbasa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 150 g grochu łuskanego połówki żółtego
@@ -50,4 +50,4 @@ Dodać obrane i pokrojone w kosteczkę ziemniaki oraz obraną i pokrojoną w kos
 Zalać gorącym bulionem i zagotować. Dodać ugotowany groch (wraz z pozostałą wodą z gotowania), doprawić pieprzem, wymieszać i w razie potrzeby doprawić solą.
 
 Przykryć i gotować przez ok. 15 minut do miękkości warzyw, pod koniec dodać posiekaną natkę pietruszki. Podawać z pieczywem.
---
+

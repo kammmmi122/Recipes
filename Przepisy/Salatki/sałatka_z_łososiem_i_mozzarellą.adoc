@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://smakowitedania.com/2018/04/salatka-z-rukola-wedzonym-lososiem-i-mozzarella-film.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 100 g rukoli
@@ -51,4 +51,4 @@ Do małej miseczki wlewamy oliwę z oliwek, dodajemy musztardę, miód oraz sok 
 Umyte pomidorki papryczkowe lub koktajlowe przekrawamy na pół. Ser mozzarella kroimy w większą kostkę. Czerwoną paprykę paprykę kroimy w kostkę. Wędzonego łososia kroimy w niewielkie kawałki ale niezbyt małe.
 Na płaskich talerzach układamy umytą i osuszoną rukolę, na rukoli umieszczamy połówki pomidorków, pokrojoną mozzarellę oraz paprykę a na wierzchu sałatki umieszczamy pokrojonego łososia.
 Sałatkę polewamy przygotowanym sosem i wstawiamy na pół godziny do lodówki.
---
+

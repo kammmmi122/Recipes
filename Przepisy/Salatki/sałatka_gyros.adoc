@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/salatka-gyros[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 pojedyncze filety kurczaka
@@ -55,4 +55,4 @@ Ogórki konserwowe pokroić w kosteczkę, kukurydzę odcedzić na sitku z zalewy
 Na większej patelni podgrzać olej, włożyć kurczaka i obsmażać na złoty kolor z każdej strony (w sumie ok. 10 minut). W trakcie smażenia doprawić mięso solą oraz pieprzem. Przełożyć na dno salaterki o średnicy 20 cm.
 
 Polać ketchupem, przykryć plasterkami czerwonej cebuli, następnie układać kolejne warstwy składników: ogórki, kukurydzę, pora, paprykę, majonez wymieszany ze śmietaną lub jogurtem, a na koniec przykryć posiekaną kapustą pekińską.
---
+

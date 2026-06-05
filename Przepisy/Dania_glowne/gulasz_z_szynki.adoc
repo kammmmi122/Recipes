@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg łopatki wieprzowej
@@ -64,4 +64,4 @@ Możesz zawsze lekko zagęścić gulasz przez dodanie do niego skrobi ziemniacza
 Zanim jednak wyłączysz gulasz, sprawdź jego smak. Być może wolisz bardziej słony gulasz i dodasz do niego trochę soli. Jeśli gulasz wieprzowy ma być ostrzejszy, to dodaj do niego więcej pieprzu lub chili. 
 
 Gulasz wieprzowy bardzo dobrze smakuje podany z kromką ulubionego pieczywa i ogórkiem kiszonym. Do gulaszy pasują również kasze: gryczana, pęczak, kuskus. Gulasz wieprzowy smakuje świetnie z tłuczonymi ziemniakami, kopytkami i kluskami śląskimi oraz surówką z białej lub czerwonej kapusty.
---
+

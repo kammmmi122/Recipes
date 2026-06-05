@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2,5 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://szefowakuchni.pl/przepis/pieczony-rosol/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * ulubione mięso na rosół (u mnie porcja drobiowa: 2 udka z kurczaka, 2 skrzydełka, korpus + 1 podudzie z indyka)
@@ -47,4 +47,4 @@ Na blaszce do pieczenia ułożyć mięso, oraz wszystkie warzywa (większe kawa�
 Po tym czasie mięso oraz warzywa przełożyć do dużego garnka, zalać wodą tak aby przykryć wszystkie składniki (u mnie 3,5 litra). Dodać liście laurowe, ziele angielskie, ziarenka pieprzu oraz łyżkę soli. Całość gotować na małym ogniu (rosół ma delikatnie pyrkać) przez około 2 -2,5 godziny.
 
 Na końcu sprawdzić smak i ewentualnie doprawić solą. Podawać z ulubionym makaronem.
---
+

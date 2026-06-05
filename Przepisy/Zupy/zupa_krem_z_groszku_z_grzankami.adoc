@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 32 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 800 g mrożony zielony groszek
@@ -60,4 +60,4 @@ Zupę zabielamy śmietanką (część zostawiamy do dekoracji) i przecieramy prz
 Pieczywo kroimy na małe porcje i wkładamy do tostera (najlepiej jeśli będzie tylko delikatnie przypieczone).
 
 Każdą kromkę smarujemy pastą z oliwek i dekorujemy kiełkami.
---
+

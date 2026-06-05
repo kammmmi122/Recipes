@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut + 1 miesiąc
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-z-jablek-najlepsze-przepisy-na-nalewke-jablkowa-na-spirytusie/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg jabłek,
@@ -38,4 +38,4 @@ Brak zdjęcia przepisu 🍲
 [.recipe-column-box]
 === Przygotowanie
 Z jabłek usuwamy gniazda nasienne i dzielimy je na kawałki, na przykład ćwiartki lun plastry. Tak przygotowane owoce umieszczamy w dużym słoju, wsypujemy wybrane przyprawy i zalewamy wszystko ostudzonym syropem z wody i cukru oraz alkoholem. Tak przygotowaną mieszkankę należy odstawić w zacienione miejsce na kilka tygodni. Po upływie wyznaczonego czasu nalewka z jabłek wymaga zlania, przefiltrowania przez drobne sito lub gazę i rozlania do butelek, by mogła dalej leżakować przez kilka kolejnych tygodni i nabierać smaku.
---
+

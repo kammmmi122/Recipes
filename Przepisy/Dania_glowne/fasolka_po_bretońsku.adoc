@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/zielony_srodek/fasolka/fasolka_po_bretonsku/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 400 g suchej fasolki "Piękny Jaś" lub 2 puszki fasolki
@@ -50,4 +50,4 @@ Na wytopionym tłuszczu dokładnie obsmażyć pokrojoną w kosteczkę kiełbasę
 Przełożyć do garnka z fasolką i gotować przez ok. 5 minut na większym ogniu bez przykrycia.
 
 Dodać krojone pomidory z puszki i koncentrat pomidorowy. Doprawić majerankiem, solą i świeżo zmielonym pieprzem. Gotować przez około 15 minut.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 50 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/dorsz-w-kremowym-sosie-z-porami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 400 g filetu (polędwiczki) z dorsza
@@ -55,4 +55,4 @@ W międzyczasie na drugiej patelni na pozostałej oliwie i maśle usmażyć kawa
 Przełożyć na patelnię z porami i zagotować bez przykrycia. Dodać śmietankę i delikatnie wymieszać ją z porami. Gotować jeszcze przez ok. 2 minuty aż sos zgęstnieje.
 
 Kawałki ryby posypać posiekanym szczypiorkiem.
---
+

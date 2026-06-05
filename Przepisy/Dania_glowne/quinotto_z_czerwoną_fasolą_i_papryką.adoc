@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 50 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://drive.google.com/file/d/1Z9ZqAq8x4MTHByM5vwEB_yQHJAp-0u3r/view?usp=sharing[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * komosa ryżowa - niecałe 2/3 szklanki (120 g)
@@ -43,4 +43,4 @@ Brak zdjęcia przepisu 🍲
 [.recipe-column-box]
 === Przygotowanie
 Fasolę odcedzamy. Na rozgrzanej oliwie szklimy pokrojony w cienkie plasterki czosnek i posiekaną wn dosyć drobną kostkę cebulę. Dorzucamy pokrojone w kostkę papryki. Smażymy przez 2-4 minuty. Po tym czasie na patelnię wsypujemy komose ryżową (użyłam trójkolorowej) i prażymy przez minutę. Dodajemy przyprawy, podlewamy bulionem lub wodą i dusimy pod przykryciem około 35 minut na bardzo małym ogniu. Dokładamy fasolę i mieszamy. Na koniec danie posypujemy posiekaną kolendrą lub natką pietruszki.
---
+

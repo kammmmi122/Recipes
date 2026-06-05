@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 tortille pszenne (średnica ok 15 cm)
@@ -81,4 +81,4 @@ Ile należy podpiekać tortillę? To wszystko zależy od temperatury rusztu. Mus
 Pamiętajcie, żeby po tym czasie jak tortilla się przyrumieni/podpiecze trzeba ja przełożyć na drugą stronę i powtórzyć czynność.
 
 Tak przygotowane quesadillas można przeciąć na pół (w trójkąty) lub podawać w całości z dodatkiem sals.
---
+

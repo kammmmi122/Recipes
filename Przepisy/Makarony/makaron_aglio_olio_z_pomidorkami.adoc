@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20260208_173706.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 10 minut
 
@@ -20,10 +20,10 @@ image::20260208_173706.jpg[]
 [.recipe-details-item]
 🔗 https://www.monini.com/pl/r/makaron-aglio-olio-z-pomidorkami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g makaronu typu spaghetti
@@ -39,13 +39,13 @@ image::20260208_173706.jpg[]
 [.recipe-column-box]
 === Przygotowanie
 Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo drobno czosnek, pomidorki pokroić na pół. Na patelnię lub garnek żeliwny wlać oliwę, delikatnie podgrzać i wrzucić pokrojone warzywa. Smażyć maksymalnie przez minutę na małym ogniu, tak aby jedynie delikatnie wydobyć smak. Ugotowany makaron odlać i wrzucić do sosu, doprawić do smaku solą, dodać posiekaną pietruszkę. Wyłożyć na talerze i posypać tartym serem parmezanem/ pecorino lub grana padano
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20260208_173706.jpg[]
 image::/Recipes/static/images/20260208_173830.jpg[]
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-ze-szparagami-i-lososiem-wedzonym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 szklanki makaronu kokardki
@@ -55,4 +55,4 @@ Na wierzchu ułożyć kawałki łososia wędzonego a następnie wyłożyć sos.
 Wstawić do nagrzanego piekarnika i piec przez 15 minut bez przykrycia.
 
 Po upieczeniu posypać posiekanym koperkiem i szczypiorkiem.
---
+

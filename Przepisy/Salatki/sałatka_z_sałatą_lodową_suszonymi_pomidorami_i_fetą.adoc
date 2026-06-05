@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/party/salatka_z_feta/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1/4 lub 1/3 główki sałaty lodowej
@@ -48,4 +48,4 @@ Sałatę opłukać i osuszyć, pokroić w kostkę, włożyć do salaterek razem 
 Pomidory suszone wyjąć z zalewy i pokroić na cienkie paseczki, fetę pokroić w kosteczkę, chili oraz białe i jasnozielone części dymki na cienkie plasterki, wszystko dodać do sałatki.
 
 Posypać pestkami dyni i polać winegretem: olej z suszonych pomidorów (można zebrać z dna słoika suszone zioła) wymieszać w miseczce z sokiem z limonki, syropem lub miodem i doprawić solą oraz pieprzem. Polać po sałatce.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 http://blogzapetytem.pl/2018/04/09/makaron-chinski-z-krewetkami-i-warzywami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 15 sztuk krewetek (obranych, bez pancerzy i ogonów)
@@ -59,4 +59,4 @@ Makaron przekładamy do woka lub na patelnie z warzywami i całość razem przes
 Na patelni, na łyżce masła podsmażamy krewetki z przeciśniętym czosnkiem i posiekaną natką pietruszki, delikatnie solimy. Krewetki smażymy przez około 2 minuty, ciągle mieszając
 
 Podsmażone krewetki przekładamy do makaronu z warzywami, mieszamy i wszystko razem przez chwilę podsmażamy. Podajemy posypane podprażonym na suchej patelni sezamem
---
+

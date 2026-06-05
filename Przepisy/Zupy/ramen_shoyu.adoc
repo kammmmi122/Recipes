@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20230416_155911.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 7 godziny
 
@@ -20,10 +20,10 @@ image::20230416_155911.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg kości wieprzowych
@@ -65,12 +65,12 @@ Bulion przelać do garnka (wcześniej można zebrać część lub cały tłuszcz
 Do misek włożyć ugotowany makaron, wlać bulion, ułożyć grzyby shitake, plaster mięsa z pieczeni, przepołowione ugotowane jajko, kawałek prasowanych glonów, posypać dymką lub szczypiorkiem i doprawić przyprawą shichimi togarashi.
 
 Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany), kiełki fasoli i skropić olejem sezamowym chili. Im więcej składników, tym lepiej ;) Ramen to zupa z dużą ilością makaronu i dodatków w porównaniu z samym bulionem.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20230416_155911.jpg[]
---
+

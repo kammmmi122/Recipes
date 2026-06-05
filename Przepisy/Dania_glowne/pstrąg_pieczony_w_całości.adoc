@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 średnie wypatroszone pstrągi (tęczowy lub łososiowy)
@@ -64,4 +64,4 @@ W brzuszki wkładamy również kawałeczki masła. Na wierzch ryb, w nacięcia s
 Pstrągi układamy na blaszce wyłożonej papierem do pieczenia, wkładamy do piekarnika nagrzanego do 200 stopni i pieczemy około 35 - 40 minut.
 
 Pstrąga można jeść samego, ale jednak preferujemy bardziej klasyczną polską wersję, z ziemniaczkami i duszona cebulką :)
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/szare-kluski[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg ziemniaków - waga przed obraniem
@@ -56,4 +56,4 @@ W dużym, szerokim garnku można już zacząć gotować wodę. Płaską łyżkę
 Po umieszczeniu jednej serii klusek, odczekaj do dwóch minut, zanim lekko zamieszasz kluski. Szare kluski lubią opadać na dno garnka i lekko do niego przywierać, ponieważ robimy je z luźniejszej masy i nie są formowane. Dlatego zalecam chwilę poczekać i dopiero, gdy już lekko się podgotują, ostrożnie je zamieszać. Gdy kluski wypłyną na powierzchnię, czekamy jeszcze około pięciu minut i wyławiamy je przy pomocy szerokiego cedzaka. Wyłów wszystkie kluseczki, poczekaj aż odcedzisz nadmiar wody i umieść je na szerokim talerzu lub w salaterce. W ten sposób ugotuj wszystkie porcje szarych klusek. Ja swoje kluski szare gotowałam w trzech turach. 
 
 Szare kluski najczęściej podaję z okrasą, którą szykuję z podsmażonego z cebulką boczku. Okrasę warto przygotować sobie wcześniej lub smażyć w tym samym czasie, w którym szykujesz szare kluski. Boczek surowy wędzony (bez skóry) kroję w drobną kostkę i umieszczam na zimnej patelni. Ustawiam trochę niższą niż średnia moc palnika i powoli wytapiam z boczku cały tłuszcz. Trwa to do 10 minut. Następnie dolewam jeszcze około pięciu łyżek oleju do smażenia (jeśli boczek jest dość chudy). Na patelnię wykładam obrane i drobno poszatkowane cebule. Całość smażę jeszcze około 15 minut, aż do ładnego zarumienienia się cebulki.
---
+

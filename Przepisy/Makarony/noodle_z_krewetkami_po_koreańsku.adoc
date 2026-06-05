@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/noodle-z-krewetkami-po-koreansku[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 125 g makaronu chow mein
@@ -57,4 +57,4 @@ Włożyć paprykę i smażyć co chwilę mieszając łopatką przez ok. 2 minuty
 Dodać makaron i wymieszać, podsmażać razem przez ok. 1 minutę.
 
 Przesunąć składniki na bok patelni i zrobić miejsce na dnie. Wlać w nie sos i zagotować. Wymieszać ze składnikami i smażyć przez około 2 minuty, co chwilę mieszając łopatką. Na koniec wymieszać ze szczypiorkiem i posypać sezamem.
---
+

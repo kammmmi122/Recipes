@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/salatka-warstwowa-z-szynka-jajkiem-i-serem-zoltym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 5 jajek
@@ -43,4 +43,4 @@ Jajka ugotować na twardo, obrać i posiekać na desce. Na sitku odcedzić kolej
 Na dnie salaterki o średnicy ok. 20 cm ułożyć selera, potem kukurydzę, startą na tarce o dużych oczkach lub pokrojoną w kosteczkę lub paseczki szynkę.
 
 Wyłożyć majonez wymieszany ze śmietaną lub jogurtem, kawałki ananasa, starty na tarce ser żółty oraz jajka. Doprawić solą i pieprzem.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/racuchy-z-jablkami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 jabłka
@@ -49,4 +49,4 @@ Jabłka obrać, pokroić na ćwiartki, usunąć gniazda nasienne, ćwiartki prze
 Wykładać po około łyżce ciasta i po 3 plasterki jabłek na 1 placka na rozgrzany tłuszcz na patelni i smażyć przez około 1,5 minuty na złoty kolor. Przewrócić na drugą stronę i powtórzyć smażenie.
 
 Podawać z cukrem pudrem, dżemem wiśniowym itp.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/wigilia/barszcz_wigilijny_z_uszkami/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 40 g suszonych borowików
@@ -63,4 +63,4 @@ Barszcz odstawić na około godzinę. W międzyczasie można zacząć przygotowy
 Do barszczu dodać sól (do smaku), pieprz mielony, cukier oraz świeży posiekany ząbek czosnku, znów zostawić na minimum godzinę ale najlepiej do czasu całkowitego ostudzenia.
 
 Barszcz przecedzić i schować do lodówki. Następnego dnia lub przed podaniem podgrzać, spróbować i w razie potrzeby doprawić solą i pieprzem.
---
+

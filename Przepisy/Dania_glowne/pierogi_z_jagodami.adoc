@@ -2,25 +2,25 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20241217_165954.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
 [.recipe-details-item]
 📝 20 pierogów
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 250 g mąki typ 450g
@@ -37,13 +37,13 @@ image::20241217_165954.jpg[]
 [.recipe-column-box]
 === Przygotowanie
 Mąkę, masło, wodę i sól połączyć w jednolite gładkie ciasto. Jagody zasypać cukrem. Ciasto na pierogi podzielić na 4. Z każdego kawałka rozwałkować i wyciąć 5 kółek. Kołka napełnić farszem i zamknąć pierogi. Tak przygotowane pierogi ugotować w osolonej wodzie. Podawać ze śmietaną i cukrem.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20241217_165954.jpg[]
 image::/Recipes/static/images/20241217_170950.jpg[]
---
+

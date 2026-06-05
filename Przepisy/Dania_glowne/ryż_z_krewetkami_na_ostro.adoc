@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/ryz-smazony-z-krewetkami-na-ostro[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g (2 woreczki) ryżu basmati
@@ -52,4 +52,4 @@ Na większej patelni na 2 łyżkach oleju delikatnie podsmażyć imbir i czosnek
 Wyjąć krewetki łyżką cedzakową na talerz. Na patelnię zaś włożyć ryż i smażyć mieszając przez ok. 3 - 4 minuty aż cały się podgrzeje i miejscami zacznie się rumienić.
 
 Dodać krewetki, wymieszać i razem podgrzać. Wyłożyć na talerze i udekorować miętą (można ją też posiekać i posypać po wierzchu dania) i/lub kolendrą.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/kaszotto-z-indykiem-fasolka-i-cukinia[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 łyżki oliwy extra vergine
@@ -50,4 +50,4 @@ Przesunąć składniki na bok patelni, w wolne miejsce wlać 2 łyżki oliwy, w�
 Wymieszać wszystkie składniki na patelni i wlać białe wino, gotować ok. 2 - 3 minuty aż odparuje. Następnie wlać gorący bulion, doprawić świeżo zmielonym pieprzem i zagotować. Przykryć pokrywą i gotować pod przykryciem przez 20 minut.
 
 Fasolkę przyciąć na końcach i pokroić na kawałki. Cukinię pokroić w kosteczkę. Fasolkę i cukinię dodać na patelnię, wymieszać i przykryć. Gotować przez ok. 7 minut pod przykryciem, w międzyczasie 1 raz składniki przemieszać. Otworzyć, wymieszać, posypać szczypiorkiem.
---
+

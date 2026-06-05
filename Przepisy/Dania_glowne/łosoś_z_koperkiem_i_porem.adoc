@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240911_131337.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -20,10 +20,10 @@ image::20240911_131337.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/pieczony-losos-z-koperkiem-porem-i-pomidorkami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 800 g filetów z łososia
@@ -43,12 +43,12 @@ Piekarnik nagrzać do 220 stopni C. Pora przekroić wzdłuż na pół, dokładni
 Na porach położyć filety łososia, posypać je posiekanym koperkiem oraz wiórkami masła. Obłożyć plasterkami cytryny.
 
 Wstawić do nagrzanego piekarnika i piec przez 15 minut.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240911_131337.jpg[]
---
+

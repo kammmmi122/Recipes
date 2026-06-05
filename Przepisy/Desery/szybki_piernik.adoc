@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 szklanka miodu
@@ -63,4 +63,4 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 === Polewa czekoladowa (na 2 pierniki z przepisu):
 
 Śmietanę kremówkę podgrzać w małym garnuszku. Zdjąć z palnika, dodać posiekaną czekoladę, odstawić na 2 minuty. Po tym czasie wymieszać, do roztopienia czekolady i otrzymania gładkiej polewy. Poczekać do lekkiego zgęstnienia, udekorować pierniki.
---
+

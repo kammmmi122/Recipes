@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Bułka:
@@ -120,4 +120,4 @@ Dodaj czerwoną kapustę, sałatę lodową, a następnie mięso.
 Polej mięso pozostałą ilością sosu.
 
 Na górę dodaj pomidora, ogórka oraz czerwoną cebulę.
---
+

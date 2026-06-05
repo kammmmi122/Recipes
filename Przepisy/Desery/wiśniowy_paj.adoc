@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://mojewypieki.com/przepis/wisniowy-paj[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 300 g mąki pszennej
@@ -48,4 +48,4 @@ Formę o średnicy 23 - 24 cm wyłożyć papierem do pieczenia. Dno formy lekko 
 Podpieczony spód równomiernie posypać bułką tartą lub zmielonymi migdałami. Na wierzch wysypać wiśnie, wyrównać. Na górę wiśni wysypać kruszonkę.
 
 Piec w temperaturze 180ºC przez 40 - 45 minut do zezłocenia kruszonki. Wyjąć, wystudzić.Przed podaniem oprószyć cukrem pudrem.* Wiśnie mrożone najpierw odmrozić na durszlaku, większym sitku lub ręczniczku kuchennym.
---
+

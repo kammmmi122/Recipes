@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 3 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/gulasz-wolowy[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg wołowiny gulaszowej
@@ -55,4 +55,4 @@ Posypać składniki mąką (bezpośrednio przez sitko), wymieszać i smażyć co
 Wlać wino jeśli go używamy a po chwili podgrzany bulion. Zagotować, przykryć pokrywą i zmniejszyć ogień. Gotować pod przykryciem na małym ogniu przez ok. 1 i 1/2 godziny. W międzyczasie potrząsać przykrytym garnkiem w celu przemieszania składników i sprawdzenia czy gulasz nie przywiera do dna.
 
 Po podanym czasie dodać do gulaszu pokrojoną paprykę oraz pokrojone pieczarki. Wymieszać, przykryć i gotować jeszcze przez 1/2 godziny.
---
+

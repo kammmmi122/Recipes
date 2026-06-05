@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20250118_150205.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -20,10 +20,10 @@ image::20250118_150205.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 250 g makaronu świderki
@@ -51,13 +51,13 @@ Dodać posiekaną natkę pietruszki oraz śmietankę. Zagotować, doprawić sol�
 Opcjonalnie danie można dodatkowo zapiec w piekarniku. W tym celu należy je przełożyć do naczynia żaroodpornego lub blaszki. Posypać tartym serem i zapiekać bez przykrycia przez ok. 10 minut.
 
 Jeśli dania nie zapiekamy, możemy posypać je serem już po nałożeniu na talerze.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20250118_150205.jpg[]
 image::/Recipes/static/images/20250118_150249.jpg[]
---
+

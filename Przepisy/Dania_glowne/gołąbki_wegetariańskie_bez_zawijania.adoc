@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g kleistego ryżu (waga przed ugotowaniem, użyłam tajskiego)
@@ -67,4 +67,4 @@ Następnie formujemy gołąbki i układamy je w brytfannie.
 Na patelni rozgrzewamy masło i podsmażamy drugą cebulę, dodajemy bulion i pomidory, doprawiamy solą, pieprzem i cukrem. Gotujemy przez 10 minut, by bulion nieco odparował.
 
 Gołąbki polewamy sosem, wsadzamy do piekarnika rozgrzanego do temperatury 180 stopni C (z termoobiegiem) na 30 minut. Przy czym przez 15 minut pieczemy bez przykrycia, a potem przykrywamy.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zupa-jarzynowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 mieszanki mieszanki wiosennej
@@ -54,4 +54,4 @@ Dodać pokrojoną w kostkę kiełbasę.
 Gotować pod przykryciem przez ok. 15 minut aż warzywa będą miękkie. Na koniec dodać posiekany koperek (lub natkę czy liście bazylii).
 
 Zupę odstawić z ognia i zaprawić śmietaną (najpierw wymieszać ją ze stopniowo dodawanym wywarem, w ilości około szklanki, następnie przelać do garnka z zupą i wymieszać). Podawać z pieczywem.
---
+

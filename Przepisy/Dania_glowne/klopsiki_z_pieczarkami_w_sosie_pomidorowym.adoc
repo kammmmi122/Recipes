@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/pulpeciki-w-sosie-pomidorowym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 500 g mielonego mięsa (z indyka, cielęcego lub wieprzowego np. z szynki)
@@ -53,4 +53,4 @@ Na patelnię z pulpecikami wlać gorący bulion, przykryć pokrywą i gotować p
 Dodać przecier pomidorowy i zagotować. Gotować bez przykrycia przez około 10 minut (jeśli używaliśmy indyka) lub ok. 15 minut (w przypadku innego mięsa). W międzyczasie 1 - 2 razy zamieszać.
 
 Sos spróbować i doprawić w razie potrzeby solą, pieprzem, cukrem i suszonym oregano. Podawać z makaronem i tartym serem.
---
+

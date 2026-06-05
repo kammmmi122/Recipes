@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240429_172456.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -20,10 +20,10 @@ image::20240429_172456.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 ząbek czosnku
@@ -55,12 +55,12 @@ Dodać łyżkę oliwy, pokrojone na plasterki pieczarki oraz pokrojonego w koste
 Pomidory sparzyć, obrać ze skórki, wyciąć szypułki, usunąć pestki. Pokroić w kostkę i razem z sokiem wrzucić do warzyw (pomidory z puszki posiekać).
 
 Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i gotować przez około 5 minut, od czasu do czasu zamieszać.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240429_172456.jpg[]
---
+

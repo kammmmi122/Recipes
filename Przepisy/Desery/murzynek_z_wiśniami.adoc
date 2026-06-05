@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/desery/ciasta/murzynek_z_czekolada_wisniami/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 200 g masła
@@ -54,4 +54,4 @@ Mąkę przesiać do czystej miski razem z proszkiem do pieczenia. Dodać ją do 
 Masę wyłożyć do tortownicy. Osuszone wiśnie obtoczyć w mące ziemniaczanej i wyłożyć na powierzchni ciasta. Część wiśni powciskać do środka ciasta. Wstawić do nagrzanego piekarnika i piec przez około 40 minut. Wyjąć z piekarnika.
 
 Do odłożonej masy na polewę dodać roztopioną czekoladę i wymieszać. Rozprowadzić po cieście.
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina 21 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 l wody
@@ -63,4 +63,4 @@ Zdejmuję patelnię z płyty, dodaję pora z czosnkiem do garnka z zupą grochow
 Kiedy minie czas gotowania zupy, sprawdzam, czy groch na pewno jest miękki, dodaję majeranek i doprawiam świeżo zmielonym pieprzem.
 
 Zupę podaję z natką pietruszki.
---
+

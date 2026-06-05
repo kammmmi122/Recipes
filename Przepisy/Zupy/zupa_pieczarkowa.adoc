@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://kuron.com.pl/artykuly/przepisy/rozne-przepisy/zupa-pieczarkowa[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1,7 l wywaru drobiowego
@@ -54,4 +54,4 @@ Następnie dodaj ziemniaki pokrojone w kostkę. Gotuj do miękkości około 15 m
 Po tym czasie dodaj śmietanę, posiekany koperek, dopraw solą i pieprzem do smaku.
 
 Zamiast ziemniaków pieczarkowa równie dobrze smakuje z makaronem.
---
+

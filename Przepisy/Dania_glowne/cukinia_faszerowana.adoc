@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 łyżka oliwy
@@ -53,4 +53,4 @@ W międzyczasie przygotować cukinię: piekarnik nagrzać do 180 stopni C. Cukin
 Do ugotowanego mięsa na patelni dodać posiekany miąższ cukinii, połowę jednego pomidora (obranego i pokrojonego w kosteczkę) i smażyć wszystko jeszcze przez ok. 5 minut. Pod koniec dodać natkę pietruszki.
 
 Odstawić z patelni i po lekkim przestudzeniu dodać jajko, wymieszać. Powstałym farszem wypełnić wgłębienia w cukinii. Posypać tartym serem. Wstawić do piekarnika na około 25 minut, 180 stopni C.
---
+

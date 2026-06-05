@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20250713_174140.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -20,10 +20,10 @@ image::20250713_174140.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/tortille[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 szklanki mąki pszennej
@@ -46,13 +46,13 @@ Jeszcze raz przewrócić tortillę i jak tylko jej rozmiar się ustabilizuje, po
 Usmażyć resztę placków jak wyżej, odpowiednio dostosowując stopień rozgrzania patelni.
 
 Aby łatwiej było zawijać tortillę z nadzieniem lub kroić ją na chipsy, usmażone tortille trzymam przez jakiś czas zawinięte w wilgotną ściereczkę. Można je też podgrzać.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20250713_174140.jpg[]
 image::/Recipes/static/images/20250713_180058.jpg[]
---
+

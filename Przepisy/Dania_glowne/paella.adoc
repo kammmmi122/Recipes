@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240119_201437.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 2 godziny
 
@@ -20,10 +20,10 @@ image::20240119_201437.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/paella[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 400 g ryżu do Paelli lub ryżu do Risotto - ponad 1,5 szklanki (waga przed ugotowaniem)
@@ -63,12 +63,12 @@ Po odliczeniu pięciu minut do naczynia wlej cały bulion (drobiowy lub rybny, a
 Gdy ryż będzie już miękki, w końcu można dodać owoce morza. Najpierw rozkładam na wierzchu mieszankę drobniejszych owoców morza. Następnie kalmary i krewetki. Dodaję też mule w muszlach i krewetki świeże. Nadal nic nie mieszamy. Na koniec rozsypuję też około 120 gramów groszku (może być prosto z zamrażalnika lub rozmrożony). Garnek/patelnię przykryj przykrywką i gotuj/duś całość przez około 10-15 minut.
 
 Zdejmij przykrywkę z gotowej Paelli. Przed nałożeniem jej na talerze odczekaj około 5-10 minut. Paellę podawaj z natką pietruszki i z dużą ilością plasterków lub ćwiartek cytryny lub limonki.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240119_201437.jpg[]
---
+

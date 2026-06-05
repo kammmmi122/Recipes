@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * pierś z kurczaka - 720 g
@@ -98,4 +98,4 @@ Po prostu wrzucamy 5 kubeczków jogurtu typu Skyr. Do tego cały jogurt grecki 4
 Czyli sałata lodowa, połowa główki pokrojona w kosteczkę. Tak samo pomidor. Sos oraz dodatki przyszykowane, kurczak przypieczony.
 
 Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję około 75 g na 1 porcję. Rozsmarowuje dokładnie po każdym. Na to sałata lodowa, pół główki idealnie wystarczyło oraz pomidor. Duże, dwa malinowe pomidory również się sprawdziły. Pora na króla naszego odcinka pikantne kawałki kurczaka. Po dwa na twistera. Rozkładam po jednym, aby później wizualnie dopasować kawałki
---
+

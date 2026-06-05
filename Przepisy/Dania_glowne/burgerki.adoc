@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 4 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 bułki hamburgerowe lub zwykłe
@@ -41,4 +41,4 @@ Brak zdjęcia przepisu 🍲
 Mięso mielone wrzucamy do dużej miski. Dodajemy sól i pieprz. Formujemy podłużne kotlety burgerowe. Na rozgrzanej patelni kładziemy burgery do smażenia. Obrabiamy z każdej strony przez 2 minuty. Na jednej ze stron roztapiamy ser.
 
 Bułki grilluję w piekarniku lub opiekaczu, następnie każdą przecinam i smaruję obydwie połówki sosem
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: do 30 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.jadlonomia.com/przepisy/kaszotto-z-kurkami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 cebula
@@ -51,4 +51,4 @@ Odkryć patelnię z kaszą, dolać łyżkę oleju i porządnie rozgrzać. Wrzuci
 Kaszotto nie może się nie udać, ale kluczowe jest dodanie do ugotowanej kaszy oleju i ponowne rozgrzanie - kurki, jak wszystkie grzyby, lubią być smażone, szybko i intensywnie. W przeciwnym wypadku będą gąbczaste i nijakie w smaku.
 
 Jeśli nie macie płatków drożdżowych możecie kaszotto podawać z pietruszką i posiekanym, suszonym pomidorem.
---
+

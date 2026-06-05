@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 m
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/risotto-primavera[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 150 g ryżu do risotto np. Arborio
@@ -70,4 +70,4 @@ Dodać cukinię i gotować przez ok. 2 minuty aż zmięknie.
 Gotowe warzywa przełożyć do garnka z ugotowanym, gorącym ryżem. Odstawić z ognia, dodać pozostałą łyżkę masła, 2 łyżki tartego sera, posiekany szczypiorek i bazylię. Całość wymieszać.
 
 Sprawdzić doprawienie solą i pieprzem. Podawać z dodatkowym serem i oliwą wedle uznania.
---
+

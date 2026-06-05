@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 100 ml mleka
@@ -41,4 +41,4 @@ Brak zdjęcia przepisu 🍲
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.
 Zmniejsz obroty miksera i małym strumieniem wlewaj powoli mleko ze śmietanką do misy miksera, cały czas ubijając.
 Masę przelej do rondelka i na małym ogniu, mieszając cały czas łyżką lub rózgą kuchenną, gotuj do momentu aż sos zgęstnieje.
---
+

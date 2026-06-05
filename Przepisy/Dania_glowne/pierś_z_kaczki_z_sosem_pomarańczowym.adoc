@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_z_sosem_pomaranczowym/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 piersi kaczki ze skórką (po około 200 - 250 g), świeże lub mrożone
@@ -52,4 +52,4 @@ Kaczkę piec przez 15 minut (średnio wysmażone mięso) lub 18 minut (dobrze wy
 Sos pomarańczowo-imbirowy: Do miski włożyć wszystkie składniki sosu, na dno miski wsypując rodzynki i estragon jeśli go używamy, tak aby moczyły się w soku. Odstawić do czasu gdy kaczka będzie gotowa.
 
 Soki, które wypłynęły z mięsa wlewamy na patelnię po kaczce, dodajemy wino i gotujemy na większym ogniu aż płyn prawie całkowicie się zredukuje. Gdy na patelni pozostanie około 1 łyżki gęstego płynu, dodajemy wszystkie składniki sosu pomarańczowego wymieszane w miseczce i zagotowujemy. Po kilkunastu sekundach gotowania odstawiamy patelnię z ognia (sos powinien trochę zgęstnieć). Dodajemy ugotowany ciepłu ryż i pokrojoną w plasterki pierś kaczki. Zamiast do patelni, wszystkie składniki dania można od razu ułożyć na talerzach.
---
+

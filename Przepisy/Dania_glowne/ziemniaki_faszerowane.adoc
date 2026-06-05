@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 ziemniaki
@@ -54,4 +54,4 @@ Wyjmij z piekarnika, włóż kawałki sera w ziemniaki i włóż z powrotem na o
 W międzyczasie na patelni podsmaż szynkę lub boczek, pokrojone w kostkę i zrób sos czosnkowy (wymieszaj składniki), posiekaj też szczypiorek.
 
 Ziemniaki wyjmij z piekarnika i podawaj posypane skwareczkami, z sosem i szczypiorkiem.
---
+

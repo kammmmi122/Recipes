@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240530_115153.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 3 godziny
 
@@ -20,10 +20,10 @@ image::20240530_115153.jpg[]
 [.recipe-details-item]
 🔗 https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Biszkopt
@@ -126,14 +126,14 @@ Otynkuj tort przy pomocy skrobki. Po pierwszej warstwie odstaw do lodówki.
 Migdały w płatkach upraż na rozgrzanej patelni.
 
 Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozostałą część kremu przełóż do worka z ozdobną końcówką i udekoruj tort. Do ozdoby użyj pralinek Raffaello oraz pokruszonych płatków migdałów.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]
 image::/Recipes/static/images/20240530_115143.jpg[]
---
+

@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240617_154401.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 5 godziny
 
@@ -20,10 +20,10 @@ image::20240617_154401.jpg[]
 [.recipe-details-item]
 🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Jajka nitamago
@@ -115,12 +115,12 @@ Makaron gotujemy zgodnie z instrukcją. Jeśli zrobimy to za wcześnie, to warto
 Na spod miski nakładamy 2-3 łyżeczki tare i zalewamy trochę bulionem, mieszamy i zalewamy ponownie. Próbujemy. W razie potrzeby dodajemy kolejną łyżeczkę tare.
 
 Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe składniki.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240617_154401.jpg[]
---
+

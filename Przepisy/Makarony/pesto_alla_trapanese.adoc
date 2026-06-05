@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://rafalcook.com/2022/06/11/pesto-alla-trapanese[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * pomidorki koktajlowe 250-300 gram
@@ -48,4 +48,4 @@ Po pierwsze włóż składniki do blendera ❗ oczywiście bez makaronu ? i zble
 Po drugie ugotuj makaron według instrukcji na opakowaniu na al dente.
 Na koniec przełóż pesto do miski, dodaj gotowy makaron i odrobinę wody z gotowania makaronu i bardzo dobrze wymieszaj.
 Nałóż, posyp Parmigiano Reggiano, dopraw pieprzem, dodaj świeżą bazylię i oczywiście zajadaj.
---
+

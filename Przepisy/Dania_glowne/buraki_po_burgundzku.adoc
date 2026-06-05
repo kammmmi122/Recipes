@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: powyżej godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 6 szalotek
@@ -57,4 +57,4 @@ Dodać pokrojone w pół-talarki marchewki, pokrojoną w drobną kostkę pietrus
 Po upływie godziny spróbować i dodać sól oraz pieprz do smaku. W razie potrzeby dodać jeszcze pół szklanki bulionu i gotować kolejne pół godziny.
 
 Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód talerza kawałkiem pieczywa. Gulasz jest lepszy z każdym kolejnym dniem, szczególnie warto poczekać do trzeciego dnia.
---
+

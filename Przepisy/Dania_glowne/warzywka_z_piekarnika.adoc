@@ -2,25 +2,25 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240824_174832.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 2 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 pietruszka
@@ -33,12 +33,12 @@ image::20240824_174832.jpg[]
 [.recipe-column-box]
 === Przygotowanie
 Warzywa pokroić na części i oprószyć wegetą. Piec 30 minut w piekarniku w  180 stopniach C.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240824_174832.jpg[]
---
+

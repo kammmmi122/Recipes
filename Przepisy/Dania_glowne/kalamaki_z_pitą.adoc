@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20250725_180813.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -20,10 +20,10 @@ image::20250725_180813.jpg[]
 [.recipe-details-item]
 📝 inspirowane grecką restauracją Souvlaki Kostas
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 pity
@@ -40,13 +40,13 @@ image::20250725_180813.jpg[]
 [.recipe-column-box]
 === Przygotowanie
 Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawiń.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20250725_180813.jpg[]
 image::/Recipes/static/images/20250725_180850.jpg[]
---
+

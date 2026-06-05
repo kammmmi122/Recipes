@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://zakochanewzupach.pl/zupa-brokulowa-z-ryzem-i-koperkiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 0.5 brokuła świeżego
@@ -54,4 +54,4 @@ Dodajemy przepłukany na sicie ryż, ponownie zagotowujemy, dodajemy kostkę ros
 Zestawiamy garnek z zupą z kuchenki, odstawiamy pod pokrywką na 10 minut.
 
 Zupę brokułową z ryżem zabielamy śmietaną, podajemy z koperkiem.
---
+

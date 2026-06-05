@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 15 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 400 g filetów dorsza
@@ -51,4 +51,4 @@ Wytrzeć naczynie ręcznikiem papierowym, wlać mleko kokosowe, dodać pozostał
 Dodać groszek lub pokrojoną fasolkę a także podsmażonego dorsza. Gotować przez ok. 5 minut.
 
 Skropić sokiem z limonki i podawać z ryżem.
---
+

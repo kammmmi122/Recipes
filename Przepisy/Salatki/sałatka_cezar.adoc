@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/salatka-cezar-z-kurczakiem[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 300 g filetu z kurczaka
@@ -51,4 +51,4 @@ Przygotować sos Cezar: czosnek przecisnąć przez praskę i wymieszać z majone
 Sałatę rzymską opłukać, osuszyć, posiekać, wymieszać z połową sosu, wyłożyć do salaterek lub talerzy. Można doprawić solą w razie potrzeby.
 
 Dodać pokrojonego kurczaka, skropić resztą sosu, posypać tartym parmezanem oraz grzankami.
---
+

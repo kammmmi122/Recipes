@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240725_185950.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -20,10 +20,10 @@ image::20240725_185950.jpg[]
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 łyżki (30 g) mąki pszennej
@@ -45,12 +45,12 @@ Odważyć potrzebną ilość cukinii (nie więcej!). Umyć, osuszyć, odciąć k
 Cukinię i cebulę oraz posiekaną zieleninę dodać do ciasta i wymieszać łyżką.
 
 Rozgrzać patelnię z olejem lub oliwą. Nakładać po łyżce (nie więcej!) masy i smażyć placuszki przez około 2 - 3 minuty. Gdy będą ładnie zrumienione, przewrócić na drugą stronę i smażyć jeszcze przez około 2 minuty.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240725_185950.jpg[]
---
+

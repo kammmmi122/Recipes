@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20240713_181533.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina
 
@@ -20,10 +20,10 @@ image::20240713_181533.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 2 kg surowych ziemniaków - waga po obraniu
@@ -50,13 +50,13 @@ Wymieszaj bardzo dokładnie ziemniaki gotowane i ziemniaki tarte wraz z mąką z
 Nabierz dwie łyżki masy ziemniaczanej. Uformuj kulkę a następnie spłaszcz ją na placek wielkości dłoni. Nabierz łyżkę surowego farszu mięsnego i umieść na środku placka. Placek zamknij i uformuj w dłoniach na kształt wydłużonego jajka. W taki sposób uformuj wszystkie kartacze z mięsem. Cepeliny powinny mieć około 10 cm długości (mogą być też trochę większe). W taki sposób przygotuj wszystkie kartacze. 
 
 W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż do połowy wysokości. Do wrzątku wsyp płaską łyżeczkę soli. Na gotujący się wrzątek kładź po kilka kartaczy na raz. Zachowaj odstępy między kluskami, by miały możliwość swobodnego wypłynięcia na powierzchnię. Cepeliny gotuj tak przez 15 minut. Postaraj się tak dostosować moc palnika, by kartacze gotowały się przez cały czas. Nie ustawiaj jednak zbyt wysokiej mocy palnika (woda ma tylko lekko wrzeć). Kluski wyławiaj przy pomocy płaskiego cedzaka i odkładaj na talerz zachowując między nimi niewielkie odstępy. W ten sposób ugotuj wszystkie przygotowane kartacze.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20240713_181533.jpg[]
 image::/Recipes/static/images/20240713_201623.jpg[]
---
+

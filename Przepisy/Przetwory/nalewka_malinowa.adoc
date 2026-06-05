@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 30 minut + 1 miesiąc
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/nalewka-z-malin[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg świeżych malin
@@ -53,4 +53,4 @@ Sok oraz owoce przecedzam przez sitko do słoika z dwa dni temu zlaną nalewką.
 To jeszcze nie koniec. Po przecedzeniu resztek soku nalewka nie będzie klarowna. Aby można ją było spokojnie odłożyć do leżakowania, trzeba ją dokładnie przefiltrować z fragmentów owoców oraz innych zanieczyszczeń. 
 
 Po prawidłowym i dokładnym przefiltrowaniu Twoja nalewka malinowa będzie idealnie klarowna. Możesz ją przelać do kilku mniejszych butelek lub słoików. Nalewka z malin powinna leżakować np. w kuchennym schowku lub piwniczce minimum sześć miesięcy.
---
+

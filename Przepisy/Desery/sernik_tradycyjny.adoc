@@ -2,15 +2,15 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 image::20241227_221828.jpg[]
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1 godzina 30 minut
 
@@ -20,10 +20,10 @@ image::20241227_221828.jpg[]
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 1 kg mielonego twarogu np. gęsty z kubełka
@@ -47,12 +47,12 @@ Spód tortownicy o średnicy 24 cm wyłóż papierem do pieczenia. Gęste ciasto
 Formę umieść w piekarniku nagrzanym do 190 stopni. Środkowa półka z grzaniem góra / dół. Po 20 minutach zmniejsz temperaturę do 150 stopni i piecz sernik kolejne 30 minut. Po tym czasie ustaw 120 stopni i piecz sernik ostatnie 30 minut. Po wyłączeniu piekarnika zostaw sernik w komorze pieca jeszcze na 10 minut. Potem stopniowo uchylaj drzwiczki coraz szerzej, aż wyjmiesz formę z pieca.
 
 Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polewą czekoladową.
---
+
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
---
+
 image::/Recipes/static/images/20241227_221828.jpg[]
---
+

@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 25 minut
 
@@ -24,10 +24,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Składniki na zupę z cukinii:
@@ -68,4 +68,4 @@ Do zupy możesz dodać śmietankę od razu lub dopiero po zblendowaniu/zmiksowan
 Zupa krem z cukinii najlepiej smakuje podana ze świeżo uprażonymi grzankami. Dwie kromki pieczywa pokrój w kostkę. Nagrzej małą patelnię. Na nagrzaną patelnię wyłóż pokrojone na kawałki pieczywo. Grzanki podsmażaj tak na suchej patelni przez minutę. Co chwilę przewracaj je ostrożnie na drugą stronę. 
 
 Dopiero na częściowo podpieczone grzanki wylej cienką strużką dwie łyżki oliwy. Znów chwilę podsmażaj grzanki. Wylej kolejne dwie łyżki oliwy. Na koniec grzanki posyp ziołami. Jeśli zioła dodasz za wcześnie, to niepotrzebnie się przypalą.
---
+

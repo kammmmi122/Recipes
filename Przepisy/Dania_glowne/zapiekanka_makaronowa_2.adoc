@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-z-kurczakiem-i-warzywami[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 150 g makaronu, np. kokardki
@@ -53,4 +53,4 @@ Dodać pokrojoną w kosteczkę cukinię i mieszając smażyć przez ok. 3 minuty
 Dodać pomidory, w razie potrzeby doprawić solą i pieprzem, wymieszać i zagotować. Dodać ugotowany makaron i podsmażonego kurczaka, wymieszać i wyłożyć do naczynia żaroodpornego.
 
 Przykryć pokrywą lub folią aluminiową i wstawić do piekarnika na 20 minut. Posypać tartą mozzarellą i zapiekać jeszcze przez ok. 5 minut bez przykrycia.
---
+

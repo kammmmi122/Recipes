@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 45 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Spód
@@ -61,4 +61,4 @@ Banany pokroić na plasterki, włożyć do miski i dokładnie obtoczyć w soku z
 === Bita śmietana
 
 Żelatynę wsypać do rondelka, wlać 1/4 szklanki wody i wymieszać. Podgrzewać na małym ogniu ciągle mieszając. Jak tylko żelatyna całkowicie się rozpuści przelać ją do miseczki i ostudzić (najlepiej wstawić miseczkę do zimnej wody). Zimną śmietanę ubić na sztywno z 1 łyżką cukru, pod koniec dodać letnią żelatynę lub śmietan-fix i jeszcze przez chwilę razem ubijać. Śmietanę rozprowadzić po deserze i udekorować roztopioną czekoladą (można ją wycisnąć przez woreczek z wyciętą malutką dziurką).
---
+

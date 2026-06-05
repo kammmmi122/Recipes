@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 1,5 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku364765[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 === Naleśniki
@@ -73,4 +73,4 @@ Jajko roztrzepać z dodatkiem mleka.Krokiety obtoczyć w jajku i następnie w bu
 Układać na blachę wyłożoną papierem do pieczenia.
 
 Piec 45 minut w 170 stopniach (w trakcie pieczenia obrócić je na drugą stronę aby były chrupiące).
---
+

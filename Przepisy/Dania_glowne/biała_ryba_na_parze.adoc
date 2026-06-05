@@ -2,26 +2,26 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 35 minut
 
 [.recipe-details-item]
 👥 4 porcje
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 4 kawałki białej ryby (dorsza, tilapii)
@@ -32,4 +32,4 @@ Brak zdjęcia przepisu 🍲
 [.recipe-column-box]
 === Przygotowanie
 Rybę oprószyć solą i pieprzem. Ugotować na parze
---
+

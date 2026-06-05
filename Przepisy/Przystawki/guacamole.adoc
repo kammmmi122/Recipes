@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: 20 minut
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * 3 większe dojrzałe awokado - 650 g
@@ -57,4 +57,4 @@ Małą cebulkę czerwoną pokrój w drobną kostkę. Tak samo drobno pokrój pom
 Cebulkę oraz pomidorki wyłóż na guacamole. Całość możesz dodatkowo oprószyć świeżo mielonym kolorowym pieprzem oraz polać dodatkową porcją oliwy.
 
 Guacamole podawaj od razu lub też po schłodzeniu w lodówce. Pastę guacamole możesz jeść z chipsami kukurydzianymi o dowolnym smaku. U nas wygrywa zazwyczaj serowe Doritos.
---
+

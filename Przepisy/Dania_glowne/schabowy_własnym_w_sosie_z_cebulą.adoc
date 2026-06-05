@@ -2,16 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
---
+
 [.recipe-category-label]
 Dania główne
 
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
---
+
 
 [.recipe-details]
---
+
 [.recipe-details-item]
 🕒 czas przygotowania: powyżej 1 godziny
 
@@ -21,10 +21,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details-item]
 🔗 https://www.doradcasmaku.pl/przepis-schab-w-sosie-wlasnym-300432[link do źródła przepisu]
 
---
+
 
 [.recipe-columns]
---
+
 [.recipe-column-box]
 === Składniki
 * schab bez kości 300-400 gramów
@@ -47,4 +47,4 @@ Kawałki mięsa położyć na suchej dobrze nagrzanej patelni. Mięso powinno pr
 Gdy mięso jest dość dobrze przyrumienione, dodać posiekaną cebulę i zalać wodą tak, aby przykrywało mięso. Doprawić solą i pieprzem do smaku. Przykryć pokrywką i dusić na małym ogniu około 40-60 minut. W razie potrzeby dolać wody (gdyby się wygotowała).
 
 Gdy mięso jest miękkie, zagęścić sos łyżką mąki wymieszaną z 50 ml zimnej wody. Następnie dodać łyżkę śmietany, posiekaną natkę pietruszki, zamieszać i wyłączyć źródło ciepła. Sos i schab gotowy - smacznego!
---
+
