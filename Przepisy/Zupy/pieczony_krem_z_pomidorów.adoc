@@ -1,0 +1,24 @@
+= Pieczony krem z pomidorów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* https://www.instagram.com/reel/DXPbsGdiVKU/?igsh=MTdxcHphbjZmd3U2aA==[link do źródła przepisu]
+
+== Składniki
+
+
+
+|
+== Przygotowanie
+
+
+
+|===
+
+[.text-center]
+== Zdjęcia

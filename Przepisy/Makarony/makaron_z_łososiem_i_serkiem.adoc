@@ -1,0 +1,28 @@
+= Makaron z łososiem i serkiem 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* https://www.instagram.com/reel/DP-3-nLiDIL/[link do źródła przepisu]
+
+== Składniki
+
+* świeży łosoś (300g)
+* serek Philadelphia (lub tego typu, 1 na 300g łososia)
+* pomidorki koktajlowe (200g)
+* ugotowany makaron 200 g (lub tyle ile lubisz)
+
+|
+== Przygotowanie
+
+Umieść w naczyniu żaroodpornym, dopraw solą i pieprzem. Piecz przez 25 min.
+Gdy łosoś się upiecze, dodaj ugotowany wcześniej makaron i wymieszaj całość.
+
+|===
+
+[.text-center]
+== Zdjęcia
