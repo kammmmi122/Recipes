@@ -1,15 +1,8 @@
 = Tort Raffaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 20 porcji
 * https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Biszkopt
 * 6 jajek
 * 200 g cukru
@@ -56,7 +54,6 @@
 
 |
 == Przygotowanie
-
 === Biszkopt
 
 Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.
@@ -123,6 +120,7 @@ Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozost
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]
 image::/Recipes/static/images/20240530_115143.jpg[]

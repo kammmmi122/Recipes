@@ -1,15 +1,8 @@
 = Kokosanka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * czas pieczenia: 50 minut
 * źródło przepisu: zeszyt mamy
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Ciasto:
 
 * 1 kostka Kasi
@@ -36,9 +34,9 @@
 * 6 białek
 * 3/4 szklanki cukru
 * 200 g wiórków kokosowych
+
 |
 == Przygotowanie
-
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
 Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego połączenia. Do utartej masy dodać mąkę, proszek do pieczenia, dżem, rodzynki. Wszystkie składniki utrzeć.
@@ -51,6 +49,7 @@ Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, n
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20231209_214411.jpg[]
 image::/Recipes/static/images/20231210_184314.jpg[]
 image::/Recipes/static/images/20231210_184321.jpg[]

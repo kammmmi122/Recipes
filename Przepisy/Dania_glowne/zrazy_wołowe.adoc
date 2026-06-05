@@ -1,15 +1,8 @@
 = Zrazy wołowe 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 6 porcji
 * https://kuchnialidla.pl/zwijane-zrazy-wolowe[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * cebula - 2 szt.
 * pieprz czarny - 1 szczypta
 * ogórek kiszony - 2 szt.
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Cebulę kroimy w piórka, a ogórki kiszone w cienkie paski. Podsmażamy na odrobinie smalcu, doprawiamy solą i pieprzem.
 
 Mięso kroimy w plastry o szerokości ok. 1,5 cm i rozbijamy tłuczkiem. Każdy plaster mięsa smarujemy musztardą i posypujemy majerankiem. Układamy kolejno plastry boczku oraz podsmażoną cebulę z ogórkiem. Zrazy zwijamy i związujemy sznurkiem. Oprószamy mąką i obsmażamy z każdej strony na rozgrzanym smalcu na brązowy kolor. Układamy w naczyniu żeliwnym, podlewamy wodą i dusimy na wolnym ogniu do miękkości przez ok. 1,5 godziny.
@@ -45,5 +42,7 @@ Zrazy wyjmujemy. Powstały sos redukujemy, doprawiamy musztardą i majerankiem.
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

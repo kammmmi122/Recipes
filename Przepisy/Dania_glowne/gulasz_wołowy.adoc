@@ -1,15 +1,8 @@
 = Gulasz wołowy 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/gulasz-wolowy[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg wołowiny gulaszowej
 * 150 g wędzonego boczku
 * 2 łyżki oleju roślinnego
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Mięso pokroić w większą kostkę (ok. 3 - 4 cm). Boczek pokroić w kosteczkę, włożyć do dużego garnka z grubym dnem i co chwilę mieszając wytapiać go na małym ogniu przez ok. 3 minuty.
 
 Zwiększyć ogień, wlać olej i stopniowo wkładać po kilka kawałków mięsa. Obsmażyć z każdej strony, w sumie przez ok. 10 minut. W międzyczasie doprawić solą oraz pieprzem.
@@ -51,5 +48,7 @@ Po podanym czasie dodać do gulaszu pokrojoną paprykę oraz pokrojone pieczarki
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

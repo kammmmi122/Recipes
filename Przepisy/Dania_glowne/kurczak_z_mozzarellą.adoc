@@ -1,15 +1,8 @@
 = Kurczak z mozzarellą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 filety z kurczaka (ok. 400 g)
 * oliwa, masło, jajko, bułka tarta
 * 1 puszka krojonych pomidorów
@@ -30,7 +28,6 @@
 
 |
 == Przygotowanie
-
 Filety z kurczaka oczyścić z błonek i kostek, odkroić polędwiczkę, przekroić wzdłuż na 2 cieńsze filety, rozbić je w najgrubszej części na kotlety o mniej więcej podobnej grubości. Doprawić je solą, pieprzem i łyżeczką suszonego oregano.
 
 Ugotować sos pomidorowy: w rondelku na łyżce oliwy delikatnie podsmażyć starty czosnek, dodać łyżeczkę suszonego oregano oraz pomidory z puszki. Doprawić solą, pieprzem, szczyptą płatków chili (lub do smaku) oraz w razie potrzeby szczyptą cukru, zagotować. Gotować przez ok. 10 minut pod uchyloną pokrywą.
@@ -47,5 +44,7 @@ Wstawić do nagrzanego piekarnika i piec przez 15 minut.
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

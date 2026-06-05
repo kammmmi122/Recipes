@@ -1,15 +1,8 @@
 = Butter chicken 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 3 porcje
 * https://www.kwestiasmaku.com/przepis/butter-chicken[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 500 g filetu z piersi kurczaka
 * 1 łyżka tartego imbiru
 * 2 ząbki czosnku
@@ -40,7 +38,6 @@
 
 |
 == Przygotowanie
-
 Filety z piersi kurczaka oczyścić z błonek i kostek i pokroić na ok. 2 - 3 cm kawałki. Natrzeć startym imbirem i czosnkiem, doprawić solą, pieprzem i garam masalą. Skropić sokiem z cytryny, polać oliwą i włożyć do miski. Dodać jogurt i dokładnie wymieszać. Przykryć i odstawić do lodówki na minimum 2 godziny a najlepiej na całą noc. Orzechy nerkowca zalać wodą i również zostawić do namoczenia na całą noc.
 
 Wyjąć kurczaka z lodówki i ocieplić w temperaturze pokojowej. W garnku rozgrzać łyżkę masła klarowanego i zeszklić pokrojoną cebulę. Dodać przyprawy oraz orzechy nerkowca i chwilę podsmażyć mieszając, następnie dodać pomidory oraz bulion. Wymieszać, zagotować i zostawić na małym gazie pod przykryciem na ok. 10 minut. Zmiksować na gładki sos w blenderze stojącym.

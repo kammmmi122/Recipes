@@ -1,15 +1,8 @@
 = Ragu alla bolognese 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 6 porcji
 * https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * oliwa z oliwek
 * 1 średnia cebula
 * 1 średnia marchewka
@@ -36,7 +34,6 @@
 
 |
 == Przygotowanie
-
 Cebulę, marchewkę myjemy i kroimy w drobną kostkę.
 
 W żeliwnym garnku rozgrzewamy kilka łyżek oliwy. Wrzucamy warzywa, podsmażamy ok. 10 minut.
@@ -57,5 +54,7 @@ Jeśli robicie ragu dzień wcześniej, przed podaniem podgrzejcie je. Jeśli bę
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

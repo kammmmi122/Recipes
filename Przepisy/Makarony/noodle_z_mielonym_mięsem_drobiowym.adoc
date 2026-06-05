@@ -1,15 +1,8 @@
 = Noodle z mielonym mięsem drobiowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 łyżki oleju roślinnego
 * 200 g mielonego mięsa drobiowego
 * 2 ząbki czosnku
@@ -36,7 +34,6 @@
 
 |
 == Przygotowanie
-
 Rozgrzać wok z olejem, włożyć mięso oraz przeciśnięty przez praskę czosnek, obrany i drobno starty imbir, sól i pieprz. Smażyć na dużym ogniu co chwilę mieszając, mniej więcej przez ok. 8 minut.
 
 Dodać pokrojone liście pak choi i pokrojoną na kawałeczki paprykę. Smażyć mieszając przez ok. 2 - 3 minuty.
@@ -51,5 +48,7 @@ Wlać sos, wymieszać i podgrzać. Posypać szczypiorkiem i sezamem lub orzeszka
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

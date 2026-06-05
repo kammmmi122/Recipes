@@ -1,15 +1,8 @@
 = Sałatka z kurczakiem i pomarańczą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 pomarańcze
 * 400 g filetu z piersi kurczaka (np. polędwiczki)
 * 50 g rukoli
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Pomarańcze obrać ze skórek a następnie wyfiletować (ostrym nożem wykroić cząstki miąższu pomiędzy błonkami). Z resztek pomarańczy wycisnąć sok i zachować go do sosu (około 4 - 5 łyżek).
 
 Do soku z pomarańczy dodać resztę składników sosu, czyli: oliwę, miód i musztardę, następnie doprawić solą oraz pieprzem.
@@ -53,5 +50,7 @@ Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszo
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

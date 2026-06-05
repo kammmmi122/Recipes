@@ -1,15 +1,8 @@
 = Gołąbki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 14 sztuk
 * https://www.kwestiasmaku.com/kuchnia_polska/golabki/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 700 g mielonej wieprzowiny (łopatka, szynka lub karczek)
 * 100 g ryżu
 * 2 cebule
@@ -31,7 +29,6 @@
 
 |
 == Przygotowanie
-
 Mięso włożyć do większej miski. Ryż ugotować, ostudzić i dodać do mięsa. Cebulę obrać, zetrzeć na tarce, dodać do mięsa z ryżem. Doprawić solą (około pół łyżeczki), pieprzem (1/4 łyżeczki). Wszystko wymieszać i dobrze wyrobić dłonią. Uformować niewielkie podłużne kotlety.
 
 Wyciąć głąb ze środka kapusty, następnie włożyć ją do dużego garnka z wrzątkiem (wyciętą stroną do dołu), gotować przez około 10 minut na małym ogniu. Przewrócić kapustę na drugą stronę i gotować przez ok. 5 minut. Wyjąć kapustę z wrzątku i po przestudzeniu rozebrać ją z liści, odciąć delikatnie zgrubienia z każdego liścia, następnie nakładać przygotowane porcje mięsa.
@@ -48,5 +45,7 @@ Jeśli dodajemy śmietanę należy rozprowadzać ją stopniowo z sosem, dodając
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

@@ -1,15 +1,8 @@
 = Tatar ze śledzia 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/ryby_i_owoce_morza/sledzie/tatar_ze_sledzia/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 filety śledziowe (np. w oleju lub marynowane w occie lub wypłukanych z soli)
 * 2 łyżeczki posiekanej natki
 * świeżo zmielony czarny pieprz
@@ -29,9 +27,9 @@
 * 3 łyżki marynowanych podgrzybków + 1 łyżka cebulki marynowanej
 * 1 łyżka posiekanego szczypiorku
 * olej lniany
+
 |
 == Przygotowanie
-
 Filety marynowane w occie dokładnie osuszyć papierowym ręcznikiem, filety w oleju po prostu odsączyć i wyjąć na deskę. Każde śledzie spróbować i ocenić czy nie są za słone.
 
 Śledzie drobniutko posiekać razem z natką pietruszki, dodać świeżo zmielony pieprz, musztardę, sok z cytryny i cukier i wszystko razem wymieszać siekając.
@@ -44,6 +42,7 @@ Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na ta
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20231216_212653.jpg[]
 
 --

@@ -1,15 +1,8 @@
 = Kaszotto z grzybami leśnymi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.cafebabilon.pl/kaszotto-z-grzybami-lesnymi/[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 500 g grzybów leśnych, świeżych lub mrożonych
 * po 2 łyżki masła i oleju
 * 2 szalotki (można zastąpić zwykłą cebulą)
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Świeże grzyby oczyść i opłucz, a mrożone wyłóż na sito, aby się rozmroziły. Następnie duże pokrój w mniejsze kawałki, małe mogą pozostać w całości.
 Szalotkę obierz, pokrój w kostkę i oprósz solą.
 Na dużej patelni rozgrzej masło z olejem. Dodaj szalotkę i na małym ogniu smaż aż zmięknie.
@@ -41,5 +38,7 @@ Przed podaniem posyp świeżo mielonym pieprzem, a na talerzach obficie posyp na
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

@@ -1,15 +1,8 @@
 = Sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * czas pieczenia ciasta: 30 minut: 130°C, dolna grzałka, druga od dołu półka, blacha z wrzątkiem na dnie piekarnika, 60 minut: 130°C, górna i dolna grzałka
 * https://www.youtube.com/watch?v=-CXjNP2rEU0[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Masa serowa:
 
 * 1 kg sera tłustego, gęstego
@@ -38,7 +36,6 @@
 
 |
 == Przygotowanie
-
 Zaczynam od przygotowania ciasta kruchego.
 
 Wszystkie składniki przekładam do minimalaksera.
@@ -115,6 +112,7 @@ Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie 
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20231006_223932.jpg[]
 image::/Recipes/static/images/20231014_215500.jpg[]
 

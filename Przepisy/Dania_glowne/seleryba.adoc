@@ -1,15 +1,8 @@
 = Seleryba 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 6 porcji
 * https://www.jadlonomia.com/przepisy/seleryba[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg selera
 * 2 litry bulionu warzywnego
 * 2 arkusze nori + 5 arkuszy do owijania kotletów
@@ -31,7 +29,6 @@
 
 |
 == Przygotowanie
-
 Seler obrać, przekroić na pół i pokroić na 1 cm plastry. W dużym garnku zagotować bulion razem z 2 arkuszami wodorostów nori, liśćmi laurowymi, zielem angielskim, kolendrą oraz sosem sojowym. Do gotującego się bulionu dodać plastry selera i gotować do momentu, aż będą bardzo miękkie, czyli około 15 - 20 minut.
 
 Miękkie plastry selera delikatnie wyjąć i chwilę ostudzić. W tym czasie arkusze nori pociąć na węższe paski, następnie naszykować dwie miseczki, do jednej wlać trochę mleka, a do drugiej wsypać mąkę.
@@ -44,5 +41,7 @@ Na dużej patelni mocno rozgrzać olej i układać gotowe plastry selera. Obsma�
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

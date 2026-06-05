@@ -1,15 +1,8 @@
 = Tortilki ser bekon ala KFC 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 6 sztuk
 * https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * pierś z kurczaka - 720 g
 * wrapy - 6 szt.
 * chipsy STRONG EXTRA HOT Pepperoni - 40 g
@@ -52,7 +50,6 @@
 
 |
 == Przygotowanie
-
 Zaczynam od kurczaka. Staram się kroić piersi na 60 g kawałki.
 
 Teraz marynata, zaprawa musztarda 100 g ,do tego wleję na razie 200 ml maślanki, aby lepiej się mieszało. No i nasze przyprawy (mnóstwo prochu), które dadzą świetny smak.
@@ -94,5 +91,7 @@ Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

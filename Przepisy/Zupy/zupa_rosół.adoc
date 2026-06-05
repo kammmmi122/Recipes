@@ -1,15 +1,8 @@
 = Zupa rosół 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/kuchnia_polska/rosol/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kurczak o wadze około 2 kg 
 * 3 litry wody
 * 2 włoszczyzny:
@@ -26,7 +24,6 @@
 
 |
 == Przygotowanie
-
 Jeśli mamy całego kurczaka należy go pokroić na części - odciąć szyję, skrzydełka, uda. Korpus pozostawić razem z piersiami.
 
 Wszystkie części opłukać, następnie włożyć do dużego garnka i zalać zimną wodą. Posolić i zagotować na średnim ogniu.
@@ -43,5 +40,7 @@ Rosół podawać gorący, z ugotowanym makaronem, posiekaną natką, pokrojoną 
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

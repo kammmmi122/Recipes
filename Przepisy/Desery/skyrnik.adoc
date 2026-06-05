@@ -1,15 +1,8 @@
 = Skyrnik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +11,13 @@
 * keksówka 10 x 30 cm
 * https://aniagotuje.pl/przepis/skyrnik-z-morelami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 800 g Skyru naturalnego
 * 3 duże lub 4 małe jajka - do 200 g po rozbiciu
 * 100 g cukru
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Zacznij już nagrzewać piekarnik do 170 stopni z opcją pieczenia góra/dół lub ustaw 160 stopni z termoobiegiem.
 W jednym naczyniu umieść wszystkie składniki na masę skyrnikową. Będzie to: 800 gramów Skyru naturalnego; 3 duże lub 4 małe jajka; 100 gramów zwykłego cukru; saszetka budyniu waniliowego lub śmietankowego bez cukru o wadze około 40 gramów. Wszystko razem miksuj krótko na niskich obrotach, tylko do momentu, gdy masa zrobi się jednolita.
 

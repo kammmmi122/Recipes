@@ -1,8 +1,13 @@
 = Burgerki 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 35 minut
+* 4 porcje
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +15,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 35 minut
-* 4 porcje
-
 == Składniki
-
 * 4 bułki hamburgerowe lub zwykłe
 * 400 g mięsa mielonego wołowego
 * sól i pieprz
@@ -30,14 +28,15 @@
 
 |
 == Przygotowanie
-
 Mięso mielone wrzucamy do dużej miski. Dodajemy sól i pieprz. Formujemy podłużne kotlety burgerowe. Na rozgrzanej patelni kładziemy burgery do smażenia. Obrabiamy z każdej strony przez 2 minuty. Na jednej ze stron roztapiamy ser.
 
-Bułki grilluję w piekarniku lub opiekaczu, następnie każdą przecinam i smaruję obydwie połówki sosem 
+Bułki grilluję w piekarniku lub opiekaczu, następnie każdą przecinam i smaruję obydwie połówki sosem
 
 |===
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

@@ -1,15 +1,8 @@
 = Placki z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje, 10 sztuk
 * https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 3 łyżki (30 g) mąki pszennej
 * 1 jajko
 * 2 łyżki mleka
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Mąkę wsypać do miski, wymieszać ze szczyptą soli, świeżo zmielonym pieprzem, a następnie z roztrzepanym jajkiem (najlepiej za pomocą rózgi). Wlać mleko i wymieszać na jednolite ciasto.
 
 Odważyć potrzebną ilość cukinii (nie więcej!). Umyć, osuszyć, odciąć końce i zetrzeć na dużych oczkach tarki. Tak samo zetrzeć cebulę. Cukinię i cebulę po starciu delikatnie odcisnąć w dłoniach z nadmiaru wody.
@@ -42,6 +39,7 @@ Rozgrzać patelnię z olejem lub oliwą. Nakładać po łyżce (nie więcej!) ma
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20240725_185950.jpg[]
 
 --

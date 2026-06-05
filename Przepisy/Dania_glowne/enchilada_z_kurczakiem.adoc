@@ -1,15 +1,8 @@
 = Enchilada z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 3 - 5 porcji
 * https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 5 dużych tortilli
 * 100 g ryżu długoziarnistego
 * 500 g filetu z piersi kurczaka
@@ -49,7 +47,6 @@
 
 |
 == Przygotowanie
-
 Nastawić do ugotowania ryż. Kurczaka pokroić na 2 cm paski. Doprawić go solą, pieprzem oraz mieszanką przypraw i nasmarować 2 łyżkami oleju roślinnego.
 
 Rozgrzać patelnię z grubym dnem. Gdy będzie gorąca wlać łyżkę oleju, włożyć kurczaka i obsmażyć go z każdej strony, przez ok. 5 minut. Zdjąć z patelni i odłożyć na bok.
@@ -68,5 +65,7 @@ Piekarnik nagrzać do 180 stopni C. W formie lub na blaszce ułożyć zwinięte 
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

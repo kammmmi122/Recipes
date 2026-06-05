@@ -1,15 +1,8 @@
 = Gołąbki bez zawijania 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * liczba porcji: około 21 gołąbków z sosem
 * https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 800 g łopatki wieprzowej
 * 800 g kapusty (około pół główki) - młoda lub stara + łyżeczka soli
 * 2 średnie cebule - 250 g
@@ -35,7 +33,6 @@
 
 |
 == Przygotowanie
-
 Potrzebujesz około 800 gramów mięsa wieprzowego. Według mnie najlepsza do gołąbków bez zawijania jest łopatka wieprzowa. Zakupiłam dość tłustą łopatkę, ponieważ taką właśnie lubimy, ale możesz też wybrać w sklepie znacznie chudszy kawałek mięsa. Na gołąbki bez zawijania nada się również mieszanka karkówki z chudą szynką lub też  biodrówka, którą gorąco polecam. 
 
 Mięso zmiel w maszynce na średnich oczkach. Jeśli nie masz maszynki, to polecam zakup mięsa u rzeźnika z możliwością zmielenia mięsa na miejscu w sklepie. 
@@ -70,11 +67,13 @@ Na koniec możesz jeszcze zagęścić sos pomidorowy dodając płaską łyżkę 
 
 Gołąbki bez zawijania podaję z ziemniakami lub kluskami śląskimi. Kopytka oraz makaron lub kasza gryczana też pasują. W sezonie na świeże pomidory bardzo często dodaję je do sosu na sam koniec lub też bezpośrednio na talerz przed podaniem. Polecam też ogórki kiszone i małosolne. Całość posyp też koperkiem, szczypiorkiem lub natką pietruszki. 
 
-Aby zrobić gołąbki bez zawijania w piekarniku wystarczy, że po podsmażeniu na patelni kotlecików gołąbkowych ułożysz je jeden obok drugiego w dużym naczyniu żaroodpornym. Gołąbki zalej sosem pomidorowym. Sos pomidorowy to: 2 szklanki bulionu; 2 szklanki przecieru pomidorowego; 4 łyżki koncentratu; 4 łyżki śmietanki słodkiej 30 %, po łyżeczce soli i oregano oraz pół łyżeczki pieprzu. Gołąbki bez zawijania umieść na środkowej półce w piekarniku nagrzanym do 180 stopni. Ustaw opcję pieczenia góra/dół. Naczynie z gołąbkami piecz bez przykrycia przez około 35 minut. 
+Aby zrobić gołąbki bez zawijania w piekarniku wystarczy, że po podsmażeniu na patelni kotlecików gołąbkowych ułożysz je jeden obok drugiego w dużym naczyniu żaroodpornym. Gołąbki zalej sosem pomidorowym. Sos pomidorowy to: 2 szklanki bulionu; 2 szklanki przecieru pomidorowego; 4 łyżki koncentratu; 4 łyżki śmietanki słodkiej 30 %, po łyżeczce soli i oregano oraz pół łyżeczki pieprzu. Gołąbki bez zawijania umieść na środkowej półce w piekarniku nagrzanym do 180 stopni. Ustaw opcję pieczenia góra/dół. Naczynie z gołąbkami piecz bez przykrycia przez około 35 minut.
 
 |===
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

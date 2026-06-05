@@ -1,15 +1,8 @@
 = Skrzydełka w miodzie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,14 +10,18 @@
 * 4 porcje
 * https://www.winiary.pl/przepisy/soczyste-skrzydelka-z-miodem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg skrzydełek
 * 2 WINIARY POMYSŁ NA… soczyste skrzydełka z miodem
 
 |
 == Przygotowanie
-
 Umyj dokładnie skrzydełka. W opakowaniu Pomysł na... znajdziesz woreczek i zapinkę. Umieść skrzydełka w woreczku, dodaj zawartość opakowania i zamknij zapinką.
 
 Delikatnie obracając woreczek, równomiernie rozprowadź przyprawę na skrzydełkach.
@@ -37,5 +34,7 @@ Po wyjęciu z piekarnika ostrożnie odetnij końcówkę z zapinką. Soczyste skr
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

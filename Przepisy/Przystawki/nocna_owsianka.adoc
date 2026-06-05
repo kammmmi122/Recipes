@@ -1,15 +1,8 @@
 = Nocna owsianka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +11,13 @@
 * 1 duża porcja na każdy przepis
 * https://aniagotuje.pl/przepis/nocna-owsianka[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Owocowa
 * 200 ml mleka
 * 2 łyżki jogurtu naturalnego - do 30 g
@@ -36,10 +34,8 @@
 * pół garści orzechów np. nerkowca - około 20 g
 * 20 g odżywki białkowej bez smaku
 
-
 |
 == Przygotowanie
-
 === Nocna owsianka z chia i owocami
 Słoik z nakrętką umyj dokładnie i osusz. Pojemność około 450 ml.
 Do słoika wsyp jedną łyżkę nasion chia oraz 70 gramów płatków owsianych zwykłych lub górskich, czyli około 7 płaskich łyżek. Wlej 200 ml mleka  Mleko może być wrzące lub gorące, albo zimne. Jeśli wlewasz wrzątek, to poczekaj około 10 minut, zanim dodasz resztę składników.

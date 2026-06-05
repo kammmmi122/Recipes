@@ -1,15 +1,8 @@
 = Zupa fasolkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 łyżka oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -35,7 +33,6 @@
 
 |
 == Przygotowanie
-
 W garnku na oliwie i maśle poddusić pokrojoną w kosteczkę cebulę. Pora opłukać, obrać z zewnętrznych grubszych warstw i odciąć zielone końce. Pozostałą białą i jasnozieloną część przekroić wzdłuż na 4 części, opłukać je i pokroić na plasterki.
 
 Dodać do garnka z cebulą i razem podsmażać przez ok. 2 minuty. Pod koniec dodać przeciśnięty przez praskę czosnek.
@@ -50,5 +47,7 @@ Odstawić z ognia i dodać posiekany koperek oraz śmietanę (gęstą z kubka na
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

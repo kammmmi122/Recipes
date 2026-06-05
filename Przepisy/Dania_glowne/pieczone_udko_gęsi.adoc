@@ -1,15 +1,8 @@
 = Pieczone udko gęsi 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://akademiasmaku.pl/przepis/udka-z-gesi-pieczone-z-jablkami,4648[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 udka gęsi
 * 2 jabłka
 * 1/2 szklanki soku jabłkowego
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Opłukane mięso natrzyj solą, pieprzem oraz majerankiem. Dodaj ząbki czosnku i odstaw do lodówki na godzinę.
 
 Udka skórą do dołu ułóż w naczyniu do zapiekania. Podlej sokiem, dodaj gałązki rozmarynu, przykryj i wstaw na 2 godziny do piekarnika nagrzanego do 120 stopni. Następnie udka odwróć i piecz jeszcze godzinę.
@@ -38,5 +35,7 @@ Udka skórą do dołu ułóż w naczyniu do zapiekania. Podlej sokiem, dodaj ga�
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

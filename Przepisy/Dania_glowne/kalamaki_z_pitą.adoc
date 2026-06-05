@@ -1,15 +1,8 @@
 = Kalamaki z pitą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * inspirowane grecką restauracją Souvlaki Kostas
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 4 pity
 * 4 souvlaki
 * 2 pomidory
@@ -30,9 +28,7 @@
 
 |
 == Przygotowanie
-
 Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawiń.
-
 
 |===
 

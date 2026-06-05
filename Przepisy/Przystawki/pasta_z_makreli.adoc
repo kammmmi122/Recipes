@@ -1,8 +1,13 @@
 = Pasta z makreli 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 25 minut
+* 6 porcji
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +15,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 25 minut
-* 6 porcji
-
 == Składniki
-
 * 1 makrela
 * 3 jajka na twardo
 * por (biała część)
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Makrelę bez ości podzielić widelcem. Ogórki obrać i potrzeć na tarce lub pokroić w kostkę. Jajka i por pokroić. Składniki dodać do miski wraz z majonezem, solą, pieprzem, koncentratem i wymieszać.
 
 |===

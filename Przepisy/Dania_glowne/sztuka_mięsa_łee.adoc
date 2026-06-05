@@ -1,8 +1,13 @@
 = Sztuka mięsa łee 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 1,5 godziny
+* 4 porcje
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +15,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 1,5 godziny
-* 4 porcje
-
 == Składniki
-
 * 1 kg mięsa wieprzowego (szynka, łopatka)
 * 25 g suszonych grzybów (opcjonalnie)
 * losowe przyprawy
@@ -25,13 +23,13 @@
 
 |
 == Przygotowanie
-
 Mięso natrzyj losowymi przyprawami. Włóż do brytfanki, dodaj grzyby albo nie i piecz przez 1,5 godziny, co jakiś czas sprawdzając stan mięsa.
-
 
 |===
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

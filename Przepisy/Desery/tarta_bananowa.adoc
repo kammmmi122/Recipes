@@ -1,15 +1,8 @@
 = Tarta bananowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 20 porcji
 * https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Spód
 
 * 350 g ciastek typu Oreo (lub Neo)
@@ -38,7 +36,6 @@
 
 |
 == Przygotowanie
-
 Ugotować budyń według przepisu. Odstawić z ognia i przełożyć do miski (tylko nie metalowej). Dokładnie ostudzić, wstawić do lodówki.
 
 === Spód 
@@ -57,5 +54,7 @@ Banany pokroić na plasterki, włożyć do miski i dokładnie obtoczyć w soku z
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

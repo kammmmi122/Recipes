@@ -1,15 +1,8 @@
 = Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +11,13 @@
 * 4 porcje
 * https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg wieprzowiny łopatka, karkówka lub polędwiczka wieprzowa
 
 === Marynata:
@@ -36,7 +34,6 @@
 
 |
 == Przygotowanie
-
 ===Dzień przed podaniem:
 Przygotować marynatę. Do miski dodać sos sojowy, sos hoisin, wino Shaoxing, miód, przyprawę 5 smaków. Dodać czosnek przeciśnięty przez praskę i opcjonalnie odrobinę czerwonego barwnika. Całość dobrze wymieszać.
 Mięso wieprzowe pokroić prostopadle do włókien na podłużne, wysokie kawałki o szerokości ok. 7 cm. Ja z 1 kg wieprzowiny otrzymuje 5-6 takich kawałków.
@@ -56,5 +53,7 @@ Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Do
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

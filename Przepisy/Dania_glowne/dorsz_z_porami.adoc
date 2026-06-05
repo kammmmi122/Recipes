@@ -1,15 +1,8 @@
 = Dorsz z porami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 3 porcje
 * https://www.kwestiasmaku.com/przepis/dorsz-w-kremowym-sosie-z-porami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 400 g filetu (polędwiczki) z dorsza
 * 2 łyżeczki mąki
 * 1 por
@@ -32,7 +30,6 @@
 
 |
 == Przygotowanie
-
 Dorsza rozmrozić jeśli był mrożony i osuszyć. Doprawić solą i pieprzem, obtoczyć w mące.
 
 Odkroić zielone liście pora. Białą i jasnozieloną część przekroić wzdłuż na pół i dokładnie opłukać. Pokroić na cienkie plasterki.
@@ -51,5 +48,7 @@ Kawałki ryby posypać posiekanym szczypiorkiem.
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

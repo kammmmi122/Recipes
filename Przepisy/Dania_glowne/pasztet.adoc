@@ -1,15 +1,8 @@
 = Pasztet 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 12 porcji
 * https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1/2 kg surowego boczku lub podgardla
 * 1 kg wieprzowiny (np. łopatka, karczek, szynka, biodrówka)
 * 1 kg wołowiny (bez kości, np. antrykot, udziec)
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Boczek pokroić i ułożyć na spodzie dużego oraz szerokiego garnka. Mięso wieprzowe i wołowe pokroić na małe kawałki około 3 x 3 cm i położyć na boczku.
 
 Cebule obrać i pokroić na grube plastry, położyć na mięsie. Wlać wodę, dodać sól, listki laurowe oraz ziele angielskie. Zagotować na dużym ogniu.

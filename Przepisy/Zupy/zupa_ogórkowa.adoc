@@ -1,15 +1,8 @@
 = Zupa ogórkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/zupa-ogorkowa[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 łyżka masła
 * 1 łyżka oliwy
 * 1 mała cebula
@@ -31,7 +29,6 @@
 
 |
 == Przygotowanie
-
 W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać obraną i pokrojoną w kosteczkę marchewkę i mieszając smażyć przez ok. 3 minuty.
 
 Wlać gorący bulion i zagotować. Przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.
@@ -46,5 +43,7 @@ Dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z 2 łyżka
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

@@ -1,15 +1,8 @@
 = Sałatka z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/salatka-z-krewetkami-smazonymi-z-czosnkiem-i-papryczka-chili[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 200 g oczyszczonych krewetek
 * 1/2 opakowania miksu sałat
 * 1/2 opakowania rukoli
@@ -32,7 +30,6 @@
 
 |
 == Przygotowanie
-
 Mrożone krewetki rozmrozić (w temp. pokojowej lub pod strumieniem bieżącej, chłodnej wody). Opłukać i oderwać ogonki, osuszyć.
 
 Jeden ząbek czosnku zetrzeć lub przecisnąć przez praskę, drugi pokroić na cienkie plasterki. Papryczkę chili pokroić ukośnie na cienkie plasterki.
@@ -47,5 +44,7 @@ Następnie dodać starty czosnek, wymieszać i smażyć przez pół minuty co ch
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

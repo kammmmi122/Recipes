@@ -1,15 +1,8 @@
 = Papryka faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/papryka-faszerowana-mielonym-miesem-i-ryzem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 4 papryki
 * 500 g mielonego mięsa
 * 2 łyżki oliwy
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Ryż ugotować do miękkości w osolonej wodzie, ok. 10 - 15 minut lub zgodnie z instrukcją na opakowaniu.
 
 Na patelni na oliwie zeszklić pokrojoną cebulę, dodać starty czosnek, po chwili włożyć zmielone mięso i dokładnie obsmażyć.
@@ -53,5 +50,7 @@ Na każdej papryce położyć plasterek sera lub starty ser i zapiekać jeszcze 
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

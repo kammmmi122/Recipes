@@ -1,15 +1,8 @@
 = Ryż z warzywami chińskimi i kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/przepis/smazony-ryz-po-chinsku-z-kurczakiem-i-warzywami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 100 g ryżu (np. jaśminowego, długoziarnistego)
 * 3 łyżki oleju roślinnego
 * 250 g filetu kurczaka
@@ -36,7 +34,6 @@
 
 |
 == Przygotowanie
-
 Z wyprzedzeniem ugotować ryż, odcedzić, wysypać na duży talerz i rozłożyć po całej powierzchni, całkowicie go ostudzić i osuszyć, od czasu do czasu przemieszać.
 
 Filet z kurczaka pokroić w kostkę, doprawić solą i pieprzem, następnie dodać 2 łyżeczki sosu sojowego oraz 2 łyżeczki oleju roślinnego a także mąkę ziemniaczaną i wszystko wymieszać.
@@ -57,5 +54,7 @@ W miseczce wymieszać 2 łyżki sosu sojowego z cukrem oraz octem lub sokiem z c
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

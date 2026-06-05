@@ -1,15 +1,8 @@
 = Makaron aglio olio z pomidorkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 4 porcje
 * https://www.monini.com/pl/r/makaron-aglio-olio-z-pomidorkami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 500 g makaronu typu spaghetti
 * 6 ząbków czosnku
 * 100 ml oliwy
@@ -29,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo drobno czosnek, pomidorki pokroić na pół. Na patelnię lub garnek żeliwny wlać oliwę, delikatnie podgrzać i wrzucić pokrojone warzywa. Smażyć maksymalnie przez minutę na małym ogniu, tak aby jedynie delikatnie wydobyć smak. Ugotowany makaron odlać i wrzucić do sosu, doprawić do smaku solą, dodać posiekaną pietruszkę. Wyłożyć na talerze i posypać tartym serem parmezanem/ pecorino lub grana padano
 
 |===

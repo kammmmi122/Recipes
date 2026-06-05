@@ -4,13 +4,9 @@
 --
 
 [.recipe-details]
-
 == Szczegóły
 
-* czas przygotowania: 30 minut
-* czas gotowania: 3 godziny
-* 8 porcji
-* https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
+
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -37,7 +33,6 @@
 * 1/2 łyżeczki kminku 
 * szczypta ostrej papryki lub płatków chili
 
-
 |
 == Przygotowanie
 Przygotować duży garnek z grubym dnem oraz dużą patelnię. Boczek pokroić w kosteczkę. Całe mięso pokroić w niedużą kostkę.
@@ -57,7 +52,6 @@ Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzi
 |===
 
 [.recipe-gallery]
-
 == Zdjęcia
 
 image::/Recipes/static/images/20231105_103826.jpg[]

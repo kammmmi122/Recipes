@@ -1,8 +1,13 @@
 = Warzywka z piekarnika 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 35 minut
+* 2 porcje
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +15,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 35 minut
-* 2 porcje
-
 == Składniki
-
 * 3 pietruszka
 * 1 seler
 * 3 cukinie
@@ -25,7 +23,6 @@
 
 |
 == Przygotowanie
-
 Warzywa pokroić na części i oprószyć wegetą. Piec 30 minut w piekarniku w  180 stopniach C.
 
 |===

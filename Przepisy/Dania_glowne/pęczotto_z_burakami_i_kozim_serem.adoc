@@ -1,15 +1,8 @@
 = Pęczotto z burakami i kozim serem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 porcje
 * https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * wino białe - 100 ml
 * bulion warzywny - 700 ml
 * cebula - 1 szt.
@@ -28,9 +26,9 @@
 * oliwa z oliwek - 2 łyżki
 * ser kozi - 150 g
 * natka pietruszki - 2 łyżki
+
 |
 == Przygotowanie
-
 Umyte buraki w skórkach układamy na blasze wyłożonej papierem do pieczenia. Pieczemy ok. 40-60 minut (do miękkości) w piekarniku rozgrzanym do 180°C. Studzimy i obieramy.
 
 Cebulę pokrojoną w kostkę smażymy na oliwie na rozgrzanej patelni. Gdy się zeszkli, dodajemy czosnek pokrojony w plasterki. Smażymy ok. 3 minuty.
@@ -47,5 +45,7 @@ Gotowe pęczotto przekładamy na talerze. Na wierzchu układamy kawałki koziego
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

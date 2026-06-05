@@ -1,15 +1,8 @@
 = Zapiekanka makaronowa ze szparagami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 - 3 porcje
 * https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-ze-szparagami-i-lososiem-wedzonym[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 szklanki makaronu kokardki
 * 1 pęczek (500 g) szparagów
 * 100 g wędzonego łososia
@@ -32,8 +30,6 @@
 
 |
 == Przygotowanie
-
-
 Piekarnik nagrzać do 190 stopni C.
 
 Zagotować osoloną wodę w dużym garnku. Wrzucić makaron i gotować al dente (wg. instrukcji na opakowaniu). Na ostatnią minutę gotowania makaronu dodać do niego szparagi: należy je wcześniej opłukać, odłamać twarde końce (same złamią się w odpowiednim miejscu), pokroić na desce na kawałki.
@@ -52,5 +48,7 @@ Po upieczeniu posypać posiekanym koperkiem i szczypiorkiem.
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

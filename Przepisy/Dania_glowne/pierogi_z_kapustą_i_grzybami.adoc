@@ -1,15 +1,8 @@
 = Pierogi z kapustą i grzybami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * ok. 80 sztuk
 * https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_kapusta/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 słoik litrowy suszonych grzybów (ok. 100 g)
 * 1 kg kiszonej kapusty
 * 1 marchewka
@@ -34,7 +32,6 @@
 
 |
 == Przygotowanie
-
 Grzyby opłukać, zalać zimną wodą i odstawić na 6 godzin lub na całą noc. Następnego dnia zagotować, dodać obraną marchewkę, pietruszkę i gotować aż będą miękkie. Pod koniec gotowania doprawić solą i pieprzem.
 
 Kapustę odcisnąć i ugotować w 300 ml wody do miękkości z dodatkiem soli do smaku (ok. 45 minut), dokładnie odcisnąć.
@@ -57,5 +54,7 @@ Podawać z zeszkloną na oleju pokrojoną w drobną kostkę cebulą.
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

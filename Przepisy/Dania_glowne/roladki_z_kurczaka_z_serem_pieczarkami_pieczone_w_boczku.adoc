@@ -1,15 +1,8 @@
 = Roladki z kurczaka z serem, pieczarkami pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 3 porcje
 * https://www.kwestiasmaku.com/przepis/roladki-z-kurczaka-z-pieczarkami-i-serem-pieczone-w-boczku[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 3 pojedyncze filety z kurczaka
 * 1 łyżeczka przyprawy do kurczaka np. gyros
 * ok. 150 g wędzonego boczku (cienko pokrojony, paczkowany)
@@ -32,7 +30,6 @@
 
 |
 == Przygotowanie
-
 Filety oczyścić z kostek i chrząstek jeśli takie się znajdują. Naciąć każdy filet z boku tworząc głębszą kieszonkę na nadzienie. Doprawić solą, pieprzem i natrzeć przyprawą.
 
 Pieczarki umyć, osuszyć i pokroić najpierw na 4 części, następnie na plasterki. Wrzucić na patelnię i mieszając co chwilę smażyć do czasu aż całkowicie odparują. Gdy na patelni nie będzie już wody, dodać łyżkę masła oraz pokrojoną w kosteczkę cebulę. Dalej smażyć aż pieczarki i cebula zaczną się rumienić. W międzyczasie doprawić solą i pieprzem.
@@ -45,5 +42,7 @@ Piekarnik nagrzać do 200 stopni C. Cukinię pokroić w kostkę, doprawić solą
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

@@ -1,15 +1,8 @@
 = Szybki piernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +10,13 @@
 * 2 nieduże pierniki
 * https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 szklanka miodu
 * 3/4 szklanki cukru
 * 1 szklanka mleka
@@ -42,7 +40,6 @@
 
 |
 == Przygotowanie
-
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 Miód, cukier, mleko, masło, przyprawę korzenną i cynamon umieścić w garnku i postawić na palniku. Podgrzewać, mieszając, do rozpuszczenia się poszczególnych składników i otrzymania gładkiej mieszanki. Zdjąć z palnika i lekko przestudzić.
@@ -59,5 +56,7 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 
 [.recipe-gallery]
 == Zdjęcia
+
+
 
 --

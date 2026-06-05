@@ -1,15 +1,8 @@
 = Bułki cynamonowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +11,13 @@
 * 24 bułeczki
 * https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 35 g drożdży świeżych lub około 10 g drożdży suszonych
 * 2 łyżki mąki pszennej - około 30 g
 * 2 łyżki cukru - około 30 g
@@ -39,7 +37,6 @@
 
 |
 == Przygotowanie
-
 Zacznij od szykowania rozczynu do bułek cynamonowych. W jednej misce umieść razem: 5 łyżek mleka (mleko może być lekko ciepłe, ale nie może być gorące); dwie łyżki mąki pszennej, czyli około 30 gramów mąki; 35 gramów świeżych drożdży lub około 10 gramów drożdży suszonych; 2 łyżki cukru drobnego, czyli około 30 gramów cukru.
 
 Drożdże rozetrzyj z resztą składników. Całość dobrze wymieszaj, przykryj ściereczką lub folią i odstaw w ciepłe miejsce na około 20 minut (lub dłużej). Po tym czasie rozczyn powinien urosnąć i bardzo się spienić. Powstanie Ci wysoka pianka.
