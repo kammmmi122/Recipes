@@ -1,0 +1,37 @@
+= Curry tare 🍛 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* masło 5 łyżek
+* biała cebula 0,1 kg
+* imbir 2 łyżki
+* czosnek 4 ząbki
+* curry 3 łyżki
+* mąka 2 łyżki
+* garam masala 1 łyżka
+* dashi bulion 0,3 litra
+* banan 0,1 kg
+* jabłko 0,1 kg
+* miso jasne 2 łyżki
+* miso ciemne 2 łyżki
+* tare sojowe 0,3 litra
+* ocet ryżowy 0,1 litra
+* olej chili 2 łyżeczki
+
+
+== Przygotowanie
+Podsmażamy cebulę, czosnek i imbir na maśle. Dodajemy curry, mąkę, garam masalę i podsmażamy kilka minut. Dodajemy resztę składników i miksujemy.
+
+|===
+
+[.text-center]
+== Zdjęcia

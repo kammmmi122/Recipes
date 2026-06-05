@@ -1,0 +1,44 @@
+= Dashi Shoyu Ramen 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+
+== Bulion
+Bulion minimalistyczny na wywarze z kombu i katsuobushi, często z dodatkiem kurczaka lub ryb, z dodatkiem sosu sojowego. Shoyu oznacza sos sojowy, nadaje bulionowy ciemniejszy kolor, oraz intensywniejszy smak.
+
+== Dodatki
+* narutomaki (ciastko rybne z różowym spiralnym wzorem)
+* jajko marynowane w soi
+* krewetki w panko
+* soft shell crab w tempurze
+* dymka (posiekana)
+* goma tare
+* shoyu tare
+* olej chili
+
+== Makaron
+Zwykle lekko pofalowany, średniej grubości makaron.
+
+
+== Wywar (składniki)
+* woda 3 litry
+* kombu 0,2 kg
+* bonito (katsuobushi) 2 kubki
+* sos sojowy 0,5 kubka
+
+== Przygotowanie
+Do garnka wkładamy kombu i zalewamy wodą. Gotujemy na minimalnym ogniu przez około 1 godzinę. Wyciągamy kombu, dodajemy bonito i doprowadzamy do wrzenia. Studzimy i odcedzamy.
+
+|===
+
+[.text-center]
+== Zdjęcia

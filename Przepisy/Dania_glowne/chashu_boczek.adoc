@@ -1,0 +1,26 @@
+= Chashu boczek 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* boczek 0,5 kg
+* woda 0,25 litra
+* sos sojowy 0,25 litra
+* cukier 2 łyżki
+
+
+== Przygotowanie
+Zwijamy boczek i wiążemy sznurkiem. Mieszamy wszystkie składniki zalewy, zalewamy boczek i zawijamy folią aluminiową, pieczemy w temp. 180 st.C około 1 godziny, zdejmujemy folię i przekładamy na drugą stronę, pieczemy kolejne 30 minut. Boczek ma być miękki na tyle, że pałeczka przejdzie na wylot. Studzimy, ściągamy sznurek i zwijamy ciasno folią spożywczą.
+
+|===
+
+[.text-center]
+== Zdjęcia

@@ -1,0 +1,25 @@
+= Shoyu tare 🧂 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* sos sojowy 0,5 litra
+* cukier 2 łyżki
+* mirin 0,1 litra
+
+
+== Przygotowanie
+Rozpuszczamy cukier w połowie sosu sojowego na wolnym ogniu. Dodajemy resztę składników.
+
+|===
+
+[.text-center]
+== Zdjęcia

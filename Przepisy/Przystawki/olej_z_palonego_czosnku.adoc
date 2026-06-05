@@ -1,0 +1,27 @@
+= Olej z palonego czosnku 🧄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* czosnek 10 ząbków (obrany i posiekany)
+* olej 0,15 litra
+* olej sezamowy 50 ml
+* czarny sezam 1 łyżeczka
+* sól szczypta
+
+
+== Przygotowanie
+Na oleju podgrzewamy czosnek, podgrzewamy. Smażymy powoli kilka minut, aż czosnek będzie mocno brązowy, przestajemy podgrzewać. Dodajemy olej sezamowy oraz opcjonalnie czarny sezam. Odstawiamy na 10 minut, żeby wszystko przeszło aromatem. Miksujemy na gładko.
+
+|===
+
+[.text-center]
+== Zdjęcia

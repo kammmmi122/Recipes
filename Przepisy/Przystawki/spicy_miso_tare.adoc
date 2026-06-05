@@ -1,0 +1,33 @@
+= Spicy miso tare 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* chili płatki 1 łyżka
+* mirin 4 łyżki
+* czosnek 1 ząbek
+* chili (posiekana z nasionami) 1 sztuka
+* ciemne miso 2 łyżki
+* jasne miso 6 łyżek
+* sos sojowy 5 łyżek
+* olej sezamowy 1 łyżka
+* imbir (posiekany) 1 łyżka
+* szczypiorek 3 łyżki (posiekany)
+* tare sojowe 5 łyżek
+
+
+== Przygotowanie
+Miksujemy wszystkie składniki.
+
+|===
+
+[.text-center]
+== Zdjęcia

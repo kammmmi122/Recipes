@@ -1,0 +1,46 @@
+= Kinoko Ramen 🍄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+
+== Bulion
+to prosty, wegański wywar przygotowywany na bazie suszonych grzybów shiitake. Jest on powszechnie używany w kuchni japońskiej jako podstawa zup, sosów czy ramenu wegetariańskiego.
+
+== Dodatki
+* shitake marynowane
+* pak choi (podsmażony)
+* tofu silken (pokrojone w kostkę)
+* menma (fermentowane pędy bambusa)
+* shoyu tare
+* sezam prażony
+* olej nori
+
+== Makaron
+Soba, który ma delikatnie orzechowy posmak, który świetnie komponuje się z aromatem grzybów.
+
+
+== Wywar (składniki)
+* czosnek przypalany 1 główka
+* por 1 sztuka średni (przypalany)
+* shitake suszone 0,1 kg
+* mirin 4 łyżki
+* cebula 0,3 kg (przypalana)
+* sojowe tare 4 łyżki
+* woda 3 litry
+
+== Przygotowanie
+Wszystkie składniki zalewamy 3 litrami wody i gotujemy około 1 godziny (na małej temperaturze). Przykrywamy i odstawiamy na minimum 2 godziny. Odcedzamy składniki (grzyby, które można użyć do innych dań).
+
+|===
+
+[.text-center]
+== Zdjęcia

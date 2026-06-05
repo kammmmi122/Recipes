@@ -1,0 +1,27 @@
+= Makaron ramen 🍜 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* soda 1 łyżka
+* woda (0,24 litra) 1 kubek
+* sól 3 łyżeczki
+* mąka 0,6 kg
+* jajko (żółtka) 4 sztuki
+
+
+== Przygotowanie
+Sodę pieczemy w temp. 120 st.C 1 godzinę. Mieszamy wodę, sól i sodę, aż składniki się wymieszają (utworzony roztwór nazywa się kansui). Mieszamy mąką i żółtka, dodajemy kansui i mieszamy dalej tak długo, aż ciasto zacznie odchodzić od ścian miski. Ugniatamy ciasto ręcznie przez kilkam minut, zawijamy w folię i odstawiamy na 1 godzinę. Tak przygotowane ciasto kroimy na makaron.
+
+|===
+
+[.text-center]
+== Zdjęcia

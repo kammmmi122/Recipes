@@ -1,0 +1,30 @@
+= Kimchi tare 🌶️ +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* kimchi 5 łyżek
+* czosnek 1 ząbek
+* sos sojowy 5 łyżek
+* gochujang 5 łyżek
+* gochugaru 2 łyżeczki
+* tare sojowe 2 łyżki
+* olej sezamowy 1,5 łyżeczki
+* mirin 2 łyżeczki
+
+
+== Przygotowanie
+Miksujemy razem wszystkie składniki.
+
+|===
+
+[.text-center]
+== Zdjęcia

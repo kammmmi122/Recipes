@@ -1,0 +1,43 @@
+= Tonkotsu Ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+
+== Bulion
+Gęsty, kremowy bulion na bazie wieprzowych kości (tonkotsu oznacza "kości wieprzowe"). Kości są gotowane przez wiele godzin, co sprawia, że bulion jest bogaty i pełen smaku.
+
+== Dodatki
+* chashu (plastry wieprzowiny)
+* marynowane shitake
+* kimchi tare (opcjonalnie)
+* curry tare
+
+== Makaron
+Cienki i prosty makaron, aby zbalansować ciężkość bulionu.
+
+
+== Wywar wieprzowy (składniki)
+* golonka wieprzowa 0,5 kg
+* boczek wieprzowy 0,5 kg
+* cebula 0,1 kg
+* czosnek 3 ząbki
+* jabłko Granny Smith (posiekane) 0,1 kg
+* imbir kawałek 3 cm
+* woda 3 litry
+
+== Przygotowanie
+Zalewamy składniki wodą, doprowadzamy do wrzenia i gotujemy przez około 30 minut, mieszamy i ściągamy wszystkie szumowiny utworzone na powierzchni. Przecedzamy wywar do drugiego garnka, wyciągamy mięso i płuczemy je. Wkładamy wszystkie składniki do garnka i uzupełniamy wodą. Gotujemy 12 godzin na małym ogniu, uzupełniamy co jakiś czas wodę. Odcedzamy składniki i pozostawiamy wywar.
+
+|===
+
+[.text-center]
+== Zdjęcia

@@ -1,0 +1,24 @@
+= Olej nori 🌊 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* olej 0,1 litra
+* arkusze nori 2 sztuki
+
+
+== Przygotowanie
+Podgrzewamy olej do 80 st.C, zalewamy nori. Odstawiamy, aż wystygnie i miksujemy. Odcedzamy przez gazę lub filtr do kawy.
+
+|===
+
+[.text-center]
+== Zdjęcia

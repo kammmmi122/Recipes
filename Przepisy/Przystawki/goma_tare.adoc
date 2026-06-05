@@ -1,0 +1,30 @@
+= Goma tare 🥜 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+* czas przygotowania:
+* porcji:
+* źródło:
+
+== Składniki
+* szczypiorek 3 łyżki (posiekany)
+* imbir 3 łyżki (posiekany)
+* cukier 8 łyżek
+* sos sojowy 0,1 litra
+* olej chili 6 łyżek
+* pasta sezamowa 0,35 kg
+* sezam biały 5 łyżek (prażony)
+* sezam (czarny) 5 łyżek (prażony)
+
+
+== Przygotowanie
+Miksujemy składniki w blenderze oprócz sezamów, które dodajemy na koniec.
+
+|===
+
+[.text-center]
+== Zdjęcia
