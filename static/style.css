@@ -321,7 +321,7 @@ body {
 
 .recipe-columns {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr;
   gap: 28px;
   margin: 16px 0 24px;
 }
