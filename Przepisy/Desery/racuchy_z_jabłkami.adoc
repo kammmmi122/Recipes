@@ -1,15 +1,7 @@
 = Racuchy z jabłkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/racuchy-z-jablkami[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 jabłka
 * 200 ml mleka (niepełna 1 szklanka)
 * 1 jajko
@@ -30,7 +27,6 @@
 
 |
 == Przygotowanie
-
 Mąkę przesiać do miski, dodać cukier wanilinowy, cukier oraz proszek do pieczenia, wymieszać.
 
 Dodać mleko i jajko i wymieszać składniki rózgą na jednolitą masę bez grudek.
@@ -46,4 +42,5 @@ Podawać z cukrem pudrem, dżemem wiśniowym itp.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

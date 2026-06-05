@@ -1,15 +1,7 @@
 = Zupa fasolowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://zakochanewzupach.pl/zupa-fasolowa-tradycyjna-z-boczkiem-i-kielbasa[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 puszka białej fasoli
 * 1 opakowanie zupy fasolowej
 * 3 ziemniaki
@@ -34,7 +31,6 @@
 
 |
 == Przygotowanie
-
 Ziemniaki, marchewkę, pietruszkę i kawałek selera obieramy. Ziemniaki kroimy w kostkę, pozostałe warzywa ścieramy na tarce o dużych oczkach.
 
 Tak przygotowane warzywa przekładamy do garnka, zalewamy 0,7 l wody, gotujemy niecałe 10 minut.
@@ -52,4 +48,5 @@ Zupę podajemy ze świeżo posiekaną natką pietruszki.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

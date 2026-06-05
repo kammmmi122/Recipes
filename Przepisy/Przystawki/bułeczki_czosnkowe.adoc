@@ -1,15 +1,7 @@
 = Bułeczki czosnkowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -19,8 +11,13 @@
 * 8 bułeczek
 * https://aniagotuje.pl/przepis/buleczki-czosnkowe[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2,5 szklanki mąki pszennej np. tortowej - 400 g
 * 7 g drożdży instant - mała saszetka
 * niecałe pół szklanki wody - 120 ml
@@ -34,7 +31,6 @@
 
 |
 == Przygotowanie
-
 Do tych bułeczek szykowanych na drożdżach instant nie robię rozczynu. Do miski wsyp zatem dwie i pół szklanki, czyli 400 gramów mąki pszennej tortowej, do pizzy lub też uniwersalnej typ. 480 oraz po płaskiej łyżeczce soli i cukru i około 7 gramów drożdży suszonych instant (mała saszetka). Dodaj też łyżkę miękkiego masła lub oliwy lub innego oleju roślinnego. Na koniec wlej jeszcze niepełną szklankę lekko ciepłego płynu (mleko i woda w proporcji pół na pół, czyli łącznie 240 ml - niepełna szklanka).
 Całość wymieszaj łyżką drewnianą lub silikonową szpatułką. Miskę z ciastem pod bułki czosnkowe przenieś pod mikser z hakami do ciasta drożdżowego. Ciasto wyrabiaj tak 5 minut. Ciasto po wyrobieniu powinno być jednolite, gładkie i elastyczne. Możesz też wyrobić ciasto ręcznie, ale pamiętaj, że ma to trwać dość długo. Ciasto może się lekko przyklejać do ścianek miski. Takie ciasto można wyjąć i lekko obsypać mąką, a następnie uformować w zgrabną kulę i ponownie odłożyć do miski.
 
@@ -54,4 +50,5 @@ Bułki czosnkowe można kroić po całkowitym przestudzeniu. Jeśli bułeczki cz
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

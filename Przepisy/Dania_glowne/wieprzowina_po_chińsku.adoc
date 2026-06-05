@@ -1,15 +1,7 @@
 = Wieprzowina po chińsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/wieprzowina_po_chinsku/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 300 g polędwiczki wieprzowej
 * 1 łyżka mąki ziemniaczanej
 * 1/2 czerwonej papryki
@@ -36,7 +33,6 @@
 
 |
 == Przygotowanie
-
 Odciąć białą błonę na zewnętrznej stronie polędwiczki. Mięso przekroić wzdłuż na pół, następnie w poprzek włókien na jak najcieńsze plasterki. Doprawić solą i pieprzem, obtoczyć w mące ziemniaczanej. Nastawić ryż na gotowanie.
 
 Przygotować warzywa: paprykę pokroić w kostkę, cebulę obrać i pokroić w nieco większą kostkę, marchewkę obrać i pokroić wzdłuż na cienkie słupki, tak samo pokroić pora.
@@ -56,4 +52,5 @@ Włożyć z powrotem warzywa i wszystko wymieszać, następnie wlać sos. Gotowa
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

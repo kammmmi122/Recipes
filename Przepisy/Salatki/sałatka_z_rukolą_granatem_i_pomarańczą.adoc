@@ -1,15 +1,7 @@
 = Sałatka z rukolą, granatem i pomarańczą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 - 4 porcje
 * https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 opakowanie rukoli (100 g)
 * 60 g orzechów włoskich lub pekan
 * 1 owoc granatu
@@ -31,7 +28,6 @@
 
 |
 == Przygotowanie
-
 Rukolę opłukać na sitku, odcedzić, osuszyć i wyłożyć na talerz.
 
 Pomarańcze obrać i wyfiletować (ostrym nożem wykroić cząstki miąższy pomiędzy błonkami).
@@ -47,4 +43,5 @@ Składniki winegretu wymieszać w miseczce. Do rukoli dodać cząstki pomarańcz
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

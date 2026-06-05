@@ -1,8 +1,12 @@
 = Spaghetti bolognese 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 35 minut
+* 4 porcji
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +14,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 35 minut
-* 4 porcji
-
 == Składniki
-
 * 1 cebula
 * 1 ząbek czosnku
 * 2 łyżki oliwy
@@ -33,7 +30,6 @@
 
 |
 == Przygotowanie
-
 Dodać 2 łyżki oliwy, włożyć drobno posiekaną cebulę i zeszklić. Dodać przeciśnięty przez praskę ząbek czosnku.
 
 Na patelnię dodać mięso i rozpocząć obsmażanie. Przyprawić pieprzem, solą, bazylią i oregano. Dodać pasattę pomidorowa i koncentrat pomidorowy, wymieszać. 
@@ -47,4 +43,3 @@ Przykryć i gotować na małym ogniu przez 20 minut, od czasu do czasu mieszają
 
 image::/Recipes/static/images/20250425_171213.jpg[]
 
---

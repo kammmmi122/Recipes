@@ -1,15 +1,7 @@
 = Zupa kalafiorowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/zupa-kalafiorowa-z-ziemniakami-i-marchewka[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 łyżki oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -32,7 +29,6 @@
 
 |
 == Przygotowanie
-
 Na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę, dodać obraną i pokrojoną na cienkie plasterki marchewkę i smażyć co chwilę mieszając przez 2 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać je przez ok. 5 - 7 minut, od czasu do czasu mieszając. Doprawić solą oraz pieprzem.
@@ -46,4 +42,5 @@ Zupę odstawić z ognia, dodać posiekany koperek i szczypiorek. Śmietanę wymi
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

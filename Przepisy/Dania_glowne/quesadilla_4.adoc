@@ -1,15 +1,7 @@
 = Quesadilla 4 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/831-wegetarianska-quesadilla-z-pieczarkami-i-czarna-fasola-przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * tortille kukurydziane rozm. 18 cm
 * 1 czerwona cebula lub biała ze szczypiorem
 * 1/2 puszki czarnej fasoli
@@ -29,7 +26,6 @@
 
 |
 == Przygotowanie
-
 Przygotowanie quesadilli rozpoczynamy od podsmażenia pieczarek. Najpierw je obieramy i tniemy na plasterki. Następnie rozgrzewamy na patelni łyżkę masła klarowanego (można również użyć zwykłego) i wrzucamy pokrojone pieczarki. Smażymy na bardzo mocno rozgrzanej patelni. Od czasu do czasu mieszamy, ale pozwalamy, żeby pieczarki lekko się nawet przyprażyły.
 
 Zdejmujemy pieczarki z patelni i pozostawiamy do ostygnięcia.
@@ -63,4 +59,5 @@ Można jeszcze przeciąć na pół lub w trójkąciki. Podawać z salsami np. po
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

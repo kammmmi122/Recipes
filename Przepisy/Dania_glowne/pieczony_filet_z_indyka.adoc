@@ -1,15 +1,7 @@
 = Pieczony filet z indyka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 30 porcji
 * https://www.kwestiasmaku.com/kuchnia_polska/indyk/pieczony_filet_z_indyka/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1,3 kg filetu indyka (1 duża)
 * 2 łyżki ciemnego sosu sojowego
 * 3 łyżki miodu
@@ -27,7 +24,6 @@
 
 |
 == Przygotowanie
-
 Filet opłukać, włożyć do garnka, dodać 2 łyżeczki soli, zalać zimną wodą (z kranu) i odstawić na 15 minut.
 
 Do rondelka włożyć składniki marynaty: sos sojowy, miód, ocet i powidła. Zagotować, zmniejszyć ogień i gotować przez 1 minutę, odstawić z ognia i ostudzić.
@@ -45,4 +41,5 @@ Mięso wyjąć w piekarnika, przykryć folią aluminiową i odstawić na minimum
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

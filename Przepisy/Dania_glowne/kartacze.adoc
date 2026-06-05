@@ -1,15 +1,7 @@
 = Kartacze 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * liczba porcji: 16 średnich kartaczy
 * https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2 kg surowych ziemniaków - waga po obraniu
 * 1 kg ugotowanych ziemniaków
 * 500 g mielonej łopatki wieprzowej
@@ -28,7 +25,6 @@
 
 |
 == Przygotowanie
-
 Do zmielonego mięsa dodaj przyprawy: po płaskiej łyżeczce soli i majeranku oraz pół łyżeczki pieprzu. Dołóż też obrane i drobno posiekane cebule. Bardzo dokładnie wymieszaj mięso z przyprawami i cebulą. Jeśli mięso wyda Ci się zbite i gęste, to dodaj do niego kilka łyżek zimnej wody. Do farszu nie daję ani bułki tartej, ani jajek. 
 
 Na "ciasto" do kartaczy potrzebujesz jeden kilogram ugotowanych już ziemniaków. Ugotowane ziemniaki najlepiej jest zmielić w maszynce lub przepuścić przez praskę. Sprawdzą się też ziemniaki z obiadu, z dnia poprzedniego. Jeśli dopiero planujesz gotować ziemniaki, to zalecam użyć około 1200-1300 gramów ziemniaków (waga przed obraniem). Ziemniaki włóż do osolonej wody i gotuj do miękkości. Ważne jest, by zawsze dobrze osuszyć ziemniaki po ugotowaniu. Polecam po odlaniu wody postawić jeszcze na minutę garnek z samymi ziemniakami na małej mocy palnika, by odparować resztki wody z pomiędzy ziemniaków. Zmielone na gładko ziemniaki umieść w szerszej misce. 
@@ -47,7 +43,7 @@ W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20240713_181533.jpg[]
 image::/Recipes/static/images/20240713_201623.jpg[]
 
---

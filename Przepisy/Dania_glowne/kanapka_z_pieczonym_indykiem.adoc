@@ -1,15 +1,7 @@
 = Kanapka z pieczonym indykiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 porcje
 * https://www.kwestiasmaku.com/kuchnia_polska/indyk/kanapka_z_indykiem/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * pieczywo, np. domowa focaccia
 * plasterki pieczonego indyka
 * sałata, roszponka
@@ -29,7 +26,6 @@
 
 |
 == Przygotowanie
-
 Pieczywo przekroić na pół, posmarować cienko majonezem lub masłem.
 
 Na jednej połówce położyć sałatę, dodać plasterki mięsa, ser, żurawinę, zrumienionymi orzeszki pinii jeśli ich używamy, przykryć roszponką i drugą kromką pieczywa.
@@ -44,4 +40,3 @@ Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół 
 image::/Recipes/static/images/20250528_183240.jpg[]
 image::/Recipes/static/images/20250528_183245.jpg[]
 
---

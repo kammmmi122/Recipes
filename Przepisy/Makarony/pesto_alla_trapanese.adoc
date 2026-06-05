@@ -1,15 +1,7 @@
 = Pesto alla trapanese 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://rafalcook.com/2022/06/11/pesto-alla-trapanese[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * pomidorki koktajlowe 250-300 gram
 * czosnek 1-2 ząbki
 * parmigiano Reggiano 30-50 gram
@@ -33,7 +30,6 @@
 
 |
 == Przygotowanie
-
 Przede wszystkim pesto alla trapanese jest niezwykle proste i pyszne zarazem.
 Po pierwsze włóż składniki do blendera ❗ oczywiście bez makaronu ? i zblenduj.
 Po drugie ugotuj makaron według instrukcji na opakowaniu na al dente.
@@ -45,4 +41,5 @@ Nałóż, posyp Parmigiano Reggiano, dopraw pieprzem, dodaj świeżą bazylię i
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

@@ -1,15 +1,7 @@
 = Tzatiki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 8 porcji
 * https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg odsączonego jogurtu greckiego
 * 1 duży szklarniowy ogórek
 * 3 ząbki czosnku
@@ -28,7 +25,6 @@
 
 |
 == Przygotowanie
-
 Czosnek obierz i zetrzyj na tarce, wrzuć do dużej miski i posól.
 
 Dodaj jogurt, ocet i oliwę, następnie dokładnie wymieszaj i odstaw.
@@ -46,4 +42,5 @@ Podawaj polane oliwą.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

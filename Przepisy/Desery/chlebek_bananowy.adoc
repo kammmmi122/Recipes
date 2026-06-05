@@ -1,15 +1,7 @@
 = Chlebek bananowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +10,13 @@
 * 10 porcji
 * https://www.kwestiasmaku.com/przepis/chlebek-bananowy[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 4 jajka
 * 1 szklanka cukru
 * 200 ml oleju roślinnego lub 200 g masła
@@ -32,7 +29,6 @@
 
 |
 == Przygotowanie
-
 Piekarnik nagrzać do 180 stopni C. Jajka wbić do miski i rozmiksować lub roztrzepać. Miksując dodawać cukier, olej roślinny lub roztopione masło, a na końcu rozgniecione lub zmiksowane blenderem banany.
 
 W drugiej misce wymieszać mąkę z proszkiem do pieczenia, sodą i solą. Dodać masę bananową i wymieszać.
@@ -49,4 +45,3 @@ Ciasto wyłożyć do wyścielonej papierem do pieczenia dużej podłużnej formy
 image::/Recipes/static/images/20240519_085926.jpg[]
 image::/Recipes/static/images/20240519_085941.jpg[]
 
---

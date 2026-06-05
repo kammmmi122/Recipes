@@ -1,15 +1,7 @@
 = Zapiekanka makaronowa 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 3 porcje
 * https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * ok. 170 g makaronu (użyłam cienkie rurki)
 * 150 g szynki
 * 150 g startego sera żółtego typu Ementaler lub Gouda
@@ -30,7 +27,6 @@
 
 |
 == Przygotowanie
- 
 Surowy makaron wsypać na naczynia żaroodpornego.
 
 Szynkę pokroić w małą kostkę. Wyłożyć na makaron.
@@ -48,4 +44,5 @@ Odkryte naczynie żaroodporne wstawić do nagrzanego piekarnika i piec przez ok.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

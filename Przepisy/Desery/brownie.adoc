@@ -1,15 +1,7 @@
 = Brownie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 20 porcji
 * https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 200 g masła
 * 200 g gorzkiej czekolady
 * 3 jajka (temp. pokojowa)
@@ -29,7 +26,6 @@
 
 |
 == Przygotowanie
-
 Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.
 
 Masło pokroić w kostkę i włożyć do rondelka, dodać połamaną na kosteczki czekoladę i cały czas mieszając roztopić na małym ogniu, odstawić z palnika.
@@ -49,4 +45,5 @@ Po upieczeniu i ostudzeniu pokroić na małe kawałeczki.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

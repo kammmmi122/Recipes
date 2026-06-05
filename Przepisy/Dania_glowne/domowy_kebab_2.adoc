@@ -1,15 +1,7 @@
 = Domowy kebab 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 === Bułka:
 
 * mąka pszenna typ 650 - 500 g
@@ -56,7 +53,6 @@
 
 |
 == Przygotowanie
-
 === Bułka do kebaba: 
 
 Wsyp mąkę do miski.
@@ -117,4 +113,5 @@ Na górę dodaj pomidora, ogórka oraz czerwoną cebulę.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

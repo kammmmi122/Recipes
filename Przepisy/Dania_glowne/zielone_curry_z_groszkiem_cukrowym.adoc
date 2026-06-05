@@ -1,15 +1,7 @@
 = Zielone curry z groszkiem cukrowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://kuchnialidla.pl/zielone-curry-z-groszkiem-cukrowym[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * pieprz biały - 1 szczypta
 * cebula - 1 szt.
 * cukier - 1 szczypta
@@ -37,7 +34,6 @@
 
 |
 == Przygotowanie
-
 Piersi kurczaka kroimy w paski o szerokości 0,5 cm. Doprawiamy solą i pieprzem. Smażymy na rozgrzanym oleju na złoty kolor.
 
 Pieczarki kroimy w ćwiartki i podsmażamy na rozgrzanym maśle. Dodajemy drobno posiekaną cebulę i czosnek. Na tej samej patelni podgrzewamy pastę curry. Dodajemy mleczko kokosowe i odrobinę wody. Redukujemy, aż sos zgęstnieje.
@@ -51,4 +47,5 @@ Podajemy z ugotowanym ryżem jaśminowym.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

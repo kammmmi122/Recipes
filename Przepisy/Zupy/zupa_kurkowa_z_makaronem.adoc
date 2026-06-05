@@ -1,15 +1,7 @@
 = Zupa kurkowa z makaronem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 porcje
 * https://www.winiary.pl/przepisy/zupa-kurkowa-z-makaronem-i-tymiankiem-zwz/[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 30 dag świeże kurki
 * 2 cebula
 * 1 ząbek czosnek
@@ -34,7 +31,6 @@
 
 |
 == Przygotowanie
-
 Kurki dokładnie oczyszczamy, większe okazy kroimy w kawałki, mniejsze pozostawiamy w całości.
 
 Cebule kroimy w drobną kostkę, oprószamy solą, podduszamy na maśle z dodatkiem liścia laurowego i ziela angielskiego.
@@ -50,4 +46,5 @@ Zabielamy zupę śmietanką. Na talerzach doprawiamy zupę kurkową z makaronem 
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

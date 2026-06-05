@@ -1,15 +1,7 @@
 = Zupa buraczkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://zakochanewzupach.pl/zupa-buraczkowa-ze-smietana[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 6 buraki
 * 4 ziemniaki
 * 1 marchewka
@@ -41,7 +38,6 @@
 
 |
 == Przygotowanie
-
 Buraczki myjemy, obieramy, kroimy w kostkę, wrzucamy na gotujący się wywar.
 
 Marchewkę, pietruszkę i seler myjemy, obieramy, kroimy w kostkę, oddajemy do garnka z buraczkami.
@@ -62,6 +58,6 @@ Zupę buraczkową podajemy posypaną świeżo posiekaną natką pietruszki.
 
 [.recipe-gallery]
 == Zdjęcia
+
 image::/Recipes/static/images/20231021_193002.jpg[]
 
---

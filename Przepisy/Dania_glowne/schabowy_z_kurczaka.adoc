@@ -1,8 +1,12 @@
 = Schabowy z kurczaka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 50 minut
+* 4 porcje
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +14,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 50 minut
-* 4 porcje
-
 == Składniki
-
 === Kotlety:
 
 * 2 piersi z kurczaka
@@ -36,9 +33,7 @@
 * szczypta natki pietruszki
 
 |
-
 == Przygotowanie
-
 Piersi z kurczaka przekroić na pół. Rozbić kawałki na kotlety. Oprószyć solą i pieprzem. Opanierować w mące, jajku i bułce tartej. Usmażyć kotlety na rozgrzanym oleju.
 
 Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, śmietanę i natkę pietruszki. Całość wymieszać.
@@ -48,4 +43,5 @@ Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, 
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

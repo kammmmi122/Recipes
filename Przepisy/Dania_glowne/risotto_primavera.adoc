@@ -1,15 +1,7 @@
 = Risotto primavera 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 - 3 porcje
 * https://www.kwestiasmaku.com/przepis/risotto-primavera[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 150 g ryżu do risotto np. Arborio
 * 60 ml białego wina (można pominąć)
 * ok. 700 ml bulionu (może być np. z kostki eko)
@@ -37,7 +34,6 @@
 
 |
 == Przygotowanie
-
 Jeśli używamy szparagów, należy je opłukać, odłamać (same złamią się we właściwym miejscu), wyrzucić twarde, zdrewniałe końce (są włókniste i nie nadają się do jedzenia). Pozostałą zieloną część szparagów pokroić ukośnie na kawałeczki, zachowując zielone główki w całości.
 
 Jeśli używamy fasolki szparagowej, należy ją pokroić na kawałeczki.
@@ -67,4 +63,5 @@ Sprawdzić doprawienie solą i pieprzem. Podawać z dodatkowym serem i oliwą we
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

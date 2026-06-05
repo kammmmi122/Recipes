@@ -1,15 +1,7 @@
 = Pita 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 6 chlebków
 * https://aniagotuje.pl/przepis/pita[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 2,5 szklanki mąki pszennej tortowej - 400 g
 * 5 gramów drożdży suszonych lub 15 gramów drożdży świeżych
 * 1 niecała szklanka lekko ciepłej wody - 220 ml
@@ -27,7 +24,6 @@
 
 |
 == Przygotowanie
-
 Umieść razem wszystkie składniki i wyrób je na elastyczne i jednolite ciasto. Miskę z ciastem przykryj ściereczką bawełnianą lub folią przezroczystą. Odstaw do wyrastania na godzinę lub nawet 90 minut.
 
 Wyrośnięte ciasto na chlebki pita przełóż na blat obsypany lekko mąką. Ciasto wyrabiaj chwilę a następnie podziel na sześć równych kawałków. Każdy kawałek uformuj w dłoniach na kształt kuli.
@@ -44,4 +40,3 @@ Chlebki upraż na suchej i dobrze nagrzanej patelni. Wybierz niedużą patelnię
 image::/Recipes/static/images/20251123_183549.jpg[]
 image::/Recipes/static/images/20251123_184210.jpg[]
 
---

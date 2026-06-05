@@ -1,15 +1,7 @@
 = Schab nadziewany mozzarellą i pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 6 porcje
 * https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -31,7 +28,6 @@
 
 |
 == Przygotowanie
-
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.
@@ -51,4 +47,5 @@ Gotowe, podaję z ulubioną surówką i ziemniakami.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

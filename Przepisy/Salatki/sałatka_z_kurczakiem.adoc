@@ -1,15 +1,7 @@
 = Sałata z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -18,8 +10,13 @@
 * 6 porcji
 * https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 500 g piersi z kurczaka - 1 większa pierś
 * po pół łyżeczki soli i pieprzu
 * łyżeczka słodkiej papryki
@@ -36,7 +33,6 @@
 
 |
 == Przygotowanie
-
 Dużą pierś z kurczaka umyj i osusz ręcznikiem papierowym. Usuń włókna i ewentualne chrząstki. Dodam jeszcze, że mięso warto jest wyjąć wcześniej z lodówki, by miało jednolitą temperaturę. Jeśli mięso będzie w środku zimne, będzie potrzebowało dłuższej obróbki termicznej. 
 
 Pierś z kurczaka smażona w całości, oprócz podsmażenia na patelni wymaga dodatkowego pieczenia w piekarniku. Dwie połówki piersi z kurczaka obtocz dokładnie w soli, pieprzu i słodkiej papryce. Pół łyżeczki soli, pół łyżeczki pieprzu i jedna łyżeczka słodkiej papryki.
@@ -59,4 +55,5 @@ W przepisie nie ma dodatku w postaci orzechów lub pestek, ale jeśli lubisz, gd
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

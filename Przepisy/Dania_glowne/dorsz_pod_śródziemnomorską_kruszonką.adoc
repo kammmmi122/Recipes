@@ -1,15 +1,7 @@
 = Dorsz pod śródziemnomorską kruszonką 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 2 porcje
 * https://drive.google.com/file/d/1drmcwaGPo7P0SAIorajCTYRgiGIe1Rhj/view?usp=sharing[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * polędwica z dorsza - 1 średnia sztuka (300 g)
 * orzechy włoskie - 1 łyżka (15 g)
 * suszony pomidor odsączony z oleju - 1 sztuka (15 g)
@@ -27,12 +24,12 @@
 
 |
 == Przygotowanie
-
-Polędwice z dorsza myjemy, osuszamy i układamy na blaszce wyłożonej papierem do pieczenia lub w brytfance. Do malaksera wrzucamy orzechy włoskie, suszonego pomidora, oliwki, bazylię i przyprawy. Składniki siekamy na niezbyt jednolitą masę. Rybę obkładamy powstałą posypką, starannie ją dociskając. Wstawiamy na 220 minut do piekarnika rozgrzanego do temperatury 180 stopni C. 
+Polędwice z dorsza myjemy, osuszamy i układamy na blaszce wyłożonej papierem do pieczenia lub w brytfance. Do malaksera wrzucamy orzechy włoskie, suszonego pomidora, oliwki, bazylię i przyprawy. Składniki siekamy na niezbyt jednolitą masę. Rybę obkładamy powstałą posypką, starannie ją dociskając. Wstawiamy na 220 minut do piekarnika rozgrzanego do temperatury 180 stopni C.
 
 |===
 
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

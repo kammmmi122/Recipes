@@ -1,8 +1,12 @@
 = Granola z owocami i jogurtem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
+
+[.recipe-details]
+== Szczegóły
+
+* czas przygotowania: 15 minut
+* 2 porcje
 
 [.recipe-columns]
 [cols=".<a,.<a"]
@@ -10,14 +14,7 @@
 [grid=none]
 |===
 |
-[.recipe-details]
-== Szczegóły
-
-* czas przygotowania: 15 minut
-* 2 porcje
-
 == Składniki
-
 * 200 g granoli
 * 200 g jogurtu owoce leśne
 * świeże maliny
@@ -25,7 +22,6 @@
 
 |
 == Przygotowanie
-
 Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 
 |===
@@ -35,4 +31,3 @@ Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 
 image::/Recipes/static/images/20241225_131152.jpg[]
 
---

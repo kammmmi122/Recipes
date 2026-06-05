@@ -1,15 +1,7 @@
 = Dorsz w sosie curry 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 400 g filetów dorsza
 * 1 łyżka czerwonej pasty curry
 * 1 łyżka oleju kokosowego
@@ -32,7 +29,6 @@
 
 |
 == Przygotowanie
-
 Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
 
 Rozgrzać wok lub dużą patelnię i na oleju kokosowym obsmażyć z dwóch stron rybę, odłożyć na talerz.
@@ -48,4 +44,5 @@ Skropić sokiem z limonki i podawać z ryżem.
 [.recipe-gallery]
 == Zdjęcia
 
---
+
+

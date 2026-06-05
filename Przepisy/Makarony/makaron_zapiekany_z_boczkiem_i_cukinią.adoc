@@ -1,15 +1,7 @@
 = Makaron zapiekany z boczkiem i cukinią 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
---
 
-[.recipe-columns]
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
 [.recipe-details]
 == Szczegóły
 
@@ -17,8 +9,13 @@
 * 4 porcje
 * https://www.kwestiasmaku.com/przepis/makaron-zapiekany-z-cukinia-i-boczkiem[link do źródła przepisu]
 
+[.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
 == Składniki
-
 * 250 g makaronu świderki
 * 1 łyżka oliwy
 * 200 g boczku wędzonego
@@ -31,7 +28,6 @@
 
 |
 == Przygotowanie
-
 Makaron ugotować al dente w osolonej wodzie, odcedzić, włożyć z powrotem do garnka. Piekarnik nagrzać do 190 stopni C (jeśli danie będziemy dodatkowo zapiekać).
 
 Na dużej patelni na oliwie zeszklić pokrojonego pora. Dodać drobno starty czosnek a następnie boczek pokrojony w kostkę.
@@ -52,4 +48,3 @@ Jeśli dania nie zapiekamy, możemy posypać je serem już po nałożeniu na tal
 image::/Recipes/static/images/20250118_150205.jpg[]
 image::/Recipes/static/images/20250118_150249.jpg[]
 
---
