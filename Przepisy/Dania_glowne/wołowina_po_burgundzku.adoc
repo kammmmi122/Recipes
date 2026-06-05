@@ -1,21 +1,32 @@
 = Wołowina po burgundzku 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 3,5 godziny
 
-* czas przygotowania: 3,5 godziny
-* 8 porcji
-* https://www.kwestiasmaku.com/przepis/boeuf-bourguignon-wolowina-po-burgundzku[link do źródła przepisu]
+[.recipe-details-item]
+👥 8 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/boeuf-bourguignon-wolowina-po-burgundzku[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1,5 kg wołowiny (np. karkówka, łopatka)
 * 150 g wędzonego boczku
 * 2 łyżki oleju roślinnego
@@ -36,7 +47,9 @@
 * 200 g małych pieczarek
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Mięso pokroić na większe kawałki (ok. 4 - 5 cm). Na dużą patelnię z grubym dnem włożyć pokrojony w kosteczkę boczek i powoli smażyć aż do zrumienienia. Wyjąć na talerz pozostawiając tłuszcz.
 
 Wlać łyżkę oleju oraz dodać połowę masła, partiami obsmażyć z każdej strony kawałki mięsa, po obsmażeniu odkładać na talerz.
@@ -48,11 +61,4 @@ Przełożyć składniki z patelni do większego naczynia żaroodpornego. Wlać b
 Po ponownym zagotowaniu przykryć naczynie i wstawić do nagrzanego do 150 stopni C piekarnika. Zapiekać przez ok. 2 i 1/2 godziny.
 
 Na patelni na reszcie masła podsmażyć obrane cebulki szalotki i pieczarki w całości (cebulek marynowanych nie podsmażamy). Dodać do gulaszu, wymieszać i piec tym razem bez przykrycia przez około 30 minut, do czasu aż mięso będzie już całkowicie miękkie.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

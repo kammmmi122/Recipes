@@ -1,21 +1,32 @@
 = Zupa serkowa z klopsami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 3 kostki rosołowe
 * 1 l wody
 * 300 g serka topionego
@@ -35,7 +46,9 @@
 * 1 cebula
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Cebulę i czosnek obierz oraz drobno posiekaj. Szczypiorek posiekaj.
 
 W garnku o grubym dnie rozgrzej oliwę i zeszklij cebulę. Dodaj czosnek i całość podsmaż przez ok. 5 minut.
@@ -53,11 +66,4 @@ Teraz czas na grzanki - kromki chleba pokrój w niedużą kostkę. W misce wymie
 Grzanki podsmaż na patelni na złoty kolor.
 
 Zupę z serków topionych posyp grzankami, posiekaną natką pietruszki i szczypiorkiem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Curry z kalafiora 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: do 45 minut
 
-* czas przygotowania: do 45 minut
-* 4 - 5 porcji
-* https://www.jadlonomia.com/przepisy/na-przednowku-czyli-ulubione-curry-z[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 - 5 porcji
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/na-przednowku-czyli-ulubione-curry-z[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * Składniki na curry:
 * 1 cebula, pokrojona w kostkę
 * 2 łyżeczki tartego imbiru
@@ -41,7 +52,9 @@
 * sól
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Na dnie dużego garnka z grubym dnem rozgrzać kilka łyżek oleju, dodać cebulę i zeszklić. Dodać wszystkie przyprawy, smażyć przez 2-3 minuty.
 
 Następnie dodać kalafiora i ziemniaka, wszystko delikatnie, ale bardzo dokładnie wymieszać i wlać wodę oraz pomidory. Gotować na małym ogniu przez około 20 minut albo do miękkości warzyw, powinny być miękkie, ale nie rozgotowane.
@@ -49,11 +62,4 @@ Następnie dodać kalafiora i ziemniaka, wszystko delikatnie, ale bardzo dokład
 W międzyczasie przygotować ryż. Do niedużego garnka dodać wszystkie składniki, garnek przykryć i gotować na małym ogniu przez 5 minut. Potem wyłączyć ogień i pozostawić ryż w garnku kolejne 15 minut - w tym czasie wchłonie wodę i będzie puszysty.
 
 Gotowe curry spróbować, dosolić do smaku i ewentualnie dodać kilka kropel soku z cytryny. Podawać bardzo gorące, z cynamonowym ryżem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Zupa klopsowa 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.doradcasmaku.pl/przepis-zupa-klopsowa-z-koperkiem-i-ziemniakami-310942[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.doradcasmaku.pl/przepis-zupa-klopsowa-z-koperkiem-i-ziemniakami-310942[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * mięso mielone 0,5 kg (z łopatki)
 * pieprz czarny mielony Prymat 1 szczypta
 * kucharek przyprawa uniwersalna 0.5 łyżeczki
@@ -34,7 +45,9 @@
 * przyprawa do mięsa mielonego farszu i klopsów Prymat 0,5 opakowanie
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Do miski przekładamy mięso mielone , dodajemy jajko, przyprawy: kucharka, przyprawę do mięsa mielonego, pieprz, czosnek. Wszystkie składniki mieszamy. Na końcu dodajemy kasze manna.
 
 Przygotowujemy warzywa: ziemniaki obieramy i kroimy w kostkę, pietruszkę i marchewkę obieramy i trzemy na tarce. Seler i por obieramy i myjemy.
@@ -46,11 +59,4 @@ Dodajemy resztę warzyw : potartą marchewkę i pietruszkę oraz por w całości
 Na samym końcu dodajemy przyprawy : sól, pieprz, ziele angielskie, majeranek oraz czosnek. Dodajemy także posiekany koperek oraz szklankę śmietany kremówki. Zagotowujemy zupę i podajemy gorącą.
 
 Zupkę klopsową serwujemy gorącą, przybraną listkiem świeżej mięty.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

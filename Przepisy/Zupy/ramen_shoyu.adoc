@@ -1,21 +1,31 @@
 = Ramen shoyu 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20230416_155911.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 7 godziny
 
-* czas przygotowania: 7 godziny
-* 6 porcji
-* https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina[link do źródła przepisu]
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 kg kości wieprzowych
 * 1 kg kości drobiowych (np. korpus kurczaka, indyka)
 * 4 cebulki szalotki
@@ -37,7 +47,9 @@
 * sezamowy olej chili
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Do dużego garnka włożyć kości wieprzowe i drobiowe. Całkowicie zalać je zimną wodą. Doprowadzić do wrzenia na dużym ogniu, następnie odcedzić, przepłukać zimną wodą i ponownie włożyć je do pustego garnka.
 
 Cebulki obrać z zewnętrznych łusek, umyć. Cebulki i czosnek rozgnieść dla uwolnienia soku, dodać do garnka z mięsem. Dodać pokrojony na plastry imbir oraz obraną i pokrojoną na kilka części marchewkę. Dodać zgrubnie opłukany glon konbu i zalać całość zimną wodą (około 2 litry, do przykrycia składników).
@@ -53,11 +65,12 @@ Bulion przelać do garnka (wcześniej można zebrać część lub cały tłuszcz
 Do misek włożyć ugotowany makaron, wlać bulion, ułożyć grzyby shitake, plaster mięsa z pieczeni, przepołowione ugotowane jajko, kawałek prasowanych glonów, posypać dymką lub szczypiorkiem i doprawić przyprawą shichimi togarashi.
 
 Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany), kiełki fasoli i skropić olejem sezamowym chili. Im więcej składników, tym lepiej ;) Ramen to zupa z dużą ilością makaronu i dodatków w porównaniu z samym bulionem.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20230416_155911.jpg[]
-
+--

@@ -1,21 +1,31 @@
 = Ciasto drożdżowe ze śliwkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20240820_080313.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 2 godziny
 
-* czas przygotowania: 2 godziny
-* 20 porcji
-* https://ilovebake.pl/przepis/ciasto-drozdzowe-ze-sliwkami [link do źródła przepisu]
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://ilovebake.pl/przepis/ciasto-drozdzowe-ze-sliwkami [link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 === Składniki na ciasto drożdżowe:
 
 * 4 szklanki mąki tortowej
@@ -37,19 +47,22 @@
 * ok. 1 kg śliwek najlepiej węgierek
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Wszystkie składniki na ciasto powinny być w temp. pokojowej. Jeśli używamy drożdży świeżych należy wcześniej wykonać zaczyn.
 
 Mąkę przesiewamy do dużej miski, dodajemy suche drożdże lub zaczyn ze świeżych. Wlewamy ciepłe mleko, cukier, jajka i mieszamy najlepiej dużą łyżką drewnianą. Następnie dodajemy masło o temp. pokojowej pokrojone na kawałki i wyrabiamy ciasto. Na początku nie będzie chciało się połączyć, ale z czasem zacznie być jednolite. Na koniec dłonie zwilżamy olejem i ponownie wyrabiamy, aż do wykorzystania całego tłuszczu. Wyrobione ciasto formujemy w kulę, wkładamy do miski, owijamy folią i zostawiamy na 1,5 godz do wyrośnięcia.
 Wszystkie składniki na kruszonkę łączymy, aż powstaną grudki. Śliwki kroimy i pozbywamy się pestek.
 
 Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnięte ciasto, wyrównujemy. Układamy śliwki, jedną obok drugiej miąższem do góry. Obsypujemy kruszonką i owijamy folią, zostawiamy na ok. 30 minut do napuszenia. Pieczemy w temp. 180 C przez ok. 50 minut do zarumienienia wierzchu.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20240820_080313.jpg[]
 image::/Recipes/static/images/20240820_080359.jpg[]
-
+--

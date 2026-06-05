@@ -1,21 +1,31 @@
 = Domowa pizza 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20250822_173944.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 łyżka (12g) suchych drożdży (drożdży instant) lub 25 g świeżych drożdży
 * 1,5 szklanki letniej wody
 * 3,5 szklanki mąki pszennej
@@ -23,7 +33,9 @@
 * 1,5 łyżeczki soli
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Mąkę przesiać, wymieszać z suchymi drożdżami (ze świeżych drożdży należy najpierw zrobić rozczyn). Dodać pozostałe składniki i wyrobić gładkie, elastyczne ciasto. Ciasto na pizzę można wyrabiać ręcznie, można też mikserem z hakiem do ciasta drożdżowego (mikserem zajmie to około 15 minut).
 
 Z ciasta uformować kulę, umieścić w naczyniu, przykryć folią spożywczą i postawić w ciepłe miejsce do podwojenia objętości na około 1 - 1,5 godziny.
@@ -37,12 +49,13 @@ Na spód z ciasta wyłożyć sos pomidorowy, następnie nasze ulubione dodatki. 
 Piec około 15 minut w maksymalnej temperaturze piekarnika (260ºC), choć ja zazwyczaj piekę w niższej temperaturze - około 230ºC, aby pizza wyszła idealna (czas pieczenia zależy od piekarnika). Ser nakładać kilka minut przed końcem pieczenia.
 
 Podawać gorącą.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20250822_173944.jpg[]
 image::/Recipes/static/images/20250814_220620.jpg[]
-
+--

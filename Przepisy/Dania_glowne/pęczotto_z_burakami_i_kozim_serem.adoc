@@ -1,21 +1,32 @@
 = Pęczotto z burakami i kozim serem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 2 godziny
 
-* czas przygotowania: 2 godziny
-* 2 porcje
-* https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * wino białe - 100 ml
 * bulion warzywny - 700 ml
 * cebula - 1 szt.
@@ -27,7 +38,9 @@
 * natka pietruszki - 2 łyżki
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Umyte buraki w skórkach układamy na blasze wyłożonej papierem do pieczenia. Pieczemy ok. 40-60 minut (do miękkości) w piekarniku rozgrzanym do 180°C. Studzimy i obieramy.
 
 Cebulę pokrojoną w kostkę smażymy na oliwie na rozgrzanej patelni. Gdy się zeszkli, dodajemy czosnek pokrojony w plasterki. Smażymy ok. 3 minuty.
@@ -39,11 +52,4 @@ Całość zalewamy winem. Odparowujemy, mieszając.
 Gdy wino odparuje, zalewamy kaszę pierwszą porcją bulionu. Gotujemy, cały czas mieszając, aż płyn odparuje. Czynność powtarzamy, aż pęczak będzie ugotowany al dente - ten etap powinien trwać ok. 20 minut.
 
 Gotowe pęczotto przekładamy na talerze. Na wierzchu układamy kawałki koziego sera (lub sera feta) i listki ulubionych, świeżych ziół (np. pietruszki lub lubczyku).
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

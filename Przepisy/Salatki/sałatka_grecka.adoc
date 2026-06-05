@@ -1,21 +1,32 @@
 = Sałatka grecka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 15 minut
 
-* czas przygotowania: 15 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 2 pomidory
 * 4 ogórki gruntowe lub 2 szklarniowe
 * 1/2 czerwonej cebuli
@@ -26,7 +37,9 @@
 * świeżo zmielony pieprz
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Pomidory pokroić na ćwiartki, usunąć szypułki, następnie pokroić na jeszcze mniejsze kawałki.
 
 Ogórki obrać (można pozostawić miejscami paseczki zielonej skórki), przekroić wzdłuż na pół a następnie na grubsze półplasterki.
@@ -36,11 +49,4 @@ Cebulę cienko poszatkować. Oliwki przekroić na połówki.
 Wszystkie składniki umieścić w jednej większej salaterce lub w 4 mniejszych, doprawić świeżo zmielonym pieprzem.
 
 Na wierzchu położyć plasterki sera feta. Posypać suszonym oregano i polać oliwą. Można doprawić solą, ale ser feta jest już dość słony.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

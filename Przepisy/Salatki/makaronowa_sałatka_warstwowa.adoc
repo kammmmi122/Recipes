@@ -1,21 +1,32 @@
 = Makaronowa sałatka warstwowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/makaronowa-salatka-warstwowa[link do źródła przepisu]
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/makaronowa-salatka-warstwowa[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 100 g makaronu świderki
 * 8 kawałków suszonych pomidorów z oleju
 * 125 g opakowanie mini mozzarelli
@@ -27,17 +38,12 @@
 * listki bazylii z 1 doniczki
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Makaron ugotować w osolonej wodzie, odcedzić, włożyć na dno szklanej salaterki. Dodać posiekane suszone pomidory, następnie odcedzone kulki mozzarelli i oliwki.
 
 Pomidorki koktajlowe pokroić na połówki, włożyć do miski, dodać suszone oregano, sól i pieprz oraz oliwę, wymieszać i całość wyłożyć na wierzch sałatki.
 
 Cebulę obrać, przekroić na pół a następnie pokroić na cienkie plasterki, wyłożyć na wierzch sałatki, przykryć liśćmi bazylii.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,22 +1,35 @@
 = Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minuty
 
-* czas przygotowania: 30 minuty
-* czas gotowania: 30 minuty
-* 4 porcje
-* https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas gotowania: 30 minuty
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 kg wieprzowiny łopatka, karkówka lub polędwiczka wieprzowa
 
 === Marynata:
@@ -32,7 +45,9 @@
 * 40 ml pozostałej marynaty
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 ===Dzień przed podaniem:
 Przygotować marynatę. Do miski dodać sos sojowy, sos hoisin, wino Shaoxing, miód, przyprawę 5 smaków. Dodać czosnek przeciśnięty przez praskę i opcjonalnie odrobinę czerwonego barwnika. Całość dobrze wymieszać.
 Mięso wieprzowe pokroić prostopadle do włókien na podłużne, wysokie kawałki o szerokości ok. 7 cm. Ja z 1 kg wieprzowiny otrzymuje 5-6 takich kawałków.
@@ -47,11 +62,4 @@ Następny etap polega na pieczeniu wieprzowiny i smarowaniu jej 3 razy glazurą.
 Kolejny raz otworzyć piekarnik, posmarować wieprzowinę glazurą i piec przez kolejne 5 minut.
 Ostatni raz otworzyć piekarnik i posmarować wieprzowinę glazurą. Piec ostatnie 5-7 minut, do momentu w którym glazura zastygnie na mięsie.
 Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Dopiero po tym czasie możemy kroić mięso na cienkie plasterki.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

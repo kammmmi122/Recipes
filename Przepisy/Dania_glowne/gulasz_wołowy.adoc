@@ -1,21 +1,32 @@
 = Gulasz wołowy 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 3 godziny
 
-* czas przygotowania: 3 godziny
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/gulasz-wolowy[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/gulasz-wolowy[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 kg wołowiny gulaszowej
 * 150 g wędzonego boczku
 * 2 łyżki oleju roślinnego
@@ -30,7 +41,9 @@
 * 150 g małych pieczarek
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Mięso pokroić w większą kostkę (ok. 3 - 4 cm). Boczek pokroić w kosteczkę, włożyć do dużego garnka z grubym dnem i co chwilę mieszając wytapiać go na małym ogniu przez ok. 3 minuty.
 
 Zwiększyć ogień, wlać olej i stopniowo wkładać po kilka kawałków mięsa. Obsmażyć z każdej strony, w sumie przez ok. 10 minut. W międzyczasie doprawić solą oraz pieprzem.
@@ -42,11 +55,4 @@ Posypać składniki mąką (bezpośrednio przez sitko), wymieszać i smażyć co
 Wlać wino jeśli go używamy a po chwili podgrzany bulion. Zagotować, przykryć pokrywą i zmniejszyć ogień. Gotować pod przykryciem na małym ogniu przez ok. 1 i 1/2 godziny. W międzyczasie potrząsać przykrytym garnkiem w celu przemieszania składników i sprawdzenia czy gulasz nie przywiera do dna.
 
 Po podanym czasie dodać do gulaszu pokrojoną paprykę oraz pokrojone pieczarki. Wymieszać, przykryć i gotować jeszcze przez 1/2 godziny.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

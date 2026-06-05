@@ -1,21 +1,32 @@
 = Zupa ogórkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/zupa-ogorkowa[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/zupa-ogorkowa[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 łyżka masła
 * 1 łyżka oliwy
 * 1 mała cebula
@@ -27,7 +38,9 @@
 * 4 łyżki posiekanego szczypiorku
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać obraną i pokrojoną w kosteczkę marchewkę i mieszając smażyć przez ok. 3 minuty.
 
 Wlać gorący bulion i zagotować. Przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.
@@ -37,11 +50,4 @@ Dodać obrane i pokrojone w kosteczkę ziemniaki i gotować przez ok. 10 minut.
 Dodać starte na tarce obrane ogórki oraz 1/2 szklanki soku z kiszonych ogórków (zalewy) jeśli mamy. Gotować przez ok. 10 minut. Odstawić z ognia.
 
 Dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z 2 łyżkami wody, potem z kilkoma łyżkami wywaru).
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

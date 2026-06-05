@@ -1,21 +1,32 @@
 = Cukinie z chili con carne 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 === Na chili:
 
 * 1 łyżka oliwy
@@ -38,7 +49,9 @@
 * 200 g tartej mozzarelli
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Wydrążyć cukinie, porobić dziurki i posolić. Po 10 minutach odlać nadmiar wody.
 
 Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
@@ -50,11 +63,4 @@ Przykryć i dusić przez około 20 na umiarkowanym ogniu, co jakiś czas zamiesz
 Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeby dolać odrobinę wody.
 
 Nagrzać piekarnik do 180 stopni C. Na cukinie wyłożyć sporą łyżkę sosu i posypać serem. Zapiec przez 10 minut.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

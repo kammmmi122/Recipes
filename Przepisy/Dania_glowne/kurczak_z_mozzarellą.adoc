@@ -1,21 +1,32 @@
 = Kurczak z mozzarellą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/parmigiana-z-kurczaka[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 2 filety z kurczaka (ok. 400 g)
 * oliwa, masło, jajko, bułka tarta
 * 1 puszka krojonych pomidorów
@@ -26,7 +37,9 @@
 * listki tymianku lub bazylii
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Filety z kurczaka oczyścić z błonek i kostek, odkroić polędwiczkę, przekroić wzdłuż na 2 cieńsze filety, rozbić je w najgrubszej części na kotlety o mniej więcej podobnej grubości. Doprawić je solą, pieprzem i łyżeczką suszonego oregano.
 
 Ugotować sos pomidorowy: w rondelku na łyżce oliwy delikatnie podsmażyć starty czosnek, dodać łyżeczkę suszonego oregano oraz pomidory z puszki. Doprawić solą, pieprzem, szczyptą płatków chili (lub do smaku) oraz w razie potrzeby szczyptą cukru, zagotować. Gotować przez ok. 10 minut pod uchyloną pokrywą.
@@ -38,11 +51,4 @@ Mozzarellę w kulce zetrzeć na tarce o większych oczkach, natomiast parmezan z
 Do naczynia żaroodpornego włożyć połowę sosu pomidorowego, ułożyć podsmażone filety, posypać połową mieszanki serów, następnie miejscami wyłożyć resztę sosu i całość zapiekanki posypać resztą serów. Po wierzchu posypać listkami tymianku lub bazylii.
 
 Wstawić do nagrzanego piekarnika i piec przez 15 minut.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

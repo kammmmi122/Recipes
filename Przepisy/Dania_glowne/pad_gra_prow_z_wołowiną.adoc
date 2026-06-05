@@ -1,21 +1,32 @@
 = Pad gra prow z wołowiną 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://madameedith.com/przepis/wolowina-z-tajska-bazylia-pad-gra-prow[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://madameedith.com/przepis/wolowina-z-tajska-bazylia-pad-gra-prow[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 250 g ryżu jaśminowego
 * 4 łyżki oleju (użyłam rzepakowego)
 * 400 g polędwicy wołowej
@@ -31,7 +42,9 @@
 * pęczek kolendry
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Ryż gotujemy w podwójnej objętości osolonej wody.
 
 Wołowinę drobno siekamy na cienkie i drobne paseczki - "wiórki". Mieszamy ze skrobią, która potem nieco zagęści nam sos.
@@ -45,11 +58,4 @@ Dodajemy wołowinę oraz wszystkie sosy. Mieszamy.
 Wołowinę podajemy z ryżem jaśminowym. Warto posypać ją dodatkową porcją kolendry i tajskiej bazylii.
 
 Wrzucamy suszoną bazylię Holy oraz świeże listki bazylii tajskiej. Mieszamy i zdejmujemy z ognia.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

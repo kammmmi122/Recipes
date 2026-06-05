@@ -1,21 +1,32 @@
 = Zupa barszcz z uszkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* 6 porcji
-* https://www.kwestiasmaku.com/kuchnia_polska/wigilia/barszcz_wigilijny_z_uszkami/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/wigilia/barszcz_wigilijny_z_uszkami/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 40 g suszonych borowików
 * 1 cebula
 * 2 ząbki czosnku
@@ -30,7 +41,9 @@
 * warto dodać: 250 - 500 ml zakwasu (kwasu) burakowego
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Do garnka wlać 500 ml wody, wsypać suszone borowiki. Na palniku kuchenki opalić nieobraną cebulę oraz 1 ząbek czosnku.
 
 Cebulę i czosnek przekroić na pół i dodać do grzybów. Zagotować na umiarkowanym ogniu, następnie zmniejszyć ogień do minimum, przykryć i na minimalnym ogniu gotować przez około 25 minut (wywar ma tylko lekko mrugać a nie mocno się gotować).
@@ -50,11 +63,4 @@ Barszcz odstawić na około godzinę. W międzyczasie można zacząć przygotowy
 Do barszczu dodać sól (do smaku), pieprz mielony, cukier oraz świeży posiekany ząbek czosnku, znów zostawić na minimum godzinę ale najlepiej do czasu całkowitego ostudzenia.
 
 Barszcz przecedzić i schować do lodówki. Następnego dnia lub przed podaniem podgrzać, spróbować i w razie potrzeby doprawić solą i pieprzem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

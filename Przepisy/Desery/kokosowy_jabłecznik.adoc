@@ -1,21 +1,32 @@
 = Kokosowy jabłecznik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 20 porcji
-* https://mojewypieki.com/przepis/kokosowy-jablecznik[link do źródła przepisu]
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://mojewypieki.com/przepis/kokosowy-jablecznik[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 225 g mąki pszennej
 * 120 g masła, zimnego
 * 30 g smalcu, zimnego
@@ -39,7 +50,9 @@
 * 100 g wiórków kokosowych
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Mąkę i proszek do pieczenia przesiać, dodać masło i smalec, posiekać szybko nożem do momentu, kiedy ciasto będzie przypominać kruszonkę. Dodać żółtka, cukier i szybko zagnieść (można również zmiksować w malakserze). Jeśli ciasto będzie zbyt sypkie, dodać 1 łyżkę zimnej wody. Uformować kulę, spłaszczyć, zawinąć w folię spożywczą, zamrozić (można wykonać dzień wcześniej).
 
 Blachę o wymiarach 34 x 23 cm wysmarować masłem, wyłożyć papierem do pieczenia. Na spód zetrzeć na tarce kruche ciasto i lekko przyklepać dłonią. Podpiec na złoty kolor w temperaturze 180ºC przez około 18 minut.
@@ -51,11 +64,4 @@ W misie miksera ubić białka ze szczyptą soli na sztywną pianę. Stopniowo, �
 Na podpieczony spód wyłożyć podduszone jabłka, wyrównać. Bezę kokosową wyłożyć na warstwę jabłek, wyrównać.
 
 Piec w temperaturze 180ºC przez około 35  - 40 minut. Beza powinna być chrupiąca i sztywna, nie 'gumowa' przy dotyku i miękka. Upieczone ciasto wyjąć, wystudzić. Kokosowy jabłecznik kroić na kwadraty i podawać.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

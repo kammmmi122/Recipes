@@ -1,21 +1,32 @@
 = Tortilki ser bekon ala KFC 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
 
-* czas przygotowania: 35 minut
-* 6 sztuk
-* https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
+[.recipe-details-item]
+📝 6 sztuk
+
+[.recipe-details-item]
+🔗 https://www.youtube.com/watch?v=1Q6_Gvsri9k[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * pierś z kurczaka - 720 g
 * wrapy - 6 szt.
 * chipsy STRONG EXTRA HOT Pepperoni - 40 g
@@ -48,7 +59,9 @@
 * 6 plasterków bekonu
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Zaczynam od kurczaka. Staram się kroić piersi na 60 g kawałki.
 
 Teraz marynata, zaprawa musztarda 100 g ,do tego wleję na razie 200 ml maślanki, aby lepiej się mieszało. No i nasze przyprawy (mnóstwo prochu), które dadzą świetny smak.
@@ -85,11 +98,4 @@ Po prostu wrzucamy 5 kubeczków jogurtu typu Skyr. Do tego cały jogurt grecki 4
 Czyli sałata lodowa, połowa główki pokrojona w kosteczkę. Tak samo pomidor. Sos oraz dodatki przyszykowane, kurczak przypieczony.
 
 Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję około 75 g na 1 porcję. Rozsmarowuje dokładnie po każdym. Na to sałata lodowa, pół główki idealnie wystarczyło oraz pomidor. Duże, dwa malinowe pomidory również się sprawdziły. Pora na króla naszego odcinka pikantne kawałki kurczaka. Po dwa na twistera. Rozkładam po jednym, aby później wizualnie dopasować kawałki
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

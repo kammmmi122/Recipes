@@ -1,21 +1,32 @@
 = Domowy kebab 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 === Bułka:
 
 * mąka pszenna typ 650 - 500 g
@@ -52,7 +63,9 @@
 * feta w kostkach
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 === Bułka do kebaba: 
 
 Wsyp mąkę do miski.
@@ -107,11 +120,4 @@ Dodaj czerwoną kapustę, sałatę lodową, a następnie mięso.
 Polej mięso pozostałą ilością sosu.
 
 Na górę dodaj pomidora, ogórka oraz czerwoną cebulę.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

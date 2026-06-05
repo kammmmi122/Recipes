@@ -1,20 +1,29 @@
 = Makaron z pulpecikami 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+👥 4 porcje
 
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 mały ziemniak
 * 400 g mielonego mięsa wołowo-wieprzowego
 * 1 mała cebula
@@ -29,7 +38,9 @@
 * mąka do obtoczenia
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Ziemniaka obrać, przekroić na pół i ugotować w osolonej wodzie. Odcedzić, dokładnie odparować i rozgnieść praską na puree.
 
 Do zmielonego mięsa, dodajemy do niego obraną i startą na drobnej tarce cebulę i drobno posiekane listki natki. Mięso wymieszać i wyrobić dodając puree ziemniaczane, sól i pieprz do smaku oraz jajko.
@@ -41,11 +52,4 @@ Gdy wszystkie kuleczki będą już uformowane, rozgrzać dużą patelnię z 4 ł
 Zrobić miejsce na patelni przesuwając delikatnie część pulpecików. W wolne miejsce wlać przecier pomidorowy, doprawić go solą, pieprzem i łyżeczką cukru. Dodać posiekaną bazylię, wymieszać i rozprowadzić sos po całej patelni. Po zagotowaniu przykryć patelnię pokrywą i gotować jeszcze przez ok. 5 - 8 minut aż sos będzie gęsty. Jeśli jest za bardzo gęsty, można rozcieńczać go wodą z makaronu lub zwykłą wodą.
 
 Pulpeciki podawać z makaronem i tartym serem. Potrawę można przygotować wcześniej i odgrzewać.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

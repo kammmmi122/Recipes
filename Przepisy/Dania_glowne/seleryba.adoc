@@ -1,21 +1,32 @@
 = Seleryba 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: do godziny
 
-* czas przygotowania: do godziny
-* 6 porcji
-* https://www.jadlonomia.com/przepisy/seleryba[link do źródła przepisu]
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/seleryba[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 kg selera
 * 2 litry bulionu warzywnego
 * 2 arkusze nori + 5 arkuszy do owijania kotletów
@@ -27,7 +38,9 @@
 * oraz do smażenia: mleko roślinne lub woda, mąka pszenna lub ryżowa i olej roślinny
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Seler obrać, przekroić na pół i pokroić na 1 cm plastry. W dużym garnku zagotować bulion razem z 2 arkuszami wodorostów nori, liśćmi laurowymi, zielem angielskim, kolendrą oraz sosem sojowym. Do gotującego się bulionu dodać plastry selera i gotować do momentu, aż będą bardzo miękkie, czyli około 15 - 20 minut.
 
 Miękkie plastry selera delikatnie wyjąć i chwilę ostudzić. W tym czasie arkusze nori pociąć na węższe paski, następnie naszykować dwie miseczki, do jednej wlać trochę mleka, a do drugiej wsypać mąkę.
@@ -35,11 +48,4 @@ Miękkie plastry selera delikatnie wyjąć i chwilę ostudzić. W tym czasie ark
 Każdy plaster selera oprószać solą i pieprzem, następnie owijać paskiem nori i na chwilę moczyć w mleku, dzięki temu wodorosty zmiękną i lepiej przylepią się do selera. Tak przygotowany plaster selera delikatnie zanurzać w mące.
 
 Na dużej patelni mocno rozgrzać olej i układać gotowe plastry selera. Obsmażać z każdej strony przez około 2 - 3 minuty, podawać z ziemniakami, surówką lub wigilijną kapustą.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

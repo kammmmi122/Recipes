@@ -1,21 +1,32 @@
 = Gołąbki wegetariańskie bez zawijania 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* liczba porcji: 16 gołąbków
-* https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
+[.recipe-details-item]
+👥 liczba porcji: 16 gołąbków
+
+[.recipe-details-item]
+🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 200 g kleistego ryżu (waga przed ugotowaniem, użyłam tajskiego)
 * 100 g czerwonej soczewicy
 * 100 g masła
@@ -38,7 +49,9 @@
 * pęczek koperku
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Ryż gotujemy wraz z czerwoną soczewicą przez 12 minut w podwójnej ilości osolonej wody (przykładowo na 1 szklankę suchych składników odmierzamy 2 szklanki wody). Ryżu i soczewicy nie przepłukujemy wcześniej na sitku! To ważne, by nie wypłukać z nich skrobi. Ryż powinien być raczej odmiany kleistej, niż typowo sypki (jak np. indyjski basmati). Użyłam ryżu tajskiego. Ryż oraz soczewica po ugotowaniu powinny się kleić, by skleić gołąbki.
 
 Warzywa myjemy i obieramy, siekamy bardzo drobno w kosteczkę.
@@ -54,11 +67,4 @@ Następnie formujemy gołąbki i układamy je w brytfannie.
 Na patelni rozgrzewamy masło i podsmażamy drugą cebulę, dodajemy bulion i pomidory, doprawiamy solą, pieprzem i cukrem. Gotujemy przez 10 minut, by bulion nieco odparował.
 
 Gołąbki polewamy sosem, wsadzamy do piekarnika rozgrzanego do temperatury 180 stopni C (z termoobiegiem) na 30 minut. Przy czym przez 15 minut pieczemy bez przykrycia, a potem przykrywamy.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

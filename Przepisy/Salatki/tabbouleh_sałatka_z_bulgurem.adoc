@@ -1,21 +1,32 @@
 = Tabbouleh, sałatka z bulgurem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 35 g surowej kaszy bulgur
 * 1 duży pęczek natki pietruszki
 * 1 pomidor
@@ -26,7 +37,9 @@
 * sól i zmielony pieprz
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Ugotować kaszę bulgur zgodnie z instrukcją na opakowaniu. Odcedzić i włożyć do miski.
 
 Natkę pietruszki opłukać, osuszyć i oderwać listki od gałązek. Drobno posiekać, dodać do miski z kaszą.
@@ -34,11 +47,4 @@ Natkę pietruszki opłukać, osuszyć i oderwać listki od gałązek. Drobno pos
 Pomidora pokroić na ćwiartki, wykroić szypułki, usunąć nasiona z komór. Pozostały miąższ pokroić najpierw na paski, następnie w kosteczkę. Włożyć do miski ze składnikami.
 
 Dodać posiekany szczypiorek, cynamon, oliwę i sok z cytryny. Doprawić solą i pieprzem, wymieszać. Można podawać do dań mięsnych, lub np. nabierać porcje sałatki za pomocą liści małej sałaty rzymskiej.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Sos waniliowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
 
-* czas przygotowania: 20 minut
-* 4 porcje
-* https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
@@ -23,16 +34,11 @@
 * 2 łyżeczki Pasty waniliowej z wanilii Bourbon z Madagaskaru z ziarenkami wanilii 50 g Dr. Oetkera
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.
 Zmniejsz obroty miksera i małym strumieniem wlewaj powoli mleko ze śmietanką do misy miksera, cały czas ubijając.
 Masę przelej do rondelka i na małym ogniu, mieszając cały czas łyżką lub rózgą kuchenną, gotuj do momentu aż sos zgęstnieje.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

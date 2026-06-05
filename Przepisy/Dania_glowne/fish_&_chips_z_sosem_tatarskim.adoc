@@ -1,21 +1,32 @@
 = Fish & chips z sosem tatarskim 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* 2 porcje
-* https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 === Fish
 
 * 2 duże kawałki dorsza podzielone na mniejsze kawałki do panierowania
@@ -43,7 +54,9 @@
 * świeżo zmielony pieprz
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 === Fish
 
 Wyjmujemy z lodówki rybę, myjemy i osuszamy papierowym ręcznikiem. Kroimy na takie kawałki, jakie chcemy serwować. Rybę solimy i pieprzymy. Odkładamy.
@@ -64,11 +77,4 @@ Rybę wyjmujemy, a na ten sam olej wrzucamy frytki - pamiętajcie - musi być mo
 
 Marynowane grzybki drobno posiekać na desce, obok w małą kosteczkę pokroić cebulę oraz ogórka, przez chwilę siekać jeszcze wszystkie składniki.
 Przełożyć do miseczki, dodać posiekany szczypiorek, natkę, majonez i sok z cytryny, wymieszać i doprawić pieprzem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

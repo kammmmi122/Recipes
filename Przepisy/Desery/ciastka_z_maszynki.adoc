@@ -1,19 +1,25 @@
 = Ciastka z maszynki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20251230_232424.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🔗 https://domowe-wypieki.pl/ciasteczka/705-ciasteczka-z-maszynki[link do źródła przepisu]
 
-* https://domowe-wypieki.pl/ciasteczka/705-ciasteczka-z-maszynki[link do źródła przepisu]
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 400 g mąki pszennej (lub w wersji kakaowej: 350 g mąki pszennej + 50 g kakao)
 * 100 g cukru pudru
 * 2 żółtka
@@ -22,7 +28,9 @@
 * ½ łyżeczki proszku do pieczenia
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Wszystkie składniki zagnieść ręcznie lub robotem kuchennym, używając haka do zagniatania ciasta. (Ciasto powinno być gładkie, nie za suche, o konsystencji miękkiej plasteliny. Gdyby zdarzyło się, że będzie za suche należy dodać jeszcze troszkę jogurtu).
 
 Ciasto nakładać porcjami do maszynki do ciastek (lub maszynki do mięsa z nakładką do ciastek) i wyciskać dowolne kształty. Długie "taśmy" ciasteczek pokroić na kilkucentymetrowe kawałki i ułożyć na blasze wyłożonej papierem do pieczenia.
@@ -30,12 +38,13 @@ Ciasto nakładać porcjami do maszynki do ciastek (lub maszynki do mięsa z nak�
 Piec w nagrzanym piekarniku, jedną blachę po drugiej, ok. 15 minut na złoty kolor w temperaturze 180°C, grzałka góra- dół.
 
 Chłodne ciasteczka dobrze przechowują się w szczelnej puszce, w temperaturze pokojowej, przez co najmniej 2 miesiące.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20251230_232424.jpg[]
 image::/Recipes/static/images/20251230_232420.jpg[]
-
+--

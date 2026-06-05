@@ -1,21 +1,32 @@
 = Burrito z chili con carne 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 === Na chili:
 
 * 1 łyżka oliwy
@@ -38,7 +49,9 @@
 * 4 tortille
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
 
 Dodać pomidory, wymieszać i doprawić cukrem, pieprzem oraz szczyptą soli.
@@ -48,11 +61,4 @@ Przykryć i dusić przez około 20 na umiarkowanym ogniu, co jakiś czas zamiesz
 Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeby dolać odrobinę wody.
 
 Nagrzać opiekacz. Na tortille wyłożyć po 2 plasterki sera i sporą łyżkę sosu. Zapiec przez 5 minut w opiekaczu.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Potrawka z udka kurczaka z warzywami 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.przyslijprzepis.pl/przepis/potrawka-z-kurczaka-i-warzyw-1[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.przyslijprzepis.pl/przepis/potrawka-z-kurczaka-i-warzyw-1[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g udek z kurczaka (bez skóry i kości; można zastąpić je piersią),
 * 2 małe marchewki,
 * 2 małe pietruszki,
@@ -32,13 +43,8 @@
 * świeże zioła do posypania potrawy (natka pietruszki lub/i koperek)
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Pokroić mięso w kostkę, doprawić solą, pieprzem i ziołami prowansalskimi. Obsmażyć na małej ilości tłuszczu do lekkiego zarumienienia, odłożyć. Na patelnię po mięsie wrzucić plastry marchewki, seler i pietruszkę pokrojone w kostkę oraz drobno posiekaną cebulę. Smażyć kilka minut, dodać drobno posiekany czosnek. Po chwili dodać mięso, zalać całość płynem (tyle, by lekko zakrył składniki), doprawić i dusić na małym ogniu ok. 20-30 minut (lub do czasu, aż mięso i warzywa będą miękkie). W zależności od tego, jak miękki ma być brokuł, dodać go na początku lub w połowie duszenia. Na 5 minut przed końcem dodać groszek oraz dynię. Aby sos był gęstszy, można dodać mąkę rozmieszaną w małej ilości wody lub/i śmietanki. Posypać świeżymi ziołami. Podawać z kaszą, makaronem lub ryżem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Pierogi z mięsem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1,5 godziny
 
-* czas przygotowania: 1,5 godziny
-* ok. 100 sztuk
-* https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+📝 ok. 100 sztuk
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g ugotowanego mięsa z rosołu
 * ugotowane warzywa z zupy (1 marchewka, 1/2 pietruszki)
 * 300 g pieczarek
@@ -24,7 +35,9 @@
 * 1 jajko (opcjonalnie)
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Przygotować ciasto na pierogi z podwójnej porcji.
 
 Pieczarki oczyścić szczoteczką lub gąbką, pokroić na mniejsze części. Cebulę obrać i pokroić w drobną kosteczkę. Pieczarki i cebulę wrzucić na dobrze rozgrzaną patelnię z dodatkiem masła i na większym ogniu odparować i zrumienić co chwilę mieszając.
@@ -38,11 +51,4 @@ Gotowe pierogi układać na stolnicy lub blacie podsypanych mąką. Przykryć ś
 W dużym garnku zagotować osoloną wodę, i jak będzie mocno wrzała, włożyć pierwszą partię pierogów. Po ponownym zagotowaniu zmniejszyć ogień do średniego i gotować pierogi do miękkości ciasta.
 
 Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub odsmażać (ostudzone, wysuszone pierogi). Pierogi z wody można polewać roztopionym masłem a odsmażane posypać skwarkami i podawać z kwaśną śmietaną.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

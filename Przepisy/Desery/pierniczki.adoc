@@ -1,21 +1,31 @@
 = Pierniczki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20231218_213240.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut + minimum 10 godzin na leżakowanie ciasta
 
-* czas przygotowania: 30 minut + minimum 10 godzin na leżakowanie ciasta
-* czas pieczenia: 12 minut
-* źródło przepisu: zajęcia babci Basi
+[.recipe-details-item]
+🕒 czas pieczenia: 12 minut
+
+[.recipe-details-item]
+📝 źródło przepisu: zajęcia babci Basi
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g mąki
 * 150 g masła
 * 150 g drobnego cukru
@@ -27,7 +37,9 @@
 * 20-30 g przyprawy korzennej
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 W rondelku umieść 150 gramów prawdziwego masła. Wlej również 200 gramów dobrej jakości płynnego miodu. Wsyp łyżeczkę kakao oraz całą przyprawę korzenną. Rondelek umieść na palniku i ustaw małą moc. Całość podgrzewaj kilka minut do całkowitego roztopienia się masła. Słodki krem wymieszaj dokładnie. Jeśli składniki się zagotują, to nic nie szkodzi. Rondelek ze słodkim, korzennym płynem odstaw na bok do przestudzenia.
 
 Kwaśną śmietanę 18% wymieszaj z dwiema łyżeczkami sody oczyszczonej. Śmietanę możesz zamienić na gęsty i kremowy jogurt naturalny.
@@ -45,12 +57,13 @@ Ciasto rozwałkuj na placek grubości minimum 6 mm. Możesz śmiało wycinać pi
 Blaszkę wyłóż papierem do pieczenia. Wycięte pierniczki układaj obok siebie na blaszce. Między pierniczkami zachowaj spore odległości, ponieważ pierniczki rosną w piekarniku. Po wycięciu pierwszych pierniczków zagniataj resztki ciasta, dodawaj kawałek świeżego i ponownie wałkuj na placek. Wycinaj kolejną porcję pierniczków. W ten sposób wykorzystaj całe ciasto.
 
 Każdą partię pierniczków piecz na środkowej półce w piekarniku nagrzanym do 170 stopni. Pierniczki piecz 12 minut. Po upieczeniu można je od razu wyjmować z piekarnika i układać na kratce do przestudzenia. Pierniczki świąteczne stygną bardzo szybko.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20231218_213240.jpg[]
 image::/Recipes/static/images/20231220_075016.jpg[]
-
+--

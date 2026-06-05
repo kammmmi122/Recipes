@@ -1,21 +1,31 @@
 = Fluffy pancakes 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20251109_210923.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 15 - 18 porcji
-* https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
+[.recipe-details-item]
+👥 15 - 18 porcji
+
+[.recipe-details-item]
+🔗 https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 3 żółtka
 * 15 g drobnego cukru do wypieków
 * 60 ml mleka
@@ -28,7 +38,9 @@
 * 60 g drobnego cukru do wypieków
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 W większym naczyniu umieścić żółtka, cukier, mleko, olej, wanilię. Wymieszać rózgą kuchenną do połączenia się składników. Bezpośrednio do mieszanki przesiać mąkę z proszkiem do pieczenia i wymieszać rózgą kuchenną tylko do połączenia się składników.
@@ -38,12 +50,13 @@ W misie miksera ubić białka ze szczyptą soli. Kiedy będą sztywne zacząć d
 Większą łyżką (u mnie łyżka do lodów) odmierzać porcje ciasta i smażyć na nieprzywierającej patelni i na minimalnej ilości tłuszczu (oleju), z obu stron, na złoty kolor, koniecznie pod przykryciem (placuszki są wysokie i nie możemy pozwolić na to, by były niedopieczone). Smażyłam na niewielkiej mocy palnika, ale dłużej, by dobrze się wypiekły w środku, trzeba wyczuć czas i temperaturę rozgrzania swojej patelni.
 
 Puszyste japońskie placuszki podawać prosto z patelni, z ulubionymi owocami i syropem klonowym (odłożone do wystudzenia - nieco opadną).
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20251109_210923.jpg[]
 image::/Recipes/static/images/20251109_210926.jpg[]
-
+--

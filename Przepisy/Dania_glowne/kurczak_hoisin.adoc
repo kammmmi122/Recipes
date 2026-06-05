@@ -1,21 +1,32 @@
 = Kurczak hoisin 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/kurczak-hoisin[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g filetu z kurczaka
 * 2 ząbki czosnku
 * 1 łyżeczka ostrej papryki
@@ -33,7 +44,9 @@
 * 1 płaska łyżka cukru
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Mięso oczyścić z błonek i kostek, pokroić w małą kostkę. Doprawić solą, startym czosnkiem, ostrą papryką i białym pieprzem.
 
 Na jednym głębokim talerzu wymieszać skrobię ziemniaczaną. Do drugiego wbić jajko i roztrzepać.
@@ -49,11 +62,4 @@ Wytrzeć patelnię ręcznikiem papierowym z resztek oleju ze smażenia, włoży�
 Podgrzewać przez ok. 1 - 2 minuty, następnie przesunąć mięso na bok a w wolne miejsce wlać sos hoisin (wymieszać wcześniej jego składniki).
 
 Zagotować a następnie połączyć z mięsem i co chwilę mieszając zagotować jeszcze wszystko razem. Podawać posypując lekko zrumienionym sezamem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

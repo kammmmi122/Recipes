@@ -1,21 +1,32 @@
 = Brownie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 20 porcji
-* https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 200 g masła
 * 200 g gorzkiej czekolady
 * 3 jajka (temp. pokojowa)
@@ -25,7 +36,9 @@
 * dodatkowo: ok. 50 - 100 g gorzkiej czekolady na wierzch
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.
 
 Masło pokroić w kostkę i włożyć do rondelka, dodać połamaną na kosteczki czekoladę i cały czas mieszając roztopić na małym ogniu, odstawić z palnika.
@@ -39,11 +52,4 @@ Dodatkową czekoladę pokroić na kawałki i posypać po wierzchu ciasta.
 Wstawić do piekarnika i piec przez ok. 30 minut aż ciasto lekko urośnie. Jeśli używamy większej blaszki, ciasto będzie gotowe szybciej, jeśli mniejszej - czas pieczenia należy wydłużyć.
 
 Po upieczeniu i ostudzeniu pokroić na małe kawałeczki.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

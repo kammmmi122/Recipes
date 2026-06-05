@@ -1,21 +1,32 @@
 = Cukinia faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* 4 porcje po 383 kcal
-* https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje po 383 kcal
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -30,7 +41,9 @@
 * 150 g tartego sera (np. mozzarelli)
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Na dużej patelni na oliwie zeszklić cebulę pokrojoną w kosteczkę, pod koniec dodać starty czosnek. Zwiększyć ogień i dodać zmielone mięso. Smażyć przez 5 minut, mieszając od czasu do czasu.
 
 Dodać sos worcestershire lub sos sojowy oraz przyprawy: sól, pieprz oraz po pół łyżeczki słodkiej i ostrej papryki, oregano oraz kurkumy. Smażyć jeszcze przez 1 minutę, następnie wlać gorący bulion, wsypać ryż i zagotować. Przykryć patelnię i dusić przez około 25 minut. Jeśli na koniec pozostał jakiś płyn, należy go wygotować bez przykrycia.
@@ -40,11 +53,4 @@ W międzyczasie przygotować cukinię: piekarnik nagrzać do 180 stopni C. Cukin
 Do ugotowanego mięsa na patelni dodać posiekany miąższ cukinii, połowę jednego pomidora (obranego i pokrojonego w kosteczkę) i smażyć wszystko jeszcze przez ok. 5 minut. Pod koniec dodać natkę pietruszki.
 
 Odstawić z patelni i po lekkim przestudzeniu dodać jajko, wymieszać. Powstałym farszem wypełnić wgłębienia w cukinii. Posypać tartym serem. Wstawić do piekarnika na około 25 minut, 180 stopni C.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

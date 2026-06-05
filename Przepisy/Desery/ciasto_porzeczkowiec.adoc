@@ -1,21 +1,31 @@
 = Ciasto porzeczkowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20240512_215751.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
 
-* czas przygotowania: 1 godzina
-* ok. 30 porcji
-* https://www.kwestiasmaku.com/przepis/ciasto-porzeczkowiec[link do źródła przepisu]
+[.recipe-details-item]
+👥 ok. 30 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/ciasto-porzeczkowiec[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 3/4 szklanki oleju roślinnego
 * 1/2 szklanki wody
 * 1 szklanka cukru
@@ -40,7 +50,9 @@
 * gorzkie kakao lub starta ciemna czekolada
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Do garnka wlać olej i wodę, dodać cukier oraz kakao. Wymieszać i zagotować. Przelać do czystego naczynia i całkowicie ostudzić.
 
 Piekarnik nagrzać do 180 stopni C. Przygotować formę do pieczenia o wymiarach ok. 23 cm x 35 cm i w razie potrzeby wyłożyć ją papierem do pieczenia.
@@ -62,12 +74,13 @@ Schłodzoną śmietankę ubić z cukrem pudrem. Dodać śmietan-fix i zmiksować
 Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 
 *  likieru amaretto lub sangrii lub czerwonego wina słodkiego lub posłodzonego wytrawnego (lub herbaty w wersji bezalkoholowej)
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20240512_215751.jpg[]
 image::/Recipes/static/images/20240512_223800.jpg[]
-
+--

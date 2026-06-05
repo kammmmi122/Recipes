@@ -1,21 +1,32 @@
 = Lasagne bolognese 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 3 godziny
 
-* czas przygotowania: 3 godziny
-* 6 - 8 porcji
-* https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 6 - 8 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 15 płatów lasagne (gotowych lub domowych)
 * 150 g tartego parmezanu
 * 3 łyżki oliwy
@@ -34,7 +45,9 @@
 * szczypta gałki muszkatołowej
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Na oliwie, w dużym garnku, zeszklić drobno posiekaną cebulę, dodać posiekany w drobną kosteczkę seler naciowy oraz startą marchewkę (warzywa można też rozdrobnić w malakserze).
 
 Obsmażyć, następnie przesunąć na bok i w wolne miejsce włożyć pokrojony w drobną kosteczkę boczek. Zrumienić i wymieszać z warzywami.
@@ -54,11 +67,4 @@ Piekarnik nagrzać do 175 stopni C (grzanie góra-dół bez termoobiegu). Przygo
 Na płatach lasagne rozprowadzić warstwę sosu bolońskiego, następnie polać sosem beszamelowym i posypać parmezanem. Powtórzyć jeszcze 4-krotnie.
 
 Tak złożoną lasagne włożyć do piekarnika i piec 45 minut (w połowie czasu pieczenia przykryć folią aluminiową). Po wyjęciu z piekarnika odczekać 5 minut przed porcjowaniem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

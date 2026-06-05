@@ -1,21 +1,32 @@
 = Zupa grochowa 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina 21 minut
 
-* czas przygotowania: 1 godzina 21 minut
-* 4 porcje
-* https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 2 l wody
 * 2 ziemniaki
 * 60 g marchewki
@@ -32,7 +43,9 @@
 * 1 pęczek natki pietruszki
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
 Zdejmuję łyżką cedzakową pianę, która zebrała się po zagotowaniu grochu i gotuję.
@@ -50,11 +63,4 @@ Zdejmuję patelnię z płyty, dodaję pora z czosnkiem do garnka z zupą grochow
 Kiedy minie czas gotowania zupy, sprawdzam, czy groch na pewno jest miękki, dodaję majeranek i doprawiam świeżo zmielonym pieprzem.
 
 Zupę podaję z natką pietruszki.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Dewolaje 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * pierś z kurczaka 1 kg
 * pieczarki 250 g
 * cebula 1 szt
@@ -27,7 +38,9 @@
 * Sól, pieprz, majeranek
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Piersi z kurczaka oczyścić,rozbić.Pieczarki oczyścić, pokroić w plasterki.
 
 Podsmażyć na 2 łyżkach masła razem z cebulką. Doprawić. Piersi przyprawić.
@@ -37,11 +50,4 @@ Ser pokroić w słupki.Na rozłożony filet nakładać farsz oraz kawałek sera.
 Zwijamy. Tak przygotowane rolady obtaczamy najpierw w mące potem w roztrzepanym jajku i na koniec w bułce tartej. Smażymy na gorącym tłuszczu z każdej strony na złoty kolor.
 
 Możliwość smażenia we frytkownicy.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

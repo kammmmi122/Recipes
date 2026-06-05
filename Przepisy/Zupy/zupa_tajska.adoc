@@ -1,21 +1,32 @@
 = Zupa tajska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://poprostupycha.com.pl/przepis/zupa-tajska[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://poprostupycha.com.pl/przepis/zupa-tajska[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 2 płaskie łyżki tajskiej pasty curry (np. żółta lub czerwona)
 * 3 cm korzeń imbiru
 * 1 ząbek czosnku
@@ -34,7 +45,9 @@
 * 50 g cienkiego makaronu ryżowego (waga przed namoczeniem)
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Filet z piersi kurczaka (około 500-600 g) kroimy w małą kostkę.
 
 Pieczarki (200 g) oraz papryki (ja użyłam jednej czerwonej i żółtej) kroimy w kostkę.
@@ -47,11 +60,4 @@ Wlewamy bulion (2 litry, ja użyłam bulionu warzywnego) i gotujemy przez około
 Wlewamy sos rybny (2 łyżeczki), mleko kokosowe (200-250 ml) i lekko posiekaną świeżą kolendrę (2 łyżki). Gotujemy jeszcze przez 2-3 minuty i doprawiamy do smaku (np. 1/2 łyżeczki soli i szczypta pieprzu). Jeżeli zupa będzie mało pikantna czy wyrazista, wtedy dodaj nieco więcej pasty curry czy szczyptę papryki ostrej lub drobno posiekaną papryczkę chili. Dodawaj jednak stopniowo, żeby nie przesadzić z ostrością.
 
 Makaron ryżowy lub sojowy zalewamy wodą według wskazań producenta. Podajemy z ugotowaną i nałożoną do miseczek zupą. Wierzch dekorujemy listkami świeżej kolendry. Często podaję także z plasterkiem czy ćwiartką limonki i wyciskam odrobinę soku do każdej miseczki. Smacznego!
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

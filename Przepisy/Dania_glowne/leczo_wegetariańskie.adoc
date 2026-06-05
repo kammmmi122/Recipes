@@ -1,21 +1,31 @@
 = Leczo wegetariańskie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+image::20240429_172456.jpg[]
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 ząbek czosnku
 * 1 cebula
 * 1/3 papryczki chili
@@ -31,7 +41,9 @@
 * około 1/2 łyżeczki soli morskiej i świeżo zmielony pieprz
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Czosnek obrać i pokroić w drobną kosteczkę. Cebulę pokroić w kostkę.
 
 Na dużą wysoką patelnię lub do dużego garnka wlać 1 łyżkę oliwy, włożyć czosnek i podgrzewać przez kilkanaście sekund, dodać cebulę oraz papryczkę chili w całości. Smażyć przez około 5 minut na umiarkowanym ogniu co chwilę mieszając aż cebula się zeszkli.
@@ -43,11 +55,12 @@ Dodać łyżkę oliwy, pokrojone na plasterki pieczarki oraz pokrojonego w koste
 Pomidory sparzyć, obrać ze skórki, wyciąć szypułki, usunąć pestki. Pokroić w kostkę i razem z sokiem wrzucić do warzyw (pomidory z puszki posiekać).
 
 Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i gotować przez około 5 minut, od czasu do czasu zamieszać.
-
-|===
+--
 
 [.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+--
 image::/Recipes/static/images/20240429_172456.jpg[]
-
+--

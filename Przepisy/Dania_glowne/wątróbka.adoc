@@ -1,20 +1,29 @@
 = Wątróbka 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
 
-* czas przygotowania: 35 minut
-* 4 porcje
+[.recipe-details-item]
+👥 4 porcje
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g wątróbki wieprzowej
 * 2 łyżki mąki ziemniaczanej
 * sól i pieprz do smaku
@@ -22,7 +31,9 @@
 * olej do smażenia
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Cebule pokroić w piórka i zeszklić na patelni. 
 
 Wątróbkę umyć, pokroić na kawałki, obtoczyć w mące ziemniaczanej.
@@ -30,11 +41,4 @@ Wątróbkę umyć, pokroić na kawałki, obtoczyć w mące ziemniaczanej.
 Wątróbkę usmażyć na oleju. Pod koniec dodać pieprz i sól do smaku.
 
 Podawać z ziemniakami i surówką
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Tzatiki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* 8 porcji
-* https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
+[.recipe-details-item]
+👥 8 porcji
+
+[.recipe-details-item]
+🔗 https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 1 kg odsączonego jogurtu greckiego
 * 1 duży szklarniowy ogórek
 * 3 ząbki czosnku
@@ -24,7 +35,9 @@
 * sól
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Czosnek obierz i zetrzyj na tarce, wrzuć do dużej miski i posól.
 
 Dodaj jogurt, ocet i oliwę, następnie dokładnie wymieszaj i odstaw.
@@ -36,11 +49,4 @@ Ogórka odciskaj mocno w dłoniach i partiami dodawaj do jogurtu.
 Wymieszaj dokładnie łyżką i wstaw do lodówki do schłodzenia.
 
 Podawaj polane oliwą.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

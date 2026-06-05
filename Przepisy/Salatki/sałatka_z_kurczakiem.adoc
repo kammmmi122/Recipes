@@ -1,22 +1,35 @@
 = Sałata z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
 
-* czas przygotowania: 30 minut
-* czas smażenia: 10 minut
-* 6 porcji
-* https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas smażenia: 10 minut
+
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/salatka-z-kurczakiem[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * 500 g piersi z kurczaka - 1 większa pierś
 * po pół łyżeczki soli i pieprzu
 * łyżeczka słodkiej papryki
@@ -32,7 +45,9 @@
 * kiełki jarmużu lub słonecznika
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Dużą pierś z kurczaka umyj i osusz ręcznikiem papierowym. Usuń włókna i ewentualne chrząstki. Dodam jeszcze, że mięso warto jest wyjąć wcześniej z lodówki, by miało jednolitą temperaturę. Jeśli mięso będzie w środku zimne, będzie potrzebowało dłuższej obróbki termicznej. 
 
 Pierś z kurczaka smażona w całości, oprócz podsmażenia na patelni wymaga dodatkowego pieczenia w piekarniku. Dwie połówki piersi z kurczaka obtocz dokładnie w soli, pieprzu i słodkiej papryce. Pół łyżeczki soli, pół łyżeczki pieprzu i jedna łyżeczka słodkiej papryki.
@@ -49,11 +64,4 @@ Na warzywa wylej 3 łyżki delikatnej oliwy. Przed wyłożeniem kurczaka możesz
 Pierś z kurczaka pokrój w plasterki i wyłóż na sałatkę. Sałatkę z kurczakiem polej resztą oliwy. Będą to trzy łyżki. Jeszcze tylko symboliczne oprószenie świeżo mielonym pieprzem oraz solą. Ja dodałam też trochę kiełków jarmużu. Jeśli jednak nie masz żadnych kiełków, to możesz śmiało pominąć ten składnik. 
 
 W przepisie nie ma dodatku w postaci orzechów lub pestek, ale jeśli lubisz, gdy coś Ci przyjemnie chrupie, to gorąco polecam dodać na koniec prażone pestki słonecznika lub też siekane orzechy włoskie.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--

@@ -1,21 +1,32 @@
 = Zapiekany rosół 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+--
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+--
 
 [.recipe-details]
-== Szczegóły
+--
+[.recipe-details-item]
+🕒 czas przygotowania: 2,5 godziny
 
-* czas przygotowania: 2,5 godziny
-* 8 porcje
-* https://szefowakuchni.pl/przepis/pieczony-rosol/[link do źródła przepisu]
+[.recipe-details-item]
+👥 8 porcje
+
+[.recipe-details-item]
+🔗 https://szefowakuchni.pl/przepis/pieczony-rosol/[link do źródła przepisu]
+
+--
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Składniki
+--
+[.recipe-column-box]
+=== Składniki
 * ulubione mięso na rosół (u mnie porcja drobiowa: 2 udka z kurczaka, 2 skrzydełka, korpus + 1 podudzie z indyka)
 * cebula
 * 4 marchewki
@@ -28,17 +39,12 @@
 * ulubiony makaron do rosołu
 
 |
-== Przygotowanie
+
+[.recipe-column-box]
+=== Przygotowanie
 Na blaszce do pieczenia ułożyć mięso, oraz wszystkie warzywa (większe kawałki przekroić na połowę). Całość posypać sporą ilością soli oraz pieprzu. Włożyć do piekarnika rozgrzanego do 200'C na około 1 godzinę, aż wszystko ładnie się zarumieni. Czas pieczenia może się różnić w zależności od piekarnika oraz wielkości składników.
 
 Po tym czasie mięso oraz warzywa przełożyć do dużego garnka, zalać wodą tak aby przykryć wszystkie składniki (u mnie 3,5 litra). Dodać liście laurowe, ziele angielskie, ziarenka pieprzu oraz łyżkę soli. Całość gotować na małym ogniu (rosół ma delikatnie pyrkać) przez około 2 -2,5 godziny.
 
 Na końcu sprawdzić smak i ewentualnie doprawić solą. Podawać z ulubionym makaronem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
+--
