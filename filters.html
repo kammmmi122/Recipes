@@ -91,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const cards = getCards();
     cards.forEach(card => {
       const text = (card.textContent || '').toLowerCase();
-      const tagEl = card.querySelector('.card-tag');
+      const tagEl = card.querySelector('.card-emoji');
       const tagText = tagEl ? (tagEl.textContent || '').toLowerCase() : '';
 
       const matchesSearch = q === '' || text.includes(q);
