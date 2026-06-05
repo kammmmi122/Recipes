@@ -10,7 +10,7 @@
 * https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

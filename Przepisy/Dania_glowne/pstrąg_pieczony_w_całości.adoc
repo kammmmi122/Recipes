@@ -10,7 +10,7 @@
 * https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

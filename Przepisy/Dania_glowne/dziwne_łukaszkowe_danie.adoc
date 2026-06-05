@@ -10,7 +10,7 @@
 * https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

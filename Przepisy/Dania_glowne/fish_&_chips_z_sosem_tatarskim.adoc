@@ -10,7 +10,7 @@
 * https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

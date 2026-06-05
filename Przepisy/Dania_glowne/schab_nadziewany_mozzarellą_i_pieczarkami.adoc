@@ -10,7 +10,7 @@
 * https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

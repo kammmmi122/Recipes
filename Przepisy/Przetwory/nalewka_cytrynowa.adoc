@@ -10,7 +10,7 @@
 * https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-cytrynowa-najlepsze-przepisy-na-cytrynowke-na-spirytusie-i-na-wodce/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

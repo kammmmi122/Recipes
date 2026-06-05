@@ -10,7 +10,7 @@
 * https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

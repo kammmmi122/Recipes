@@ -10,7 +10,7 @@
 * https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-z-gruszek-na-wodce-i-spirytusie-przepisy-krok-po-kroku/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

@@ -11,7 +11,7 @@
 * https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

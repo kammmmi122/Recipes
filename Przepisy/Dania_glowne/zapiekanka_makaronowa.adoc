@@ -10,7 +10,7 @@
 * https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

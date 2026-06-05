@@ -10,7 +10,7 @@
 * źródło przepisu: zajęcia babci Basi
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

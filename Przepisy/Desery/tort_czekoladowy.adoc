@@ -8,7 +8,7 @@
 * https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

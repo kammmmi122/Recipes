@@ -10,7 +10,7 @@
 * https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

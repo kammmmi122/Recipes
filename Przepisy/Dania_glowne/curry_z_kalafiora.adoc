@@ -10,7 +10,7 @@
 * https://www.jadlonomia.com/przepisy/na-przednowku-czyli-ulubione-curry-z[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===
