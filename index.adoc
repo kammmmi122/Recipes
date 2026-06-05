@@ -174,9 +174,10 @@ include::filters.html[]
 22. link:Przepisy/Desery/szybki_piernik.html[Szybki piernik] 🌱
 23. link:Przepisy/Desery/tarta_bananowa.html[Tarta bananowa] 🌱
 24. link:Przepisy/Desery/tort_czekoladowy.html[Tort czekoladowy] 🌱
-25. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
-26. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
-27. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
+25. link:Przepisy/Desery/tort_kinder.html[Tort kinder] 🌱
+26. link:Przepisy/Desery/tort_raffaello.html[Tort raffaello] 🌱
+27. link:Przepisy/Desery/tort_truskawkowy.html[Tort truskawkowy] 🌱
+28. link:Przepisy/Desery/wiśniowy_paj.html[Wiśniowy paj] 🌱
 
 == Makarony
 
@@ -191,17 +192,18 @@ include::filters.html[]
 9. link:Przepisy/Makarony/makaron_ze_szpinakiem.html[Makaron ze szpinakiem] 🌱
 10. link:Przepisy/Makarony/makaron_z_brokułami.html[Makaron z brokułami] 🌱
 11. link:Przepisy/Makarony/makaron_z_krewetkami.html[Makaron z krewetkami] 🦐
-12. link:Przepisy/Makarony/makaron_z_pesto.html[Makaron z pesto] 🌱
-13. link:Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html[Makaron z pieczonymi pomidorami] 🌱
-14. link:Przepisy/Makarony/makaron_z_pulpecikami.html[Makaron z pulpecikami] 🐖 🥩
-15. link:Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html[Noodle z krewetkami po koreańsku] 🦐
-16. link:Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html[Noodle z mielonym mięsem drobiowym] 🐔
-17. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma] 🌱
-18. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese] 🌱
-19. link:Przepisy/Makarony/ragu_alla_bolognese.html[Ragu alla bolognese] 🥩
-20. link:Przepisy/Makarony/spaghetti_bolognese.html[Spaghetti bolognese] 🐖
-21. link:Przepisy/Makarony/spaghetti_napoli.html[Spaghetti napoli] 🌱
-22. link:Przepisy/Makarony/spaghetti_pomodoro.html[Spaghetti pomodoro] 🌱
+12. link:Przepisy/Makarony/makaron_z_łososiem_i_serkiem.html[Makaron z łososiem i serkiem] 🐟
+13. link:Przepisy/Makarony/makaron_z_pesto.html[Makaron z pesto] 🌱
+14. link:Przepisy/Makarony/makaron_z_pieczonymi_pomidorami.html[Makaron z pieczonymi pomidorami] 🌱
+15. link:Przepisy/Makarony/makaron_z_pulpecikami.html[Makaron z pulpecikami] 🐖 🥩
+16. link:Przepisy/Makarony/noodle_z_krewetkami_po_koreańsku.html[Noodle z krewetkami po koreańsku] 🦐
+17. link:Przepisy/Makarony/noodle_z_mielonym_mięsem_drobiowym.html[Noodle z mielonym mięsem drobiowym] 🐔
+18. link:Przepisy/Makarony/pasta_alla_norma.html[Pasta alla norma] 🌱
+19. link:Przepisy/Makarony/pesto_alla_trapanese.html[Pesto alla trapanese] 🌱
+20. link:Przepisy/Makarony/ragu_alla_bolognese.html[Ragu alla bolognese] 🥩
+21. link:Przepisy/Makarony/spaghetti_bolognese.html[Spaghetti bolognese] 🐖
+22. link:Przepisy/Makarony/spaghetti_napoli.html[Spaghetti napoli] 🌱
+23. link:Przepisy/Makarony/spaghetti_pomodoro.html[Spaghetti pomodoro] 🌱
 
 == Przetwory
 
@@ -256,33 +258,35 @@ include::filters.html[]
 1. link:Przepisy/Zupy/francuska_zupa_cebulowa.html[Francuska zupa cebulowa] 🌱
 2. link:Przepisy/Zupy/hiszpańska_zupa_z_ciecierzycy.html[Hiszpańska zupa z ciecierzycy] 🌱
 3. link:Przepisy/Zupy/miso_ramen.html[Miso ramen] 🐔 🐖
-4. link:Przepisy/Zupy/ramen_shoyu.html[Ramen shoyu] 🐔 🐖
-5. link:Przepisy/Zupy/tantanmen_ramen.html[Tantanmen ramen] 🐖
-6. link:Przepisy/Zupy/zapiekany_rosół.html[Zapiekany rosół] 🐔
-7. link:Przepisy/Zupy/zupa_barszcz_z_uszkami.html[Zupa barszcz z uszkami] 🌱
-8. link:Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html[Zupa brokułowa z ryżem i koperkiem] 🌱
-9. link:Przepisy/Zupy/zupa_buraczkowa.html[Zupa buraczkowa] 🌱
-10. link:Przepisy/Zupy/zupa_fasolkowa.html[Zupa fasolkowa] 🌱
-11. link:Przepisy/Zupy/zupa_fasolowa.html[Zupa fasolowa] 🌱
-12. link:Przepisy/Zupy/zupa_grochowa_2.html[Zupa grochowa 2] 🌱
-13. link:Przepisy/Zupy/zupa_grochówka.html[Zupa grochówka] 🐖
-14. link:Przepisy/Zupy/zupa_grzybowa_2.html[Zupa grzybowa 2] 🌱
-15. link:Przepisy/Zupy/zupa_grzybowa_50_złotych_grzybów.html[Zupa grzybowa 50 złotych grzybów] 🌱
-16. link:Przepisy/Zupy/zupa_kalafiorowa.html[Zupa kalafiorowa] 🌱
-17. link:Przepisy/Zupy/zupa_klopsowa.html[Zupa klopsowa] 🐖
-18. link:Przepisy/Zupy/zupa_krem_z_groszku_z_grzankami.html[Zupa krem z groszku z grzankami] 🌱
-19. link:Przepisy/Zupy/zupa_krem_z_marchewki_z_grzankami.html[Zupa krem z marchewki z grzankami] 🌱
-20. link:Przepisy/Zupy/zupa_krem_z_szparagów.html[Zupa krem z szparagów] 🌱
-21. link:Przepisy/Zupy/zupa_krupnik.html[Zupa krupnik] 🐔
-22. link:Przepisy/Zupy/zupa_kurkowa_z_makaronem.html[Zupa kurkowa z makaronem] 🌱
-23. link:Przepisy/Zupy/zupa_ogórkowa.html[Zupa ogórkowa] 🌱
-24. link:Przepisy/Zupy/zupa_pieczarkowa.html[Zupa pieczarkowa] 🌱
-25. link:Przepisy/Zupy/zupa_pomidorowa.html[Zupa pomidorowa] 🐔
-26. link:Przepisy/Zupy/zupa_rosół.html[Zupa rosół] 🐔
-27. link:Przepisy/Zupy/zupa_serkowa_z_klopsami.html[Zupa serkowa z klopsami] 🐖
-28. link:Przepisy/Zupy/zupa_tajska.html[Zupa tajska] 🐔
-29. link:Przepisy/Zupy/zupa_tajska_z_owocami_morza.html[Zupa tajska z owocami morza] 🐟 🦐
-30. link:Przepisy/Zupy/zupa_warzywna.html[Zupa warzywna] 🌱
-31. link:Przepisy/Zupy/zupa_z_cukinii.html[Zupa z cukinii] 🌱
-32. link:Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html[Zupa żurek z białą kiełbasą] 🐖
-33. link:Przepisy/Zupy/zuppa_di_pesce.html[Zuppa di pesce] 🐟 🦐
+4. link:Przepisy/Zupy/pieczony_krem_z_pomidorów.html[Pieczony krem z pomidorów] 🌱
+5. link:Przepisy/Zupy/ramen_shoyu.html[Ramen shoyu] 🐔 🐖
+6. link:Przepisy/Zupy/tantanmen_ramen.html[Tantanmen ramen] 🐖
+7. link:Przepisy/Zupy/tori_dashi_miso_ramen.html[Tori dashi miso ramen] 🐔 🐖
+8. link:Przepisy/Zupy/zapiekany_rosół.html[Zapiekany rosół] 🐔
+9. link:Przepisy/Zupy/zupa_barszcz_z_uszkami.html[Zupa barszcz z uszkami] 🌱
+10. link:Przepisy/Zupy/zupa_brokułowa_z_ryżem_i_koperkiem.html[Zupa brokułowa z ryżem i koperkiem] 🌱
+11. link:Przepisy/Zupy/zupa_buraczkowa.html[Zupa buraczkowa] 🌱
+12. link:Przepisy/Zupy/zupa_fasolkowa.html[Zupa fasolkowa] 🌱
+13. link:Przepisy/Zupy/zupa_fasolowa.html[Zupa fasolowa] 🌱
+14. link:Przepisy/Zupy/zupa_grochowa_2.html[Zupa grochowa 2] 🌱
+15. link:Przepisy/Zupy/zupa_grochówka.html[Zupa grochówka] 🐖
+16. link:Przepisy/Zupy/zupa_grzybowa_2.html[Zupa grzybowa 2] 🌱
+17. link:Przepisy/Zupy/zupa_grzybowa_50_złotych_grzybów.html[Zupa grzybowa 50 złotych grzybów] 🌱
+18. link:Przepisy/Zupy/zupa_kalafiorowa.html[Zupa kalafiorowa] 🌱
+19. link:Przepisy/Zupy/zupa_klopsowa.html[Zupa klopsowa] 🐖
+20. link:Przepisy/Zupy/zupa_krem_z_groszku_z_grzankami.html[Zupa krem z groszku z grzankami] 🌱
+21. link:Przepisy/Zupy/zupa_krem_z_marchewki_z_grzankami.html[Zupa krem z marchewki z grzankami] 🌱
+22. link:Przepisy/Zupy/zupa_krem_z_szparagów.html[Zupa krem z szparagów] 🌱
+23. link:Przepisy/Zupy/zupa_krupnik.html[Zupa krupnik] 🐔
+24. link:Przepisy/Zupy/zupa_kurkowa_z_makaronem.html[Zupa kurkowa z makaronem] 🌱
+25. link:Przepisy/Zupy/zupa_ogórkowa.html[Zupa ogórkowa] 🌱
+26. link:Przepisy/Zupy/zupa_pieczarkowa.html[Zupa pieczarkowa] 🌱
+27. link:Przepisy/Zupy/zupa_pomidorowa.html[Zupa pomidorowa] 🐔
+28. link:Przepisy/Zupy/zupa_rosół.html[Zupa rosół] 🐔
+29. link:Przepisy/Zupy/zupa_serkowa_z_klopsami.html[Zupa serkowa z klopsami] 🐖
+30. link:Przepisy/Zupy/zupa_tajska.html[Zupa tajska] 🐔
+31. link:Przepisy/Zupy/zupa_tajska_z_owocami_morza.html[Zupa tajska z owocami morza] 🐟 🦐
+32. link:Przepisy/Zupy/zupa_warzywna.html[Zupa warzywna] 🌱
+33. link:Przepisy/Zupy/zupa_z_cukinii.html[Zupa z cukinii] 🌱
+34. link:Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html[Zupa żurek z białą kiełbasą] 🐖
+35. link:Przepisy/Zupy/zuppa_di_pesce.html[Zuppa di pesce] 🐟 🦐
