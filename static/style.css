@@ -36,7 +36,7 @@ body {
 #content,
 #footer,
 #footnotes {
-  max-width: 960px;
+  max-width: 1600px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -359,11 +359,7 @@ body {
   display: block;
 }
 
-/* ===========================
-   AsciiDoc – dopasowanie
-   =========================== */
-
-/* Tabela 2-kolumnowa (Szczegóły / Składniki / Przygotowanie) */
+/* Tabela 2-kolumnowa (Składniki / Przygotowanie) */
 
 table.tableblock {
   width: 100%;
@@ -376,9 +372,6 @@ table.tableblock > colgroup,
 table.tableblock > tbody > tr > td.tableblock {
   border: none;
 }
-
-/* Użyj klas na wrapperach, jeśli dodasz je w HTML/Asciidoc:
-   [.recipe-columns] przed tabelą itp. */
 
 /* ===========================
    RESPONSYWNOŚĆ
