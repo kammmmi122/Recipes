@@ -4,6 +4,7 @@
 --
 
 [.recipe-details]
+
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -56,6 +57,7 @@ Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzi
 |===
 
 [.recipe-gallery]
+
 == Zdjęcia
 
 image::/Recipes/static/images/20231105_103826.jpg[]
