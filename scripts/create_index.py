@@ -60,23 +60,23 @@ def get_value(char):
     else:
         return len(polish_alphabet_string)
 
+emoji_map = {
+    "🌱": "vege",
+    "🐟": "ryby",
+    "🦐": "ryby",
+    "🔥": "ostre",
+    "🐔": "mięsne",
+    "🦆": "mięsne",
+    "🐖": "mięsne",
+    "🥩": "mięsne",
+}
+
 
 def create_index_adoc():
 
     with open(f"index.adoc", "w", encoding="utf8") as file:
         file.write("= Lista przepisów\n")
         file.write("\n++++\ninclude::filters.html[]\n++++\n")
-    # Mapping emojis to user-visible category tags
-    emoji_map = {
-        "🌱": "vege",
-        "🐟": "ryby",
-        "🦐": "ryby",
-        "🔥": "ostre",
-        "🐔": "mięsne",
-        "🦆": "mięsne",
-        "🐖": "mięsne",
-        "🥩": "mięsne",
-    }
 
     for path, subdirs, files in os.walk("."):
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
