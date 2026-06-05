@@ -1,7 +1,6 @@
 = Bigos 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -58,4 +57,4 @@ Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzi
 
 image::/Recipes/static/images/20231105_103826.jpg[]
 
---
+

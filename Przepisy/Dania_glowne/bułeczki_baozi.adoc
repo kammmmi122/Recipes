@@ -1,7 +1,7 @@
 = Bułeczki baozi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
+
 
 [.recipe-details]
 == Szczegóły
@@ -39,4 +39,4 @@ Zagotowujemy wodę w garnku do gotowania na parze. Bułeczki gotujemy na parze p
 
 
 
---
+
