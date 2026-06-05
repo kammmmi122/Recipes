@@ -1,7 +1,9 @@
+[.recipe-page]
 = Makaron z pieczonymi pomidorami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/makaron-z-pieczonymi-pomidorami[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 250 g makaronu (np. większego jak Rigatoni, Peccheri)
 * 600 g pomidorów
 * 1 ząbek czosnku
@@ -24,8 +25,7 @@
 * sól morskia i świeżo zmielony pieprz
 * 4 łyżki oliwy extra vergine
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Piekarnik nagrzać do 190 stopni C. Pomidory umyć, pokroić w nieco większą kostkę, włożyć do odpowiednio dużego naczynia żaroodpornego.
 
 Dodać obrany i pokrojony na cienkie plasterki czosnek a między pomidory wcisnąć połowę porwanych liści bazylii.
@@ -37,7 +37,10 @@ W międzyczasie ugotować makaron w osolonej wodzie. Odcedzić, wyłożyć do g�
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

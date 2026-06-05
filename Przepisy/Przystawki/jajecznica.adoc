@@ -1,7 +1,9 @@
+[.recipe-page]
 = Jajecznica 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,12 +11,11 @@
 * 1 jajecznica
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 jajka
 * szczypta soli
 * szczypta pieprzu
@@ -22,14 +23,16 @@
 * szczypiorek
 * masło
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymieszać. Na patelni roztopic masło, wlać jajka i czekać. Od czasu do czasu poruszać drewnianą łyżką, aby rozdzielić na kawałku. Wyłączyć ogień gy białko stanie się białe.
 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

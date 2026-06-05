@@ -1,7 +1,9 @@
+[.recipe-page]
 = Tabbouleh, sałatka z bulgurem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/tabbouleh[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 35 g surowej kaszy bulgur
 * 1 duży pęczek natki pietruszki
 * 1 pomidor
@@ -25,8 +26,7 @@
 * sok z 1 cytryny
 * sól i zmielony pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Ugotować kaszę bulgur zgodnie z instrukcją na opakowaniu. Odcedzić i włożyć do miski.
 
 Natkę pietruszki opłukać, osuszyć i oderwać listki od gałązek. Drobno posiekać, dodać do miski z kaszą.
@@ -38,7 +38,10 @@ Dodać posiekany szczypiorek, cynamon, oliwę i sok z cytryny. Doprawić solą i
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

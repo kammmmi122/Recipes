@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -11,12 +13,11 @@
 * https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Składniki na zupę z cukinii:
 
 * 500 ml bulionu warzywnego lub drobiowego
@@ -34,8 +35,7 @@
 * 4 łyżki delikatnej oliwy
 * łyżeczka ziół prowansalskich
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Do zupy z cukinii odlewam przygotowuję 500 ml bulionu.
 
 Cukinie myję i odcinam same końce. Obierz cebulę oraz ząbki czosnku.
@@ -57,7 +57,10 @@ Dopiero na częściowo podpieczone grzanki wylej cienką strużką dwie łyżki 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

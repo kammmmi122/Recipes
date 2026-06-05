@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sos waniliowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,20 +12,18 @@
 * https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
 * 2 szt. żółtek
 * 2 łyżeczki Pasty waniliowej z wanilii Bourbon z Madagaskaru z ziarenkami wanilii 50 g Dr. Oetkera
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.
 Zmniejsz obroty miksera i małym strumieniem wlewaj powoli mleko ze śmietanką do misy miksera, cały czas ubijając.
@@ -32,7 +32,10 @@ Masę przelej do rondelka i na małym ogniu, mieszając cały czas łyżką lub 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

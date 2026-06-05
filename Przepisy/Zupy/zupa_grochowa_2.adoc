@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa grochowa 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 l wody
 * 2 ziemniaki
 * 60 g marchewki
@@ -31,8 +32,7 @@
 * 2 łyżek suszonego majeranku
 * 1 pęczek natki pietruszki
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
 Zdejmuję łyżką cedzakową pianę, która zebrała się po zagotowaniu grochu i gotuję.
@@ -54,7 +54,10 @@ Zupę podaję z natką pietruszki.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

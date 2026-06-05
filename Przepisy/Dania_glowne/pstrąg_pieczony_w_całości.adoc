@@ -1,7 +1,9 @@
+[.recipe-page]
 = Pstrąg pieczony w całości 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 4 średnie wypatroszone pstrągi (tęczowy lub łososiowy)
 * 2 cytryny
 * 1 limonka
@@ -28,8 +29,7 @@
 * świeża pietruszka
 * sól i pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Pstrągi dokładnie patroszymy, czyścimy i myjemy. Generalnie są dwie szkoły czyszczenia, jedni rybę skrobią z łusek, inni natomiast jedynie czyszczą wierzchnią warstwę śluzu, którym powleczone są łuski. My wykonujemy jedynie tę drugą czynność... wychodzimy z założenia, że i tak przecież zjada się samo mieso, a skóra wędruje do kosza.
 
 Suszymy papierowymi ręcznikami. Robimy kilka nacięć na jednym boku pstrąga.
@@ -55,7 +55,10 @@ Pstrąga można jeść samego, ale jednak preferujemy bardziej klasyczną polsk�
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

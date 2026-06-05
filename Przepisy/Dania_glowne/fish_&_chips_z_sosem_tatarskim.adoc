@@ -1,7 +1,9 @@
+[.recipe-page]
 = Fish & chips z sosem tatarskim 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Fish
 
 * 2 duże kawałki dorsza podzielone na mniejsze kawałki do panierowania
@@ -42,8 +43,7 @@
 * 2 łyżeczki soku z cytryny
 * świeżo zmielony pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 === Fish
 
 Wyjmujemy z lodówki rybę, myjemy i osuszamy papierowym ręcznikiem. Kroimy na takie kawałki, jakie chcemy serwować. Rybę solimy i pieprzymy. Odkładamy.
@@ -68,7 +68,10 @@ Przełożyć do miseczki, dodać posiekany szczypiorek, natkę, majonez i sok z 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

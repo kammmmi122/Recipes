@@ -1,7 +1,9 @@
+[.recipe-page]
 = Karkówka smażona z przyprawami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,25 +11,26 @@
 * 4 porcje
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 4 kawałki karkówki
 * ulubione przyprawy
 * pieprz i sól
 * olej do smażenia
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Oprószyć kawałki solą, pieprzem i ulubionymi przyprawami. Rozgrzać grillową patelnię. Dodać odrobinę oleju. Usmażyć karkówkę na rozgrzanej patelni.
 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

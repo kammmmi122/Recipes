@@ -1,7 +1,9 @@
+[.recipe-page]
 = Pierogi z mięsem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 500 g ugotowanego mięsa z rosołu
 * ugotowane warzywa z zupy (1 marchewka, 1/2 pietruszki)
 * 300 g pieczarek
@@ -23,8 +24,7 @@
 * 1 łyżka masła
 * 1 jajko (opcjonalnie)
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Przygotować ciasto na pierogi z podwójnej porcji.
 
 Pieczarki oczyścić szczoteczką lub gąbką, pokroić na mniejsze części. Cebulę obrać i pokroić w drobną kosteczkę. Pieczarki i cebulę wrzucić na dobrze rozgrzaną patelnię z dodatkiem masła i na większym ogniu odparować i zrumienić co chwilę mieszając.
@@ -42,7 +42,10 @@ Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub ods
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

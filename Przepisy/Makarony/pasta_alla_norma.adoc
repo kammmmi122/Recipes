@@ -1,7 +1,9 @@
+[.recipe-page]
 = Pasta alla norma 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * bakłażan - 400 g
 * makaron penne - 450 g
 * oliwa z oliwek - 55 ml
@@ -28,8 +29,7 @@
 * oregano suszone - 1 łyżeczka
 * bazylia świeża - 5 g
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Blachę wykładamy papierem do pieczenia. Bakłażany kroimy w kostkę, skrapiamy połową ilości oliwy, oprószamy solą i pieprzem. Przekładamy na blaszkę. Pieczemy ok. 30 minut w 200 stopniach, aż nabiorą złotego koloru.
 
 Na rozgrzane dno patelni wlewamy oliwę, dodajemy pomidory z puszki oraz płatki chili i roztarte w dłoniach oregano. Całość dusimy ok. 10 minut.
@@ -41,7 +41,10 @@ Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy ba
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231219_152132.jpg[]
 

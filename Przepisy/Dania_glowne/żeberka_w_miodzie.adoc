@@ -1,7 +1,9 @@
+[.recipe-page]
 = Żeberka w miodzie 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -12,12 +14,11 @@
 * https://aniagotuje.pl/przepis/zeberka-pieczone[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 kg żeberek wieprzowych
 * 1 łyżka ulubionej musztardy
 * 4 łyżki płynnego miodu
@@ -28,8 +29,7 @@
 * 4 łyżki oleju
 * przyprawy: płaska łyżka majeranku, łyżeczka słodkiej papryki, po pół łyżeczki soli, pieprzu i ostrej papryki, 2 listki laurowe, 3 ziela angielskie, ewentualnie po szczypcie kminku, kolendry i rozmarynu
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Przygotuj około jednego kilograma żeberek wieprzowych. Żeberka pokrój na kawałki. Niech każdy kawałek zawiera jedną podłużną kostkę. W osobne miseczce wymieszaj składniki marynaty. Będą to: jedna łyżka ulubionej musztardy delikatesowej lub musztardy Dijon, jeśli lubisz ostrzejsze żeberka; trzy łyżki płynnego miodu (jedna łyżka zostaje do smarowania żeberek pod koniec pieczenia); 3 łyżki dowolnego oleju do smażenia (jedna łyżka zostaje do smarowania żeberek pod koniec pieczenia); płaska łyżka majeranku; łyżeczka słodkiej papryki; po pół łyżeczki soli, pieprzu i ostrej papryki; dwa listki laurowe połamane na mniejsze kawałki; trzy ziarna ziela angielskiego oraz ewentualnie po szczypcie kminku, kolendry i rozmarynu. Marynatą wysmaruj dokładnie wszystkie żeberka.
 
 Przykryj je i odstaw do lodówki przynajmniej na pół godziny. Możesz też przygotować je wieczorem i zostawić do marynowania na całą noc. Porada: Część ząbków czosnku (lub wszystkie ) możesz przepuścić przez praskę i dodać je do składników na marynatę. Wówczas nie dodajesz ich już w całości do naczynia, w którym żeberka będą się piekły z warzywami.
@@ -52,7 +52,10 @@ Blaszkę z żeberkami umieść w piekarniku na wyższej półce. Ustaw średnią
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

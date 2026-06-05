@@ -1,7 +1,9 @@
+[.recipe-page]
 = Makaron ze szpinakiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/makaron-ze-szpinakiem[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 150 g makaronu np. świderki, fusilli, penne
 * 1/2 cebuli
 * 2 ząbki czosnku
@@ -25,8 +26,7 @@
 * 1/3 szklanki śmietanki 30%
 * 1/3 szklanki tartego parmezanu
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Szpinak opłukać i odcedzić.
 
 Na patelni na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę (ok. 5 - 7 minut). Doprawić solą, dodać przeciśnięty przez praskę czosnek i smażyć jeszcze przez ok. 2 minuty.
@@ -40,7 +40,10 @@ Połączyć z 1/3 ilości sera, resztę wykorzystać do posypania makaronu.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

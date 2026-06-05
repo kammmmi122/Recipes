@@ -1,7 +1,9 @@
+[.recipe-page]
 = Tantanmen ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Jajka nitamago
 * 4 jajka
 * 1 szklanka bulionu (np. dashi lub zwykłego)
@@ -66,8 +67,7 @@
 * Prażony sezam
 * Nori.
 
-|
-== Przygotowanie
+|=== Przygotowanie
 === Jajka nitamago
 
 Jajka włożyć delikatnie do gotującej się wody i gotować przez ok. 7 - 8 minut. Od razu po ugotowaniu zalać zimną wodą i schłodzić aby przestały się już gotować.
@@ -107,7 +107,10 @@ Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe skł
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240617_154401.jpg[]
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Szybki piernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 szklanka miodu
 * 3/4 szklanki cukru
 * 1 szklanka mleka
@@ -37,8 +38,7 @@
 * 100 ml śmietany kremówki 30% lub 36%
 * 100 g czekolady deserowej, posiekanej
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 Miód, cukier, mleko, masło, przyprawę korzenną i cynamon umieścić w garnku i postawić na palniku. Podgrzewać, mieszając, do rozpuszczenia się poszczególnych składników i otrzymania gładkiej mieszanki. Zdjąć z palnika i lekko przestudzić.
@@ -54,7 +54,10 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

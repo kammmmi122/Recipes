@@ -1,7 +1,9 @@
+[.recipe-page]
 = Krewetki po luizjańsku 🦐 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * ok. 375 g krewetek
 * 1 łyżka oleju roślinnego
 * 1 mała cebulka
@@ -29,8 +30,7 @@
 * przyprawy: po 1 łyżeczce suszonego oregano i tymianku, 2 łyżeczki papryki w proszku
 * do podania: bagietka, natka pietruszki
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Krewetki rozmrozić jeśli były zamrożone i oczyścić jeśli jest potrzeba.
 
 Na większej patelni na łyżce oleju zeszklić pokrojoną w kosteczkę cebulę. Dodać przeciśnięty przez praskę czosnek i podsmażać przez ok. pół minuty.
@@ -44,7 +44,10 @@ Dodać pozostałą łyżkę masła, roztopić i wymieszać. Posypać posiekaną 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

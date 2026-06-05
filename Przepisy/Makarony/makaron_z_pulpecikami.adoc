@@ -1,7 +1,9 @@
+[.recipe-page]
 = Makaron z pulpecikami 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,12 +11,11 @@
 * https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 mały ziemniak
 * 400 g mielonego mięsa wołowo-wieprzowego
 * 1 mała cebula
@@ -28,8 +29,7 @@
 * sól, pieprz, cukier
 * mąka do obtoczenia
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Ziemniaka obrać, przekroić na pół i ugotować w osolonej wodzie. Odcedzić, dokładnie odparować i rozgnieść praską na puree.
 
 Do zmielonego mięsa, dodajemy do niego obraną i startą na drobnej tarce cebulę i drobno posiekane listki natki. Mięso wymieszać i wyrobić dodając puree ziemniaczane, sól i pieprz do smaku oraz jajko.
@@ -45,7 +45,10 @@ Pulpeciki podawać z makaronem i tartym serem. Potrawę można przygotować wcze
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

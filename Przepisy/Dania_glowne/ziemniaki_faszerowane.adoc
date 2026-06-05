@@ -1,7 +1,9 @@
+[.recipe-page]
 = Ziemniaki faszerowane 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 4 ziemniaki
 * 3 łyżki oleju rzepakowego
 * trochę soli i pieprzu do smaku
@@ -26,8 +27,7 @@
 * 150 g jogurtu greckiego
 * 1 ząbek czosnku
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Rozgrzej piekarnik do 200°C. Spore ziemniaki podobnej wielkości umyj dokładnie i osusz. Nie obieraj.
 
 Przy pomocy ostrego noża natnij ziemniaki w poprzek w odstępach ok. 0,5 centymetrowych, ale nie do końca ziemniaka.
@@ -45,7 +45,10 @@ Ziemniaki wyjmij z piekarnika i podawaj posypane skwareczkami, z sosem i szczypi
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Pasztet z białej fasoli 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.jadlonomia.com/przepisy/idealny-pasztet-z-bialej-fasoli/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 szklanki drobnej białej fasoli, namoczonej przez noc w zimnej wodzie
 * 2 duże cebule, pokrojone w pióra
 * 1 jabłko, obrane i pokrojone w kostkę
@@ -28,8 +29,7 @@
 * 5 czubatych łyżek zmielonych płatków owsianych
 * sól i pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Namoczoną fasolę odcedzić, opłukać i ugotować w nieosolonej wodzie do miękkości.
 W międzyczasie na patelni na minimalnym ogniu zeszklić cebulę oraz jabłka, powinny się lekko rozpadać.
 Ugotowaną fasolę opłukać, przestudzić i połączyć z podduszonymi cebulami, jabłkami oraz resztą składników. Przepuścić przez maszynkę do mielenia lub zmiksować ręcznym blenderem. Doprawić solą i pieprzem do smaku.
@@ -38,7 +38,10 @@ Piekarnik rozgrzać do 180 stopni. Keksówkę wysmarować olejem, przełożyć m
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

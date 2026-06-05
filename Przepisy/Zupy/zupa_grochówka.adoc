@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa grochówka 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/zupa-grochowa-z-ziemniakami-i-kielbasa[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 150 g grochu łuskanego połówki żółtego
 * 1 łyżka masła
 * 1 cebula
@@ -26,8 +27,7 @@
 * 1 litr bulionu np. wieprzowego, drobiowego
 * 1 łyżka posiekanej natki
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Dzień wcześniej zalać groch 1 litrem zimnej wody i odstawić do namoczenia na całą noc. Następnego dnia odcedzić, zalać świeżą wodą (kilka centymetrów ponad poziom grochu), dodać pół łyżeczki soli i zagotować. Zmniejszyć ogień i gotować pod lekko uchyloną pokrywą przez około 45 minut lub do miękkości (groch może się częściowo rozpaść i rozgotować).
 
 W dużym garnku na maśle zeszklić pokrojoną w kosteczkę cebulę. Dodać listek laurowy, ziele angielskie, kminek, majeranek oraz obraną i pokrojoną w kosteczkę marchewkę. Mieszając smażyć przez ok. 5 minut.
@@ -41,7 +41,10 @@ Przykryć i gotować przez ok. 15 minut do miękkości warzyw, pod koniec dodać
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

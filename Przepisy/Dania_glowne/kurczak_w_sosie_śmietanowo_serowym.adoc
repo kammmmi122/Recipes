@@ -1,7 +1,9 @@
+[.recipe-page]
 = Kurczak w sosie śmietanowo-serowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,12 +11,11 @@
 * 4 porcje
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 piersi z kurczaka
 * 2 śmietany
 * 2 kawałki mozarelli
@@ -23,8 +24,7 @@
 * olej do smażenia
 * ryż
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Pierś kurczaka pokroić w kostkę. Doprawić, solą, pieprzem i suszonym czosnkiem. Usmażyć na patelni. 
 
 W misce zmieszać śmietanę, pokrojona w kostkę mozzarellę, sól, pierz, czosnek. Do kurczaka na patelni dodać powstały sos i gotować na małym ogniu aż do roztopienia sera. 
@@ -34,7 +34,10 @@ Ugotować ryż.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240505_163520.jpg[]
 

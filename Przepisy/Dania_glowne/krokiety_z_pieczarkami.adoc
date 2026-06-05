@@ -1,7 +1,9 @@
+[.recipe-page]
 = Krokiety z pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku364765[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Naleśniki
 
 * jajko 2 sztuki
@@ -39,8 +40,7 @@
 * mleko 5 łyżek
 * bułka tarta klasyczna Prymat 5 łyżek
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Posiekaną cebulę i kiełbaskę podsmażyć na łyżce oleju aż cebulka lekko zmięknie.
 
 Obrane pieczarki pokroić niezbyt drobno.dodawać partiami na patelnię z cebulką.
@@ -64,7 +64,10 @@ Piec 45 minut w 170 stopniach (w trakcie pieczenia obrócić je na drugą stron�
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Ciasto porzeczkowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/ciasto-porzeczkowiec[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 3/4 szklanki oleju roślinnego
 * 1/2 szklanki wody
 * 1 szklanka cukru
@@ -39,8 +40,7 @@
 * 1 śmietan-fix
 * gorzkie kakao lub starta ciemna czekolada
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Do garnka wlać olej i wodę, dodać cukier oraz kakao. Wymieszać i zagotować. Przelać do czystego naczynia i całkowicie ostudzić.
 
 Piekarnik nagrzać do 180 stopni C. Przygotować formę do pieczenia o wymiarach ok. 23 cm x 35 cm i w razie potrzeby wyłożyć ją papierem do pieczenia.
@@ -66,7 +66,10 @@ Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240512_215751.jpg[]
 image::/Recipes/static/images/20240512_223800.jpg[]

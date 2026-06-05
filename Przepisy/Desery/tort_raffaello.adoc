@@ -1,7 +1,9 @@
+[.recipe-page]
 = Tort Raffaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Biszkopt
 * 6 jajek
 * 200 g cukru
@@ -51,8 +52,7 @@
 * 3 łyżki płatków migdałów
 * pralinki Raffaello
 
-|
-== Przygotowanie
+|=== Przygotowanie
 === Biszkopt
 
 Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.
@@ -118,7 +118,10 @@ Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozost
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Burrito z chili con carne 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Na chili:
 
 * 1 łyżka oliwy
@@ -37,8 +38,7 @@
 * 8 plastrów ser cheddar
 * 4 tortille
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
 
 Dodać pomidory, wymieszać i doprawić cukrem, pieprzem oraz szczyptą soli.
@@ -52,7 +52,10 @@ Nagrzać opiekacz. Na tortille wyłożyć po 2 plasterki sera i sporą łyżkę 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

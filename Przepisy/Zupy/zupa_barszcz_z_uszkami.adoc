@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa barszcz z uszkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/kuchnia_polska/wigilia/barszcz_wigilijny_z_uszkami/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 40 g suszonych borowików
 * 1 cebula
 * 2 ząbki czosnku
@@ -29,8 +30,7 @@
 * opcjonalnie: 3 goździki, kawałek kory cynamonu, kawałek gwiazdki anyżu
 * warto dodać: 250 - 500 ml zakwasu (kwasu) burakowego
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Do garnka wlać 500 ml wody, wsypać suszone borowiki. Na palniku kuchenki opalić nieobraną cebulę oraz 1 ząbek czosnku.
 
 Cebulę i czosnek przekroić na pół i dodać do grzybów. Zagotować na umiarkowanym ogniu, następnie zmniejszyć ogień do minimum, przykryć i na minimalnym ogniu gotować przez około 25 minut (wywar ma tylko lekko mrugać a nie mocno się gotować).
@@ -54,7 +54,10 @@ Barszcz przecedzić i schować do lodówki. Następnego dnia lub przed podaniem 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

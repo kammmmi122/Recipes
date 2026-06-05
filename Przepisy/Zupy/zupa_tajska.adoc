@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa tajska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://poprostupycha.com.pl/przepis/zupa-tajska[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 płaskie łyżki tajskiej pasty curry (np. żółta lub czerwona)
 * 3 cm korzeń imbiru
 * 1 ząbek czosnku
@@ -33,8 +34,7 @@
 * 1 limonka
 * 50 g cienkiego makaronu ryżowego (waga przed namoczeniem)
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Filet z piersi kurczaka (około 500-600 g) kroimy w małą kostkę.
 
 Pieczarki (200 g) oraz papryki (ja użyłam jednej czerwonej i żółtej) kroimy w kostkę.
@@ -51,7 +51,10 @@ Makaron ryżowy lub sojowy zalewamy wodą według wskazań producenta. Podajemy 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

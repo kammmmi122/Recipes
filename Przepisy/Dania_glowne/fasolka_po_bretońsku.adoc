@@ -1,7 +1,9 @@
+[.recipe-page]
 = Fasolka po bretońsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/zielony_srodek/fasolka/fasolka_po_bretonsku/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 400 g suchej fasolki "Piękny Jaś" lub 2 puszki fasolki
 * 250 g boczku (parzonego lub wędzonego)
 * 250 g kiełbasy
@@ -24,8 +25,7 @@
 * 1 puszka krojonych pomidorów + 2 łyżki koncentratu pomidorowego*
 * przyprawy: 3 ziela angielskie, liść laurowy, 2 płaskie łyżki suszonego majeranku
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Suchą fasolę wsypać do garnka, zalać zimną wodą (ok. 10 cm ponad poziom fasolki) i odstawić na noc do namoczenia.
 
 Następnego dnia odcedzić, wlać 1 litr świeżej wody, dodać 1 łyżeczkę soli, ziele angielskie i liść laurowy i gotować pod przykryciem przez około 1 i 1/2 godziny do miękkości.
@@ -41,7 +41,10 @@ Dodać krojone pomidory z puszki i koncentrat pomidorowy. Doprawić majerankiem,
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

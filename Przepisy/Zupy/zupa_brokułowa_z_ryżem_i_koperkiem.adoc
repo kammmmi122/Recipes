@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa brokułowa z ryżem i koperkiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://zakochanewzupach.pl/zupa-brokulowa-z-ryzem-i-koperkiem[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 0.5 brokuła świeżego
 * 1 marchewka
 * 1 pietruszka
@@ -28,8 +29,7 @@
 * 1 pęczek koperka
 * 0.25 szklanki śmietany
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Marchewkę, pietruszkę i seler ścieramy na tarce o dużych oczkach, por kroimy w cienkie plasterki i siekamy.
 
 Podduszamy warzywa ma maśle, dorzucając dwie gałązki koperku.
@@ -45,7 +45,10 @@ Zupę brokułową z ryżem zabielamy śmietaną, podajemy z koperkiem.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

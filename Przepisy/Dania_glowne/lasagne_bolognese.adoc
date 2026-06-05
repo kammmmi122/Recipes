@@ -1,7 +1,9 @@
+[.recipe-page]
 = Lasagne bolognese 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 15 płatów lasagne (gotowych lub domowych)
 * 150 g tartego parmezanu
 * 3 łyżki oliwy
@@ -33,8 +34,7 @@
 * 650 ml mleka
 * szczypta gałki muszkatołowej
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Na oliwie, w dużym garnku, zeszklić drobno posiekaną cebulę, dodać posiekany w drobną kosteczkę seler naciowy oraz startą marchewkę (warzywa można też rozdrobnić w malakserze).
 
 Obsmażyć, następnie przesunąć na bok i w wolne miejsce włożyć pokrojony w drobną kosteczkę boczek. Zrumienić i wymieszać z warzywami.
@@ -58,7 +58,10 @@ Tak złożoną lasagne włożyć do piekarnika i piec 45 minut (w połowie czasu
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

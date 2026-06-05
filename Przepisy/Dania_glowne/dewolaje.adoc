@@ -1,7 +1,9 @@
+[.recipe-page]
 = Dewolaje 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * pierś z kurczaka 1 kg
 * pieczarki 250 g
 * cebula 1 szt
@@ -26,8 +27,7 @@
 * jaja 2 szt
 * Sól, pieprz, majeranek
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Piersi z kurczaka oczyścić,rozbić.Pieczarki oczyścić, pokroić w plasterki.
 
 Podsmażyć na 2 łyżkach masła razem z cebulką. Doprawić. Piersi przyprawić.
@@ -41,7 +41,10 @@ Możliwość smażenia we frytkownicy.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

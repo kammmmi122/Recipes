@@ -1,7 +1,9 @@
+[.recipe-page]
 = Nugetsy z kurczaka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,12 +11,11 @@
 * 4 porcje
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 piersi z kurczaka
 * mąka
 * 2 jajka
@@ -23,14 +24,16 @@
 * pieprz i sól
 * olej do smażenia
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Piersi z kurczaka przekroić na większą kostkę. Oprószyć solą, pieprzem i czerwoną papryką. Opanierować w mące, jajku i bułce tartej. Usmażyć nugetsy na rozgrzanym oleju.
 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Mielone kalafiorowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 ½ szklanki startego kalafiora / ½ kalafiora
 * 1 duża cebula
 * 1 ząbek czosnku
@@ -28,8 +29,7 @@
 * 1 ½ - 2 łyżeczki pieprzu ziołowy
 * sól i czarny pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Piekarnik rozgrzać do 180 stopni, blachę do pieczenia wyłożyć papierem. Kalafiora wraz z łodygą zetrzeć na dużych oczkach tarki, cebulę zetrzeć na dużych oczkach tarki, a czosnek na małych oczkach. Wszystko przełożyć do bardzo dużej miski.
 
 Do startych warzyw dodać pozostałe składniki i wszystko przy pomocy rąk porządnie zagnieść w zwartą masę, w razie potrzeby dolać łyżkę oleju więcej. Na koniec doprawić do smaku.
@@ -53,7 +53,10 @@ Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygo
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

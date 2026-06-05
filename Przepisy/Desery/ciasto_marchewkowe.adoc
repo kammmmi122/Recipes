@@ -1,7 +1,9 @@
+[.recipe-page]
 = Ciasto marchewkowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/desery/ciasta/ciasto_marchewkowe/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 jajka
 * 200 g drobnego cukru lub cukru pudru
 * 150 ml oleju roślinnego
@@ -34,8 +35,7 @@
 * 50 g masła (miękkiego)
 * 100 g cukru pudru
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Jajka ocieplić w temperaturze pokojowej. Ubić je do podwojenia objętości. Dodać cukier i dalej ubijać aż masa będzie gładka i puszysta. Wciąż ubijając na wysokich obrotach, dolewać ciągłym, cieniutkim strumieniem olej.
 
 Dodać marchewkę, ananasa, orzechy, wiórki kokosowe i delikatnie wymieszać. Piekarnik nagrzać do 150 stopni C.
@@ -54,7 +54,10 @@ Przykryć drugą częścią ciasta i rozsmarować resztę polewy. Udekorować or
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zapiekanka łukaszkowa 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * cebula - 1 szt.
 * pieprz czarny - 1 szczypta
 * gałka muszkatołowa mielona - 1 szczypta
@@ -41,8 +42,7 @@
 * ziemniak - 1 kg
 * ser cheddar - 100 g
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Marchew i pietruszkę pokrojone w kostkę smażymy w garnku na rozgrzanym oleju. Doprawiamy solą i pieprzem. Dodajemy cebulę pokrojoną w kostkę i posiekany czosnek. Smażymy, mieszając. Usmażone warzywa przekładamy na talerz.
 
 Pieczarki pokrojone w plasterki smażymy na rozgrzanym oleju na patelni. Doprawiamy solą i pieprzem, przekładamy do podsmażonych wcześniej warzyw.
@@ -64,7 +64,10 @@ Na wierzch wykładamy purée, które również rozprowadzamy po całej powierzch
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

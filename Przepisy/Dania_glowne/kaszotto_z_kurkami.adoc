@@ -1,7 +1,9 @@
+[.recipe-page]
 = Kaszotto z kurkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.jadlonomia.com/przepisy/kaszotto-z-kurkami[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 cebula
 * ½ ząbka czosnku
 * ½ szklanki kaszy gryczanej
@@ -27,8 +28,7 @@
 * sól i czarny pieprz
 * do podania: świeża pietruszka, płatki drożdżowe, kupuję tutaj
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Cebulę pokroić w kostkę, czosnek bardzo dokładnie posiekać. Na dnie dużej patelni rozgrzać olej, dodać cebulę i smażyć przez 1 - 2 minuty. Następnie dodać czosnek, zamieszać i wsypać kaszę gryczaną. Smażyć przez kolejną minutę, po czym wlać bulion i patelnię przykryć, gotować przez około 15 minut do momentu, aż kasza wchłonie cały płyn.
 
 Kiedy kasza jest prawie gotowa w czajniku zagotować wodę. Kurki umyć w zimnej wodzie, osuszyć i pokroić na połówki; a pomidora naciąć, włożyć do miski i wlać zagotowaną wodę. Po chwili pomidora wyjąć, obrać i posiekać.
@@ -42,7 +42,10 @@ Jeśli nie macie płatków drożdżowych możecie kaszotto podawać z pietruszk�
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

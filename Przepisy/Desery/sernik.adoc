@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.youtube.com/watch?v=-CXjNP2rEU0[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Masa serowa:
 
 * 1 kg sera tłustego, gęstego
@@ -33,8 +34,7 @@
 * 25 g cukru pudru
 * szczypta soli
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Zaczynam od przygotowania ciasta kruchego.
 
 Wszystkie składniki przekładam do minimalaksera.
@@ -110,7 +110,10 @@ Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231006_223932.jpg[]
 image::/Recipes/static/images/20231014_215500.jpg[]

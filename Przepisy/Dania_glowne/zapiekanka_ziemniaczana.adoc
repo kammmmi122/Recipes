@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zapiekanka ziemniaczana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -11,12 +13,11 @@
 * https://aniagotuje.pl/przepis/zapiekanka-ziemniaczana-z-kielbasa[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 kg ziemniaków - waga przed obraniem
 * opakowanie kiełbasy morlińskiej z szynki - 540 g
 * 2 średnie cebule - około 400 g
@@ -27,8 +28,7 @@
 * przyprawy: po płaskiej łyżeczce soli i słodkiej papryki; pół płaskiej łyżeczki pieprzu; szczypta gałki muszkatołowej; 2 łyżeczki czosnku; 1 łyżeczka papryki wędzonej
 * dodatki: garść pomidorków koktajlowych oraz natka pietruszki lub szczypiorek
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Ziemniaki należy obrać i pokroić w plasterki nie grubsze niż 1 cm.
 
 Przepłukane plasterki ziemniaków zalej w garnku zimną wodą. Wsyp płaską łyżkę soli. Garnek przykryj przykrywką i ustaw wysoką moc palnika. Gdy ziemniaki zaczną się gotować zmniejsz moc palnika i gotuj je około 5-8 minut licząc od zagotowania wody. Plasterki ziemniaków powinny być na wpół ugotowane. Odlej wodę a plasterki ziemniaków odstaw do lekkiego przestudzenia.
@@ -57,7 +57,10 @@ Naczynie z gotową do pieczenia zapiekanką ziemniaczaną z kiełbasą umieść 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

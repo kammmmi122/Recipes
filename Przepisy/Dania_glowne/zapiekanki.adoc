@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zapiekanki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -9,12 +11,11 @@
 * 6 porcje
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 3 półbagietki
 * 200 g pieczarek
 * 1 cebula
@@ -23,8 +24,7 @@
 * 150 g mozzarelli tartej
 * sól i pieprz czarny
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki i cebulę do brązowego koloru. Ostudzić
 
 Szynkę pokroić w kostkę
@@ -34,7 +34,10 @@ Połbagietki przekroić na pół. Wysmarować ketchupem, nałożyć pieczarki z 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

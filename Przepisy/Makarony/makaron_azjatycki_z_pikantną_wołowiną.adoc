@@ -1,7 +1,9 @@
+[.recipe-page]
 = Makaron azjatycki z pikantną wołowiną 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/makaron-azjatycki-z-pikantna-wolowina[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 250 g pszennego makaronu orientalnego np. Mie, Chow Mein
 * 2 łyżki oleju
 * 300 g mielonej wołowiny
@@ -34,8 +35,7 @@
 * 4 łyżki słodko - pikantnego sosu chili lub słodkiego sosu chili
 * 1 łyżka octu ryżowego
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Makaron ugotować zgodnie z instrukcją na opakowaniu, odcedzić.
 
 Rozgrzać wok (lub dużą patelnię) z 1 łyżką oleju. Partiami wkładać mięso i obsmażyć na większym ogniu.
@@ -53,7 +53,10 @@ Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem se
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

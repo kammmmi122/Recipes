@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sos grzybowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * ok. 500 g grzybów (np. borowików, podgrzybków, kurek, maślaków)
 * 1 cebula
 * 2 ząbki czosnku
@@ -25,8 +26,7 @@
 * 1 łyżka posiekanej natki pietruszki lub koperku
 * kilka kropli soku z cytryny lub octu winnego
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Grzyby przebrać, wybrać do sosu ładne, nierobaczywe grzyby. Przyciąć nóżki w razie konieczności, dokładnie oczyścić grzyby nożykiem oraz szczoteczką, unikając w miarę możliwości płukania / moczenia. Następnie pokroić na plasterki.
 
 Cebulę posiekać w drobną kostkę, czosnek przecisnąć przez praskę lub zetrzeć na drobnej tarce.
@@ -42,7 +42,10 @@ Sos można doprawić kwaśnym dodatkiem np. odrobiną soku z cytryny lub octu.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

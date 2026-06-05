@@ -1,7 +1,9 @@
+[.recipe-page]
 = Tort truskawkowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Biszkopt:
 
 * 6 jajek, osobno żółtka i białka
@@ -49,8 +50,7 @@
 * 2 łyżeczki cukru wanilinowego
 * 1/2 opakowania galaretki truskawkowej (w proszku)
 
-|
-== Przygotowanie
+|=== Przygotowanie
 === Biszkopt:
 
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.
@@ -96,7 +96,10 @@ Tort truskawkowy wyjąć ostrożnie z tortownicy i położyć na paterze. Gotowy
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240427_105458.jpg[]
 image::/Recipes/static/images/20240427_105504.jpg[]

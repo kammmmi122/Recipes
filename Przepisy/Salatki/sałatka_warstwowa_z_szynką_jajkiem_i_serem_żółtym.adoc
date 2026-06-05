@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sałatka warstwowa z szynką, jajkiem i serem żółtym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/salatka-warstwowa-z-szynka-jajkiem-i-serem-zoltym[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 5 jajek
 * 1 puszka kukurydzy
 * 1 puszka krojonego ananasa
@@ -23,8 +24,7 @@
 * 150 g szynki konserwowej
 * 2/3 szklanki majonezu + 1/3 szklanki gęstej śmietany lub jogurtu greckiego
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Jajka ugotować na twardo, obrać i posiekać na desce. Na sitku odcedzić kolejno kukurydzę, potem ananasa.
 
 Na dnie salaterki o średnicy ok. 20 cm ułożyć selera, potem kukurydzę, startą na tarce o dużych oczkach lub pokrojoną w kosteczkę lub paseczki szynkę.
@@ -34,7 +34,10 @@ Wyłożyć majonez wymieszany ze śmietaną lub jogurtem, kawałki ananasa, star
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

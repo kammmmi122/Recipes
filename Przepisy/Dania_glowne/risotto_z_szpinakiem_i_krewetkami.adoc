@@ -1,7 +1,9 @@
+[.recipe-page]
 = Risotto z szpinakiem i krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * szalotka 3 szt.
 * oliwa 3 łyżki
 * masło 82% 140 g
@@ -32,8 +33,7 @@
 * parmezan starty 150 g
 * orzeszki pinii 50 g
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Szalotki posiekaj w drobną kostkę i zeszklij na oliwie i 20 g masła.
 
 Dodaj suchy ryż i smaż przez ok. 2 minuty, często mieszając, aż do zmiany koloru.
@@ -53,7 +53,10 @@ Gotowe danie udekoruj krewetkami i orzeszkami pinii.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

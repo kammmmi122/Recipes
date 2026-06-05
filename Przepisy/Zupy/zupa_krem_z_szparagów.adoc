@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa krem z szparagów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 pęczki białych szparagów
 * 1 duża cebula
 * 4 łyżki masła
@@ -25,8 +26,7 @@
 * drobno zmielony pieprz
 * 100 ml śmietanki kremówki 30%
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Szparagi opłukać, odłamać twarde i grube końcówki (ok. 3 cm), łodyżki obrać, pokroić na 2 cm kawałki. Twarde końcówki można wykorzystać do ugotowania bulionu jarzynowego, są łykowate i nie nadają się na zmiksowanie w zupie.
 
 W garnku roztopić 2 łyżki masła i zeszklić pokrojoną w kosteczkę cebulę. Następnie dodać obrane i pokrojone w drobną kosteczkę ziemniaki i mieszając co chwilę smażyć przez ok. 5 minut.
@@ -40,7 +40,10 @@ Zupę można dodatkowo przelać przez sito i przetrzeć łyżką zgromadzony na 
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa serkowa z klopsami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.winiary.pl/przepisy/zupa-z-serkow-topionych-zwz[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 3 kostki rosołowe
 * 1 l wody
 * 300 g serka topionego
@@ -34,8 +35,7 @@
 * sól i pieprz do smaku
 * 1 cebula
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Cebulę i czosnek obierz oraz drobno posiekaj. Szczypiorek posiekaj.
 
 W garnku o grubym dnie rozgrzej oliwę i zeszklij cebulę. Dodaj czosnek i całość podsmaż przez ok. 5 minut.
@@ -57,7 +57,10 @@ Zupę z serków topionych posyp grzankami, posiekaną natką pietruszki i szczyp
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

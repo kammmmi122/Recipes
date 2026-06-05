@@ -1,7 +1,9 @@
+[.recipe-page]
 = Ciecierzyca po bretońsku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 cebula czerwona
 * 4 liście laurowe
 * 2 ziarna ziela angielskiego
@@ -35,8 +36,7 @@
 * 1 łyżka sosu sojowego
 * sól i czarny pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Cebulę pokroić w kostkę. Na dnie garnka rozgrzać olej, dodać cebulę oraz liście laurowe, ziele angielskie i ziarna pieprzu. Smażyć przez 2 - 3 minuty do czasu, aż cebula będzie złota.
 
 Wtedy dodać ciecierzycę, dokładnie wymieszać i dodać wszystkie pozostałe przyprawy. Smażyć minutę po czym dodać pozostałe składniki.
@@ -46,7 +46,10 @@ Garnek przykryć i gotować przez 7 - 15 minut. Na koniec doprawić do smaku sol
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

@@ -1,7 +1,9 @@
+[.recipe-page]
 = Noodle z krewetkami po koreańsku 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/noodle-z-krewetkami-po-koreansku[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 125 g makaronu chow mein
 * 125 g oczyszczonych krewetek
 * 2 ząbki czosnku
@@ -29,8 +30,7 @@
 * 1 łyżka oleju sezamowego
 * 5 łyżek wody
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Makaron ugotować zgodnie z instrukcją na opakowaniu (ok. 4,5 minuty). Odcedzić i przelać chłodną wodą na durszlaku.
 
 Krewetki rozmrozić jeśli były mrożone, oderwać ogonki, osuszyć. Doprawić solą, pieprzem oraz wymieszać z przeciśniętym przez praskę czosnkiem.
@@ -48,7 +48,10 @@ Przesunąć składniki na bok patelni i zrobić miejsce na dnie. Wlać w nie sos
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

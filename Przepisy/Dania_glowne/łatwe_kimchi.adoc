@@ -1,7 +1,9 @@
+[.recipe-page]
 = Łatwe kimchi 🌱 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 5 łyżek soli morskiej
 * 2 - 3 litry wody
 * 1 kg kapusty pekińskiej
@@ -34,8 +35,7 @@
 * ¼ szklanki szczypiorku, pokrojonego w grube kawałki
 * ½ marchewki, pocięta w cienkie paseczki
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Kapustę przekroić wzdłuż na cztery części, następnie każdą ćwiartkę pokroić na małe kawałki. Tak przygotowaną kapustę przełożyć do dużej miski, zalać wodą z solą, docisnąć talerzykiem obciążonym słoikiem i odstawić na 60 minut.
 
 W międzyczasie zagotować wodę z mąką ryżową oraz cukrem i gotować przez 1 -2 minuty do czasu, aż zmieni się w gęsty, ryżowy kleik. Wtedy zdjąć z ognia i odstawić do przestudzenia.
@@ -59,7 +59,10 @@ Kiszonki przechowywane przez cały rok najlepiej jest kisić w kamionkowych nacz
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

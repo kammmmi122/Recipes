@@ -1,7 +1,9 @@
+[.recipe-page]
 = Zupa pomidorowa 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/kuchnia_polska/zupy/zupa_pomidorowa/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 ćwiartki kurczaka
 * 2 litry wody
 * 1/2 łyżeczki soli
@@ -25,8 +26,7 @@
 * szczypta zmielonego pieprzu
 * 200 g makaronu
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Mięso włożyć do garnka, dodać szczyptę soli, zalać zimną wodą i zagotować na większym ogniu.
 
 W międzyczasie zdejmować łyżką cedzakową wytrącone na powierzchni "szumowiny". Zmniejszyć ogień do minimum i gotować na małym ogniu przez około 1/2 godziny. Dodać obraną i opłukaną włoszczyznę (marchewkę i pietruszkę pokroić w kostkę) i gotować przez następne 20 minut.
@@ -40,7 +40,10 @@ Ugotować makaron osobno.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

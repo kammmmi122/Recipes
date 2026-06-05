@@ -1,7 +1,9 @@
+[.recipe-page]
 = Wegański tatar 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://easyvege.pl/weganski-tatar[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Tatar:
 
 * 650-700 g surowych boczniaków (ważonych po oczyszczeniu, ale jeszcze przed myciem)
@@ -44,8 +45,7 @@
 * świeżo mielony pieprz
 * pieczywo
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Boczniaki oczyszczamy najpierw na sucho z zabrudzeń, następnie płuczemy na sicie pod bieżącą wodą i pozbywamy się nadmiaru wody wielokrotnie potrząsając energicznie sitem. Nie chodzi o to, by grzyby stały się suche. Powinny zostać wilgotne! - chodzi tylko o to, by nie ciekła z nich woda.
 Rozgrzewamy patelnię i smarujemy ją cieniutko olejem. Na rozgrzanej patelni układamy boczniaki, pozwalamy im się smażyć przez ok. 3 minuty. Następnie przewracamy grzyby na drugą stronę i znów podsmażamy przez ok. 3minuty. Powtarzamy partiami, do ostatniego grzybka. Tak przygotowane grzyby nie będą już surowe, ALE nie powinny być też przypieczone. Podczas podsmażania puszczą wodę, którą warto zebrać z patelni razem z grzybami.
 UWAGA: Podczas smażenia NIE DOTYKAMY BOCZNIAKÓW poza tym jednym momentem, gdy je przewracamy! Ich wilgotność w połączeniu z odpowiednim smażeniem, zapewni grzybom pożądaną strukturę, podobną do struktury mięsa.
@@ -63,7 +63,10 @@ Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawi
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231119_165036.jpg[]
 

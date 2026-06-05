@@ -1,7 +1,9 @@
+[.recipe-page]
 = Szare kluski ze skwarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -11,12 +13,11 @@
 * https://aniagotuje.pl/przepis/szare-kluski[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 kg ziemniaków - waga przed obraniem
 * 1 szklanka mąki pszennej uniwersalnej lub mąki żytniej typ. 720 - około 160 g
 * 1-2 łyżki skrobi ziemniaczanej
@@ -26,8 +27,7 @@
 * 2 średnie cebule - do 300 g
 * 5 łyżek oleju do smażenia
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Jeden kilogram sypkich ziemniaków obierz cienko i zetrzyj na tarce, na bardzo drobnych oczkach. Odciśnij nadmiar wody ze startych ziemniaków.
 
 Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków. Skrobię dołóż do masy ziemniaczanej i dodaj 1-2 niepełnych łyżek dodatkowej porcji skrobi/mąki ziemniaczanej. Do miski z ziemniakami wsyp tez pół płaskiej łyżeczki soli i wbij jedno jajko. 
@@ -45,7 +45,10 @@ Szare kluski najczęściej podaję z okrasą, którą szykuję z podsmażonego z
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

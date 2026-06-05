@@ -1,7 +1,9 @@
+[.recipe-page]
 = Ciasto drożdżowe ze śliwkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://ilovebake.pl/przepis/ciasto-drozdzowe-ze-sliwkami [link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 === Składniki na ciasto drożdżowe:
 
 * 4 szklanki mąki tortowej
@@ -36,8 +37,7 @@
 
 * ok. 1 kg śliwek najlepiej węgierek
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Wszystkie składniki na ciasto powinny być w temp. pokojowej. Jeśli używamy drożdży świeżych należy wcześniej wykonać zaczyn.
 
 Mąkę przesiewamy do dużej miski, dodajemy suche drożdże lub zaczyn ze świeżych. Wlewamy ciepłe mleko, cukier, jajka i mieszamy najlepiej dużą łyżką drewnianą. Następnie dodajemy masło o temp. pokojowej pokrojone na kawałki i wyrabiamy ciasto. Na początku nie będzie chciało się połączyć, ale z czasem zacznie być jednolite. Na koniec dłonie zwilżamy olejem i ponownie wyrabiamy, aż do wykorzystania całego tłuszczu. Wyrobione ciasto formujemy w kulę, wkładamy do miski, owijamy folią i zostawiamy na 1,5 godz do wyrośnięcia.
@@ -48,7 +48,10 @@ Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnię
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240820_080313.jpg[]
 image::/Recipes/static/images/20240820_080359.jpg[]

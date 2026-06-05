@@ -1,7 +1,9 @@
+[.recipe-page]
 = Krokiety z kapustą i grzybami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/przepis/krokiety-z-kapusta-i-grzybami[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 40 g suszonych grzybów
 * 500 g kapusty kiszonej
 * 1 mała marchewka
@@ -35,8 +36,7 @@
 * masło klarowane do smażenia
 * barszcz wigilijny lub barszcz czerwony
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Grzyby wypłukać w chłodnej wodzie, włożyć do rondelka, zalać 2 szklankami wody i odstawić do namoczenia na całą noc lub na kilka godzin.
 
 Wylać wodę z moczenia grzybów, wlać świeżą w ilości 1 szklanki, posolić i gotować przez ok. 20 minut. Odcedzić zachowując oddzielnie wywar i grzyby. Grzyby drobno posiekać na desce.
@@ -64,7 +64,10 @@ Jajka roztrzepać widelcem w głębokim talerzu z dodatkiem soli. Do drugiego ta
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

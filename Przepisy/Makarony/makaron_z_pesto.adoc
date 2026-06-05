@@ -1,7 +1,9 @@
+[.recipe-page]
 = Makaron z pesto 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 300 g makaronu
 * 1 doniczka bazylii (3 garści)
 * 1 mały ząbek czosnku
@@ -25,8 +26,7 @@
 * 20 g tartego parmezanu
 * sól, pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Rozgrzej patelnię, wrzuć na nią orzeszki piniowe i podpraż je przez kilka minut, aż delikatnie się zarumienią.
 
 Przełóż orzeszki do wysokiego naczynia, dodaj do nich oliwę z oliwek, bazylię, parmezan, czosnek, sok z cytryny oraz odrobinę soli i pieprzu.
@@ -38,7 +38,10 @@ Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20241007_174207.jpg[]
 

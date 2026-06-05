@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sałatka grecka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,12 +12,11 @@
 * https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 2 pomidory
 * 4 ogórki gruntowe lub 2 szklarniowe
 * 1/2 czerwonej cebuli
@@ -25,8 +26,7 @@
 * 4 łyżki oliwy extra vergine
 * świeżo zmielony pieprz
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Pomidory pokroić na ćwiartki, usunąć szypułki, następnie pokroić na jeszcze mniejsze kawałki.
 
 Ogórki obrać (można pozostawić miejscami paseczki zielonej skórki), przekroić wzdłuż na pół a następnie na grubsze półplasterki.
@@ -40,7 +40,10 @@ Na wierzchu położyć plasterki sera feta. Posypać suszonym oregano i polać o
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 
 

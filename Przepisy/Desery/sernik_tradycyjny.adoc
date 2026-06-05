@@ -1,7 +1,9 @@
+[.recipe-page]
 = Sernik tradycyjny 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
 
+[.recipe-details]
 [.recipe-details]
 == Szczegóły
 
@@ -10,20 +12,18 @@
 * https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[.recipe-columns,cols="1,2"]
 [frame=none]
 [grid=none]
 |===
-|
-== Składniki
+|=== Składniki
 * 1 kg mielonego twarogu np. gęsty z kubełka
 * 4 średnie jajka - około 240 g po rozbiciu
 * 200 g masła - 1 klasyczna kostka
 * 150 g cukru - około 3/4 szklanki
 * 1 saszetka budyniu waniliowego bez cukru - około 40 g
 
-|
-== Przygotowanie
+|=== Przygotowanie
 Nagrzej piekarnik do 190 stopni z pieczeniem góra/dół. Kostkę masła o wadze 200 gramów roztop w rondelku na minimalnej mocy lub w mikrofali. Rondelek odstaw do przestudzenia.
 
 W misce umieść razem: ser twarogowy z wiaderka; 4 jajka; roztopione i przestudzone masło (może być jeszcze lekko ciepłe); 150 gramów cukru (zwykły lub drobny); saszetkę proszku budyniowego bez cukru (waniliowy lub śmietankowy).
@@ -39,7 +39,10 @@ Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polew�
 |===
 
 [.recipe-gallery]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20241227_221828.jpg[]
 
