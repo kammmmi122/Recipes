@@ -1,0 +1,53 @@
+= Rou Jia Mo 🍔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 2 godziny 30 minut
+* porcji: 6
+* źródło: dołączony PDF
+
+== Składniki
+
+* boczek wieprzowy 1 kg (bez skóry)
+* wino Shaoxing 1/4 kubka
+* cukier 1 łyżka
+* jasny sos sojowy 4 łyżki
+* ciemny sos sojowy 2 łyżki
+* szalotki 4 sztuki (przekrojone na pół)
+* imbir 1 łyżka (pokrojony w plastry)
+* anyż 2 sztuki
+* laska cynamonu 1 sztuka
+* kardamon 1 sztuka
+* pieprz syczuański 1 łyżeczka
+* liść laurowy 3 sztuki
+* kolendra 0,5 kubka (posiekana)
+
+== Chlebki mo
+
+* mąka pszenna 3,5 kubka
+* drożdże w proszku 2 łyżeczki
+* sól 1 łyżeczka
+* ciepła woda 1 kubek
+* olej do smażenia
+
+== Przygotowanie
+
+Boczek ułóż w naczyniu żaroodpornym. W misce wymieszaj wino Shaoxing, cukier, jasny i ciemny sos sojowy, szalotki, imbir, anyż, cynamon, kardamon, pieprz syczuański i liście laurowe. Wlej marynatę do boczku tak, aby mięso było przykryte. Przykryj naczynie i wstaw do piekarnika nagrzanego do 200°C. Piecz pod przykryciem przez 1,5 godziny, a następnie zdejmij przykrycie i piecz jeszcze 30 minut, aż boczek ładnie się skarmelizuje.
+
+Po upieczeniu wyjmij boczek, ostudź go nieco i pokrój w kawałki. Jeśli w sosie jest dużo płynu, redukuj go na kuchence, aż zgęstnieje. Następnie włóż mięso do miski, dodaj posiekaną kolendrę i dokładnie wymieszaj.
+
+W międzyczasie przygotuj chlebki mo. Do dużej miski przesiej mąkę, dodaj drożdże i sól. Stopniowo wlewaj ciepłą wodę i wyrabiaj gładkie, elastyczne ciasto. Przykryj je i odstaw na około godzinę, aż podwoi objętość.
+
+Po wyrośnięciu zagnieć ciasto krótko, podziel na 12 równych części i uformuj z nich kulki. Rozwałkuj każdą kulkę na cienki placek o średnicy około 10 cm. Rozgrzej patelnię na średnim ogniu i piecz chlebki bez tłuszczu po około 2 minuty z każdej strony, aż się zrumienią.
+
+Przekrój chlebki na pół, napełnij je aromatycznym mięsem i podawaj z dodatkową porcją świeżej kolendry.
+
+|===
+
+[.text-center]
+== Zdjęcia

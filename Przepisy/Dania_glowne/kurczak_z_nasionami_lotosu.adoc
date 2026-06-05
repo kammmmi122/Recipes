@@ -1,0 +1,41 @@
+= Kurczak z nasionami lotosu 🍗 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 1 godzina 30 minut
+* porcji: 4
+* źródło: dołączony PDF
+
+== Składniki
+
+* 4 udka kurczaka
+* suszone grzyby shiitake kilka sztuk
+* nasiona lotosu 30 g
+* owoce jujuby 5 sztuk
+* plastry imbiru 4 sztuki
+* czosnek 4 ząbki (lekko zmiażdżone)
+* sos sojowy 4 łyżki
+* sos ostrygowy 1 łyżka
+* olej sezamowy 1 łyżka
+* przyprawa pięciu smaków 1 łyżeczka
+* olej roślinny 3 łyżki
+
+== Przygotowanie
+
+Grzyby shiitake namocz w ciepłej wodzie przez około 30 minut, a następnie odcedź. Nasiona lotosu gotuj w wodzie przez około 30 minut, aż zmiękną.
+
+Udka kurczaka natrzyj mieszanką przyprawy pięciu smaków i sosu sojowego. Rozgrzej olej roślinny na patelni i obsmaż udka z obu stron, aż lekko się zrumienią.
+
+W dużym garnku połącz ugotowane nasiona lotosu, odsączone grzyby shiitake, owoce jujuby, czosnek, imbir, sos sojowy, sos ostrygowy i olej sezamowy. Dodaj obsmażone udka kurczaka i przełóż wszystko do naczynia do gotowania na parze.
+
+Gotuj na parze przez około 45 minut, aż kurczak będzie miękki, a aromaty składników się połączą. Podawaj z ryżem lub pszennymi plackami.
+
+|===
+
+[.text-center]
+== Zdjęcia

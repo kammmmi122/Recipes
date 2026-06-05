@@ -1,0 +1,46 @@
+= Pierogi gyoza 🥟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 1 godzina 30 minut
+* porcji: 24 pierożki
+* źródło: dołączony PDF
+
+== Składniki
+
+* mrożone ciasto gyoza, okrągłe 24 sztuki
+* 2 łyżki aromatyzowanej wrzącej wody
+* 1/4 łyżeczki soli do wody aromatyzowanej
+* 1 dymka (pokrojona w kawałki)
+* 1 łyżka startego imbiru
+* 1 łyżeczka pieprzu syczuańskiego
+* 0,25 kg mięsa mielonego z kurczaka
+* 0,3 kg krewetek
+* 1 jajko
+* 2 łyżeczki mąki kukurydzianej
+* 0,5 łyżeczki białego pieprzu
+* 1 szczypior, posiekany
+* czarny sezam do posypania
+* olej roślinny do smażenia
+
+== Przygotowanie
+
+W misce wymieszaj aromatyzowaną wodę z solą, dymką, imbirem i pieprzem syczuańskim. Odstaw na 15 minut, a następnie odcedź. Zachowaj płyn z aromatyzacji do późniejszego użycia.
+
+W innej misce połącz mięso mielone z kurczaka, drobno posiekane krewetki, jajko, mąkę kukurydzianą, biały pieprz i posiekany szczypior. Dodaj odrobinę aromatyzowanej wody i wymieszaj farsz na gładką, lepką masę.
+
+Nakładaj po 1 łyżeczce farszu na środek każdej płytki ciasta. Sklejaj brzegi, formując ciasne pierogi gyoza. Upewnij się, że brzegi są dobrze zlepione, aby farsz nie wypłynął podczas smażenia.
+
+Na patelni rozgrzej olej. Smaż pierożki na średnim ogniu przez około 4 minuty, aż spód ładnie się zrumieni. Następnie wlej trochę wody, przykryj patelnię i duś przez około 10 minut, aż ciasto będzie miękkie, a farsz ugotowany.
+
+Podawaj gyoza z posiekanym szczypiorem i czarnym sezamem, a jeśli chcesz, z dodatkową porcją sosu sojowego lub oleju chili.
+
+|===
+
+[.text-center]
+== Zdjęcia

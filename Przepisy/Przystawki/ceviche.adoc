@@ -1,0 +1,44 @@
+= Ceviche 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
+|===
+|
+== Szczegóły
+
+* czas przygotowania: 30 minut
+* porcji: 4
+* źródło: dołączony PDF
+
+== Składniki
+
+* 300 g białej ryby (labraks, dorsz lub krewetki)
+* 125 ml świeżego soku z limonki
+* 60 ml świeżego soku pomarańczowego
+* 2 łyżki świeżego soku z cytryny
+* 2 łyżki oliwy z oliwek
+* 1 mała czerwona cebula pokrojona w kostkę
+* 1 papryczka jalapeño bez pestek, pokrojona w kostkę
+* 1 pomidor pokrojony w drobną kostkę
+* 1 ogórek bez pestek pokrojony w drobną kostkę
+* 1 awokado pokrojone w drobną kostkę
+* drobno posiekana kolendra
+* 1-1½ łyżeczki soli do smaku
+
+== Przygotowanie
+
+Zagotuj wodę w dużym garnku. Pokrój rybę na kawałki wielkości około 1 cm.
+
+Gdy woda zacznie wrzeć, wrzuć rybę i gotuj przez 1 minutę, aż stanie się biała i nieprzezroczysta. Natychmiast wyjmij rybę i zanurz ją w lodowatej wodzie, aby zatrzymać proces gotowania.
+
+W dużej misce wymieszaj soki z limonki, cytryny, pomarańczy z oliwą z oliwek i solą. Dodaj ostudzoną rybę i delikatnie wymieszaj, aby nie rozbić kawałków.
+
+Marynuj rybę w lodówce przez 10 minut. Następnie dodaj pokrojone pomidory, ogórek, cebulę oraz jalapeño. Marynuj kolejne 10 minut.
+
+Tuż przed podaniem wmieszaj pokrojone awokado i posiekaną kolendrę. Podawaj od razu, aby ceviche pozostało świeże.
+
+|===
+
+[.text-center]
+== Zdjęcia
