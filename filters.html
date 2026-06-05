@@ -35,7 +35,7 @@
   .tabs button.active,
   .tabs button:hover{
     color:var(--accent,#007acc);
-    background:rgba(0,122,204,.1);
+    background:rgba(0,122,204,.12);
   }
   .controls{
     display:flex;
@@ -44,6 +44,10 @@
     justify-content:flex-end;
     min-width:0;
     flex:0 1 auto;
+  }
+
+  .tabs button.active {
+    background: rgba(0, 122, 204, 0.14);
   }
   .search-input{
     padding:10px 14px;
@@ -88,23 +92,27 @@ document.addEventListener("DOMContentLoaded", function () {
   const tabs = document.querySelectorAll('.tabs button');
   const searchInput = document.querySelector('#search');
   const cardsGrid = document.querySelector('.cards-grid');
+  const allButton = document.querySelector('.tabs button[data-filter="all"]');
 
   function getCards(){
     return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
   }
 
-  let activeCategory = 'all';
-
   function applyFilters(){
     const q = (searchInput && searchInput.value || '').toLowerCase().trim();
+    const activeFilters = Array.from(tabs)
+      .filter(t => t.classList.contains('active') && t.getAttribute('data-filter') !== 'all')
+      .map(t => t.getAttribute('data-filter'));
+
     const cards = getCards();
     cards.forEach(card => {
-      const text = (card.textContent || '').toLowerCase();
-      const tagEl = card.querySelector('.card-emoji');
-      const tagText = tagEl ? (tagEl.textContent || '').toLowerCase() : '';
+      const title = (card.dataset.title || '').toLowerCase();
+      const category = (card.dataset.category || '').toLowerCase();
+      const emojiText = (card.dataset.emoji || '').toLowerCase();
+      const text = `${title} ${category} ${emojiText}`;
 
       const matchesSearch = q === '' || text.includes(q);
-      const matchesCategory = activeCategory === 'all' || tagText.includes(activeCategory);
+      const matchesCategory = activeFilters.length === 0 || activeFilters.some(filter => emojiText.includes(filter) || category.includes(filter));
 
       if(matchesSearch && matchesCategory){
         card.style.display = '';
@@ -115,9 +123,23 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   tabs.forEach(t => t.addEventListener('click', ()=>{
-    tabs.forEach(x=>x.classList.remove('active'));
-    t.classList.add('active');
-    activeCategory = t.getAttribute('data-filter') || 'all';
+    const filterValue = t.getAttribute('data-filter') || 'all';
+    const allButton = document.querySelector('.tabs button[data-filter="all"]');
+
+    if(filterValue === 'all'){
+      tabs.forEach(x => x.classList.toggle('active', x === allButton));
+    } else {
+      t.classList.toggle('active');
+      if(allButton){
+        allButton.classList.remove('active');
+      }
+
+      const selected = Array.from(tabs).filter(x => x !== allButton && x.classList.contains('active'));
+      if(selected.length === 0 && allButton){
+        allButton.classList.add('active');
+      }
+    }
+
     applyFilters();
   }));
 
@@ -127,6 +149,10 @@ document.addEventListener("DOMContentLoaded", function () {
       clearTimeout(debounce);
       debounce = setTimeout(()=>applyFilters(), 120);
     });
+  }
+
+  if(allButton){
+    allButton.classList.add('active');
   }
 
   // run once at start
