@@ -94,7 +94,7 @@ def create_index_adoc():
                 if image_path:
                     image_html = f'<div class="card-image" style="background-image:url(\'{html.escape(image_path, quote=True)}\')"></div>'
                 else:
-                    image_html = '<div class="card-image card-image--placeholder">Brak zdjęcia</div>'
+                    image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
 
                 emoji_html = " ".join(tags)
                 category_attr = html.escape(folder_name)
