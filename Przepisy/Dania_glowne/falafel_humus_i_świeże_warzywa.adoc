@@ -1,7 +1,6 @@
 = Falafel, humus i świeże warzywa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -46,4 +45,3 @@ Uformowane falafele od razu wrzucać na gorący olej na patelni i smażyć 2 - 3
 
 
 
---

@@ -1,7 +1,6 @@
 = Risotto primavera 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -66,4 +65,3 @@ Sprawdzić doprawienie solą i pieprzem. Podawać z dodatkowym serem i oliwą we
 
 
 
---

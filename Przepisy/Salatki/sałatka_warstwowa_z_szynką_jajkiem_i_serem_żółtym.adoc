@@ -1,7 +1,6 @@
 = Sałatka warstwowa z szynką, jajkiem i serem żółtym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -39,4 +38,3 @@ Wyłożyć majonez wymieszany ze śmietaną lub jogurtem, kawałki ananasa, star
 
 
 
---

@@ -1,7 +1,6 @@
 = Łosoś z sosem koperkowym 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -56,4 +55,3 @@ Na talerze położyć upieczonego łososia, obok zielone dodatki, ziemniaczki i 
 
 
 
---

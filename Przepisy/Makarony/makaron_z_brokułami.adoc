@@ -1,7 +1,6 @@
 = Makaron z brokułami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -61,4 +60,3 @@ Makaron rozłóż na talarze. Na makaron wyłóż po porcji sosu, a na samą gó
 
 
 
---

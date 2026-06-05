@@ -1,7 +1,6 @@
 = Tatar ze śledzia 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -45,4 +44,3 @@ Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na ta
 
 image::/Recipes/static/images/20231216_212653.jpg[]
 
---

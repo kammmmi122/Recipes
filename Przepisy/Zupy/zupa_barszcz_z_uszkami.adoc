@@ -1,7 +1,6 @@
 = Zupa barszcz z uszkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -59,4 +58,3 @@ Barszcz przecedzić i schować do lodówki. Następnego dnia lub przed podaniem 
 
 
 
---

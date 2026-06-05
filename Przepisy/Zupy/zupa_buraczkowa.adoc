@@ -1,7 +1,6 @@
 = Zupa buraczkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -62,4 +61,3 @@ Zupę buraczkową podajemy posypaną świeżo posiekaną natką pietruszki.
 
 image::/Recipes/static/images/20231021_193002.jpg[]
 
---

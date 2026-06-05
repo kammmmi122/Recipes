@@ -1,7 +1,6 @@
 = Szybki piernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -59,4 +58,3 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 
 
 
---

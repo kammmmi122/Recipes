@@ -1,7 +1,6 @@
 = Wieprzowina po chińsku z mango 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -56,4 +55,3 @@ Wyłożyć danie na talerze, obok położyć ryż, posypać szczypiorkiem i poda
 
 
 
---

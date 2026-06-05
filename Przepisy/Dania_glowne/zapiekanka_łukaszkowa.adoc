@@ -1,7 +1,6 @@
 = Zapiekanka łukaszkowa 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -69,4 +68,3 @@ Na wierzch wykładamy purée, które również rozprowadzamy po całej powierzch
 
 
 
---

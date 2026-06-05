@@ -1,7 +1,6 @@
 = Tortilki ser bekon ala KFC 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -94,4 +93,3 @@ Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję
 
 
 
---

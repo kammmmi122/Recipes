@@ -1,7 +1,6 @@
 = Zuppa di pesce 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -52,4 +51,3 @@ Zupę nałożyć do talerzy, dodać grzanki. Obok każdej porcji postawić taler
 
 
 
---

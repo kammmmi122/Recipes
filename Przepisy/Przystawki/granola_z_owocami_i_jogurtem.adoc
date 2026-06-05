@@ -1,7 +1,6 @@
 = Granola z owocami i jogurtem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -32,4 +31,3 @@ Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 
 image::/Recipes/static/images/20241225_131152.jpg[]
 
---

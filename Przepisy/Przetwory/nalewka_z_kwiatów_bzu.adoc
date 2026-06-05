@@ -1,7 +1,6 @@
 = Nalewka z kwiatów bzu 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -34,4 +33,3 @@ Kwiaty odciąć od łodyżek i przełożyć do dużego słoja. Wsypać kwasek cy
 image::/Recipes/static/images/20240526_205344.jpg[]
 image::/Recipes/static/images/20240531_084134.jpg[]
 
---

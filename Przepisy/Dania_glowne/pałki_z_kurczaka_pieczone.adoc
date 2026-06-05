@@ -1,7 +1,6 @@
 = Pałki z kurczaka pieczone 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -33,4 +32,3 @@ Nastawić piekarni na 180 stopni C. Mięso włożyć do worka do pieczenia. Do m
 
 
 
---

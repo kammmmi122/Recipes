@@ -1,7 +1,6 @@
 = Sałatka japońska z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -42,4 +41,3 @@ Wymieszać śmietankę i sos sojowy, polać po sałatce. Posypać posiekanym szc
 
 
 
---

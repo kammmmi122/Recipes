@@ -1,7 +1,6 @@
 = Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -56,4 +55,3 @@ Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Do
 
 
 
---

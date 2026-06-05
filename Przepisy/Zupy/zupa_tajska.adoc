@@ -1,7 +1,6 @@
 = Zupa tajska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -56,4 +55,3 @@ Makaron ryżowy lub sojowy zalewamy wodą według wskazań producenta. Podajemy 
 
 
 
---

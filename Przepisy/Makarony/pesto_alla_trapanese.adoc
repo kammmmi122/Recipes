@@ -1,7 +1,6 @@
 = Pesto alla trapanese 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -44,4 +43,3 @@ Nałóż, posyp Parmigiano Reggiano, dopraw pieprzem, dodaj świeżą bazylię i
 
 
 
---

@@ -1,7 +1,6 @@
 = Pierogi z jagodami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -37,4 +36,3 @@ Mąkę, masło, wodę i sól połączyć w jednolite gładkie ciasto. Jagody zas
 image::/Recipes/static/images/20241217_165954.jpg[]
 image::/Recipes/static/images/20241217_170950.jpg[]
 
---

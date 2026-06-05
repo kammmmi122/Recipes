@@ -1,7 +1,6 @@
 = Placki z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -42,4 +41,3 @@ Rozgrzać patelnię z olejem lub oliwą. Nakładać po łyżce (nie więcej!) ma
 
 image::/Recipes/static/images/20240725_185950.jpg[]
 
---

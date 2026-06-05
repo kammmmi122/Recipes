@@ -1,7 +1,6 @@
 = Sałatka gyros 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -51,4 +50,3 @@ Polać ketchupem, przykryć plasterkami czerwonej cebuli, następnie układać k
 
 
 
---

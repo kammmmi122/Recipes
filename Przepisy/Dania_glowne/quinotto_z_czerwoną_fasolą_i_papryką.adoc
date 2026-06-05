@@ -1,7 +1,6 @@
 = Quinotto z czerwoną fasolą i papryką 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -39,4 +38,3 @@ Fasolę odcedzamy. Na rozgrzanej oliwie szklimy pokrojony w cienkie plasterki cz
 
 
 
---

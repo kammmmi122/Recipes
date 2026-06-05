@@ -1,7 +1,6 @@
 = Quesadilla 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -80,4 +79,3 @@ Zdejmujemy z patelni i rozkładamy na desce do krojenia. Quesadillę kroimy na t
 
 
 
---

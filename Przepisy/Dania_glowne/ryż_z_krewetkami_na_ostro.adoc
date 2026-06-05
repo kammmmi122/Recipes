@@ -1,7 +1,6 @@
 = Ryż z krewetkami na ostro 🦐 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Dodać krewetki, wymieszać i razem podgrzać. Wyłożyć na talerze i udekorowa
 
 
 
---

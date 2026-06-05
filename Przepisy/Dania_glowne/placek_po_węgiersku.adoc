@@ -1,7 +1,6 @@
 = Placek po węgiersku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -80,4 +79,3 @@ Przełożyć na talerz, nałożyć gorący gulasz i złożyć na pół. Po wierz
 
 
 
---

@@ -1,7 +1,6 @@
 = Hotdogi z warzywkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -35,4 +34,3 @@ Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobi�
 
 image::/Recipes/static/images/20240517_111652.jpg[]
 
---

@@ -1,7 +1,6 @@
 = Tantanmen ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -112,4 +111,3 @@ Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe skł
 
 image::/Recipes/static/images/20240617_154401.jpg[]
 
---

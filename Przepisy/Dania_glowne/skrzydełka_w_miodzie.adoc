@@ -1,7 +1,6 @@
 = Skrzydełka w miodzie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -37,4 +36,3 @@ Po wyjęciu z piekarnika ostrożnie odetnij końcówkę z zapinką. Soczyste skr
 
 
 
---

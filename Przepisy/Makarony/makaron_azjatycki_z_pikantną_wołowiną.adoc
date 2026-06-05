@@ -1,7 +1,6 @@
 = Makaron azjatycki z pikantną wołowiną 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -58,4 +57,3 @@ Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem se
 
 
 
---

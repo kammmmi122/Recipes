@@ -1,7 +1,6 @@
 = Pierś z kaczki z sosem pomarańczowym 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Soki, które wypłynęły z mięsa wlewamy na patelnię po kaczce, dodajemy wino
 
 
 
---

@@ -1,7 +1,6 @@
 = Sajgonki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -54,4 +53,3 @@ Smażyć partiami, w woku lub na patelni, na około 3 mm warstwie oleju (sajgonk
 image::/Recipes/static/images/20240502_181440.jpg[]
 image::/Recipes/static/images/20250507_180946.jpg[]
 
---

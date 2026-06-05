@@ -1,7 +1,6 @@
 = Ciasto porzeczkowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -72,4 +71,3 @@ Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 image::/Recipes/static/images/20240512_215751.jpg[]
 image::/Recipes/static/images/20240512_223800.jpg[]
 
---

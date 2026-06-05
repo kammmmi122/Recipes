@@ -1,7 +1,6 @@
 = Zupa z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -62,4 +61,3 @@ Dopiero na częściowo podpieczone grzanki wylej cienką strużką dwie łyżki 
 
 
 
---

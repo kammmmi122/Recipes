@@ -1,7 +1,6 @@
 = Zupa krem z groszku z grzankami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -56,4 +55,3 @@ Każdą kromkę smarujemy pastą z oliwek i dekorujemy kiełkami.
 
 
 
---

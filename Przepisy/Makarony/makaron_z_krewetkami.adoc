@@ -1,7 +1,6 @@
 = Makaron z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -51,4 +50,3 @@ Dodać odcedzony makaron i wszystko razem podgrzać.
 
 
 
---

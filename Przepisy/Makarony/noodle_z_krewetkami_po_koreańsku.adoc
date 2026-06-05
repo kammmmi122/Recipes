@@ -1,7 +1,6 @@
 = Noodle z krewetkami po koreańsku 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -53,4 +52,3 @@ Przesunąć składniki na bok patelni i zrobić miejsce na dnie. Wlać w nie sos
 
 
 
---

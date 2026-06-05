@@ -1,7 +1,6 @@
 = Pasztet 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -55,4 +54,3 @@ Wstawić do nagrzanego do 190 stopni C piekarnika i piec przez ok 1,5 godziny. O
 
 image::/Recipes/static/images/20241228_223850.jpg[]
 
---

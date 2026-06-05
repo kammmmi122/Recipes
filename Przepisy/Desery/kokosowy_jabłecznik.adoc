@@ -1,7 +1,6 @@
 = Kokosowy jabłecznik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -60,4 +59,3 @@ Piec w temperaturze 180ºC przez około 35  - 40 minut. Beza powinna być chrupi
 
 
 
---

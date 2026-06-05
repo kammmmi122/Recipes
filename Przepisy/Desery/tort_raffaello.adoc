@@ -1,7 +1,6 @@
 = Tort Raffaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -125,4 +124,3 @@ image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]
 image::/Recipes/static/images/20240530_115143.jpg[]
 
---

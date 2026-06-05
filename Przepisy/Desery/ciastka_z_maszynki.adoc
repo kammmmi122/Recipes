@@ -1,7 +1,6 @@
 = Ciastka z maszynki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -40,4 +39,3 @@ Chłodne ciasteczka dobrze przechowują się w szczelnej puszce, w temperaturze 
 image::/Recipes/static/images/20251230_232424.jpg[]
 image::/Recipes/static/images/20251230_232420.jpg[]
 
---

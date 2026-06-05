@@ -1,7 +1,6 @@
 = Sałatka z mango i awokado 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -44,4 +43,3 @@ Dodać listki kolendry, syrop klonowy, oliwę oraz chili. Wymieszać i podawać.
 
 
 
---

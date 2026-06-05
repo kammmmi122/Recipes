@@ -1,7 +1,6 @@
 = Domowy kebab 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -49,4 +48,3 @@ Następnie pokrój warzywa. Kapustę drobno poszatkuj, pomidory i ogórki pokró
 
 
 
---

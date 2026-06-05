@@ -1,7 +1,6 @@
 = Pęczotto z burakami i kozim serem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Gotowe pęczotto przekładamy na talerze. Na wierzchu układamy kawałki koziego
 
 
 
---

@@ -1,7 +1,6 @@
 = Placki ziemniaczane 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -39,4 +38,3 @@ Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porc
 
 image::/Recipes/static/images/20260115_185756.jpg[]
 
---

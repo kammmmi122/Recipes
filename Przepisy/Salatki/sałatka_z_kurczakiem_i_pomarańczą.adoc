@@ -1,7 +1,6 @@
 = Sałatka z kurczakiem i pomarańczą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -53,4 +52,3 @@ Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszo
 
 
 
---

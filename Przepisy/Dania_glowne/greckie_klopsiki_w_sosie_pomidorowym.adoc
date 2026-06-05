@@ -1,7 +1,6 @@
 = Greckie klopsiki w sosie pomidorowym 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -58,4 +57,3 @@ Zagotuj passatę pomidorową, włóż klopsiki i podgotuj przez 3 minuty. Skrusz
 image::/Recipes/static/images/20250622_184004.jpg[]
 image::/Recipes/static/images/20250622_184733.jpg[]
 
---

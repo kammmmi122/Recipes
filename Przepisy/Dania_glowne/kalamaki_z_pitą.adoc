@@ -1,7 +1,6 @@
 = Kalamaki z pitą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -38,4 +37,3 @@ Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawi�
 image::/Recipes/static/images/20250725_180813.jpg[]
 image::/Recipes/static/images/20250725_180850.jpg[]
 
---

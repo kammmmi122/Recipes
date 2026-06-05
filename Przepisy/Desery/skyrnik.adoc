@@ -1,7 +1,6 @@
 = Skyrnik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -46,4 +45,3 @@ Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod prz
 
 image::/Recipes/static/images/20251230_232429.jpg[]
 
---

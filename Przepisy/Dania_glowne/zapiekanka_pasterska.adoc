@@ -1,7 +1,6 @@
 = Zapiekanka pasterska 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -75,4 +74,3 @@ Formę umieść w piekarniku nagrzanym do 180 stopni. Wybierz środkową półk�
 
 
 
---

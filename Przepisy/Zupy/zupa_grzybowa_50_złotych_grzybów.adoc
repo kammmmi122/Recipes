@@ -1,7 +1,6 @@
 = Zupa grzybowa 50 złotych grzybów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -53,4 +52,3 @@ Zupę można zawekować (wlać gorącą do słoików) i po ostudzeniu przechowa�
 
 
 
---

@@ -1,7 +1,6 @@
 = Nalewka cytrynowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -33,4 +32,3 @@ Wodę należy zagotować w garnku, a następnie dodać cukier i gotować, od cza
 
 
 
---

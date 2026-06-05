@@ -1,7 +1,6 @@
 = Zupa żurek z białą kiełbasą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Wyjąć kiełbasę z zupy, pokroić ją na plasterki, włożyć z powrotem do ga
 
 image::/Recipes/static/images/20240329_154743.jpg[]
 
---

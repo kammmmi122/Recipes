@@ -1,7 +1,6 @@
 = Wołowina po burgundzku 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -57,4 +56,3 @@ Na patelni na reszcie masła podsmażyć obrane cebulki szalotki i pieczarki w c
 
 
 
---

@@ -1,7 +1,6 @@
 = Sałatka cezar 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -47,4 +46,3 @@ Dodać pokrojonego kurczaka, skropić resztą sosu, posypać tartym parmezanem o
 
 
 
---

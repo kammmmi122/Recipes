@@ -1,7 +1,6 @@
 = Pierogi z mięsem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -47,4 +46,3 @@ Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub ods
 
 
 
---

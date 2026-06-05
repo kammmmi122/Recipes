@@ -1,7 +1,6 @@
 = Pita 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -41,4 +40,3 @@ Chlebki upraż na suchej i dobrze nagrzanej patelni. Wybierz niedużą patelnię
 image::/Recipes/static/images/20251123_183549.jpg[]
 image::/Recipes/static/images/20251123_184210.jpg[]
 
---

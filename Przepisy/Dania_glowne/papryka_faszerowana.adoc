@@ -1,7 +1,6 @@
 = Papryka faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -53,4 +52,3 @@ Na każdej papryce położyć plasterek sera lub starty ser i zapiekać jeszcze 
 
 
 
---

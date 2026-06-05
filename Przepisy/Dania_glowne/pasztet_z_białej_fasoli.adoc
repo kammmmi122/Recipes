@@ -1,7 +1,6 @@
 = Pasztet z białej fasoli 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ Piekarnik rozgrzać do 180 stopni. Keksówkę wysmarować olejem, przełożyć m
 
 
 
---

@@ -1,7 +1,6 @@
 = Makaron z pieczonymi pomidorami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -42,4 +41,3 @@ W międzyczasie ugotować makaron w osolonej wodzie. Odcedzić, wyłożyć do g�
 
 
 
---

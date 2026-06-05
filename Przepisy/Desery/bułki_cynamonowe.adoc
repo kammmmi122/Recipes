@@ -1,7 +1,6 @@
 = Bułki cynamonowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -77,4 +76,3 @@ Bułeczki cynamonowe można po przestudzeniu polukrować.
 image::/Recipes/static/images/20240823_130756.jpg[]
 image::/Recipes/static/images/20240823_130801.jpg[]
 
---

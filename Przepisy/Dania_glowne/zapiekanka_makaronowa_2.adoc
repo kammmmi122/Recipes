@@ -1,7 +1,6 @@
 = Zapiekanka makaronowa 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -49,4 +48,3 @@ Przykryć pokrywą lub folią aluminiową i wstawić do piekarnika na 20 minut. 
 
 
 
---

@@ -1,7 +1,6 @@
 = Zupa krem z szparagów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -45,4 +44,3 @@ Zupę można dodatkowo przelać przez sito i przetrzeć łyżką zgromadzony na 
 
 
 
---

@@ -1,7 +1,6 @@
 = Dorada pieczona 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -33,4 +32,3 @@ Doradę myjemy, osuszamy i nacinamy skórę w 3 miejscach z każdej strony. Ryb�
 
 
 
---

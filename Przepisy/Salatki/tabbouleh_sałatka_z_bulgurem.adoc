@@ -1,7 +1,6 @@
 = Tabbouleh, sałatka z bulgurem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ Dodać posiekany szczypiorek, cynamon, oliwę i sok z cytryny. Doprawić solą i
 
 
 
---

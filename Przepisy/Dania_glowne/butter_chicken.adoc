@@ -1,7 +1,6 @@
 = Butter chicken 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -51,4 +50,3 @@ W międzyczasie na patelni rozgrzać drugą łyżkę masła klarowanego i obsma�
 
 image::/Recipes/static/images/20240421_172701.jpg[]
 
---

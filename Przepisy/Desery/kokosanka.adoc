@@ -1,7 +1,6 @@
 = Kokosanka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -54,4 +53,3 @@ image::/Recipes/static/images/20231209_214411.jpg[]
 image::/Recipes/static/images/20231210_184314.jpg[]
 image::/Recipes/static/images/20231210_184321.jpg[]
 
---

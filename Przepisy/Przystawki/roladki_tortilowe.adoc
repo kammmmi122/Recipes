@@ -1,7 +1,6 @@
 = Roladki tortilowe 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -50,4 +49,3 @@ Roladki można przed podaniem schłodzić w lodówce. Nie jest to jednak koniecz
 
 
 
---

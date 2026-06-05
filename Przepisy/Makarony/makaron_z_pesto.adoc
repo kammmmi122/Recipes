@@ -1,7 +1,6 @@
 = Makaron z pesto 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 
 image::/Recipes/static/images/20241007_174207.jpg[]
 
---

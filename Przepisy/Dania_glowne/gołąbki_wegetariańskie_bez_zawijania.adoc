@@ -1,7 +1,6 @@
 = Gołąbki wegetariańskie bez zawijania 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -63,4 +62,3 @@ Gołąbki polewamy sosem, wsadzamy do piekarnika rozgrzanego do temperatury 180 
 
 
 
---

@@ -1,7 +1,6 @@
 = Sałatka grecka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -45,4 +44,3 @@ Na wierzchu położyć plasterki sera feta. Posypać suszonym oregano i polać o
 
 
 
---

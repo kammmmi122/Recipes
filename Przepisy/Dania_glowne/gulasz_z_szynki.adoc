@@ -1,7 +1,6 @@
 = Gulasz z szynki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -60,4 +59,3 @@ Gulasz wieprzowy bardzo dobrze smakuje podany z kromką ulubionego pieczywa i og
 
 
 
---

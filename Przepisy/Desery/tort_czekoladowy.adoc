@@ -1,7 +1,6 @@
 = Tort czekoladowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -55,4 +54,3 @@ Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast bok
 image::/Recipes/static/images/20240511_114709.jpg[]
 image::/Recipes/static/images/20240511_114847.jpg[]
 
---

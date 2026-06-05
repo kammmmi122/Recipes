@@ -1,7 +1,6 @@
 = Zupa rosół 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ Rosół podawać gorący, z ugotowanym makaronem, posiekaną natką, pokrojoną 
 
 
 
---

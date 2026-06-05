@@ -1,7 +1,6 @@
 = Leczo wegetariańskie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -52,4 +51,3 @@ Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i
 
 image::/Recipes/static/images/20240429_172456.jpg[]
 
---

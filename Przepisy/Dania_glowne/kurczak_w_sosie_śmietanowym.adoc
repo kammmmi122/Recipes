@@ -1,7 +1,6 @@
 = Kurczak w sosie śmietanowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -52,4 +51,3 @@ Po tym czasie dodaj 30-50 gramów startego na małych oczkach parmezanu. Wymiesz
 
 
 
---

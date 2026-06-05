@@ -1,7 +1,6 @@
 = Dorsz pod śródziemnomorską kruszonką 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -34,4 +33,3 @@ Polędwice z dorsza myjemy, osuszamy i układamy na blaszce wyłożonej papierem
 
 
 
---

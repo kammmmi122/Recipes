@@ -1,7 +1,6 @@
 = Kartacze 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż
 image::/Recipes/static/images/20240713_181533.jpg[]
 image::/Recipes/static/images/20240713_201623.jpg[]
 
---

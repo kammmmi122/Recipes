@@ -1,7 +1,6 @@
 = Nalewka jabłkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -34,4 +33,3 @@ Z jabłek usuwamy gniazda nasienne i dzielimy je na kawałki, na przykład ćwia
 
 
 
---

@@ -1,7 +1,6 @@
 = Sztuka mięsa łee 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -32,4 +31,3 @@ Mięso natrzyj losowymi przyprawami. Włóż do brytfanki, dodaj grzyby albo nie
 
 
 
---

@@ -1,7 +1,6 @@
 = Kompot czereśniowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -39,4 +38,3 @@ Do każdego słoika wlej przegotowaną wodę. Może być to wrzątek lub woda le
 
 
 
---

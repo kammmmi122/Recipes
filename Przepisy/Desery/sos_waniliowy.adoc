@@ -1,7 +1,6 @@
 = Sos waniliowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -37,4 +36,3 @@ Masę przelej do rondelka i na małym ogniu, mieszając cały czas łyżką lub 
 
 
 
---

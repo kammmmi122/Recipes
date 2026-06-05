@@ -1,7 +1,6 @@
 = Kanapka z pieczonym indykiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -41,4 +40,3 @@ Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół 
 image::/Recipes/static/images/20250528_183240.jpg[]
 image::/Recipes/static/images/20250528_183245.jpg[]
 
---

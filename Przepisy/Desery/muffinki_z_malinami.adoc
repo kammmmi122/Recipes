@@ -1,7 +1,6 @@
 = Muffinki z malinami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -37,4 +36,3 @@ Wymieszać ze soba cukier, mąkę, proszek do pieczenia, cukier wanilinowy i só
 
 
 
---

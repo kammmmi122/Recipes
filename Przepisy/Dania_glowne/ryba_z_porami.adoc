@@ -1,7 +1,6 @@
 = Ryba z porami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -46,4 +45,3 @@ Zdjąć pokrywę, dodać śmietankę oraz koperek, wymieszać i zagotować. Wył
 
 image::/Recipes/static/images/20250213_222316.jpg[]
 
---

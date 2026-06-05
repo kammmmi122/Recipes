@@ -1,7 +1,6 @@
 = Potrawka z udka kurczaka z warzywami 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ Pokroić mięso w kostkę, doprawić solą, pieprzem i ziołami prowansalskimi. 
 
 
 
---

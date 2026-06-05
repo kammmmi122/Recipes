@@ -1,7 +1,6 @@
 = Sałatka z rukolą, granatem i pomarańczą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -46,4 +45,3 @@ Składniki winegretu wymieszać w miseczce. Do rukoli dodać cząstki pomarańcz
 
 
 
---

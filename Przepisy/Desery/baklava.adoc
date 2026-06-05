@@ -1,7 +1,6 @@
 = Baklava 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Bakława (Baklava) jest najlepsza na drugi lub trzeci dzień.
 
 image::/Recipes/static/images/20250724_215629.jpg[]
 
---

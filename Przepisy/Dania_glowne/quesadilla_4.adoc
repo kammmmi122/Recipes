@@ -1,7 +1,6 @@
 = Quesadilla 4 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -62,4 +61,3 @@ Można jeszcze przeciąć na pół lub w trójkąciki. Podawać z salsami np. po
 
 
 
---

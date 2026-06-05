@@ -1,7 +1,6 @@
 = Chili con carne 🥩 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -48,4 +47,3 @@ Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeb
 
 
 
---

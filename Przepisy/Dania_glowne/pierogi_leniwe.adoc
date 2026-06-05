@@ -1,7 +1,6 @@
 = Pierogi leniwe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -61,4 +60,3 @@ Gorącym sosem polej umieszczone na półmisku kluski leniwe.
 image::/Recipes/static/images/20240719_200043.jpg[]
 image::/Recipes/static/images/20240719_200034.jpg[]
 
---

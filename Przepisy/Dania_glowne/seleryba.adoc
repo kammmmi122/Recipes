@@ -1,7 +1,6 @@
 = Seleryba 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -44,4 +43,3 @@ Na dużej patelni mocno rozgrzać olej i układać gotowe plastry selera. Obsma�
 
 
 
---

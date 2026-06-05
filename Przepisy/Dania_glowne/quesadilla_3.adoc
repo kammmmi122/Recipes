@@ -1,7 +1,6 @@
 = Quesadilla 3 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -77,4 +76,3 @@ Tak przygotowane quesadillas można przeciąć na pół (w trójkąty) lub podaw
 
 
 
---

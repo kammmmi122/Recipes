@@ -1,7 +1,6 @@
 = Łatwe kimchi 🌱 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -64,4 +63,3 @@ Kiszonki przechowywane przez cały rok najlepiej jest kisić w kamionkowych nacz
 
 
 
---

@@ -1,7 +1,6 @@
 = Makaron ze szpinakiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -45,4 +44,3 @@ Połączyć z 1/3 ilości sera, resztę wykorzystać do posypania makaronu.
 
 
 
---

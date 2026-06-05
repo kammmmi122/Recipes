@@ -1,7 +1,6 @@
 = Salsa pomidorowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -44,4 +43,3 @@ Salsa jest bardzo ważna w kuchni meksykańskiej. To salsa nadaje wyrazistości 
 
 
 
---

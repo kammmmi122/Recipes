@@ -1,7 +1,6 @@
 = Zupa grochówka 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -46,4 +45,3 @@ Przykryć i gotować przez ok. 15 minut do miękkości warzyw, pod koniec dodać
 
 
 
---

@@ -1,7 +1,6 @@
 = Cukinia faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -49,4 +48,3 @@ Odstawić z patelni i po lekkim przestudzeniu dodać jajko, wymieszać. Powstał
 
 
 
---

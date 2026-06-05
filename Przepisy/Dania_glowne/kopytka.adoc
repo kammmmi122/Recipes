@@ -1,7 +1,6 @@
 = Kopytka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -43,4 +42,3 @@ W trakcie gotowania delikatnie przemieszać wodę drewnianą łyżką sprawdzaj�
 
 
 
---

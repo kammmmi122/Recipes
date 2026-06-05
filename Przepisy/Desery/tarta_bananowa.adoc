@@ -1,7 +1,6 @@
 = Tarta bananowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -57,4 +56,3 @@ Banany pokroić na plasterki, włożyć do miski i dokładnie obtoczyć w soku z
 
 
 
---

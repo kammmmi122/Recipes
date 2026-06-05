@@ -1,7 +1,6 @@
 = Wiśniowy paj 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -44,4 +43,3 @@ Piec w temperaturze 180ºC przez 40 - 45 minut do zezłocenia kruszonki. Wyjąć
 
 
 
---

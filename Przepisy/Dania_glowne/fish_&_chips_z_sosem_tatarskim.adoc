@@ -1,7 +1,6 @@
 = Fish & chips z sosem tatarskim 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -73,4 +72,3 @@ Przełożyć do miseczki, dodać posiekany szczypiorek, natkę, majonez i sok z 
 
 
 
---

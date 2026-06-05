@@ -1,7 +1,6 @@
 = Hiszpańska zupa z ciecierzycy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [.recipe-page]
---
 
 [.recipe-details]
 == Szczegóły
@@ -40,4 +39,3 @@ Ciecierzycę płuczemy i odsączamy. W garnku nma oliwie szklimy pokrojoną w du
 
 
 
---
