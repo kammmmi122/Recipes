@@ -71,10 +71,6 @@ def create_index_adoc():
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
         folder_name = path.split("\\")[-1].replace("_", " ")
 
-        if ".\\" in path and not in_path(path):
-            with open(f"index.adoc", "a+", encoding="utf8") as file:
-                file.write(f"\n== {folder_name}\n\n")
-
         cards = []
 
         # BUILD CARDS
@@ -88,6 +84,18 @@ def create_index_adoc():
 
                 # TITLE
                 title = name.replace("_", " ").capitalize().replace(".adoc", "")
+
+                # EMOJI TAGS
+                tags = []
+                try:
+                    with open(os.path.join(path, name), "r", encoding="utf8") as recipe_file:
+                        recipe_text = recipe_file.read()
+                        for symbol in symbols:
+                            if symbol in recipe_text:
+                                tags.append(symbol)
+                except Exception:
+                    recipe_text = ""
+                emoji_html = " ".join(tags)
 
                 # IMAGE
                 image_path = find_first_image(os.path.join(path, name))
@@ -108,11 +116,13 @@ def create_index_adoc():
                 card_html = (
                     f'<article class="card" '
                     f'data-category="{html.escape(folder_name)}" '
-                    f'data-title="{html.escape(title.lower())}">'
+                    f'data-title="{html.escape(title.lower())}" '
+                    f'data-emoji="{html.escape(emoji_html, quote=True)}">'
                     f'{category_label}'
                     f'{image_html}'
                     f'<div class="card-content">'
                     f'<h3 class="card-title">{html.escape(title)}</h3>'
+                    f'<span class="card-emoji">{html.escape(emoji_html)}</span>'
                     f'<a class="card-link" href="{html.escape(path_to_html, quote=True)}">'
                     f'Zobacz przepis ></a>'
                     f'</div>'
