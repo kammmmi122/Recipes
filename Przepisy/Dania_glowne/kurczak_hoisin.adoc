@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 500 g filetu z kurczaka
 * 2 ząbki czosnku
 * 1 łyżeczka ostrej papryki
@@ -46,7 +46,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Mięso oczyścić z błonek i kostek, pokroić w małą kostkę. Doprawić solą, startym czosnkiem, ostrą papryką i białym pieprzem.
 
 Na jednym głębokim talerzu wymieszać skrobię ziemniaczaną. Do drugiego wbić jajko i roztrzepać.

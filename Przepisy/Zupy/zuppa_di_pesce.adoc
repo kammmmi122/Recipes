@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 łyżki oliwy extra vergine
 * 1 ząbek czosnku
 * pół pęczka natki pietruszki
@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Do szerokiego większego garnka wlać oliwę, dodać obrany i pokrojony na cienkie plasterki czosnek, posiekaną w kosteczkę papryczkę chili i smażyć na małym ogniu przez około 3 minuty co chwilę mieszając.
 
 Pomidory sparzyć, obrać ze skórki i pokroić w kosteczkę. Dodać do garnka i na większym ogniu gotować przez ok. 5 minut co chwilę mieszając.

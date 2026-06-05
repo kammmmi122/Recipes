@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * szalotka 3 szt.
 * oliwa 3 łyżki
 * masło 82% 140 g
@@ -46,7 +46,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Szalotki posiekaj w drobną kostkę i zeszklij na oliwie i 20 g masła.
 
 Dodaj suchy ryż i smaż przez ok. 2 minuty, często mieszając, aż do zmiany koloru.

@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 łyżki oleju roślinnego
 * 200 g mielonego mięsa drobiowego
 * 2 ząbki czosnku
@@ -45,7 +45,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Rozgrzać wok z olejem, włożyć mięso oraz przeciśnięty przez praskę czosnek, obrany i drobno starty imbir, sól i pieprz. Smażyć na dużym ogniu co chwilę mieszając, mniej więcej przez ok. 8 minut.
 
 Dodać pokrojone liście pak choi i pokrojoną na kawałeczki paprykę. Smażyć mieszając przez ok. 2 - 3 minuty.

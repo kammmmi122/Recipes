@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Bułka:
 
 * mąka pszenna typ 650 - 500 g
@@ -65,7 +65,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 === Bułka do kebaba: 
 
 Wsyp mąkę do miski.

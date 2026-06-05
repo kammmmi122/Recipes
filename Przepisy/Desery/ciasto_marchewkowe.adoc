@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 jajka
 * 200 g drobnego cukru lub cukru pudru
 * 150 ml oleju roślinnego
@@ -48,7 +48,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Jajka ocieplić w temperaturze pokojowej. Ubić je do podwojenia objętości. Dodać cukier i dalej ubijać aż masa będzie gładka i puszysta. Wciąż ubijając na wysokich obrotach, dolewać ciągłym, cieniutkim strumieniem olej.
 
 Dodać marchewkę, ananasa, orzechy, wiórki kokosowe i delikatnie wymieszać. Piekarnik nagrzać do 150 stopni C.

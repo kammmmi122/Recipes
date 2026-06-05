@@ -23,12 +23,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 opakowania paluszków rybnych Frosta
 
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Paluszki rybne upiec w piekarniku według instrukcji na opakowaniu.
 

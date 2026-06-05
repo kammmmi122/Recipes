@@ -25,7 +25,7 @@ image::20231209_214411.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Ciasto:
 
 * 1 kostka Kasi
@@ -47,7 +47,7 @@ image::20231209_214411.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
 Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego połączenia. Do utartej masy dodać mąkę, proszek do pieczenia, dżem, rodzynki. Wszystkie składniki utrzeć.

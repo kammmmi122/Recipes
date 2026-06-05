@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 800 g mrożony zielony groszek
 * 2 cebula duża
 * 2 łyżek oliwa z czosnkiem
@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Cebulę kroimy w piórka lub kostkę (zostanie zmiksowana z zupą).
 
 W garnku rozgrzewamy olej z czosnkiem i ziołami i wrzucamy pokrojoną cebulę. Szklimy ją na złoty kolor.

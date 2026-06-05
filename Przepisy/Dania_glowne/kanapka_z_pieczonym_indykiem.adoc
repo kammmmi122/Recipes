@@ -25,7 +25,7 @@ image::20250528_183240.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * pieczywo, np. domowa focaccia
 * plasterki pieczonego indyka
 * sałata, roszponka
@@ -37,7 +37,7 @@ image::20250528_183240.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Pieczywo przekroić na pół, posmarować cienko majonezem lub masłem.
 
 Na jednej połówce położyć sałatę, dodać plasterki mięsa, ser, żurawinę, zrumienionymi orzeszki pinii jeśli ich używamy, przykryć roszponką i drugą kromką pieczywa.

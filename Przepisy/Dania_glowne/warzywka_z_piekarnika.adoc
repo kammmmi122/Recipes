@@ -22,7 +22,7 @@ image::20240824_174832.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 3 pietruszka
 * 1 seler
 * 3 cukinie
@@ -31,7 +31,7 @@ image::20240824_174832.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Warzywa pokroić na części i oprószyć wegetą. Piec 30 minut w piekarniku w  180 stopniach C.
 
 

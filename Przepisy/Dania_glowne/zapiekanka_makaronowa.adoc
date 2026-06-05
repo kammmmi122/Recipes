@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * ok. 170 g makaronu (użyłam cienkie rurki)
 * 150 g szynki
 * 150 g startego sera żółtego typu Ementaler lub Gouda
@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Surowy makaron wsypać na naczynia żaroodpornego.
 
 Szynkę pokroić w małą kostkę. Wyłożyć na makaron.

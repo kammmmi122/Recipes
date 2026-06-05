@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1,5 kg wołowiny (np. karkówka, łopatka)
 * 150 g wędzonego boczku
 * 2 łyżki oleju roślinnego
@@ -49,7 +49,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Mięso pokroić na większe kawałki (ok. 4 - 5 cm). Na dużą patelnię z grubym dnem włożyć pokrojony w kosteczkę boczek i powoli smażyć aż do zrumienienia. Wyjąć na talerz pozostawiając tłuszcz.
 
 Wlać łyżkę oleju oraz dodać połowę masła, partiami obsmażyć z każdej strony kawałki mięsa, po obsmażeniu odkładać na talerz.

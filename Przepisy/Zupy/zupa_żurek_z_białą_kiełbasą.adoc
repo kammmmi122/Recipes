@@ -25,7 +25,7 @@ image::20240329_154743.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1,5 litra bulionu lub wywaru mięsnego
 * 400 g wędzonych żeberek lub kości wieprzowych lub wędzonego ew. parzonego boczku
 * 500 g surowej białej kiełbasy
@@ -39,7 +39,7 @@ image::20240329_154743.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Bulion lub wywar zagotować z dodatkiem pokrojonych na 2 - 3 części wędzonych żeberek lub kości lub pokrojonego na 4 części boczku. Gotować przez ok. 20 minut.
 
 Dodać surową białą kiełbasę, zmniejszyć ogień i gotować na wolnym ogniu przez ok. 20 minut.

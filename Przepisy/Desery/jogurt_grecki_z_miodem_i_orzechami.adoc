@@ -22,7 +22,7 @@ image::20250606_192348.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 200 ml oleju
 * 2 łyżki miodu
 * garść orzechów
@@ -30,7 +30,7 @@ image::20250606_192348.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zmieszaj miód z jogurtem greckim. Posyp całość orzechami
 
 

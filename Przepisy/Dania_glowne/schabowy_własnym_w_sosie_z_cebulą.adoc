@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * schab bez kości 300-400 gramów
 * cebula 1 sztuka
 * sól morska jodowana drobnoziarnista Prymat 1 łyżeczka
@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Schab pokroić w plastry o grubości 1-2 cm.
 
 Kawałki mięsa położyć na suchej dobrze nagrzanej patelni. Mięso powinno prawie się przypalić, nabrać koloru mocno brązowego z obydwu stron. To właśnie te przypalone soki nadadzą wyjątkowego smaku sosowi.

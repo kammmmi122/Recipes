@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 mieszanki mieszanki wiosennej
 * 500 g kiełbasy
 * 500 g ziemniaków
@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 W szerokim większym garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać mieszankę wiosenną i mieszając podsmażać przez ok. 3 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać przez ok. 3 minuty co chwilę mieszając.

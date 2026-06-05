@@ -25,8 +25,8 @@ image::20240820_080313.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
-=== Składniki na ciasto drożdżowe:
+== Składniki
+== Składniki na ciasto drożdżowe:
 
 * 4 szklanki mąki tortowej
 * 25 g suchych lub 50 g drożdży świeżych
@@ -36,7 +36,7 @@ image::20240820_080313.jpg[]
 * 4 jajka
 * 1/3 szklanki oleju
 
-=== Składniki na kruszonkę:
+== Składniki na kruszonkę:
 
 * 150 g mąki tortowej
 * 50 g cukru
@@ -49,7 +49,7 @@ image::20240820_080313.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Wszystkie składniki na ciasto powinny być w temp. pokojowej. Jeśli używamy drożdży świeżych należy wcześniej wykonać zaczyn.
 
 Mąkę przesiewamy do dużej miski, dodajemy suche drożdże lub zaczyn ze świeżych. Wlewamy ciepłe mleko, cukier, jajka i mieszamy najlepiej dużą łyżką drewnianą. Następnie dodajemy masło o temp. pokojowej pokrojone na kawałki i wyrabiamy ciasto. Na początku nie będzie chciało się połączyć, ale z czasem zacznie być jednolite. Na koniec dłonie zwilżamy olejem i ponownie wyrabiamy, aż do wykorzystania całego tłuszczu. Wyrobione ciasto formujemy w kulę, wkładamy do miski, owijamy folią i zostawiamy na 1,5 godz do wyrośnięcia.

@@ -25,7 +25,7 @@ image::20231006_223932.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Masa serowa:
 
 * 1 kg sera tłustego, gęstego
@@ -46,7 +46,7 @@ image::20231006_223932.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zaczynam od przygotowania ciasta kruchego.
 
 Wszystkie składniki przekładam do minimalaksera.

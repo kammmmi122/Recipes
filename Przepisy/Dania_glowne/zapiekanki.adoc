@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 3 półbagietki
 * 200 g pieczarek
 * 1 cebula
@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki i cebulę do brązowego koloru. Ostudzić
 
 Szynkę pokroić w kostkę

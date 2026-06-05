@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 szklanka miodu
 * 3/4 szklanki cukru
 * 1 szklanka mleka
@@ -51,7 +51,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 Miód, cukier, mleko, masło, przyprawę korzenną i cynamon umieścić w garnku i postawić na palniku. Podgrzewać, mieszając, do rozpuszczenia się poszczególnych składników i otrzymania gładkiej mieszanki. Zdjąć z palnika i lekko przestudzić.

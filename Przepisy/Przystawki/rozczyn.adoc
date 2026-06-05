@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 25 g drożdży świeżych
 * 1 łyżka cukru
 * 1/4 szklanki letniego mleka
@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Do niedużego garnuszka rozkruszyć drożdże, zasypać cukrem. Zalać letnim mlekiem (nie gorącym! - zbyt wysoka temperatura zabije drożdże). Wymieszać do rozpuszczenia się drożdży.
 
 Dodać mąkę, wymieszać, by nie było grudek.

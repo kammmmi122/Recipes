@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 30 dag świeże kurki
 * 2 cebula
 * 1 ząbek czosnek
@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Kurki dokładnie oczyszczamy, większe okazy kroimy w kawałki, mniejsze pozostawiamy w całości.
 
 Cebule kroimy w drobną kostkę, oprószamy solą, podduszamy na maśle z dodatkiem liścia laurowego i ziela angielskiego.

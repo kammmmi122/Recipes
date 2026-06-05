@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 szklanka dokładnie rozdrobnionego miąższu bułki lub chleba
 * 2 i 1/3 szklanki bulionu wołowego
 * 4 łyżki masła
@@ -48,7 +48,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 W dużej misce wymieszać okruszki chleba z 1/3 szklanki bulionu. Na dużej patelni roztopić 1 łyżkę masła na średnim ogniu, dodać cebulę i smażyć przez ok. 10 minut na złoty kolor. W razie potrzeby rozdrobnić w melakserze lub zmielić razem z mięsem. Przełożyć do miski z chlebem.
 
 Na patelnię włożyć boczek i obsmażać aż się wytopi i będzie chrupiący, w razie potrzeby dodatkowo rozdrobnić w melakserze lub zmielić razem z mięsem. Przełożyć do miski.

@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Spód
 
 * 350 g ciastek typu Oreo (lub Neo)
@@ -47,7 +47,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Ugotować budyń według przepisu. Odstawić z ognia i przełożyć do miski (tylko nie metalowej). Dokładnie ostudzić, wstawić do lodówki.
 
 === Spód 

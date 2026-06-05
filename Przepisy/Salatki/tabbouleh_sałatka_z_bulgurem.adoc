@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 35 g surowej kaszy bulgur
 * 1 duży pęczek natki pietruszki
 * 1 pomidor
@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Ugotować kaszę bulgur zgodnie z instrukcją na opakowaniu. Odcedzić i włożyć do miski.
 
 Natkę pietruszki opłukać, osuszyć i oderwać listki od gałązek. Drobno posiekać, dodać do miski z kaszą.

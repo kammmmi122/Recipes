@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 200 g mrożonych krewetek
 * 125 g makaronu np. tagliatelle
 * 1 łyżka oliwy extra vergine
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Krewetki rozmrozić, oczyścić jeśli jest konieczność, oderwać ogonki, opłukać i osuszyć.
 
 Makaron ugotować w osolonej wodzie zgodnie z instrukcją na opakowaniu.

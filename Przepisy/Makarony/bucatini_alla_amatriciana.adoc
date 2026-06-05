@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 150 g guanciale - wędzonego podgardla (można zamienić na pancettę)
 * 1 łyżka oliwy
 * 1/2 łyżeczki chili w płatkach
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zgromadź wszystkie składniki. Z guanciale usuń skórę, następnie pokrój je na plastry o grubości 1 cm, a te na paski o szerokości ok. 1/2 cm. Jeśli masz guanciale w cienkich plasterkach, to pokrój je na paski.
 
 Na dużej patelni rozgrzej oliwę i wrzuć na nią guanciale. Smaż często mieszając, aż guanciale się przyrumieni, ok. 7-8 minut.

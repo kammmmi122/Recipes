@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 łyżka masła
 * 1 łyżka oliwy
 * 1 cebula
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Do garnka włożyć łyżkę masła i łyżkę oliwy, dodać pokrojoną w kosteczkę cebulę i co chwilę mieszając smażyć na małym ogniu przez ok. 2 minuty.
 
 Teraz dodawać stopniowo resztę warzyw, co chwilę mieszając i smażąc wszystko w sumie przez ok. 10 minut.

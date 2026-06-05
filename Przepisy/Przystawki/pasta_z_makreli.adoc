@@ -22,7 +22,7 @@ image::20250918_222858.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 makrela
 * 3 jajka na twardo
 * por (biała część)
@@ -35,7 +35,7 @@ image::20250918_222858.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Makrelę bez ości podzielić widelcem. Ogórki obrać i potrzeć na tarce lub pokroić w kostkę. Jajka i por pokroić. Składniki dodać do miski wraz z majonezem, solą, pieprzem, koncentratem i wymieszać.
 
 

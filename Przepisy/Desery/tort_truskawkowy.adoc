@@ -25,7 +25,7 @@ image::20240427_105458.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Biszkopt:
 
 * 6 jajek, osobno żółtka i białka
@@ -62,7 +62,7 @@ image::20240427_105458.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 === Biszkopt:
 
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.

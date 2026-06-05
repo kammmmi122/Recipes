@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 łyżki oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę, dodać obraną i pokrojoną na cienkie plasterki marchewkę i smażyć co chwilę mieszając przez 2 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać je przez ok. 5 - 7 minut, od czasu do czasu mieszając. Doprawić solą oraz pieprzem.

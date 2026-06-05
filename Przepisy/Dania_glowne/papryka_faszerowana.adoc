@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 4 papryki
 * 500 g mielonego mięsa
 * 2 łyżki oliwy
@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Ryż ugotować do miękkości w osolonej wodzie, ok. 10 - 15 minut lub zgodnie z instrukcją na opakowaniu.
 
 Na patelni na oliwie zeszklić pokrojoną cebulę, dodać starty czosnek, po chwili włożyć zmielone mięso i dokładnie obsmażyć.

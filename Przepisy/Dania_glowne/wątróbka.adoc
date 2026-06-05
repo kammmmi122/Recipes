@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 500 g wątróbki wieprzowej
 * 2 łyżki mąki ziemniaczanej
 * sól i pieprz do smaku
@@ -33,7 +33,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Cebule pokroić w piórka i zeszklić na patelni. 
 
 Wątróbkę umyć, pokroić na kawałki, obtoczyć w mące ziemniaczanej.

@@ -25,7 +25,7 @@ image::20240530_115153.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Biszkopt
 * 6 jajek
 * 200 g cukru
@@ -64,7 +64,7 @@ image::20240530_115153.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 === Biszkopt
 
 Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.

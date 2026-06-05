@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 3 piersi z kurczaka, duże
 * 1 papryka czerwona
 * 1 mozzarella
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Paprykę wstawiamy do nagrzanego piekarnika do 230ºC i opiekamy ją z każdej strony. Wyjmujemy i wkładamy do foliowej torebki. Po kilku minutach wyjmujemy ją, zdejmujemy skórkę, usuwamy nasiona i kroimy w paski.
 
 Piersi z kurczaka myjemy i osuszamy, następnie kroimy na pół, wzdłuż. Każdy kawałek układamy na torebce śniadaniowej (to ułatwi zwijanie roladek), przykrywamy drugą i rozbijamy dość cienko.

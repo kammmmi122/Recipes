@@ -25,7 +25,7 @@ image::20250622_184004.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 kg mięsa mielonego wieprzowo-wołowego
 * 1 cebula starta na tarce o grubych oczkach
 * 2 łyżki tłuczonej lub grubo mielonej kolendry
@@ -46,7 +46,7 @@ image::20250622_184004.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Do mięsa dodaj cebulę, przyprawy, starty czosnek, sól oraz posiekaną miętę i natkę pietruszki. Dokładnie wszystko wymieszaj i odstaw do lodówki na minimum pół godziny (a najlepiej na całą noc).
 
 Wyjmij mięso z lodówki i dodaj jajko, bułkę tartą oraz lodowatą wodę.

@@ -22,7 +22,7 @@ image::20240517_111652.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 5 parówki
 * 5 bułek śniadaniowych
 * pomidor
@@ -34,7 +34,7 @@ image::20240517_111652.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobić sos z majonezu i ketchupu. Złożyć hot-dog: spód chleba/bułki wysmarować sosem, dodać parówkę, ulubione warzywa. Na wierzch polać sosem i musztardą.
 
 

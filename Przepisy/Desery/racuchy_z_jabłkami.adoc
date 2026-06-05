@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 jabłka
 * 200 ml mleka (niepełna 1 szklanka)
 * 1 jajko
@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Mąkę przesiać do miski, dodać cukier wanilinowy, cukier oraz proszek do pieczenia, wymieszać.
 
 Dodać mleko i jajko i wymieszać składniki rózgą na jednolitą masę bez grudek.

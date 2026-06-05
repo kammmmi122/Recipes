@@ -25,7 +25,7 @@ image::20240512_215751.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 3/4 szklanki oleju roślinnego
 * 1/2 szklanki wody
 * 1 szklanka cukru
@@ -52,7 +52,7 @@ image::20240512_215751.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Do garnka wlać olej i wodę, dodać cukier oraz kakao. Wymieszać i zagotować. Przelać do czystego naczynia i całkowicie ostudzić.
 
 Piekarnik nagrzać do 180 stopni C. Przygotować formę do pieczenia o wymiarach ok. 23 cm x 35 cm i w razie potrzeby wyłożyć ją papierem do pieczenia.

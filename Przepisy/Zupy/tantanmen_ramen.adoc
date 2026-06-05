@@ -25,7 +25,7 @@ image::20240617_154401.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Jajka nitamago
 * 4 jajka
 * 1 szklanka bulionu (np. dashi lub zwykłego)
@@ -79,7 +79,7 @@ image::20240617_154401.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 === Jajka nitamago
 
 Jajka włożyć delikatnie do gotującej się wody i gotować przez ok. 7 - 8 minut. Od razu po ugotowaniu zalać zimną wodą i schłodzić aby przestały się już gotować.

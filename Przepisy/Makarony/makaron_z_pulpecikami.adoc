@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 mały ziemniak
 * 400 g mielonego mięsa wołowo-wieprzowego
 * 1 mała cebula
@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Ziemniaka obrać, przekroić na pół i ugotować w osolonej wodzie. Odcedzić, dokładnie odparować i rozgnieść praską na puree.
 
 Do zmielonego mięsa, dodajemy do niego obraną i startą na drobnej tarce cebulę i drobno posiekane listki natki. Mięso wymieszać i wyrobić dodając puree ziemniaczane, sól i pieprz do smaku oraz jajko.

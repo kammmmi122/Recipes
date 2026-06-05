@@ -22,7 +22,7 @@ image::20250809_202330.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 piersi z kurczaka
 * 1 łyżeczka przyprawy złocisty kurczak
 * 4 tortile
@@ -40,7 +40,7 @@ image::20250809_202330.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Pokroić mięso z kurczaka na kawałki. Dodać przyprawy i wymieszać. Usmażyć mięso na patelni.
 
 Stworzyć sos poprzez zmieszanie śmietany, sól, pieprz, czosnek i koperek.

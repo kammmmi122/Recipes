@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
 * 1 łyżeczka tartego imbiru
@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
 W garnku podgrzać olej, dodać pastę curry i smażyć ją przez około 1 - 2 minuty (garnek można przykryć aby nie pryskało).

@@ -29,7 +29,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 kg ziemniaków - waga przed obraniem
 * 1 szklanka mąki pszennej uniwersalnej lub mąki żytniej typ. 720 - około 160 g
 * 1-2 łyżki skrobi ziemniaczanej
@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Jeden kilogram sypkich ziemniaków obierz cienko i zetrzyj na tarce, na bardzo drobnych oczkach. Odciśnij nadmiar wody ze startych ziemniaków.
 
 Odciśniętej wody nie wylewaj. Odstaw ją w miseczce na 10 minut. Po tym czasie na dnie naczynia powinna zebrać się skrobia z ziemniaków. Skrobię dołóż do masy ziemniaczanej i dodaj 1-2 niepełnych łyżek dodatkowej porcji skrobi/mąki ziemniaczanej. Do miski z ziemniakami wsyp tez pół płaskiej łyżeczki soli i wbij jedno jajko. 

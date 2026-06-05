@@ -25,7 +25,7 @@ image::20250822_173944.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 łyżka (12g) suchych drożdży (drożdży instant) lub 25 g świeżych drożdży
 * 1,5 szklanki letniej wody
 * 3,5 szklanki mąki pszennej
@@ -35,7 +35,7 @@ image::20250822_173944.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Mąkę przesiać, wymieszać z suchymi drożdżami (ze świeżych drożdży należy najpierw zrobić rozczyn). Dodać pozostałe składniki i wyrobić gładkie, elastyczne ciasto. Ciasto na pizzę można wyrabiać ręcznie, można też mikserem z hakiem do ciasta drożdżowego (mikserem zajmie to około 15 minut).
 
 Z ciasta uformować kulę, umieścić w naczyniu, przykryć folią spożywczą i postawić w ciepłe miejsce do podwojenia objętości na około 1 - 1,5 godziny.

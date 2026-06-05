@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 150 g makaronu np. świderki, fusilli, penne
 * 1/2 cebuli
 * 2 ząbki czosnku
@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Szpinak opłukać i odcedzić.
 
 Na patelni na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę (ok. 5 - 7 minut). Doprawić solą, dodać przeciśnięty przez praskę czosnek i smażyć jeszcze przez ok. 2 minuty.

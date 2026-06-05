@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * pierś z kurczaka - 720 g
 * wrapy - 6 szt.
 * chipsy STRONG EXTRA HOT Pepperoni - 40 g
@@ -61,7 +61,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zaczynam od kurczaka. Staram się kroić piersi na 60 g kawałki.
 
 Teraz marynata, zaprawa musztarda 100 g ,do tego wleję na razie 200 ml maślanki, aby lepiej się mieszało. No i nasze przyprawy (mnóstwo prochu), które dadzą świetny smak.

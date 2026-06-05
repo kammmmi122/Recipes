@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 150 g makaronu, np. kokardki
 * 2 łyżki oliwy extra vergine
 * 400 g filetu z kurczaka
@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Makaron wrzucić na wrzątek i gotować chwilę krócej niż al dente. Piekarnik nagrzać do 180 stopni C. W małej salaterce wymieszać wszystkie przyprawy.
 
 Kurczaka pokroić w kosteczkę, doprawić solą, pieprzem oraz połową przypraw. Na patelni rozgrzać łyżkę oliwy, włożyć kurczaka i krótko podsmażyć mieszając, po czym przełożyć na oddzielny talerz.

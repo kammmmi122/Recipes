@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.
 Zmniejsz obroty miksera i małym strumieniem wlewaj powoli mleko ze śmietanką do misy miksera, cały czas ubijając.

@@ -29,7 +29,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 Gulasz węgierski:
 
 * 1 kg łopatki wieprzowej lub szynki
@@ -64,7 +64,7 @@ Placek:
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Gulasz węgierski:
 
 Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.

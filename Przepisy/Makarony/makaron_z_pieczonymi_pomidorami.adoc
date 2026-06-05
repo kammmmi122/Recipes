@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 250 g makaronu (np. większego jak Rigatoni, Peccheri)
 * 600 g pomidorów
 * 1 ząbek czosnku
@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Piekarnik nagrzać do 190 stopni C. Pomidory umyć, pokroić w nieco większą kostkę, włożyć do odpowiednio dużego naczynia żaroodpornego.
 
 Dodać obrany i pokrojony na cienkie plasterki czosnek a między pomidory wcisnąć połowę porwanych liści bazylii.

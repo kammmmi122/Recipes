@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 1 łyżka oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 W garnku na oliwie i maśle poddusić pokrojoną w kosteczkę cebulę. Pora opłukać, obrać z zewnętrznych grubszych warstw i odciąć zielone końce. Pozostałą białą i jasnozieloną część przekroić wzdłuż na 4 części, opłukać je i pokroić na plasterki.
 
 Dodać do garnka z cebulą i razem podsmażać przez ok. 2 minuty. Pod koniec dodać przeciśnięty przez praskę czosnek.

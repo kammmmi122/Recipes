@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 2 szklanki drobnej białej fasoli, namoczonej przez noc w zimnej wodzie
 * 2 duże cebule, pokrojone w pióra
 * 1 jabłko, obrane i pokrojone w kostkę
@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Namoczoną fasolę odcedzić, opłukać i ugotować w nieosolonej wodzie do miękkości.
 W międzyczasie na patelni na minimalnym ogniu zeszklić cebulę oraz jabłka, powinny się lekko rozpadać.
 Ugotowaną fasolę opłukać, przestudzić i połączyć z podduszonymi cebulami, jabłkami oraz resztą składników. Przepuścić przez maszynkę do mielenia lub zmiksować ręcznym blenderem. Doprawić solą i pieprzem do smaku.

@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 3 pojedyncze filety kurczaka
 * 2 łyżki stołowe przyprawy gyros/kebab
 * 1 średnia czerwona cebula
@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Filety opłukać, osuszyć, oczyścić z błonek i kostek. Pokroić na małe paseczki lub w kostkę. Wymieszać z przyprawą gyros/kebab i odłożyć na ok. 1/2 godziny lub dłużej jeśli mamy czas.
 
 W międzyczasie przygotować warzywa. Czerwoną cebulę obrać, przekroić na 4 części, następnie na plasterki, oprószyć solą.

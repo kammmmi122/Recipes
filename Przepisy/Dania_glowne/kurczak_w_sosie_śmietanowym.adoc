@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 800 g piersi z kurczaka - 1 bardzo duża lub 2 małe
 * 20 g mąki pszennej - 1 pełna łyżka
 * 20 g tartego parmezanu
@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Dużą pierś z kurczaka oczyść z ewentualnych chrząstek oraz żyłek, a następnie pokrój na mniejsze kawałki o podobnej grubości. Mięso pokryj przyprawami - płaska łyżeczki soli i pół płaskiej łyżeczki pieprzu.
 
 Do miski wsyp łyżkę mąki pszennej oraz zetrzyj około 20 gramów parmezanu. Każdy kawałek obtocz z obu stron w mieszące mąki i sera.

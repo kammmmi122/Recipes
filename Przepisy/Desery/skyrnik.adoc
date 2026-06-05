@@ -28,7 +28,7 @@ image::20251230_232429.jpg[]
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 800 g Skyru naturalnego
 * 3 duże lub 4 małe jajka - do 200 g po rozbiciu
 * 100 g cukru
@@ -39,7 +39,7 @@ image::20251230_232429.jpg[]
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Zacznij już nagrzewać piekarnik do 170 stopni z opcją pieczenia góra/dół lub ustaw 160 stopni z termoobiegiem.
 W jednym naczyniu umieść wszystkie składniki na masę skyrnikową. Będzie to: 800 gramów Skyru naturalnego; 3 duże lub 4 małe jajka; 100 gramów zwykłego cukru; saszetka budyniu waniliowego lub śmietankowego bez cukru o wadze około 40 gramów. Wszystko razem miksuj krótko na niskich obrotach, tylko do momentu, gdy masa zrobi się jednolita.
 

@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 === Fish
 
 * 2 duże kawałki dorsza podzielone na mniejsze kawałki do panierowania
@@ -56,7 +56,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 === Fish
 
 Wyjmujemy z lodówki rybę, myjemy i osuszamy papierowym ręcznikiem. Kroimy na takie kawałki, jakie chcemy serwować. Rybę solimy i pieprzymy. Odkładamy.

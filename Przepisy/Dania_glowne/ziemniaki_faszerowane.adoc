@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 
 [.recipe-column-box]
-=== Składniki
+== Składniki
 * 4 ziemniaki
 * 3 łyżki oleju rzepakowego
 * trochę soli i pieprzu do smaku
@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 
 
 [.recipe-column-box]
-=== Przygotowanie
+== Przygotowanie
 Rozgrzej piekarnik do 200°C. Spore ziemniaki podobnej wielkości umyj dokładnie i osusz. Nie obieraj.
 
 Przy pomocy ostrego noża natnij ziemniaki w poprzek w odstępach ok. 0,5 centymetrowych, ale nie do końca ziemniaka.
