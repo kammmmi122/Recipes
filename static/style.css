@@ -169,16 +169,6 @@ body{
   line-height:1.5;
   -webkit-font-smoothing:antialiased;
 }
-
-.site-header{
-  max-width:1100px;
-  margin:32px auto 16px;
-  padding:0 20px;
-  display:flex;
-  align-items:center;
-  gap:20px;
-  justify-content:space-between;
-}
 .site-title{font-size:1.6rem;font-weight:700}
 .site-controls{margin-left:auto;display:flex;gap:12px;align-items:center}
 .search-input{padding:8px 12px;border-radius:10px;border:1px solid #e3e3e3;min-width:220px}

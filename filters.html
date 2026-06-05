@@ -1,19 +1,5 @@
 <!doctype html>
 <style>
-  .site-header{
-    max-width:1100px;
-    margin:32px auto 8px;
-    padding:0 20px;
-    display:grid;
-    grid-template-columns:1fr auto;
-    gap:16px;
-    align-items:center;
-  }
-  .site-header h1{
-    font-size:2rem;
-    margin:0;
-    text-align:left;
-  }
   .header-controls{
     display:flex;
     flex-wrap:wrap;
@@ -61,35 +47,30 @@
   .collapsed{display:none}
 
   @media (max-width:840px){
-    .site-header{grid-template-columns:1fr;}
-    .site-header h1{text-align:center;}
     .header-controls{justify-content:center;}
     .controls{justify-content:center;}
     .tabs{justify-content:center;}
   }
   @media (max-width:560px){
-    .site-header h1{font-size:1.6rem;}
     .search-input{min-width:180px;}
   }
 </style>
 
-<div class="site-header">
-  <h1>Moje Przepisy</h1>
-  <div class="header-controls">
-    <div class="controls">
-      <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
-    </div>
-    <div class="tabs" role="tablist" aria-label="Filtry kategorii">
-      <button data-filter="🌱">🌱 Wege</button>
-      <button data-filter="🐟">🐟 Ryba</button>
-      <button data-filter="🐔">🐔 Kurczak</button>
-      <button data-filter="🦆">🦆 Kaczka</button>
-      <button data-filter="🐖">🐖 Wieprzowina</button>
-      <button data-filter="🥩">🥩 Wołowina</button>
-      <button data-filter="🦐">🦐 Owoce morza</button>
-      <button data-filter="🔥">🔥 Ostro</button>
-      <button data-filter="all">Wszystkie</button>
-    </div>
+
+<div class="header-controls">
+  <div class="controls">
+    <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
+  </div>
+  <div class="tabs" role="tablist" aria-label="Filtry kategorii">
+    <button data-filter="🌱">🌱 Wege</button>
+    <button data-filter="🐟">🐟 Ryba</button>
+    <button data-filter="🐔">🐔 Kurczak</button>
+    <button data-filter="🦆">🦆 Kaczka</button>
+    <button data-filter="🐖">🐖 Wieprzowina</button>
+    <button data-filter="🥩">🥩 Wołowina</button>
+    <button data-filter="🦐">🦐 Owoce morza</button>
+    <button data-filter="🔥">🔥 Ostro</button>
+    <button data-filter="all">Wszystkie</button>
   </div>
 </div>
 
