@@ -34,3 +34,5 @@ Z jabłek usuwamy gniazda nasienne i dzielimy je na kawałki, na przykład ćwia
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

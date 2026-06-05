@@ -47,3 +47,5 @@ Wyjąc kulkę z folii i dodać do środka farsz. Na górę dodać żółtko i ta
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

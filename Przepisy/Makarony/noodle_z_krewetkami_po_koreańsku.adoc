@@ -53,3 +53,5 @@ Przesunąć składniki na bok patelni i zrobić miejsce na dnie. Wlać w nie sos
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

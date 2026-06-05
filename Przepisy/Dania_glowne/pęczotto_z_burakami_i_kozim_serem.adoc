@@ -47,3 +47,5 @@ Gotowe pęczotto przekładamy na talerze. Na wierzchu układamy kawałki koziego
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

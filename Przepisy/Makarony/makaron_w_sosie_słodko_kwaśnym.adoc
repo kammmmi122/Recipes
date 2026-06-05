@@ -47,3 +47,5 @@ Zmieszać makaron i powstały sos.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

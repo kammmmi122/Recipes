@@ -59,3 +59,5 @@ Przykryć drugą częścią ciasta i rozsmarować resztę polewy. Udekorować or
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

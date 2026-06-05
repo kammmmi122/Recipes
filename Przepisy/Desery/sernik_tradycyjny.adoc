@@ -46,3 +46,5 @@ Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polew�
 == Zdjęcia
 
 image::/Recipes/static/images/20241227_221828.jpg[]
+
+--

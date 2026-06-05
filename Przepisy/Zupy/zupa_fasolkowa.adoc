@@ -50,3 +50,5 @@ Odstawić z ognia i dodać posiekany koperek oraz śmietanę (gęstą z kubka na
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

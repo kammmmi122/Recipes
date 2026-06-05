@@ -49,3 +49,5 @@ Podawać gorącą.
 
 image::/Recipes/static/images/20250822_173944.jpg[]
 image::/Recipes/static/images/20250814_220620.jpg[]
+
+--

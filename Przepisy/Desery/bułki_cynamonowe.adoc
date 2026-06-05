@@ -79,3 +79,5 @@ Bułeczki cynamonowe można po przestudzeniu polukrować.
 
 image::/Recipes/static/images/20240823_130756.jpg[]
 image::/Recipes/static/images/20240823_130801.jpg[]
+
+--

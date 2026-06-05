@@ -126,3 +126,5 @@ Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozost
 image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]
 image::/Recipes/static/images/20240530_115143.jpg[]
+
+--

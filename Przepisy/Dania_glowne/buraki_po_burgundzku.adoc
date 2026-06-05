@@ -53,3 +53,5 @@ Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód taler
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

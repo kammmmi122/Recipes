@@ -45,3 +45,5 @@ Szynkę rozkładamy po 2 sztuki tak, aby plastry zachodziły na siebie. Na brzeg
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

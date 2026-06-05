@@ -34,3 +34,5 @@ Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 == Zdjęcia
 
 image::/Recipes/static/images/20241225_131152.jpg[]
+
+--

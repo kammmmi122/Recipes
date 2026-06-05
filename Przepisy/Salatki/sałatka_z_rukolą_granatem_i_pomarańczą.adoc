@@ -46,3 +46,5 @@ Składniki winegretu wymieszać w miseczce. Do rukoli dodać cząstki pomarańcz
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

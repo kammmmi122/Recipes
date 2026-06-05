@@ -49,3 +49,5 @@ Zabielamy zupę śmietanką. Na talerzach doprawiamy zupę kurkową z makaronem 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

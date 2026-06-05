@@ -60,3 +60,5 @@ Gulasz wieprzowy bardzo dobrze smakuje podany z kromką ulubionego pieczywa i og
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

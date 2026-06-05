@@ -53,3 +53,5 @@ Na koniec dodać posiekany koperek i odstawić z ognia.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

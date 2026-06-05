@@ -56,3 +56,5 @@ Wyłożyć danie na talerze, obok położyć ryż, posypać szczypiorkiem i poda
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

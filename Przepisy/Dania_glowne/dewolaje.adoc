@@ -46,3 +46,5 @@ Możliwość smażenia we frytkownicy.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

@@ -46,3 +46,5 @@ Przykryć i gotować na małym ogniu przez 20 minut, od czasu do czasu mieszają
 == Zdjęcia
 
 image::/Recipes/static/images/20250425_171213.jpg[]
+
+--

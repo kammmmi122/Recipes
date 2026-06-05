@@ -45,3 +45,5 @@ Podawaj polane oliwą.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

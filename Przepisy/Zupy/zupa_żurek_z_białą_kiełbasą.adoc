@@ -49,3 +49,5 @@ Wyjąć kiełbasę z zupy, pokroić ją na plasterki, włożyć z powrotem do ga
 [.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20240329_154743.jpg[]
+
+--

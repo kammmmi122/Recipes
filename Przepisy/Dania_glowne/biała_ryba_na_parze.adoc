@@ -1,6 +1,5 @@
 = Biała ryba na parze 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
-
 [.recipe-page]
 --
 
@@ -30,3 +29,5 @@ Rybę oprószyć solą i pieprzem. Ugotować na parze
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

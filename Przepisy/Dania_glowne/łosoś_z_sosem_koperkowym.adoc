@@ -56,3 +56,5 @@ Na talerze położyć upieczonego łososia, obok zielone dodatki, ziemniaczki i 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

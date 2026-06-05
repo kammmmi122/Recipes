@@ -56,3 +56,5 @@ Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Do
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

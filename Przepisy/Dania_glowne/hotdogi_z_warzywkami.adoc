@@ -37,3 +37,5 @@ Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobi�
 == Zdjęcia
 
 image::/Recipes/static/images/20240517_111652.jpg[]
+
+--

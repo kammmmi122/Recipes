@@ -45,3 +45,5 @@ Ratatuj podawać od razu po upieczeniu.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

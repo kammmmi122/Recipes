@@ -45,3 +45,5 @@ Piekarnik nagrzać do 200 stopni C. Cukinię pokroić w kostkę, doprawić solą
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

@@ -60,3 +60,5 @@ Piec w temperaturze 180ºC przez około 35  - 40 minut. Beza powinna być chrupi
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

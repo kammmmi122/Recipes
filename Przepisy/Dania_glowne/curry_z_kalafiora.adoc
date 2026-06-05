@@ -58,3 +58,5 @@ Gotowe curry spróbować, dosolić do smaku i ewentualnie dodać kilka kropel so
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

@@ -34,3 +34,5 @@ Polędwice z dorsza myjemy, osuszamy i układamy na blaszce wyłożonej papierem
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

@@ -47,3 +47,5 @@ Odkryte naczynie żaroodporne wstawić do nagrzanego piekarnika i piec przez ok.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

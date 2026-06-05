@@ -44,3 +44,5 @@ Dodać listki kolendry, syrop klonowy, oliwę oraz chili. Wymieszać i podawać.
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

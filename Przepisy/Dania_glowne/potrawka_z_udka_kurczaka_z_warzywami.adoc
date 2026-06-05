@@ -43,3 +43,5 @@ Pokroić mięso w kostkę, doprawić solą, pieprzem i ziołami prowansalskimi. 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

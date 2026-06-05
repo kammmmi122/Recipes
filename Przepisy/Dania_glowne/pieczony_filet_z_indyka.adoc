@@ -44,3 +44,5 @@ Mięso wyjąć w piekarnika, przykryć folią aluminiową i odstawić na minimum
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

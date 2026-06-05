@@ -113,3 +113,5 @@ Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe skł
 [.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20240617_154401.jpg[]
+
+--
