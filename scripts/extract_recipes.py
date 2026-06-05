@@ -201,19 +201,45 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
         ingredients_text = get_recipe_ingredients(link)
         recipe_text = get_recipe_text(link)
         potions_text = get_number_of_portions(link)
+        # Convert star-prefixed ingredient lines into list items
+        ingredients_lines = [l.strip()[2:].strip() for l in ingredients_text.splitlines() if l.strip().startswith("*")]
+        # Convert recipe_text into steps (split non-empty lines)
+        steps_lines = [l.strip() for l in recipe_text.splitlines() if l.strip()]
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            f.write(
-                f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n\n'
-            )
-            f.write('[cols=".<a,.<a"]\n[frame=none]\n[grid=none]\n|===\n|\n== Szczegóły\n\n')
-            f.write(f"{potions_text}")
-            f.write(f"*{link}[link do źródła przepisu]\n")
-            f.write("\n== Składniki\n\n")
-            f.write(f"{ingredients_text}\n")
-            f.write("\n|\n== Przygotowanie\n\n")
-            f.write(f"{recipe_text}\n")
-            f.write("\n|===\n\n[.text-center]\n== Zdjęcia\n")
+            # Title with the existing switch markup preserved
+            f.write(f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n\n')
+
+            # Passthrough HTML for two-column layout
+            f.write('++++\n')
+            f.write('<div class="recipe-columns">\n')
+
+            # Ingredients column
+            f.write('<aside class="ingredients">\n')
+            f.write('<h2>Składniki</h2>\n')
+            f.write('<ul>\n')
+            for ing in ingredients_lines:
+                f.write(f'<li>{ing}</li>\n')
+            f.write('</ul>\n')
+            # Add portions/source info
+            if potions_text:
+                f.write(f'<p class="muted">{potions_text.strip()}</p>\n')
+            f.write(f'<p><a href="{link}">link do źródła przepisu</a></p>\n')
+            f.write('</aside>\n')
+
+            # Steps column
+            f.write('<section class="steps">\n')
+            f.write('<h2>Przygotowanie</h2>\n')
+            f.write('<ol>\n')
+            for step in steps_lines:
+                f.write(f'<li>{step}</li>\n')
+            f.write('</ol>\n')
+            f.write('</section>\n')
+
+            f.write('</div>\n')
+            f.write('++++\n\n')
+
+            f.write('[.text-center]\n== Zdjęcia\n')
             print(file, "created")
 
 

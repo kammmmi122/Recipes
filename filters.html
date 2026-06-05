@@ -1,125 +1,135 @@
 <!doctype html>
 <style>
-  #filters {
-    margin-bottom: 1em;
-    display: flex;
-    gap: 0.5em;
-    flex-wrap: wrap;
+  .header-controls{
+    display:flex;
+    flex-wrap:nowrap;
+    gap:12px;
+    justify-content:space-between;
+    align-items:center;
   }
-
-  #filters button {
-    padding: 0.4em 0.8em;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    background: #f7f7f7;
-    cursor: pointer;
-    font-size: 0.9rem;
-    transition: all 0.2s ease;
+  .tabs{
+    display:flex;
+    gap:14px;
+    flex-wrap:nowrap;
+    align-items:center;
+    justify-content:flex-end;
+    overflow-x:auto;
+    padding-bottom:2px;
   }
-
-  #filters button:hover {
-    background: #eaeaea;
+  .tabs::after {
+    content: '';
+    flex: 1;
+    min-width: 0;
   }
-
-  #filters button.active {
-    background: #007acc;
-    color: white;
-    border-color: #007acc;
+  .tabs button{
+    background:none;
+    border:none;
+    padding:8px 12px;
+    border-radius:12px;
+    cursor:pointer;
+    font-weight:600;
+    color:#3a3a3a;
+    transition:background-color .2s, color .2s;
+    white-space:nowrap;
   }
+  .tabs button.active,
+  .tabs button:hover{
+    color:var(--accent,#007acc);
+    background:rgba(0,122,204,.1);
+  }
+  .controls{
+    display:flex;
+    gap:12px;
+    align-items:center;
+    justify-content:flex-end;
+    min-width:0;
+    flex:0 1 auto;
+  }
+  .search-input{
+    padding:10px 14px;
+    border-radius:14px;
+    border:1px solid #e6e6e6;
+    min-width:240px;
+    width:100%;
+    max-width:360px;
+  }
+  .collapsed{display:none}
 
-  /* collapsed list */
-  .collapsed {
-    display: none;
+  @media (max-width:840px){
+    .header-controls{flex-wrap:wrap;justify-content:center;}
+    .controls{justify-content:center;width:100%;}
+    .tabs{justify-content:center;overflow-x:auto;}
+  }
+  @media (max-width:560px){
+    .search-input{min-width:180px;}
   }
 </style>
 
-<div id="filters">
-  <button data-filter="🌱">🌱 Wege</button>
-  <button data-filter="🐟">🐟 Ryba</button>
-  <button data-filter="🐔">🐔 Kurczak</button>
-  <button data-filter="🦆">🦆 Kaczka</button>
-  <button data-filter="🐖">🐖 Wieprzowina</button>
-  <button data-filter="🥩">🥩 Wołowina</button>
-  <button data-filter="🦐">🦐 Owoce morza</button>
-  <button data-filter="🔥">🔥 Ostro</button>
-  <button data-filter="all">Wszystkie</button>
+
+<div class="header-controls">
+  <div class="tabs" role="tablist" aria-label="Filtry kategorii">
+    <button data-filter="🌱">🌱 Wege</button>
+    <button data-filter="🐟">🐟 Ryba</button>
+    <button data-filter="🐔">🐔 Kurczak</button>
+    <button data-filter="🦆">🦆 Kaczka</button>
+    <button data-filter="🐖">🐖 Wieprzowina</button>
+    <button data-filter="🥩">🥩 Wołowina</button>
+    <button data-filter="🦐">🦐 Owoce morza</button>
+    <button data-filter="🔥">🔥 Ostro</button>
+    <button data-filter="all">Wszystkie</button>
+  </div>
+    <div class="controls">
+    <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
+  </div>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const lists = document.querySelectorAll("ul, ol");
-  const buttons = document.querySelectorAll("#filters button");
+  const tabs = document.querySelectorAll('.tabs button');
+  const searchInput = document.querySelector('#search');
+  const cardsGrid = document.querySelector('.cards-grid');
 
-  // Track active filters (multi-select)
-  const activeFilters = new Set();
+  function getCards(){
+    return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
+  }
 
-  function applyFilters() {
-    lists.forEach(list => {
-      const items = Array.from(list.querySelectorAll("li"));
-      let visibleCount = 0;
+  let activeCategory = 'all';
 
-      items.forEach(li => {
-        const text = li.textContent || "";
+  function applyFilters(){
+    const q = (searchInput && searchInput.value || '').toLowerCase().trim();
+    const cards = getCards();
+    cards.forEach(card => {
+      const text = (card.textContent || '').toLowerCase();
+      const tagEl = card.querySelector('.card-emoji');
+      const tagText = tagEl ? (tagEl.textContent || '').toLowerCase() : '';
 
-        // If "all" is active → show everything
-        if (activeFilters.has("all") || activeFilters.size === 0) {
-          li.style.display = "";
-          visibleCount++;
-          return;
-        }
+      const matchesSearch = q === '' || text.includes(q);
+      const matchesCategory = activeCategory === 'all' || tagText.includes(activeCategory);
 
-        // Otherwise match ANY selected tag
-        const matches = [...activeFilters].some(tag => text.includes(tag));
-
-        if (matches) {
-          li.style.display = "";
-          visibleCount++;
-        } else {
-          li.style.display = "none";
-        }
-      });
-
-      // Collapse list if no visible items
-      if (visibleCount === 0) {
-        list.classList.add("collapsed");
+      if(matchesSearch && matchesCategory){
+        card.style.display = '';
       } else {
-        list.classList.remove("collapsed");
+        card.style.display = 'none';
       }
     });
   }
 
-  buttons.forEach(btn => {
-    btn.addEventListener("click", () => {
-      const filter = btn.getAttribute("data-filter");
+  tabs.forEach(t => t.addEventListener('click', ()=>{
+    tabs.forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+    activeCategory = t.getAttribute('data-filter') || 'all';
+    applyFilters();
+  }));
 
-      if (filter === "all") {
-        // Reset everything
-        activeFilters.clear();
-        buttons.forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-      } else {
-        // Toggle filter on/off
-        if (activeFilters.has(filter)) {
-          activeFilters.delete(filter);
-          btn.classList.remove("active");
-        } else {
-          activeFilters.add(filter);
-          btn.classList.add("active");
-        }
-
-        // Remove "all" highlight if any specific filter is used
-        buttons.forEach(b => {
-          if (b.getAttribute("data-filter") === "all") {
-            b.classList.remove("active");
-          }
-        });
-      }
-
-      applyFilters();
+  if(searchInput){
+    let debounce;
+    searchInput.addEventListener('input', ()=>{
+      clearTimeout(debounce);
+      debounce = setTimeout(()=>applyFilters(), 120);
     });
-  });
+  }
 
-  // Initial state: show all
+  // run once at start
   applyFilters();
 });
 </script>
