@@ -1,10 +1,16 @@
 = Placki ziemniaczane 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -31,7 +37,7 @@ Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porc
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20260115_185756.jpg[]

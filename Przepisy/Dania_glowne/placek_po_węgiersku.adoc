@@ -1,10 +1,16 @@
 = Placek po węgiersku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2,5 godziny
@@ -72,5 +78,5 @@ Przełożyć na talerz, nałożyć gorący gulasz i złożyć na pół. Po wierz
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

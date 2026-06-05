@@ -1,10 +1,16 @@
 = Tort czekoladowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
@@ -46,7 +52,7 @@ Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast bok
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240511_114709.jpg[]

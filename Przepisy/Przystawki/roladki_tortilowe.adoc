@@ -1,10 +1,16 @@
 = Roladki tortilowe 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -42,5 +48,5 @@ Roladki można przed podaniem schłodzić w lodówce. Nie jest to jednak koniecz
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

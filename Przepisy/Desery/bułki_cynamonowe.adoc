@@ -1,10 +1,16 @@
-= Bułki cynamonowe 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+= Bułki cynamonowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas wyrastania ciasta: 1 godzina 30 minut
@@ -68,7 +74,7 @@ Bułeczki cynamonowe można po przestudzeniu polukrować.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240823_130756.jpg[]

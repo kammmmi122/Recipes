@@ -239,7 +239,7 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write('</div>\n')
             f.write('++++\n\n')
 
-            f.write('[.text-center]\n== Zdjęcia\n')
+            f.write('[.recipe-gallery]\n== Zdjęcia\n')
             print(file, "created")
 
 

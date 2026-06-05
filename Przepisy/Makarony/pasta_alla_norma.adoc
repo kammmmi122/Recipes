@@ -1,10 +1,16 @@
 = Pasta alla norma 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 50 minut
@@ -38,6 +44,6 @@ Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy ba
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20231219_152132.jpg[]

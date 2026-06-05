@@ -1,10 +1,16 @@
 = Quinotto z czerwoną fasolą i papryką 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 50 minut
@@ -31,6 +37,5 @@ Fasolę odcedzamy. Na rozgrzanej oliwie szklimy pokrojony w cienkie plasterki cz
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-

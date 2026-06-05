@@ -1,10 +1,16 @@
 = Łosoś teriyaki 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * 4 porcje
@@ -35,5 +41,5 @@ Zdjąć skórkę z filetów, polać ciepłym sosem teriyaki i posypać zrumienio
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

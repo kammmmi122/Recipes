@@ -1,10 +1,16 @@
 = Sałatka gyros 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -43,5 +49,5 @@ Polać ketchupem, przykryć plasterkami czerwonej cebuli, następnie układać k
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

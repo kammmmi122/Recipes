@@ -1,10 +1,16 @@
 = Falafel, humus i świeże warzywa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: noc namaczania + 30 minut
@@ -38,5 +44,5 @@ Uformowane falafele od razu wrzucać na gorący olej na patelni i smażyć 2 - 3
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

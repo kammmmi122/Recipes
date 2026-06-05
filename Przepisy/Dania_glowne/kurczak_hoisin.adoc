@@ -1,10 +1,16 @@
 = Kurczak hoisin 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -50,5 +56,5 @@ Zagotować a następnie połączyć z mięsem i co chwilę mieszając zagotować
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

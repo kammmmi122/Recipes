@@ -1,10 +1,16 @@
 = Pasztet z białej fasoli 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 40 minut + 40 minut pieczenia
@@ -35,5 +41,5 @@ Piekarnik rozgrzać do 180 stopni. Keksówkę wysmarować olejem, przełożyć m
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Pałki z kurczaka pieczone 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 50 minut
@@ -25,6 +31,5 @@ Nastawić piekarni na 180 stopni C. Mięso włożyć do worka do pieczenia. Do m
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-

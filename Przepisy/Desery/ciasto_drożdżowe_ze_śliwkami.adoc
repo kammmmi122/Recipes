@@ -1,10 +1,16 @@
 = Ciasto drożdżowe ze śliwkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -45,7 +51,7 @@ Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnię
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240820_080313.jpg[]

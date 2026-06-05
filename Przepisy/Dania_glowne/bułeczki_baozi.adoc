@@ -1,10 +1,16 @@
 = Bułeczki baozi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -30,5 +36,5 @@ Po tym czasie ciasto dzielimy na 12 równych części, z których formujemy kulk
 Zagotowujemy wodę w garnku do gotowania na parze. Bułeczki gotujemy na parze przez około 25 minut. Po ugotowaniu czekamy chwilę, aż bułeczki lekko przestygną, a następnie podajemy.
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

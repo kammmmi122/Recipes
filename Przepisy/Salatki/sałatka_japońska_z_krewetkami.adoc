@@ -1,10 +1,16 @@
 = Sałatka japońska z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -34,5 +40,5 @@ Wymieszać śmietankę i sos sojowy, polać po sałatce. Posypać posiekanym szc
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Roladki z kurczaka z serem, pieczarkami pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -37,5 +43,5 @@ Piekarnik nagrzać do 200 stopni C. Cukinię pokroić w kostkę, doprawić solą
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

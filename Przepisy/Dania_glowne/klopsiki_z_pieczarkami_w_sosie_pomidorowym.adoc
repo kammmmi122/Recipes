@@ -1,10 +1,16 @@
 = Klopsiki z pieczarkami w sosie pomidorowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -41,5 +47,5 @@ Sos spróbować i doprawić w razie potrzeby solą, pieprzem, cukrem i suszonym 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

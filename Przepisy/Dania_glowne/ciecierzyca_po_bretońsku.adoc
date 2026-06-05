@@ -1,10 +1,16 @@
 = Ciecierzyca po bretońsku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -43,5 +49,5 @@ Garnek przykryć i gotować przez 7 - 15 minut. Na koniec doprawić do smaku sol
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Rozczyn 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -31,5 +37,5 @@ Uwaga: składniki na rozczyn odejmujemy z przepisu na wybrane przez Was ciasto d
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

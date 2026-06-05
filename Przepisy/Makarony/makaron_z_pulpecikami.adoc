@@ -1,10 +1,16 @@
-= Makaron z pulpecikami 🐖 🥩 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+= Makaron z pulpecikami 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * 4 porcje
@@ -42,5 +48,5 @@ Pulpeciki podawać z makaronem i tartym serem. Potrawę można przygotować wcze
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

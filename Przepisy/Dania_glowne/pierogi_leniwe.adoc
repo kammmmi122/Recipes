@@ -1,10 +1,16 @@
 = Pierogi leniwe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -52,7 +58,7 @@ Gorącym sosem polej umieszczone na półmisku kluski leniwe.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20240719_200043.jpg[]
 image::/Recipes/static/images/20240719_200034.jpg[]

@@ -1,10 +1,16 @@
-= Flaki 🥩 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+= Flaki 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 4 godziny
@@ -46,5 +52,5 @@ Do flaków można też na koniec dodać zasmażkę (do flaków pokazanych na zdj
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

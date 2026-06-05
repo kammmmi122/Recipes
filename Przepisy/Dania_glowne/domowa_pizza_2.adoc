@@ -1,10 +1,16 @@
 = Domowa pizza 2 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1,5 godziny
@@ -39,5 +45,5 @@ Wyłożyć cienką warstwę sosu pomidorowego, ser* oraz ulubione dodatki. Odcze
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

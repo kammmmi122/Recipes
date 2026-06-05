@@ -1,10 +1,16 @@
 = Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -27,5 +33,5 @@ Sałatę umyć. Pokroić suszone pomidory, orzechy i ser camembert. Zmieszać sa
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Ramen shoyu 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 7 godziny
@@ -53,6 +59,6 @@ Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany)
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20230416_155911.jpg[]

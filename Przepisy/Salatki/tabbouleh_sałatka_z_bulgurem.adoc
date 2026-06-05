@@ -1,10 +1,16 @@
 = Tabbouleh, sałatka z bulgurem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -35,5 +41,5 @@ Dodać posiekany szczypiorek, cynamon, oliwę i sok z cytryny. Doprawić solą i
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

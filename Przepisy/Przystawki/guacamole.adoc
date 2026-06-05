@@ -1,10 +1,16 @@
 = Guacamole 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -45,5 +51,5 @@ Guacamole podawaj od razu lub też po schłodzeniu w lodówce. Pastę guacamole 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

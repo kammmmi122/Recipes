@@ -1,10 +1,16 @@
 = Schab nadziewany mozzarellą i pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 90 minut
@@ -42,6 +48,5 @@ Gotowe, podaję z ulubioną surówką i ziemniakami.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-

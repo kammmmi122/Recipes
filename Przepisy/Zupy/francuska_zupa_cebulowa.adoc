@@ -1,10 +1,16 @@
 = Francuska zupa cebulowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -41,5 +47,5 @@ Do 4 małych żaroodpornych misek (lub do jednego większego garnka żaroodporne
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

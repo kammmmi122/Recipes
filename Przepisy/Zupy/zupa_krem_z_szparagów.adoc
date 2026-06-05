@@ -1,10 +1,16 @@
 = Zupa krem z szparagów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -37,5 +43,5 @@ Zupę można dodatkowo przelać przez sito i przetrzeć łyżką zgromadzony na 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

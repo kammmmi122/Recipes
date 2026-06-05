@@ -1,10 +1,16 @@
 = Domowy kebab 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -41,5 +47,5 @@ Następnie pokrój warzywa. Kapustę drobno poszatkuj, pomidory i ogórki pokró
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

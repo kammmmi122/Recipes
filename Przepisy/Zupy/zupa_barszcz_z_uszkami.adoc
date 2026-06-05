@@ -1,10 +1,16 @@
 = Zupa barszcz z uszkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -51,5 +57,5 @@ Barszcz przecedzić i schować do lodówki. Następnego dnia lub przed podaniem 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

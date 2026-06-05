@@ -1,10 +1,16 @@
 = Sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas pieczenia spodu: 20 minut (lub do zarumienienia brzegów): 180°C, górna i dolna grzałka, środkowa półka piekarnika
@@ -107,7 +113,7 @@ Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20231006_223932.jpg[]
 image::/Recipes/static/images/20231014_215500.jpg[]

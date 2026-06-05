@@ -1,77 +1,154 @@
-#header,
-#content,
-#footer,
-#footnotes {
-  max-width: none;
-}
+/* ===========================
+   Layout globalny
+   =========================== */
 
 :root {
   --bg: #fafaf8;
-  --card-bg: #fff;
+  --card-bg: #ffffff;
   --muted: #6b6b6b;
   --accent: #007acc;
   --radius: 12px;
+  --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.08);
+  --border-subtle: 1px solid rgba(15, 23, 42, 0.06);
+  --text-main: #111827;
 }
 
 * {
   box-sizing: border-box;
 }
 
+html,
 body {
   margin: 0;
-  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  padding: 0;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
   background: var(--bg);
-  color: #0b0b0b;
-  line-height: 1.5;
+  color: var(--text-main);
   -webkit-font-smoothing: antialiased;
 }
 
-.site-title {
-  font-size: 1.6rem;
-  font-weight: 700;
+/* Asciidoctor containers */
+
+#header,
+#content,
+#footer,
+#footnotes {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 16px;
 }
 
-.site-controls {
-  margin-left: auto;
+/* ===========================
+   Nagłówek strony
+   =========================== */
+
+#header > h1 {
+  font-size: 2.2rem;
+  margin: 24px 0 8px;
+}
+
+#header .details {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* ===========================
+   Filtry / pasek nad kartami
+   =========================== */
+
+.filters-wrapper {
+  margin: 16px 0 24px;
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   align-items: center;
 }
 
-.search-input {
-  padding: 8px 12px;
-  border-radius: 10px;
-  border: 1px solid #e3e3e3;
-  min-width: 220px;
+.filters-label {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--muted);
 }
 
+.filters-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filter-pill {
+  border-radius: 999px;
+  border: var(--border-subtle);
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  background: #ffffff;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.filter-pill.active {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
+}
+
+/* ===========================
+   GRID KART PRZEPISÓW
+   =========================== */
+
 .cards-wrapper {
-  margin: 0 auto;
-  max-width: 1600px;
-  padding: 0 20px 60px;
+  margin: 24px 0 40px;
 }
 
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 28px;
-  margin-top: 18px;
 }
 
-/* --- NOWY WYGLĄD KART --- */
+/* Karta przepisu */
 
 .card {
-  background: #fff;
-  border-radius: 14px;
-  overflow: hidden;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
-  transition: transform .2s ease;
   position: relative;
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  border: var(--border-subtle);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease,
+    border-color 0.15s ease;
 }
 
 .card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-3px);
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
+  border-color: rgba(0, 0, 0, 0.06);
 }
+
+/* Pasek kategorii na karcie */
+
+.card-category-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #f97316;
+  color: #ffffff;
+  padding: 6px 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-bottom-right-radius: 10px;
+  z-index: 2;
+}
+
+/* Obrazek karty */
 
 .card-image {
   width: 100%;
@@ -80,144 +157,58 @@ body {
   display: block;
 }
 
-/* Pasek kategorii w lewym górnym rogu */
-.card-category-label {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background: #ff6b6b;
-  color: white;
-  padding: 6px 12px;
-  font-size: 13px;
-  font-weight: 700;
-  font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  border-bottom-right-radius: 8px;
-  z-index: 5;
-}
-
-.card[data-category="Dania glowne"] .card-category-label {
-  background: #d64541;
-}
-
-.card[data-category="Desery"] .card-category-label {
-  background: #ec6b8b;
-}
-
-.card[data-category="Makarony"] .card-category-label {
-  background: #f5a623;
-}
-
-.card[data-category="Przetwory"] .card-category-label {
-  background: #7dbb49;
-}
-
-.card[data-category="Przystawki"] .card-category-label {
-  background: #4aa5b5;
-}
-
-.card[data-category="Salatki"] .card-category-label {
-  background: #3a8c40;
-}
-
-.card[data-category="Zupy"] .card-category-label {
-  background: #4a90e2;
-}
-
-.card-content {
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.card-title {
-  display: inline-block;
-  font-size: 18px;
-  font-weight: 600;
-  margin: 0;
-  vertical-align: middle;
-}
-
-.card-emoji {
-  display: inline-block;
-  margin-left: 10px;
-  vertical-align: middle;
-  color: #0b0b0b;
-  font-size: 1.4rem;
-  text-decoration: none;
-}
-
-.card-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: fit-content;
-  padding: 10px 16px;
-  border-radius: 999px;
-  background: rgba(0, 122, 204, 0.12);
-  color: var(--accent);
-  font-weight: 700;
-  text-decoration: none;
-  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
-}
-
-.card-link:hover,
-.card-link:focus-visible {
-  background: rgba(0, 122, 204, 0.18);
-  color: #005a9e;
-  transform: translateY(-1px);
-/* --- POZOSTAŁE STYLE (bez zmian) --- */
+/* Placeholder, gdy brak zdjęcia */
 
 .card-image-placeholder {
   height: 180px;
+  background: #f3f4f6;
+  color: var(--muted);
+  font-size: 0.9rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+/* Treść karty */
 
-.card-meta {
+.card-content {
+  padding: 14px 16px 16px;
   display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.card-link {
+  margin-top: 4px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-  flex-wrap: wrap;
+  gap: 4px;
 }
 
-.card-category,
-.card-tag {
-  font-size: 0.78rem;
-  line-height: 1.3;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #94a3b8;
+.card-link:hover {
+  text-decoration: underline;
 }
 
-.card-emoji {
-  color: #0b0b0b;
-  font-size: 1.6rem;
-}
-
-.card-tag {
-  display: inline-block;
-  margin-top: 8px;
-  padding: 4px 8px;
-  border-radius: 999px;
-  background: #f2f6fb;
-  color: var(--muted);
-  font-size: 0.78rem;
-}
-
-td:first-child {
-  border-right: solid 1px #000;
-}
+/* ===========================
+   PRZEŁĄCZNIK (switch)
+   =========================== */
 
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
-  height: 34px;
-  float: right;
+  width: 44px;
+  height: 24px;
+  vertical-align: middle;
 }
 
 .switch input {
@@ -226,94 +217,209 @@ td:first-child {
   height: 0;
 }
 
-.slider {
+.slider.round {
   position: absolute;
   cursor: pointer;
   inset: 0;
-  background-color: #ccc;
-  transition: 0.4s;
+  background-color: #d1d5db;
+  transition: 0.2s;
+  border-radius: 999px;
 }
 
-.slider::before {
+.slider.round:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: #fff;
-  transition: 0.4s;
-}
-
-input:checked + .slider {
-  background-color: #2196f3;
-}
-
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196f3;
-}
-
-input:checked + .slider::before {
-  transform: translateX(26px);
-}
-
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round::before {
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.2s;
   border-radius: 50%;
 }
 
+.switch input:checked + .slider.round {
+  background-color: var(--accent);
+}
+
+.switch input:checked + .slider.round:before {
+  transform: translateX(20px);
+}
+
+/* ===========================
+   STRONA POJEDYNCZEGO PRZEPISU
+   =========================== */
+
+/* Kontener główny (Asciidoctor #content już ma max-width) */
+
+.recipe-page {
+  margin-top: 16px;
+}
+
+/* Hero image – pierwsze zdjęcie lub osobny blok */
+
+.recipe-hero {
+  position: relative;
+  margin: 0 0 24px;
+}
+
+.recipe-hero img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+}
+
+/* Pasek kategorii na hero (jeśli używasz) */
+
+.recipe-category-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #f97316;
+  color: #ffffff;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-bottom-right-radius: 12px;
+}
+
+/* Nagłówek przepisu (tytuł + switch) */
+
+#content > h1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 1.8rem;
+  margin: 12px 0 8px;
+}
+
+#content > h1 .switch {
+  flex-shrink: 0;
+}
+
+/* Szczegóły przepisu (czas, porcje, źródło) */
+
+.recipe-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 8px 0 20px;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+.recipe-details-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Kolumny: składniki / przygotowanie */
+
 .recipe-columns {
-  max-width: 900px;
-  margin: 24px auto;
-  padding: 20px;
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 28px;
-}
-
-.recipe-columns .ingredients {
-  background: var(--card-bg);
-  padding: 18px;
-  border-radius: 10px;
-  box-shadow: rgba(16, 24, 40, 0.04);
-}
-
-.recipe-columns .steps {
-  background: var(--card-bg);
-  padding: 18px;
-  border-radius: 10px;
-  box-shadow: rgba(16, 24, 40, 0.04);
+  margin: 16px 0 24px;
 }
 
 .recipe-columns h2 {
   margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.recipe-columns ul,
+.recipe-columns ol {
+  margin-top: 0;
+}
+
+/* Galeria zdjęć */
+
+.recipe-gallery {
+  margin: 24px 0 40px;
+}
+
+.recipe-gallery > h2 {
   margin-bottom: 12px;
 }
 
-.recipe-columns ul {
-  padding-left: 1.1rem;
-  margin: 0;
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
 }
 
-.recipe-columns ol {
-  padding-left: 1.2rem;
-  margin: 0;
+.gallery-grid img {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  display: block;
 }
 
-.recipe-columns li {
-  margin: 0 0 8px;
+/* ===========================
+   AsciiDoc – dopasowanie
+   =========================== */
+
+/* Tabela 2-kolumnowa (Szczegóły / Składniki / Przygotowanie) */
+
+table.tableblock {
+  width: 100%;
+  border: none;
+  box-shadow: none;
+  background: transparent;
 }
 
-@media (width <= 800px) {
+table.tableblock > colgroup,
+table.tableblock > tbody > tr > td.tableblock {
+  border: none;
+}
+
+/* Użyj klas na wrapperach, jeśli dodasz je w HTML/Asciidoc:
+   [.recipe-columns] przed tabelą itp. */
+
+/* ===========================
+   RESPONSYWNOŚĆ
+   =========================== */
+
+@media (max-width: 900px) {
+  #header,
+  #content,
+  #footer,
+  #footnotes {
+    padding: 0 12px;
+  }
+
+  #content > h1 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: 1.5rem;
+  }
+
   .recipe-columns {
     grid-template-columns: 1fr;
-    padding: 12px;
+  }
+
+  .recipe-details {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 
-.text-center {
-  text-align: center;
+@media (max-width: 600px) {
+  .cards-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .card {
+    border-radius: 10px;
+  }
+
+  .recipe-hero img {
+    max-height: 260px;
+  }
 }

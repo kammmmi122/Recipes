@@ -1,10 +1,16 @@
 = Łatwe kimchi 🌱 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: powyżej godziny
@@ -56,5 +62,5 @@ Kiszonki przechowywane przez cały rok najlepiej jest kisić w kamionkowych nacz
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

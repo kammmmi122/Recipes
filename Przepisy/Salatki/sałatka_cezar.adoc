@@ -1,10 +1,16 @@
 = Sałatka cezar 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -39,5 +45,5 @@ Dodać pokrojonego kurczaka, skropić resztą sosu, posypać tartym parmezanem o
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

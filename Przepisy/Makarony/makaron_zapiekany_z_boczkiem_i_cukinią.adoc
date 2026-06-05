@@ -1,10 +1,16 @@
 = Makaron zapiekany z boczkiem i cukinią 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -40,7 +46,7 @@ Jeśli dania nie zapiekamy, możemy posypać je serem już po nałożeniu na tal
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20250118_150205.jpg[]

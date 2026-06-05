@@ -1,10 +1,16 @@
 = Zupa fasolkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -42,5 +48,5 @@ Odstawić z ognia i dodać posiekany koperek oraz śmietanę (gęstą z kubka na
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

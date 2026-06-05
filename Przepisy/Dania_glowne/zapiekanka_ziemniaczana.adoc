@@ -1,10 +1,16 @@
 = Zapiekanka ziemniaczana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -54,5 +60,5 @@ Naczynie z gotową do pieczenia zapiekanką ziemniaczaną z kiełbasą umieść 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

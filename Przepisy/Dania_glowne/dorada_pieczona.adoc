@@ -1,10 +1,16 @@
 = Dorada pieczona 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -25,5 +31,5 @@ Doradę myjemy, osuszamy i nacinamy skórę w 3 miejscach z każdej strony. Ryb�
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

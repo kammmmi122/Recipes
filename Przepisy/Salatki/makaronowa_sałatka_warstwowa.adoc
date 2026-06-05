@@ -1,10 +1,16 @@
 = Makaronowa sałatka warstwowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -34,5 +40,5 @@ Cebulę obrać, przekroić na pół a następnie pokroić na cienkie plasterki, 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

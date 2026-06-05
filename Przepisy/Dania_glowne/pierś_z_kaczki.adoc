@@ -1,10 +1,16 @@
 = Pierś z kaczki 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -27,5 +33,5 @@ W tym czasie na dobrze rozgrzanej patelni i na tłuszczu wytopionym ze skórki k
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
