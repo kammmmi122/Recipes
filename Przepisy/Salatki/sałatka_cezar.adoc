@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/salatka-cezar-z-kurczakiem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/salatka-cezar-z-kurczakiem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 300 g filetu z kurczaka
 * 1 łyżka oliwy + do skropienia
 * 1/2 większej główki sałaty rzymskiej
@@ -38,10 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 1 i 1/2 łyżeczki soku z cytryny (lub 1 łyżeczka octu winnego)
 * 1 łyżeczka sosu worcestershire
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Filet z kurczaka oczyścić z błonek i kostek, pokroić na 4 części, doprawić solą i pieprzem oraz wysmarować oliwą. Rozgrzać patelnię (np. grillową lub zwykłą), położyć filety i smażyć przez ok. 4 minuty z każdej strony, w międzyczasie skrapiać mięso dodatkową oliwą. Odłożyć na talerz.
 
 Na tę samą patelnię włożyć pokrojoną w kosteczkę bagietkę, zmniejszyć ogień do minimum i smażyć przez ok. 5 minut co chwilę mieszając, aż grzanki będą chrupkie. Odłożyć na talerz.
@@ -52,3 +35,8 @@ Sałatę rzymską opłukać, osuszyć, posiekać, wymieszać z połową sosu, wy
 
 Dodać pokrojonego kurczaka, skropić resztą sosu, posypać tartym parmezanem oraz grzankami.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

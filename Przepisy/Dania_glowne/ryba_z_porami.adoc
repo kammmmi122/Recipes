@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250213_222316.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/ryba-z-porami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/ryba-z-porami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 600 g filetów ryby (np. mintaj, dorsz, halibut)
 * 1 por
 * 1/3 łyżeczki nasion kopru włoskiego
@@ -34,10 +20,7 @@ image::20250213_222316.jpg[]
 * 1 łyżka posiekanego koperku
 * 5 łyżek śmietanki 30%
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Rybę pokroić na porcje i umieścić w naczyniu żaroodpornym. Doprawić solą, pieprzem, posypać nasionami kopru włoskiego i wysmarować oliwą.
 
 Piekarnik nagrzać do 200 stopni C.
@@ -50,11 +33,8 @@ Wlać pół szklanki wody lub bulionu, zagotować i przykryć. Dusić przez ok. 
 
 Zdjąć pokrywę, dodać śmietankę oraz koperek, wymieszać i zagotować. Wyłożyć na rybę i wstawić do piekarnika. Piec przez 20 minut (bez przykrycia).
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250213_222316.jpg[]
-
+image::20250213_222316.jpg[]

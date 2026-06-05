@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 4 - 6 porcji
-
-[.recipe-details-item]
-🔗 https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 cebula czerwona
 * 4 liście laurowe
 * 2 ziarna ziela angielskiego
@@ -46,13 +32,15 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka sosu sojowego
 * sól i czarny pieprz
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Cebulę pokroić w kostkę. Na dnie garnka rozgrzać olej, dodać cebulę oraz liście laurowe, ziele angielskie i ziarna pieprzu. Smażyć przez 2 - 3 minuty do czasu, aż cebula będzie złota.
 
 Wtedy dodać ciecierzycę, dokładnie wymieszać i dodać wszystkie pozostałe przyprawy. Smażyć minutę po czym dodać pozostałe składniki.
 
 Garnek przykryć i gotować przez 7 - 15 minut. Na koniec doprawić do smaku solą oraz pieprzem, podawać z chlebem lub z ulubioną kaszą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,40 +2,23 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250822_173944.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.mojewypieki.com/przepis/ciasto-do-pizzy-przepis-iii[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 łyżka (12g) suchych drożdży (drożdży instant) lub 25 g świeżych drożdży
 * 1,5 szklanki letniej wody
 * 3,5 szklanki mąki pszennej
 * 3 łyżki oliwy z oliwek
 * 1,5 łyżeczki soli
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Mąkę przesiać, wymieszać z suchymi drożdżami (ze świeżych drożdży należy najpierw zrobić rozczyn). Dodać pozostałe składniki i wyrobić gładkie, elastyczne ciasto. Ciasto na pizzę można wyrabiać ręcznie, można też mikserem z hakiem do ciasta drożdżowego (mikserem zajmie to około 15 minut).
 
 Z ciasta uformować kulę, umieścić w naczyniu, przykryć folią spożywczą i postawić w ciepłe miejsce do podwojenia objętości na około 1 - 1,5 godziny.
@@ -50,12 +33,8 @@ Piec około 15 minut w maksymalnej temperaturze piekarnika (260ºC), choć ja za
 
 Podawać gorącą.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250822_173944.jpg[]
-image::/Recipes/static/images/20250814_220620.jpg[]
-
+image::20250822_173944.jpg[]

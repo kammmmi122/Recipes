@@ -2,51 +2,28 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20231006_223932.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas pieczenia spodu: 20 minut (lub do zarumienienia brzegów): 180°C, górna i dolna grzałka, środkowa półka piekarnika
-
-[.recipe-details-item]
-🕒 czas pieczenia ciasta: 30 minut: 130°C, dolna grzałka, druga od dołu półka, blacha z wrzątkiem na dnie piekarnika, 60 minut: 130°C, górna i dolna grzałka
-
-[.recipe-details-item]
-🔗 https://www.youtube.com/watch?v=-CXjNP2rEU0[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.youtube.com/watch?v=-CXjNP2rEU0[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
-=== Masa serowa:
-
+=== Składniki
 * 1 kg sera tłustego, gęstego
 * 150 g drobnego cukru
 * 10 - 12 g cukru z wanilią
 * 1 budyń śmietankowy bez cukru (lub 40 g mąki ziemniaczanej)
 * 6 średnich jajek
 * 200 g masła
-
-=== Spód:
-
 * 100 g krupczatki lub mąki tortowej
 * 50 g masła
 * 1 żółtko
 * 25 g cukru pudru
 * szczypta soli
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Zaczynam od przygotowania ciasta kruchego.
 
 Wszystkie składniki przekładam do minimalaksera.
@@ -119,12 +96,8 @@ Ja teraz wyłączam całkowicie piekarnik, bo sernik bez otwierania piekarnika m
 
 Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie bez pękania.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20231006_223932.jpg[]
-image::/Recipes/static/images/20231014_215500.jpg[]
-
+image::20231006_223932.jpg[]

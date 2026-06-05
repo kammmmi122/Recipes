@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 - 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 opakowanie rukoli (100 g)
 * 60 g orzechów włoskich lub pekan
 * 1 owoc granatu
@@ -37,10 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 1 i 1/2 łyżki soku z cytryny
 * sól i świeżo zmielony czarny pieprz
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Rukolę opłukać na sitku, odcedzić, osuszyć i wyłożyć na talerz.
 
 Pomarańcze obrać i wyfiletować (ostrym nożem wykroić cząstki miąższy pomiędzy błonkami).
@@ -51,3 +34,8 @@ Orzechy włoskie lekko zrumienić na patelni, posiekać.
 
 Składniki winegretu wymieszać w miseczce. Do rukoli dodać cząstki pomarańczy, posypać granatem i orzechami włoskimi. Przed podaniem skropić winegretem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

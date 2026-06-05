@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20250724_215629.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 10 porcji
-
-[.recipe-details-item]
-🔗 https://mojewypieki.com/przepis/baklawa-baklava[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://mojewypieki.com/przepis/baklawa-baklava[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * około 500 g ciasta filo (2 opakowania, czyli około 24 płaty), jeśli kupne płaty filo są większe, należy je przyciąć do rozmiarów foremki (podzielić na pół)
 * 500 g orzechów włoskich
 * 2 łyżeczki cynamonu
@@ -36,10 +22,7 @@ image::20250724_215629.jpg[]
 * 3/4 szklanki wody
 * 1 łyżeczka wody z kwiatu pomarańczy (dodałam świeżo wyciśniętego soku z pomarańczy)
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Najpierw przygotować syrop (musi wystygnąć). Do niedużego garnuszka wlać wodę, dodać cukier i wodę z kwiatu pomarańczy. Zagotować, do rozpuszczenia cukru. Gotować na małym ogniu do uzyskania syropu (około 10 minut). Zdjąć z palnika i odstawić do wystudzenia.
 
 Orzechy, cynamon i cukier włożyć do malaksera (można również zmiksować blenderem) i zmiksować, by orzechy były drobno posiekane (według mnie najlepiej wygląda jak część orzechów jest zmielona, a część tylko posiekana).
@@ -52,11 +35,8 @@ Piec w temperaturze 140°C przez około 2 godziny, do zezłocenia ciasta. Wyją�
 
 Bakława (Baklava) jest najlepsza na drugi lub trzeci dzień.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20250724_215629.jpg[]
-
+image::20250724_215629.jpg[]

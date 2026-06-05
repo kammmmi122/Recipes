@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.uwielbiamgotowac.com/2017/01/paella-z-kurczakiem.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.uwielbiamgotowac.com/2017/01/paella-z-kurczakiem.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 300 g ryżu (do paelli lub risotto, arborio)
 * 1 niewielka cebula
 * 2 łyżki oleju
@@ -42,10 +28,7 @@ Brak zdjęcia przepisu 🍲
 * pieprz
 * natka pietruszki
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Cebulę obieram, kroję w małą kostkę i podsmażam na łyżce oleju na głębokiej, dużej patelni do zeszklenia. Paprykę myję, przekrawam, usuwam gniazda nasienne i kroję w dużą kostkę. Umytą i osuszoną pierś kurczaka kroję również w większą kostkę.
 
 Do zeszklonej cebuli wsypuję ryż, smażę przez 1 - 2 minuty. Następnie zalewam gorącym bulionem, dodaję pokrojoną paprykę i ew. szafran, zmniejszam ogień do minimum, przykrywam pokrywką i duszę przez 12 minuty. W tym czasie nie zaglądam do ryżu i nie mieszam go.
@@ -56,3 +39,8 @@ Zrumienione mięso dodaję do ugotowanego ryżu (po tych 12 minutach duszenia). 
 
 Potrawę podaję w naczyniu, w których została przygotowana. Przed podaniem posypuję posiekaną natką pietruszki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

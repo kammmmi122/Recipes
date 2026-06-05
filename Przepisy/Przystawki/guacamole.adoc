@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-📝 około 610 g pasty
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 3 większe dojrzałe awokado - 650 g
 * 4 łyżki dobrej jakości oliwy
 * 6 łyżek soku z limonki lub cytryny
@@ -36,11 +22,9 @@ Brak zdjęcia przepisu 🍲
 * spora garść świeżej kolendry
 * przyprawy: pół łyżeczki soli i spora szczypta świeżo mielonego pieprzu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Aby zrobić guacamole wybierz zdrowe i dojrzałe awokado. U mnie były to dwie sztuki awokado Hass i jedno zwykłe, zielone awokado o łącznej wadze około 650 gramów. Dojrzałe awokado umyj i natnij po całości, aż do pestki. Rozdziel na dwie połówki. Usuń pestkę a miąższ wyjmij przy pomocy łyżki lub też najpierw delikatnie zdejmij palcami twardą skórkę. Połówki awokado ugniataj kawałek po kawałku przy pomocy widelca.
+
 Tak naprawdę z miąższem możesz postąpić dowolnie, zatem awokado w formie bardziej jednolitej też jest super. Ostatecznie wyszło mi 450 gramów gotowej pasty. Moje awokado były dość duże, więc bardzo możliwe, że u Ciebie potrzebne będą aż cztery sztuki.
 
 Dwa średniej wielkości ząbki czosnku obierz i przeciśnij przez praskę prosto do ugniecionego miąższu z awokado. Dodaj też sporą garść świeżo siekanej kolendry lub ewentualnie natki pietruszki oraz cztery łyżki dobrej jakości oliwy.
@@ -53,8 +37,12 @@ Gotową bazę guacamole umieść na szerokim talerzu lub półmisku.
 
 Małą cebulkę czerwoną pokrój w drobną kostkę. Tak samo drobno pokrój pomidorki.
 
-
 Cebulkę oraz pomidorki wyłóż na guacamole. Całość możesz dodatkowo oprószyć świeżo mielonym kolorowym pieprzem oraz polać dodatkową porcją oliwy.
 
 Guacamole podawaj od razu lub też po schłodzeniu w lodówce. Pastę guacamole możesz jeść z chipsami kukurydzianymi o dowolnym smaku. U nas wygrywa zazwyczaj serowe Doritos.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

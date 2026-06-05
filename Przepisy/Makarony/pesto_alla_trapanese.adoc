@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://rafalcook.com/2022/06/11/pesto-alla-trapanese[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://rafalcook.com/2022/06/11/pesto-alla-trapanese[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * pomidorki koktajlowe 250-300 gram
 * czosnek 1-2 ząbki
 * parmigiano Reggiano 30-50 gram
@@ -39,13 +25,19 @@ Brak zdjęcia przepisu 🍲
 * maccheroni 500 gram
 * woda z gotowania makaronu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Przede wszystkim pesto alla trapanese jest niezwykle proste i pyszne zarazem.
+
 Po pierwsze włóż składniki do blendera ❗ oczywiście bez makaronu ? i zblenduj.
+
 Po drugie ugotuj makaron według instrukcji na opakowaniu na al dente.
+
 Na koniec przełóż pesto do miski, dodaj gotowy makaron i odrobinę wody z gotowania makaronu i bardzo dobrze wymieszaj.
+
 Nałóż, posyp Parmigiano Reggiano, dopraw pieprzem, dodaj świeżą bazylię i oczywiście zajadaj.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

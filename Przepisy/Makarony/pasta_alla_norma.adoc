@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20231219_152132.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 50 minut
-
-[.recipe-details-item]
-👥 4 porcji
-
-[.recipe-details-item]
-🔗 https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 50 minut
+* 🕒 czas gotowania: 50 minut
+* 👥 2-3 porcje
+* 🔗 https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * bakłażan - 400 g
 * makaron penne - 450 g
 * oliwa z oliwek - 55 ml
@@ -38,10 +24,7 @@ image::20231219_152132.jpg[]
 * oregano suszone - 1 łyżeczka
 * bazylia świeża - 5 g
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Blachę wykładamy papierem do pieczenia. Bakłażany kroimy w kostkę, skrapiamy połową ilości oliwy, oprószamy solą i pieprzem. Przekładamy na blaszkę. Pieczemy ok. 30 minut w 200 stopniach, aż nabiorą złotego koloru.
 
 Na rozgrzane dno patelni wlewamy oliwę, dodajemy pomidory z puszki oraz płatki chili i roztarte w dłoniach oregano. Całość dusimy ok. 10 minut.
@@ -50,11 +33,8 @@ Makaron gotujemy al dente w mocno osolonej wodzie. Odcedzamy, zostawiając odrob
 
 Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy bakłażany oraz świeżą bazylię. Jeśli jest taka potrzeba, doprawiamy solą i pieprzem. Mieszamy. Na koniec dodajemy ricottę oraz starty parmezan.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20231219_152132.jpg[]
-
+image::20231219_152132.jpg[]

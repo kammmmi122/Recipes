@@ -2,31 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1,5 godziny
-
-[.recipe-details-item]
-📝 ok. 100 sztuk
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 500 g ugotowanego mięsa z rosołu
 * ugotowane warzywa z zupy (1 marchewka, 1/2 pietruszki)
 * 300 g pieczarek
@@ -34,10 +19,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka masła
 * 1 jajko (opcjonalnie)
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Przygotować ciasto na pierogi z podwójnej porcji.
 
 Pieczarki oczyścić szczoteczką lub gąbką, pokroić na mniejsze części. Cebulę obrać i pokroić w drobną kosteczkę. Pieczarki i cebulę wrzucić na dobrze rozgrzaną patelnię z dodatkiem masła i na większym ogniu odparować i zrumienić co chwilę mieszając.
@@ -52,3 +34,8 @@ W dużym garnku zagotować osoloną wodę, i jak będzie mocno wrzała, włoży�
 
 Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub odsmażać (ostudzone, wysuszone pierogi). Pierogi z wody można polewać roztopionym masłem a odsmażane posypać skwarkami i podawać z kwaśną śmietaną.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

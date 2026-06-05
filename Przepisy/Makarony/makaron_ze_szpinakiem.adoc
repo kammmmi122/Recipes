@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-ze-szpinakiem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-ze-szpinakiem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 150 g makaronu np. świderki, fusilli, penne
 * 1/2 cebuli
 * 2 ząbki czosnku
@@ -36,10 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 1/3 szklanki śmietanki 30%
 * 1/3 szklanki tartego parmezanu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Szpinak opłukać i odcedzić.
 
 Na patelni na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę (ok. 5 - 7 minut). Doprawić solą, dodać przeciśnięty przez praskę czosnek i smażyć jeszcze przez ok. 2 minuty.
@@ -50,3 +33,8 @@ Wlać śmietankę, doprawić świeżo zmielonym pieprzem i solą, całość zago
 
 Połączyć z 1/3 ilości sera, resztę wykorzystać do posypania makaronu.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

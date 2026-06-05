@@ -2,45 +2,27 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240526_205344.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 30 minut + 2 miesiące
-
-[.recipe-details-item]
-👥 liczba porcji: około 3 l nalewki
-
-
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 40 -50 kwiatostanów bzu bez łodyg
 * 1,5 l wody gazowanej
 * 2 małe opakowania kwasku cytrynowego
 * 1 kg cukru
 * 1 l spirytusu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Kwiaty odciąć od łodyżek i przełożyć do dużego słoja. Wsypać kwasek cytrynowy i dodać wodę gazowaną. Przemieszać i odstawić na 24 godziny. Po tym czasie odcedzić przez gazę i dodać cukier oraz spirytus. Odstawić na miesiąc. Po miesiącu rozlać do butelek i znowu odstawić na miesiąc.
-
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240526_205344.jpg[]
-image::/Recipes/static/images/20240531_084134.jpg[]
-
+image::20240526_205344.jpg[]

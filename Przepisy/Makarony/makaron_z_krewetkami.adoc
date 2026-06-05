@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 25 minut
-
-[.recipe-details-item]
-👥 2 porcje, po 600 kcal
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 200 g mrożonych krewetek
 * 125 g makaronu np. tagliatelle
 * 1 łyżka oliwy extra vergine
@@ -38,10 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki posiekanej natki pietruszki
 * 125 ml śmietanki 30%
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Krewetki rozmrozić, oczyścić jeśli jest konieczność, oderwać ogonki, opłukać i osuszyć.
 
 Makaron ugotować w osolonej wodzie zgodnie z instrukcją na opakowaniu.
@@ -56,3 +39,8 @@ Wlać śmietankę i zagotować. Gotować przez ok. 1 minutę aż sos zgęstnieje
 
 Dodać odcedzony makaron i wszystko razem podgrzać.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

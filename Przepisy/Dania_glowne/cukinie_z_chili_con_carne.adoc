@@ -2,33 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
-=== Na chili:
-
+=== Składniki
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -42,16 +26,10 @@ Brak zdjęcia przepisu 🍲
 * 200 g czerwonej fasoli (ugotowanej)
 * kostka buliony wołowego
 * 100 g boczku
-
-=== Na cukinie:
-
 * 5 cukinii
 * 200 g tartej mozzarelli
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Wydrążyć cukinie, porobić dziurki i posolić. Po 10 minutach odlać nadmiar wody.
 
 Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
@@ -64,3 +42,8 @@ Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeb
 
 Nagrzać piekarnik do 180 stopni C. Na cukinie wyłożyć sporą łyżkę sosu i posypać serem. Zapiec przez 10 minut.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

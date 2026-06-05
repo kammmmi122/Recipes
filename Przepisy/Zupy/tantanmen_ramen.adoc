@@ -2,37 +2,20 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240617_154401.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 5 godziny
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 5 godziny
+* 🕒 czas gotowania: 5 godziny
+* 👥 4 porcje
+* 🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
-=== Jajka nitamago
+=== Składniki
 * 4 jajka
 * 1 szklanka bulionu (np. dashi lub zwykłego)
 * 1/4 szklanki sosu sojowego
 * 1/4 szklanki mirinu (lub białego wina + 1/2 łyżeczki cukru)
-
-=== Bulion 4 L
 * 6 duże marchewki
 * 4 pietruszki
 * 1 mały seler
@@ -46,46 +29,30 @@ image::20240617_154401.jpg[]
 * 2-3 gwiazdki anyżu
 * 5 ząbków czosnku, zmiażdżonych
 * 4 L wody
-
 * 800 ml mleka kokosowego albo innego roślinnego
 * 4 łyżeczki sosu sojowego
-
-=== Tare (serce ramenu):
 * 16 łyżeczki tahini
 * 8 łyżeczki sosu sojowego
 * 4 łyżeczka oleju chilli lub więcej
 * 4 łyżeczka cukru
-
-=== Mięso:
 * 1 opakowanie mielonej wołowiny (ok. 400 g)
 * 2 łyżeczki pasty chilli, imbir i czosnek (zmiksuj 3 cm kawałek imbiru, 1/2 chilli i 2 ząbki czosnku)
 * 2 łyżeczki oleju chilli do smażenia
 * 2 łyżeczki oleju roślinnego do smażenia
 * 2 łyżeczki sosu sojowego do smaku
 * opcjonalnie szczypta cukru lub innego słodzika.
-
-=== Pozostałe składniki:
-* 4 porcje makaronu do ramenu
 * 16 brązowych pieczarek
 * 2 łyżeczka sosu sojowego
 * 1 pęczek szczypiorku
 * 4 garści szpinaku.
-
-=== Do dekoracji:
 * Olej chili
 * Prażony sezam
 * Nori.
 
-
-
-[.recipe-column-box]
-== Przygotowanie
-=== Jajka nitamago
-
+=== Przygotowanie
 Jajka włożyć delikatnie do gotującej się wody i gotować przez ok. 7 - 8 minut. Od razu po ugotowaniu zalać zimną wodą i schłodzić aby przestały się już gotować.
-Przygotować zalewę do jajek: zagotować bulion z sosem sojowym i mirinem, odstawić z ognia i ostudzić. Do zalewy włożyć obrane jajka i odstawić na kilkanaście godzin (do lodówki).
 
-=== Bulion
+Przygotować zalewę do jajek: zagotować bulion z sosem sojowym i mirinem, odstawić z ognia i ostudzić. Do zalewy włożyć obrane jajka i odstawić na kilkanaście godzin (do lodówki).
 
 Warzywa: marchew, seler, pietruszkę dokładnie myjemy, oczyszczamy. Kroimy pod skosem tak, by mogły wypuścić więcej smaku. Cebulę obieramy i kroimy w ćwiartki.
 
@@ -94,11 +61,10 @@ Rozgrzewamy piekarnik do 220 st. C
 Warzywa nacieramy sola, pieprzem i oliwą. Rozkładamy równomiernie na blaszce wyłożonej pergaminem. Pieczemy w rozgrzanym piekarniku przez 20 minut. Gdy ładnie się skarmelizują, przekładamy je do 5 L garnka i zalewamy około 4 L lodowatej wody. Mniej więcej 1 cm od krawędzi garnka.
 
 Dodajemy zioła i dodatki: imbir, chilli, natkę pietruszki itp. Powolne gotowanie uwolni z warzyw maksymalną ilość smaku.
+
 Wrzucamy anyż do bulionu. Gotujemy bulion na małym ogniu, bez przykrycia, przez ok. 2-3 godziny. Im dłużej będzie się gotować, tym lepiej.
 
-Gdy bulion jest gotowy, przecedzamy go przez sito. 
-
-=== Ramen
+Gdy bulion jest gotowy, przecedzamy go przez sito.
 
 W garnku zagotowujemy przygotowany wcześniej bulion, dodajmy mleko roślinne i doprawiamy sosem sojowym.
 
@@ -116,11 +82,8 @@ Na spod miski nakładamy 2-3 łyżeczki tare i zalewamy trochę bulionem, miesza
 
 Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe składniki.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240617_154401.jpg[]
-
+image::20240617_154401.jpg[]

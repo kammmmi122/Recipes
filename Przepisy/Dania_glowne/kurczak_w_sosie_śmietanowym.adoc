@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina 20 minut
-
-[.recipe-details-item]
-📝 1500 g dania
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/kurczak-w-sosie-smietanowym[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/kurczak-w-sosie-smietanowym[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 800 g piersi z kurczaka - 1 bardzo duża lub 2 małe
 * 20 g mąki pszennej - 1 pełna łyżka
 * 20 g tartego parmezanu
@@ -41,10 +27,7 @@ Brak zdjęcia przepisu 🍲
 * natka pietruszki lub oregano - kilka listków
 * do oproszenia sosu: świeżo mielony pieprz, tarty parmezan
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Dużą pierś z kurczaka oczyść z ewentualnych chrząstek oraz żyłek, a następnie pokrój na mniejsze kawałki o podobnej grubości. Mięso pokryj przyprawami - płaska łyżeczki soli i pół płaskiej łyżeczki pieprzu.
 
 Do miski wsyp łyżkę mąki pszennej oraz zetrzyj około 20 gramów parmezanu. Każdy kawałek obtocz z obu stron w mieszące mąki i sera.
@@ -57,3 +40,8 @@ Kolejno wlej również 150 ml śmietanki kremówki 30 % oraz 200 ml gorącej wod
 
 Po tym czasie dodaj 30-50 gramów startego na małych oczkach parmezanu. Wymieszaj dokładnie wszystkie składniki. W sosie umieść podsmażone wcześniej kawałki kurczaka. Całość oprósz świeżo mielonym pieprzem i siekanym oregano lub natką pietruszki. Patelnię przykryj przykrywką. Zredukuj moc palnika do niskiej i duś całość nie dłużej niż dwie minuty. Jeśli sos wyszedł zbyt gęsty, zawsze można do niego wlać więcej wody lub śmietanki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

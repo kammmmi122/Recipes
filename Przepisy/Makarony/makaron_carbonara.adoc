@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 20 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/pasta/makaron_carbonara/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/pasta/makaron_carbonara/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 2 jajka
 * 100 g boczku (wędzonego lub suszonego - pancetty)
 * 150 g makaronu spaghetti
@@ -35,10 +21,7 @@ Brak zdjęcia przepisu 🍲
 * 30 g sera Pecorino (lub Parmezanu lub Grana Padano)
 * sól i świeżo zmielony czarny pieprz
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Jajka sparzyć wrzątkiem, wbić do głębokiego talerza, doprawić solą i roztrzepać widelcem.
 
 Na patelnię włożyć pokrojony w kosteczkę boczek i podsmażyć na małym ogniu przez kilka minut aż się lekko zrumieni. Dodać starty czosnek oraz posiekaną natkę pietruszki i smażyć jeszcze przez kilkanaście sekund.
@@ -49,3 +32,8 @@ Makaron polać roztrzepanymi jajkami i wymieszać. Jajka nie mogą całkowicie s
 
 Wyłożyć na talerze i posypać pozostałym serem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

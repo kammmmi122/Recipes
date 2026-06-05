@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje po 383 kcal
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/cukinia-zapiekana-z-miesem-drobiowym-i-ryzem[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -40,10 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 1 jajko
 * 150 g tartego sera (np. mozzarelli)
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Na dużej patelni na oliwie zeszklić cebulę pokrojoną w kosteczkę, pod koniec dodać starty czosnek. Zwiększyć ogień i dodać zmielone mięso. Smażyć przez 5 minut, mieszając od czasu do czasu.
 
 Dodać sos worcestershire lub sos sojowy oraz przyprawy: sól, pieprz oraz po pół łyżeczki słodkiej i ostrej papryki, oregano oraz kurkumy. Smażyć jeszcze przez 1 minutę, następnie wlać gorący bulion, wsypać ryż i zagotować. Przykryć patelnię i dusić przez około 25 minut. Jeśli na koniec pozostał jakiś płyn, należy go wygotować bez przykrycia.
@@ -54,3 +37,8 @@ Do ugotowanego mięsa na patelni dodać posiekany miąższ cukinii, połowę jed
 
 Odstawić z patelni i po lekkim przestudzeniu dodać jajko, wymieszać. Powstałym farszem wypełnić wgłębienia w cukinii. Posypać tartym serem. Wstawić do piekarnika na około 25 minut, 180 stopni C.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

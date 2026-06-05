@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 50 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://drive.google.com/file/d/1Z9ZqAq8x4MTHByM5vwEB_yQHJAp-0u3r/view?usp=sharing[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 50 minut
+* 🕒 czas gotowania: 50 minut
+* 👥 2 porcje
+* 🔗 https://drive.google.com/file/d/1Z9ZqAq8x4MTHByM5vwEB_yQHJAp-0u3r/view?usp=sharing[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * komosa ryżowa - niecałe 2/3 szklanki (120 g)
 * fasola czerwona konserwowa - 1 puszka (260 g)
 * papryka żółta - 1/2 sztuki (70 g)
@@ -38,9 +24,11 @@ Brak zdjęcia przepisu 🍲
 * przyprawy: 1 zabek czosnku, 1/2 łyżeczki papryki słodkiej, 1/2 łyżeczki kminu rzymskiego mielonego, 1/4 łyżeczki kolendry mielonej, chili, sól i pieprz czerny do smaku
 * kolendra świeża lub natka pietruszki do podania
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Fasolę odcedzamy. Na rozgrzanej oliwie szklimy pokrojony w cienkie plasterki czosnek i posiekaną wn dosyć drobną kostkę cebulę. Dorzucamy pokrojone w kostkę papryki. Smażymy przez 2-4 minuty. Po tym czasie na patelnię wsypujemy komose ryżową (użyłam trójkolorowej) i prażymy przez minutę. Dodajemy przyprawy, podlewamy bulionem lub wodą i dusimy pod przykryciem około 35 minut na bardzo małym ogniu. Dokładamy fasolę i mieszamy. Na koniec danie posypujemy posiekaną kolendrą lub natką pietruszki.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -2,30 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240429_172456.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/zielony_srodek/papryka/leczo_wegetarianskie/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 ząbek czosnku
 * 1 cebula
 * 1/3 papryczki chili
@@ -40,10 +26,7 @@ image::20240429_172456.jpg[]
 * 1 łyżeczka suszonego oregano
 * około 1/2 łyżeczki soli morskiej i świeżo zmielony pieprz
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Czosnek obrać i pokroić w drobną kosteczkę. Cebulę pokroić w kostkę.
 
 Na dużą wysoką patelnię lub do dużego garnka wlać 1 łyżkę oliwy, włożyć czosnek i podgrzewać przez kilkanaście sekund, dodać cebulę oraz papryczkę chili w całości. Smażyć przez około 5 minut na umiarkowanym ogniu co chwilę mieszając aż cebula się zeszkli.
@@ -56,11 +39,8 @@ Pomidory sparzyć, obrać ze skórki, wyciąć szypułki, usunąć pestki. Pokro
 
 Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i gotować przez około 5 minut, od czasu do czasu zamieszać.
 
-
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240429_172456.jpg[]
-
+image::20240429_172456.jpg[]

@@ -2,28 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-z-pulpecikami-w-sosie-pomidorowym[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 mały ziemniak
 * 400 g mielonego mięsa wołowo-wieprzowego
 * 1 mała cebula
@@ -32,15 +20,11 @@ Brak zdjęcia przepisu 🍲
 * mąka, oliwa extra vergine
 * 500 ml przecieru pomidorowego (passaty z butelki)
 * kilka liści bazylii
-* po ok. 75 g makaronu na porcję
 * świeżo starty parmezan lub grana padano
 * sól, pieprz, cukier
 * mąka do obtoczenia
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Ziemniaka obrać, przekroić na pół i ugotować w osolonej wodzie. Odcedzić, dokładnie odparować i rozgnieść praską na puree.
 
 Do zmielonego mięsa, dodajemy do niego obraną i startą na drobnej tarce cebulę i drobno posiekane listki natki. Mięso wymieszać i wyrobić dodając puree ziemniaczane, sól i pieprz do smaku oraz jajko.
@@ -53,3 +37,8 @@ Zrobić miejsce na patelni przesuwając delikatnie część pulpecików. W wolne
 
 Pulpeciki podawać z makaronem i tartym serem. Potrawę można przygotować wcześniej i odgrzewać.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

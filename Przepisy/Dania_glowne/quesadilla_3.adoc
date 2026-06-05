@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 4 tortille pszenne (średnica ok 15 cm)
 * 1 pierś z kurczaka
 * 2 papryczki chipotle w sosie adobo (z puszki)
@@ -36,15 +22,12 @@ Brak zdjęcia przepisu 🍲
 * 1/2 cebuli czerwonej
 * kukurydza z puszki
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Na początku zabieramy się za przygotowanie piersi z kurczaka. Kroimy go w drobną kosteczkę i przekładamy do miseczki. Wystarczy, że pokroimy w kosteczkę o wielkości 1cm x 1cm.
 
 Przekładamy do miseczki.
 
-Następnie wyjmujemy z puszki papryczki chipotle (są to wędzone papryczki jalapeno) i kroimy je bardzo drobno. Tak pokrojone papryczki przekładamy do kurczaka. Do nadania większej głębi wędzonego smaku możemy dodać łyżeczkę sosu adobo, w którym marynują się chipotle. 
+Następnie wyjmujemy z puszki papryczki chipotle (są to wędzone papryczki jalapeno) i kroimy je bardzo drobno. Tak pokrojone papryczki przekładamy do kurczaka. Do nadania większej głębi wędzonego smaku możemy dodać łyżeczkę sosu adobo, w którym marynują się chipotle.
 
 Dodajemy odrobinę oliwy z oliwek (ok. 1 stołowej łyżki).
 
@@ -82,3 +65,8 @@ Pamiętajcie, żeby po tym czasie jak tortilla się przyrumieni/podpiecze trzeba
 
 Tak przygotowane quesadillas można przeciąć na pół (w trójkąty) lub podawać w całości z dodatkiem sals.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

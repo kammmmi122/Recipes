@@ -2,34 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20260110_233721.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 15 minut
-
-[.recipe-details-item]
-🕒 czas trzymania w lodówce minimum: 6 godzin
-
-[.recipe-details-item]
-👥 1 duża porcja na każdy przepis
-
-[.recipe-details-item]
-🔗 https://aniagotuje.pl/przepis/nocna-owsianka[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/nocna-owsianka[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
-=== Owocowa
+=== Składniki
 * 200 ml mleka
 * 2 łyżki jogurtu naturalnego - do 30 g
 * 70 g płatków owsianych zwykłych lub górskich - około 7 łyżek
@@ -37,33 +19,27 @@ image::20260110_233721.jpg[]
 * 1 łyżka miodu lub cukru - około 10 g
 * 20 g odżywki białkowej bez smaku
 * owoce leśne (świeże lub mrożone)
-
-=== Orzechowa
 * 200 ml mleka
 * 70 g płatków owsianych błyskawicznych - około 7 łyżek
 * 2 łyżeczki kremu orzechowego - około 20 g
 * pół garści orzechów np. nerkowca - około 20 g
 * 20 g odżywki białkowej bez smaku
 
-
-
-[.recipe-column-box]
-== Przygotowanie
-=== Nocna owsianka z chia i owocami
+=== Przygotowanie
 Słoik z nakrętką umyj dokładnie i osusz. Pojemność około 450 ml.
+
 Do słoika wsyp jedną łyżkę nasion chia oraz 70 gramów płatków owsianych zwykłych lub górskich, czyli około 7 płaskich łyżek. Wlej 200 ml mleka  Mleko może być wrzące lub gorące, albo zimne. Jeśli wlewasz wrzątek, to poczekaj około 10 minut, zanim dodasz resztę składników.
+
 Kolejno dodaj też 2 łyżki jogurtu naturalnego, czyli do 30 gramów i odżywkę białkową. Na koniec jeszcze jedna łyżka miodu, ulubionego syropu, cukru albo erytrolu. Całość zamieszaj. Owoce możesz dodać od razu, czyli przed wstawieniem słoika z owsianką do lodówki, lub też rano, przed zakręceniem nocnej owsianki i zabraniem jej do pracy lub do szkoły.
 
-=== Nocna owsianka orzechowa
 Słoik z nakrętką umyj dokładnie i osusz. Pojemność około 450 ml.
-Do słoika daj pół garści orzechów np. nerkowca (włoskie, pekan), czyli około 20 gramów oraz 70 gramów płatków owsianych błyskawicznych, czyli około 7 płaskich łyżek. Wlej 200 ml mleka. Mleko może być wrzące lub gorące, albo zimne. Jeśli wlewasz wrzątek, to poczekaj około 10 minut, zanim dodasz resztę składników.
-Na koniec jeszcze 2 łyżeczki kremu orzechowego i odżywkę białkową. Całość zamieszaj. Posyp z wierzchu orzechami nerkowca.
 
+Do słoika daj pół garści orzechów np. nerkowca (włoskie, pekan), czyli około 20 gramów oraz 70 gramów płatków owsianych błyskawicznych, czyli około 7 płaskich łyżek. Wlej 200 ml mleka. Mleko może być wrzące lub gorące, albo zimne. Jeśli wlewasz wrzątek, to poczekaj około 10 minut, zanim dodasz resztę składników.
+
+Na koniec jeszcze 2 łyżeczki kremu orzechowego i odżywkę białkową. Całość zamieszaj. Posyp z wierzchu orzechami nerkowca.
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20260110_233721.jpg[]
-
+image::20260110_233721.jpg[]

@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 2 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/makaronowa-salatka-warstwowa[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaronowa-salatka-warstwowa[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 100 g makaronu świderki
 * 8 kawałków suszonych pomidorów z oleju
 * 125 g opakowanie mini mozzarelli
@@ -37,13 +23,15 @@ Brak zdjęcia przepisu 🍲
 * 1/2 cebuli (białej lub czerwonej)
 * listki bazylii z 1 doniczki
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Makaron ugotować w osolonej wodzie, odcedzić, włożyć na dno szklanej salaterki. Dodać posiekane suszone pomidory, następnie odcedzone kulki mozzarelli i oliwki.
 
 Pomidorki koktajlowe pokroić na połówki, włożyć do miski, dodać suszone oregano, sól i pieprz oraz oliwę, wymieszać i całość wyłożyć na wierzch sałatki.
 
 Cebulę obrać, przekroić na pół a następnie pokroić na cienkie plasterki, wyłożyć na wierzch sałatki, przykryć liśćmi bazylii.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

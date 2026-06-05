@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 45 minut
-
-[.recipe-details-item]
-👥 3 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/ryz-smazony-z-krewetkami-na-ostro[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/ryz-smazony-z-krewetkami-na-ostro[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 200 g (2 woreczki) ryżu basmati
 * ok. 200 g obranych krewetek (ok. 450 g w pancerzach)
 * 1 łyżka startego czosnku
@@ -39,10 +25,7 @@ Brak zdjęcia przepisu 🍲
 * świeża kolendra i/lub mięta
 * świeżo zmielony czarny pieprz i sól morska
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Ugotować ryż zgodnie z instrukcją na opakowaniu, uważając aby go nie przegotować, lepiej aby był lekko twardawy w środku. Odcedzić i wyłożyć na duży talerz lub tacę, ostudzić (można przygotować wcześniej).
 
 Krewetki oczyścić z pancerzy, jelit i ogonków, opłukać i osuszyć. Czosnek i imbir obrać i zetrzeć na drobnej tarce.
@@ -53,3 +36,8 @@ Wyjąć krewetki łyżką cedzakową na talerz. Na patelnię zaś włożyć ryż
 
 Dodać krewetki, wymieszać i razem podgrzać. Wyłożyć na talerze i udekorować miętą (można ją też posiekać i posypać po wierzchu dania) i/lub kolendrą.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

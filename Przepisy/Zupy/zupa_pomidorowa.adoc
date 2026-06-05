@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 1 godzina
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/kuchnia_polska/zupy/zupa_pomidorowa/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/zupy/zupa_pomidorowa/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 2 ćwiartki kurczaka
 * 2 litry wody
 * 1/2 łyżeczki soli
@@ -36,10 +22,7 @@ Brak zdjęcia przepisu 🍲
 * szczypta zmielonego pieprzu
 * 200 g makaronu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Mięso włożyć do garnka, dodać szczyptę soli, zalać zimną wodą i zagotować na większym ogniu.
 
 W międzyczasie zdejmować łyżką cedzakową wytrącone na powierzchni "szumowiny". Zmniejszyć ogień do minimum i gotować na małym ogniu przez około 1/2 godziny. Dodać obraną i opłukaną włoszczyznę (marchewkę i pietruszkę pokroić w kostkę) i gotować przez następne 20 minut.
@@ -50,3 +33,8 @@ Zmniejszyć ogień i stopniowo dodawać śmietanę - aby uniknąć zwarzenia naj
 
 Ugotować makaron osobno.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

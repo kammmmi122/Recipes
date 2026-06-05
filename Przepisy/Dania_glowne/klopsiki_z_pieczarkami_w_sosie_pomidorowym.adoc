@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/przepis/pulpeciki-w-sosie-pomidorowym[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/pulpeciki-w-sosie-pomidorowym[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 500 g mielonego mięsa (z indyka, cielęcego lub wieprzowego np. z szynki)
 * 1 cebula
 * 2 ząbki czosnku
@@ -38,10 +24,7 @@ Brak zdjęcia przepisu 🍲
 * oliwa, masło
 * 350 ml przecieru pomidorowego, passaty z butelki lub kartonu
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Na patelni na łyżce oliwy zeszklić pokrojoną w kosteczkę cebulę, pod koniec dodać starty 1 ząbek czosnku oraz 1 łyżkę masła, suszone oregano i paprykę w proszku, wymieszać i chwilę razem podsmażyć. Zdjąć z patelni i zmielić razem z mięsem lub drobniej posiekać na desce.
 
 Zmielone mięso wraz z podsmażoną cebulą umieścić w misce. Dodać bułkę tartą lub ugotowaną kaszę, jajko, sos sojowy, doprawić solą oraz pieprzem i dokładnie wyrobić. Wilgotnymi dłońmi uformować nieduże pulpeciki.
@@ -54,3 +37,8 @@ Dodać przecier pomidorowy i zagotować. Gotować bez przykrycia przez około 10
 
 Sos spróbować i doprawić w razie potrzeby solą, pieprzem, cukrem i suszonym oregano. Podawać z makaronem i tartym serem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

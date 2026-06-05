@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 3 godziny
-
-[.recipe-details-item]
-👥 6 - 8 porcji
-
-[.recipe-details-item]
-🔗 https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 3 godziny
+* 🕒 czas gotowania: 3 godziny
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 15 płatów lasagne (gotowych lub domowych)
 * 150 g tartego parmezanu
 * 3 łyżki oliwy
@@ -44,10 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 650 ml mleka
 * szczypta gałki muszkatołowej
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Na oliwie, w dużym garnku, zeszklić drobno posiekaną cebulę, dodać posiekany w drobną kosteczkę seler naciowy oraz startą marchewkę (warzywa można też rozdrobnić w malakserze).
 
 Obsmażyć, następnie przesunąć na bok i w wolne miejsce włożyć pokrojony w drobną kosteczkę boczek. Zrumienić i wymieszać z warzywami.
@@ -68,3 +51,8 @@ Na płatach lasagne rozprowadzić warstwę sosu bolońskiego, następnie polać 
 
 Tak złożoną lasagne włożyć do piekarnika i piec 45 minut (w połowie czasu pieczenia przykryć folią aluminiową). Po wyjęciu z piekarnika odczekać 5 minut przed porcjowaniem.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

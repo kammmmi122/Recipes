@@ -2,31 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: powyżej godziny
-
-[.recipe-details-item]
-👥 4 porcje
-
-[.recipe-details-item]
-🔗 https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: nie podano
+* 👥 4 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 5 łyżek soli morskiej
 * 2 - 3 litry wody
 * 1 kg kapusty pekińskiej
@@ -45,10 +30,7 @@ Brak zdjęcia przepisu 🍲
 * ¼ szklanki szczypiorku, pokrojonego w grube kawałki
 * ½ marchewki, pocięta w cienkie paseczki
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Kapustę przekroić wzdłuż na cztery części, następnie każdą ćwiartkę pokroić na małe kawałki. Tak przygotowaną kapustę przełożyć do dużej miski, zalać wodą z solą, docisnąć talerzykiem obciążonym słoikiem i odstawić na 60 minut.
 
 W międzyczasie zagotować wodę z mąką ryżową oraz cukrem i gotować przez 1 -2 minuty do czasu, aż zmieni się w gęsty, ryżowy kleik. Wtedy zdjąć z ognia i odstawić do przestudzenia.
@@ -69,3 +51,8 @@ Nie próbujcie nacierać kapusty pastą kimchi bez rękawiczek, będzie piec!
 
 Kiszonki przechowywane przez cały rok najlepiej jest kisić w kamionkowych naczyniach, ponieważ nie reagują z kiszonką i dodatkowo są higroskopijne, czyli wchłaniają nadmiar wilgoci i pomagają uniknąć pleśni. Tak też było kiszone kimchi w dawnych czasach, jednak obecnie w domach przez dużą częstotliwość i małe ilości przygotowywanego kimchi, koreańska kapusta jest wkładana w niedużych porcjach do małych plastikowych pojemników. Dzięki temu, że kimchi jest kiszone krótko i przechowywane w lodówce przechowywanie go w pojemniku absolutnie w niczym mu nie szkodzi. Oczywiście jeśli macie kamionkowy słoik i chcecie go użyć to śmiało, kimchi będzie jeszcze bliższe dawnym koreańskim tradycjom!
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

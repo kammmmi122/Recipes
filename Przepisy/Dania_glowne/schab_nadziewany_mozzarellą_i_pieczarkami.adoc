@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 90 minut
-
-[.recipe-details-item]
-👥 6 porcje
-
-[.recipe-details-item]
-🔗 https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 90 minut
+* 🕒 czas gotowania: 90 minut
+* 👥 6 porcje
+* 🔗 https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -37,10 +23,7 @@ Brak zdjęcia przepisu 🍲
 * olej do smażenia
 * sól, pieprz
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.
@@ -55,3 +38,8 @@ Roladki smażę z każdej strony na rozgrzanym oleju.
 
 Gotowe, podaję z ulubioną surówką i ziemniakami.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

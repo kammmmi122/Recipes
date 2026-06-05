@@ -2,31 +2,17 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 32 minut
-
-[.recipe-details-item]
-👥 5 porcji
-
-[.recipe-details-item]
-🔗 https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
-
-
+* 🕒 czas przygotowania: 32 minut
+* 🕒 czas gotowania: 32 minut
+* 👥 2-3 porcje
+* 🔗 https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 800 g mrożony zielony groszek
 * 2 cebula duża
 * 2 łyżek oliwa z czosnkiem
@@ -41,10 +27,7 @@ Brak zdjęcia przepisu 🍲
 * trochę pasta z oliwek
 * trochę kiełki do dekoracji
 
-
-
-[.recipe-column-box]
-== Przygotowanie
+=== Przygotowanie
 Cebulę kroimy w piórka lub kostkę (zostanie zmiksowana z zupą).
 
 W garnku rozgrzewamy olej z czosnkiem i ziołami i wrzucamy pokrojoną cebulę. Szklimy ją na złoty kolor.
@@ -61,3 +44,8 @@ Pieczywo kroimy na małe porcje i wkładamy do tostera (najlepiej jeśli będzie
 
 Każdą kromkę smarujemy pastą z oliwek i dekorujemy kiełkami.
 
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

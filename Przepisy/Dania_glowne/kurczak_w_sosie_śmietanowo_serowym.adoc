@@ -2,27 +2,16 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-
-[.recipe-category-label]
-Dania główne
-
 image::20240505_163520.jpg[]
 
-
 [.recipe-details]
-
-[.recipe-details-item]
-🕒 czas przygotowania: 35 minut
-
-[.recipe-details-item]
-👥 4 porcje
-
-
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-
-[.recipe-column-box]
-== Składniki
+=== Składniki
 * 2 piersi z kurczaka
 * 2 śmietany
 * 2 kawałki mozarelli
@@ -31,21 +20,15 @@ image::20240505_163520.jpg[]
 * olej do smażenia
 * ryż
 
+=== Przygotowanie
+Pierś kurczaka pokroić w kostkę. Doprawić, solą, pieprzem i suszonym czosnkiem. Usmażyć na patelni.
 
-
-[.recipe-column-box]
-== Przygotowanie
-Pierś kurczaka pokroić w kostkę. Doprawić, solą, pieprzem i suszonym czosnkiem. Usmażyć na patelni. 
-
-W misce zmieszać śmietanę, pokrojona w kostkę mozzarellę, sól, pierz, czosnek. Do kurczaka na patelni dodać powstały sos i gotować na małym ogniu aż do roztopienia sera. 
+W misce zmieszać śmietanę, pokrojona w kostkę mozzarellę, sól, pierz, czosnek. Do kurczaka na patelni dodać powstały sos i gotować na małym ogniu aż do roztopienia sera.
 
 Ugotować ryż.
-
 
 [.recipe-gallery]
 == Zdjęcia
 
 [.gallery-grid]
-
-image::/Recipes/static/images/20240505_163520.jpg[]
-
+image::20240505_163520.jpg[]
