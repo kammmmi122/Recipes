@@ -1,10 +1,16 @@
 = Sałatka warstwowa z szynką, jajkiem i serem żółtym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -31,5 +37,5 @@ Wyłożyć majonez wymieszany ze śmietaną lub jogurtem, kawałki ananasa, star
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Tatar ze śledzia 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 15 minut
@@ -36,6 +42,6 @@ Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na ta
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20231216_212653.jpg[]

@@ -1,10 +1,16 @@
 = Buraki po burgundzku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: powyżej godziny
@@ -45,5 +51,5 @@ Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód taler
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

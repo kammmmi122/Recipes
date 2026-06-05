@@ -1,10 +1,16 @@
 = Pierogi z kapustą i grzybami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1,5 godziny
@@ -49,5 +55,5 @@ Podawać z zeszkloną na oleju pokrojoną w drobną kostkę cebulą.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

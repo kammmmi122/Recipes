@@ -1,10 +1,16 @@
 = Roladki z kurczaka z serem i papryką pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -37,5 +43,5 @@ Szynkę rozkładamy po 2 sztuki tak, aby plastry zachodziły na siebie. Na brzeg
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

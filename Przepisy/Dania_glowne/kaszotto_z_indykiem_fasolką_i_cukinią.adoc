@@ -1,10 +1,16 @@
 = Kaszotto z indykiem, fasolką i cukinią 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -38,5 +44,5 @@ Fasolkę przyciąć na końcach i pokroić na kawałki. Cukinię pokroić w kost
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

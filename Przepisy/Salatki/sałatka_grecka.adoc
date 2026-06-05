@@ -1,10 +1,16 @@
 = Sałatka grecka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 15 minut
@@ -36,5 +42,5 @@ Na wierzchu położyć plasterki sera feta. Posypać suszonym oregano i polać o
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

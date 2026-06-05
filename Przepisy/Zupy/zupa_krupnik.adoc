@@ -1,10 +1,16 @@
 = Zupa krupnik 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -49,5 +55,5 @@ Mięso wyjąć z zupy, usunąć skórę i kości, resztę pokroić na kawałki i
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

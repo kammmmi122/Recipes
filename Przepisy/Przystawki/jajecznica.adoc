@@ -1,10 +1,16 @@
 = Jajecznica 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 15 minut
@@ -26,5 +32,5 @@ Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymie
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

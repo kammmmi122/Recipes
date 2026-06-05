@@ -1,10 +1,16 @@
 = Zapiekanka pasterska 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1,5 godziny
@@ -67,5 +73,5 @@ Formę umieść w piekarniku nagrzanym do 180 stopni. Wybierz środkową półk�
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

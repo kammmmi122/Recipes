@@ -1,10 +1,16 @@
 = Wegeburgerki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * Czas przygotowania: 20 minut + 30 minut pieczenia
@@ -49,5 +55,5 @@ Lepimy kotlety i układamy je na blasze wyłożonej papierem do pieczenia. Piecz
 Bułki chwilę grilluję w piekarniku, następnie każdą przecinam i smaruję obydwie połówki odrobiną keczupu oraz jeszcze mniejsza ilością musztardy, do środka wkładam warzywa i kotleta. Gotowe! Elegancko serwuję na talerzu albo zawijam w serwetkę i zabieram burgera na spacer po dzielni.
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

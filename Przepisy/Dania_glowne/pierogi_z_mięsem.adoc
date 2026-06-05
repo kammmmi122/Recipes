@@ -1,10 +1,16 @@
 = Pierogi z mięsem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1,5 godziny
@@ -38,5 +44,5 @@ Wyławiać łyżką cedzakową i układać na talerzach. Podawać z wody lub ods
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

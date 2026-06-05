@@ -1,10 +1,16 @@
 = Zupa tajska z owocami morza 🦐 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -41,5 +47,5 @@ Doprawić papryczką chili. Podawać z ugotowanym ryżem i świeżą kolendrą.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Nalewka mango 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut + 1 miesiąc
@@ -32,5 +38,5 @@ Po zakończeniu kącika muzycznego po raz kolejny cedzimy mango. Syrop wlewamy d
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

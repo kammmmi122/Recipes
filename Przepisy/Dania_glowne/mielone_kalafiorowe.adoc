@@ -1,10 +1,16 @@
 = Mielone kalafiorowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: do 45 minut
@@ -50,5 +56,5 @@ Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygo
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

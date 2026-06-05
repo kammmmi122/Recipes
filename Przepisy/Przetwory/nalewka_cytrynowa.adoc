@@ -1,10 +1,16 @@
 = Nalewka cytrynowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut + 1 miesiąc
@@ -25,5 +31,5 @@ Wodę należy zagotować w garnku, a następnie dodać cukier i gotować, od cza
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

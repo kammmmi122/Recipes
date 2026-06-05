@@ -1,10 +1,16 @@
 = Makaron z pesto 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -35,7 +41,7 @@ Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20241007_174207.jpg[]

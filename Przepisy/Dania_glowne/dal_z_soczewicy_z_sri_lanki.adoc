@@ -1,10 +1,16 @@
 = Dal z soczewicy z Sri Lanki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 10 minut + 20 minut czekania
@@ -42,5 +48,5 @@ Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywności
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

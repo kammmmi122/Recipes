@@ -1,10 +1,16 @@
 = Makaron aglio olio z pomidorkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 10 minut
@@ -28,7 +34,7 @@ Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo dr
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20260208_173706.jpg[]

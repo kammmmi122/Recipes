@@ -1,10 +1,16 @@
 = Cukinie z chili con carne 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -52,5 +58,5 @@ Nagrzać piekarnik do 180 stopni C. Na cukinie wyłożyć sporą łyżkę sosu i
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

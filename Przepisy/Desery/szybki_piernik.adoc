@@ -1,10 +1,16 @@
 = Szybki piernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -51,5 +57,5 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

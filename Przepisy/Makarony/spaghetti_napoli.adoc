@@ -1,10 +1,16 @@
 = Spaghetti napoli 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -31,5 +37,5 @@ Przygotowujemy sos ze świeżych pomidorów lub korzystamy z puszek. Identycznie
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

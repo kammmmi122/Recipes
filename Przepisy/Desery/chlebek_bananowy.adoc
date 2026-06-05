@@ -1,10 +1,16 @@
 = Chlebek bananowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 15 minut
@@ -37,7 +43,7 @@ Ciasto wyłożyć do wyścielonej papierem do pieczenia dużej podłużnej formy
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240519_085926.jpg[]

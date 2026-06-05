@@ -1,10 +1,16 @@
 = Sałatka z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -39,5 +45,5 @@ Następnie dodać starty czosnek, wymieszać i smażyć przez pół minuty co ch
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

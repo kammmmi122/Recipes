@@ -1,10 +1,16 @@
 = Nalewka z kwiatów bzu 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut + 2 miesiące
@@ -25,7 +31,7 @@ Kwiaty odciąć od łodyżek i przełożyć do dużego słoja. Wsypać kwasek cy
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20240526_205344.jpg[]
 image::/Recipes/static/images/20240531_084134.jpg[]

@@ -1,10 +1,16 @@
 = Skyrnik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 10 minut
@@ -38,7 +44,7 @@ Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod prz
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20251230_232429.jpg[]

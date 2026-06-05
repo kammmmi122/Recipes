@@ -1,10 +1,16 @@
 = Zupa brokułowa z ryżem i koperkiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -42,5 +48,5 @@ Zupę brokułową z ryżem zabielamy śmietaną, podajemy z koperkiem.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Kaczka po wietnamsku 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2,5 godziny
@@ -40,5 +46,5 @@ Kaczkę wyjąć i ułożyć na podgrzanych talerzach. Z wierzchu sosu zebrać na
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

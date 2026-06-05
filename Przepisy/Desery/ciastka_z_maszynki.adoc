@@ -1,10 +1,16 @@
 = Ciastka z maszynki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * https://domowe-wypieki.pl/ciasteczka/705-ciasteczka-z-maszynki[link do źródła przepisu]
@@ -31,7 +37,7 @@ Chłodne ciasteczka dobrze przechowują się w szczelnej puszce, w temperaturze 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20251230_232424.jpg[]

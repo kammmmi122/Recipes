@@ -1,10 +1,16 @@
 = Pita 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -32,7 +38,7 @@ Chlebki upraż na suchej i dobrze nagrzanej patelni. Wybierz niedużą patelnię
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20251123_183549.jpg[]

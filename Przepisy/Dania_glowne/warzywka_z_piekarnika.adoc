@@ -1,10 +1,16 @@
 = Warzywka z piekarnika 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -24,7 +30,7 @@ Warzywa pokroić na części i oprószyć wegetą. Piec 30 minut w piekarniku w 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240824_174832.jpg[]

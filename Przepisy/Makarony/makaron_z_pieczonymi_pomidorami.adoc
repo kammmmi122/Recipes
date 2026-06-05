@@ -1,10 +1,16 @@
 = Makaron z pieczonymi pomidorami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -34,5 +40,5 @@ W międzyczasie ugotować makaron w osolonej wodzie. Odcedzić, wyłożyć do g�
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

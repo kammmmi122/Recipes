@@ -1,10 +1,16 @@
 = Paella 🐔 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -52,6 +58,6 @@ Zdejmij przykrywkę z gotowej Paelli. Przed nałożeniem jej na talerze odczekaj
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20240119_201437.jpg[]

@@ -1,10 +1,16 @@
 = Pasta z makreli 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -28,7 +34,7 @@ Makrelę bez ości podzielić widelcem. Ogórki obrać i potrzeć na tarce lub p
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20250918_222858.jpg[]

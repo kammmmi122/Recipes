@@ -1,10 +1,16 @@
 = Wieprzowina po chińsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -47,5 +53,5 @@ Włożyć z powrotem warzywa i wszystko wymieszać, następnie wlać sos. Gotowa
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

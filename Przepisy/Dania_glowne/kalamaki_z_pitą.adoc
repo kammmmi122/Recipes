@@ -1,10 +1,16 @@
 = Kalamaki z pitą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -30,7 +36,7 @@ Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawi�
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20250725_180813.jpg[]

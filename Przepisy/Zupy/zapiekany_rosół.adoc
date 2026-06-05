@@ -1,10 +1,16 @@
 = Zapiekany rosół 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2,5 godziny
@@ -36,5 +42,5 @@ Na końcu sprawdzić smak i ewentualnie doprawić solą. Podawać z ulubionym ma
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

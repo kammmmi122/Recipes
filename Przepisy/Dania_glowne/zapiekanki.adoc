@@ -1,10 +1,16 @@
 = Zapiekanki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -31,5 +37,5 @@ Połbagietki przekroić na pół. Wysmarować ketchupem, nałożyć pieczarki z 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

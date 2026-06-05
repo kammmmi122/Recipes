@@ -1,10 +1,16 @@
 = Schabowy własnym w sosie z cebulą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: powyżej 1 godziny
@@ -35,5 +41,5 @@ Gdy mięso jest miękkie, zagęścić sos łyżką mąki wymieszaną z 50 ml zim
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

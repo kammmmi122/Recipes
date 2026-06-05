@@ -1,10 +1,16 @@
 = Nalewka jabłkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut + 1 miesiąc
@@ -26,5 +32,5 @@ Z jabłek usuwamy gniazda nasienne i dzielimy je na kawałki, na przykład ćwia
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

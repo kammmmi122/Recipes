@@ -1,10 +1,16 @@
 = Zrazy wołowe 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -37,5 +43,5 @@ Zrazy wyjmujemy. Powstały sos redukujemy, doprawiamy musztardą i majerankiem.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

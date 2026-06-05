@@ -1,10 +1,16 @@
 = Wegański tatar 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -60,6 +66,6 @@ Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawi
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20231119_165036.jpg[]

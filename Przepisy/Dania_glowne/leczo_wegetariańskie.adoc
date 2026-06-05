@@ -1,10 +1,16 @@
 = Leczo wegetariańskie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -44,7 +50,7 @@ Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
 image::/Recipes/static/images/20240429_172456.jpg[]

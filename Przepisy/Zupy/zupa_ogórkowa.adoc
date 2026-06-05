@@ -1,10 +1,16 @@
 = Zupa ogórkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minut
@@ -38,5 +44,5 @@ Dodać szczypiorek oraz zaprawioną śmietanę (najpierw wymieszaną z 2 łyżka
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

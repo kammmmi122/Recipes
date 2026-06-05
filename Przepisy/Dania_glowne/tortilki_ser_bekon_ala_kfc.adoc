@@ -1,10 +1,16 @@
 = Tortilki ser bekon ala KFC 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -86,5 +92,5 @@ Zaraz komponujemy. Na początek sos. Dzieląc wszystkie składniki sosu dostaję
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

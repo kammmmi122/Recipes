@@ -1,10 +1,16 @@
 = Sałatka z sałatą lodową, suszonymi pomidorami i fetą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 20 minut
@@ -36,5 +42,5 @@ Posypać pestkami dyni i polać winegretem: olej z suszonych pomidorów (można 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

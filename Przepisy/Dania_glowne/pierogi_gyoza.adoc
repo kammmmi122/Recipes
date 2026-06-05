@@ -1,10 +1,16 @@
 = Pierogi gyoza 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 45 minut
@@ -59,5 +65,5 @@ W tym czasie możecie przygotować sos. Po prostu wlewacie wszystkie składniki 
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

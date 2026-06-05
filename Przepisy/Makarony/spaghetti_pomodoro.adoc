@@ -1,10 +1,16 @@
 = Spaghetti pomodoro 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -29,5 +35,5 @@ Jeśli zdecydujecie się użyć świeżych pomidorów, to warto zacząć od spar
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

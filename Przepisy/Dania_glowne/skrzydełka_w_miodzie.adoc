@@ -1,10 +1,16 @@
 = Skrzydełka w miodzie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 1 godzina
@@ -29,5 +35,5 @@ Po wyjęciu z piekarnika ostrożnie odetnij końcówkę z zapinką. Soczyste skr
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

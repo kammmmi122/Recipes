@@ -1,10 +1,16 @@
 = Noodle z mielonym mięsem drobiowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 25 minut
@@ -43,5 +49,5 @@ Wlać sos, wymieszać i podgrzać. Posypać szczypiorkiem i sezamem lub orzeszka
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Dorsz w sosie curry 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 15 minut
@@ -39,5 +45,5 @@ Skropić sokiem z limonki i podawać z ryżem.
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

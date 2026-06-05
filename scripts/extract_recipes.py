@@ -210,7 +210,10 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             # Title with the existing switch markup preserved
             f.write(f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n\n')
 
-            # Passthrough HTML for two-column layout
+            # Recipe page wrapper and layout markers
+            f.write('[.recipe-page]\n--\n')
+            f.write('[.recipe-details]\n')
+            f.write('[.recipe-columns]\n')
             f.write('++++\n')
             f.write('<div class="recipe-columns">\n')
 
@@ -237,9 +240,10 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write('</section>\n')
 
             f.write('</div>\n')
-            f.write('++++\n\n')
+            f.write('++++\n')
+            f.write('--\n\n')
 
-            f.write('[.text-center]\n== Zdjęcia\n')
+            f.write('[.recipe-gallery]\n== Zdjęcia\n')
             print(file, "created")
 
 

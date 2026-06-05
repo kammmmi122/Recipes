@@ -1,10 +1,16 @@
 = Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 30 minuty
@@ -48,5 +54,5 @@ Mięso przełożyć na talerz lub deskę i dać mu odpocząć przez 15 minut. Do
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia

@@ -1,10 +1,16 @@
 = Quesadilla 3 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
+
+[.recipe-page]
+--
+
+[.recipe-columns]
 [cols=".<a,.<a"]
 [frame=none]
 [grid=none]
 |===
 |
+[.recipe-details]
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -69,5 +75,5 @@ Tak przygotowane quesadillas można przeciąć na pół (w trójkąty) lub podaw
 
 |===
 
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
