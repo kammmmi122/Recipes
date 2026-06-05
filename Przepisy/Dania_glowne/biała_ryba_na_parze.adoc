@@ -4,6 +4,7 @@
 --
 
 [.recipe-details]
+--
 == Szczegóły
 
 * czas przygotowania: 35 minut
@@ -26,6 +27,7 @@ Rybę oprószyć solą i pieprzem. Ugotować na parze
 |===
 
 [.recipe-gallery]
+--
 == Zdjęcia
 
 --
