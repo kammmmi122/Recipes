@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 3/4 szklanki cukru
 * 2,5 szklanki mąki
 * 2 łyżeczki proszku do pieczenia
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 1 1/4 szklanki mleka
 * 250 g malin
 
-=== Przygotowanie
+== Przygotowanie
 Wymieszać ze soba cukier, mąkę, proszek do pieczenia, cukier wanilinowy i sól. W międzyczasie rozpuścić masło, ostudzić. Do masła dodać jajka i mleko. Połączyć wszystko razem. Na koniec dodać maliny. Napełnić foremki do muffinek. Piec pok. 20-25 minut. w 190 st. C.
 
 [.recipe-gallery]

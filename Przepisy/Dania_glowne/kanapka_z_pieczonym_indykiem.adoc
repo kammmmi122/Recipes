@@ -11,7 +11,7 @@ image::20250528_183240.jpg[]
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/indyk/kanapka_z_indykiem/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * pieczywo, np. domowa focaccia
 * plasterki pieczonego indyka
 * sałata, roszponka
@@ -20,7 +20,7 @@ image::20250528_183240.jpg[]
 * majonez lub masło
 * lekko zrumienione orzeszki pinii
 
-=== Przygotowanie
+== Przygotowanie
 Pieczywo przekroić na pół, posmarować cienko majonezem lub masłem.
 
 Na jednej połówce położyć sałatę, dodać plasterki mięsa, ser, żurawinę, zrumienionymi orzeszki pinii jeśli ich używamy, przykryć roszponką i drugą kromką pieczywa.

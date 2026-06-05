@@ -11,7 +11,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 600 g mielonej jagnięciny lub wołowiny
 * 100 g mrożonego groszku
 * 100 g marchewki - może być mrożona
@@ -31,7 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 20 g tartego parmezanu - lub więcej
 * po sporej szczypcie soli i pieprzu
 
-=== Przygotowanie
+== Przygotowanie
 Około 1200 gramów ziemniaków obierz cienko i ugotuj do miękkości w lekko osolonej wodzie.
 
 Nagrzej dużą patelnię z grubym dnem. Wylej 2 łyżki oleju. Na gorący tłuszcz wyłóż obraną i drobno posiekaną cebulę. Podsmażaj ją na średniej mocy palnika przez około 5-7 minut, do zeszklenia i lekkiego zarumienienia.

@@ -11,13 +11,13 @@ image::20241225_131152.jpg[]
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 200 g granoli
 * 200 g jogurtu owoce leśne
 * świeże maliny
 * świeże borówki
 
-=== Przygotowanie
+== Przygotowanie
 Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 
 [.recipe-gallery]

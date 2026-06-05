@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * miks sałat lub roszponka
 * 10 suszonych pomidorów
 * 50 g orzechów włoskich
@@ -21,7 +21,7 @@ Brak zdjęcia przepisu 🍲
 * oliwa z oliwek
 * pieprz i sól
 
-=== Przygotowanie
+== Przygotowanie
 Sałatę umyć. Pokroić suszone pomidory, orzechy i ser camembert. Zmieszać sałatę, pomidory, orzechy, pestki dyni, sól i pieprz. Pokroić oliwą.
 
 [.recipe-gallery]

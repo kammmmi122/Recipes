@@ -11,7 +11,7 @@ image::20250725_180813.jpg[]
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 pity
 * 4 souvlaki
 * 2 pomidory
@@ -21,7 +21,7 @@ image::20250725_180813.jpg[]
 * szczypta papryki słodkiej
 * szczypta chili
 
-=== Przygotowanie
+== Przygotowanie
 Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawiń.
 
 [.recipe-gallery]

@@ -30,7 +30,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Kontenery Asciidoctor */
+/* Kontenery strukturalne Asciidoctor */
 #header,
 #content,
 #footer,
@@ -60,7 +60,7 @@ body {
 }
 
 /* ==========================================================================
-   FILTERS & CARDS (MAIN PAGE - ZACHOWANE STRUCTURY)
+   FILTERS & CARDS (MAIN PAGE)
    ========================================================================== */
 
 .filters-wrapper {
@@ -232,10 +232,10 @@ body {
 }
 
 /* ==========================================================================
-   NOWY UKŁAD PODSTRONY PRZEPISU (DLA CZYSTEGO HTML)
+   UKŁAD STRONY PRZEPISU (NOWA STRUKTURA BEZ DZIELNIKÓW BLOKOWYCH)
    ========================================================================== */
 
-/* 1. Wielki Baner Hero (Zdjęcie lub Placeholder na samej górze) */
+/* 1. Hero Banner */
 .recipe-hero, 
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
@@ -254,7 +254,6 @@ body {
   position: relative;
 }
 
-/* Jeżli w banerze hero pojawi się rzeczywiste zdjęcie */
 .recipe-hero img {
   width: 100%;
   height: 100%;
@@ -262,7 +261,6 @@ body {
   border-radius: 14px;
 }
 
-/* Dodanie estetycznej plakietki kategorii nad banerem */
 .recipe-hero::before {
   content: "Dania główne";
   position: absolute;
@@ -277,7 +275,7 @@ body {
   z-index: 5;
 }
 
-/* 2. Pasek szczgółów (Metryki przepisu zmieniane w poziome boksy) */
+/* 2. Pasek szczegółów */
 .recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -309,49 +307,50 @@ body {
   text-decoration: none;
 }
 
-.recipe-details.ulist ul li a:hover {
-  text-decoration: underline;
+/* 3. UKŁAD DWUKOLUMNOWY (Nagłówki H2 jako elementy niezależne) */
+@media (min-width: 901px) {
+  /* Sprytne łączenie: jeśli sekcje .recipe-ingredients i .recipe-preparation leżą obok siebie,
+     zmniejszamy ich szerokość i ustawiamy jako float lub inline-block obok siebie */
+  .recipe-ingredients, 
+  .recipe-preparation {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .recipe-ingredients {
+    margin-right: 4%;
+  }
 }
 
-/* 3. Układ dwukolumnowy (Składniki + Przygotowanie) */
-/* Wymuszamy na parserze, by sekcja .recipe-columns renderowała dzieci w Gridzie */
-.recipe-columns {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-  margin: 32px 0;
-  align-items: start;
-}
-
-/* Wygląd nagłówków kolumn (Składniki / Przygotowanie) */
-.recipe-columns h3 {
+/* Stylizacja nagłówków H2 wewnątrz kolumn */
+.recipe-column-box h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
-  margin-bottom: 16px;
-  font-size: 1.4rem;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
   color: var(--text-main);
 }
 
-/* Styl listy składników */
-.recipe-columns .ulist ul {
+.recipe-ingredients .ulist ul {
   padding-left: 20px;
   margin: 0;
 }
 
-.recipe-columns .ulist li {
+.recipe-ingredients .ulist li {
   margin-bottom: 8px;
   line-height: 1.5;
 }
 
-/* Styl akapitów przygotowania */
-.recipe-columns .paragraph {
+.recipe-preparation .paragraph {
   margin-bottom: 16px;
   line-height: 1.6;
 }
 
-/* 4. Galeria zdjęć na samym dole */
+/* 4. Galeria Zdjęć */
 .recipe-gallery {
+  clear: both; /* Resetuje opływanie szerokich kolumn powyżej */
   margin-top: 48px;
   border-top: var(--border-subtle);
   padding-top: 24px;
@@ -382,7 +381,7 @@ body {
 }
 
 /* ==========================================================================
-   RESPONSIVENESS (MEDIA QUERIES)
+   MEDIA QUERIES (RESPONSYWNOŚĆ)
    ========================================================================== */
 
 @media (max-width: 900px) {
@@ -394,9 +393,12 @@ body {
     font-size: 1.8rem;
   }
 
-  .recipe-columns {
-    grid-template-columns: 1fr !important; /* Spadek do jednej kolumny na mobile */
-    gap: 32px;
+  .recipe-ingredients, 
+  .recipe-preparation {
+    width: 100% !important; /* Na mobile zajmują pełną szerokość i spadają pod siebie */
+    display: block !important;
+    margin-right: 0 !important;
+    margin-bottom: 32px;
   }
 
   .recipe-details.ulist ul {
@@ -417,7 +419,7 @@ body {
   .recipe-hero, 
   .recipe-hero.paragraph,
   .recipe-hero .card-image-placeholder {
-    height: 240px; /* Mniejszy baner na małych smartfonach */
+    height: 240px;
   }
 
   .gallery-grid {

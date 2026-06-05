@@ -11,7 +11,7 @@ image::20241217_165954.jpg[]
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 250 g mąki typ 450g
 * 40 g masła
 * 100 ml wrzącej wody
@@ -21,7 +21,7 @@ image::20241217_165954.jpg[]
 * 200 ml śmietany
 * 15 g cukru do posypania
 
-=== Przygotowanie
+== Przygotowanie
 Mąkę, masło, wodę i sól połączyć w jednolite gładkie ciasto. Jagody zasypać cukrem. Ciasto na pierogi podzielić na 4. Z każdego kawałka rozwałkować i wyciąć 5 kółek. Kołka napełnić farszem i zamknąć pierogi. Tak przygotowane pierogi ugotować w osolonej wodzie. Podawać ze śmietaną i cukrem.
 
 [.recipe-gallery]

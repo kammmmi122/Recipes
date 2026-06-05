@@ -11,7 +11,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 kg łopatki wieprzowej lub szynki
 * 100 g parzonego lub gotowanego boczku
 * 1 duża cebula
@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * 5 łyżek oleju roślinnego do smażenia
 * do podania: śmietana i natka pietruszki
 
-=== Przygotowanie
+== Przygotowanie
 Gulasz węgierski:
 
 Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.

@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2 pomarańcze
 * 400 g filetu z piersi kurczaka (np. polędwiczki)
 * 50 g rukoli
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki miodu
 * 1 łyżka musztardy dijon
 
-=== Przygotowanie
+== Przygotowanie
 Pomarańcze obrać ze skórek a następnie wyfiletować (ostrym nożem wykroić cząstki miąższu pomiędzy błonkami). Z resztek pomarańczy wycisnąć sok i zachować go do sosu (około 4 - 5 łyżek).
 
 Do soku z pomarańczy dodać resztę składników sosu, czyli: oliwę, miód i musztardę, następnie doprawić solą oraz pieprzem.

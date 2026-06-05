@@ -11,7 +11,7 @@ image::20240617_154401.jpg[]
 * 🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 jajka
 * 1 szklanka bulionu (np. dashi lub zwykłego)
 * 1/4 szklanki sosu sojowego
@@ -49,7 +49,7 @@ image::20240617_154401.jpg[]
 * Prażony sezam
 * Nori.
 
-=== Przygotowanie
+== Przygotowanie
 Jajka włożyć delikatnie do gotującej się wody i gotować przez ok. 7 - 8 minut. Od razu po ugotowaniu zalać zimną wodą i schłodzić aby przestały się już gotować.
 
 Przygotować zalewę do jajek: zagotować bulion z sosem sojowym i mirinem, odstawić z ognia i ostudzić. Do zalewy włożyć obrane jajka i odstawić na kilkanaście godzin (do lodówki).

@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/zupa-ogorkowa[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 łyżka masła
 * 1 łyżka oliwy
 * 1 mała cebula
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 150 g śmietany 18%
 * 4 łyżki posiekanego szczypiorku
 
-=== Przygotowanie
+== Przygotowanie
 W garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać obraną i pokrojoną w kosteczkę marchewkę i mieszając smażyć przez ok. 3 minuty.
 
 Wlać gorący bulion i zagotować. Przykryć, zmniejszyć ogień i gotować przez ok. 5 minut.

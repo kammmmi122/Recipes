@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 500 ml bulionu warzywnego lub drobiowego
 * 2 cukinie - 800 g
 * mała cebula cukrowa
@@ -25,7 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 4 łyżki delikatnej oliwy
 * łyżeczka ziół prowansalskich
 
-=== Przygotowanie
+== Przygotowanie
 Do zupy z cukinii odlewam przygotowuję 500 ml bulionu.
 
 Cukinie myję i odcinam same końce. Obierz cebulę oraz ząbki czosnku.

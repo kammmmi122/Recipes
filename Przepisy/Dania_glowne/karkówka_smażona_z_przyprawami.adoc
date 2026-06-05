@@ -12,13 +12,13 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 kawałki karkówki
 * ulubione przyprawy
 * pieprz i sól
 * olej do smażenia
 
-=== Przygotowanie
+== Przygotowanie
 Oprószyć kawałki solą, pieprzem i ulubionymi przyprawami. Rozgrzać grillową patelnię. Dodać odrobinę oleju. Usmażyć karkówkę na rozgrzanej patelni.
 
 [.recipe-gallery]

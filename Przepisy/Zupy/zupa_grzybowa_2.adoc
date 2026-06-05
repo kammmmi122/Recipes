@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kuchnia-domowa.pl/przepisy/zupy/474-zupa-grzybowa[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 500 g świeżych lub mrożonych grzybów (np. prawdziwki, podgrzybki, zajączki, maślaki, kozaki)
 * 1 cebula
 * 1 litr wywaru warzywnego
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz
 * makaron
 
-=== Przygotowanie
+== Przygotowanie
 Grzyby oczyścić. (Grzyby najlepiej oczyścić szczoteczką z zabrudzeń. Jeśli to nie wystarczy można je szybko opłukać w misce z zimną wodą i osuszyć na ręczniku papierowym). Pokroić na spore kawałki.
 
 Cebulę obrać i pokroić w kostkę. Na patelni rozgrzać masło. Dodać cebulę i smażyć na średniej mocy palnika, aż się zeszkli. Dodać pokrojone grzyby i smażyć na większej mocy palnika ok. 5 minut.

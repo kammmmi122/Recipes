@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
 * 1 łyżeczka tartego imbiru
@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 1 czerwona papryczka chili świeża lub suszona + mielona papryka ostra do smaku
 * ryż jaśminowy, kolendra
 
-=== Przygotowanie
+== Przygotowanie
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
 W garnku podgrzać olej, dodać pastę curry i smażyć ją przez około 1 - 2 minuty (garnek można przykryć aby nie pryskało).

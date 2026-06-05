@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 15 płatów lasagne (gotowych lub domowych)
 * 150 g tartego parmezanu
 * 3 łyżki oliwy
@@ -30,7 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 650 ml mleka
 * szczypta gałki muszkatołowej
 
-=== Przygotowanie
+== Przygotowanie
 Na oliwie, w dużym garnku, zeszklić drobno posiekaną cebulę, dodać posiekany w drobną kosteczkę seler naciowy oraz startą marchewkę (warzywa można też rozdrobnić w malakserze).
 
 Obsmażyć, następnie przesunąć na bok i w wolne miejsce włożyć pokrojony w drobną kosteczkę boczek. Zrumienić i wymieszać z warzywami.

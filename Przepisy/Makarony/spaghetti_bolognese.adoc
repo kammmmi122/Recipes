@@ -11,7 +11,7 @@ image::20250425_171213.jpg[]
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 cebula
 * 1 ząbek czosnku
 * 2 łyżki oliwy
@@ -24,7 +24,7 @@ image::20250425_171213.jpg[]
 * sól
 * tarty parmezan
 
-=== Przygotowanie
+== Przygotowanie
 Dodać 2 łyżki oliwy, włożyć drobno posiekaną cebulę i zeszklić. Dodać przeciśnięty przez praskę ząbek czosnku.
 
 Na patelnię dodać mięso i rozpocząć obsmażanie. Przyprawić pieprzem, solą, bazylią i oregano. Dodać pasattę pomidorowa i koncentrat pomidorowy, wymieszać.

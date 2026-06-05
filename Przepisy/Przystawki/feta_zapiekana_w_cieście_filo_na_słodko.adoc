@@ -12,14 +12,14 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 400 g fety (dwa kawałki po 200 g)
 * 2 łyżki sezamu (może być biały, czarny lub mieszanka)
 * 5 płatów ciasta filo
 * 5-6 łyżek oliwy
 * 2 łyżki miodu
 
-=== Przygotowanie
+== Przygotowanie
 Piekarnik rozgrzewamy do 220 stopni bez termoobiegu, grzanie góra/dół. Do miseczki wlewamy oliwę.
 
 Na blacie rozkładamy ciasto filo. Płaty przekrawamy na pół, aby uzyskać dwie równe części. Na pierwszym płacie (właściwie na połówce) układamy fetę i dokładnie ją zawijamy w ciasto. Ciasto smarujemy oliwą i zawijamy fetę w kolejny płat ciasta. Ponownie smarujemy oliwą. I tak pięć razy.

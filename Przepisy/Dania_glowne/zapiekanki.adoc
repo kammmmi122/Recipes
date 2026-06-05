@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 3 półbagietki
 * 200 g pieczarek
 * 1 cebula
@@ -21,7 +21,7 @@ Brak zdjęcia przepisu 🍲
 * 150 g mozzarelli tartej
 * sól i pieprz czarny
 
-=== Przygotowanie
+== Przygotowanie
 Cebulę pokroić w piórka. Pieczarki pokroić w kawałki. Zesmażyć pieczarki i cebulę do brązowego koloru. Ostudzić
 
 Szynkę pokroić w kostkę

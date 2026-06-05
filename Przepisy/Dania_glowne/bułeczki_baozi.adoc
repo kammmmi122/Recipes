@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://kuchnialidla.pl/baozi-azjatyckie-buleczki-z-wieprzowina[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * mąka pszenna - 400 g
 * mleko 1,5% - 200 ml
 * drożdże świeże - 12 g
@@ -21,7 +21,7 @@ Brak zdjęcia przepisu 🍲
 * sól - 1 szczypta
 * olej sezamowy - 1 łyżeczka
 
-=== Przygotowanie
+== Przygotowanie
 W rondelku podgrzewamy delikatnie mleko, a potem rozpuszczamy w nim drożdże. W misce łączymy ze sobą sól, masło, mąkę oraz rozpuszczone drożdże i wyrabiamy ciasto. Miskę delikatnie smarujemy olejem sezamowym i zostawiamy w niej ciasto pod przykryciem na godzinę.
 
 Po tym czasie ciasto dzielimy na 12 równych części, z których formujemy kulki. Każdą kulkę rozwałkowujemy na placek o średnicy około 10 cm. Na środek każdego placka nakładamy łyżkę nadzienia (np. wieprzowina Char) i zawijamy w kształt sakiewki, dokładnie zlepiamy brzegi.

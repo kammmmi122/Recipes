@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://zakochanewzupach.pl/zupa-grochowa-z-luskanego-grochu[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2 l wody
 * 2 ziemniaki
 * 60 g marchewki
@@ -28,7 +28,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżek suszonego majeranku
 * 1 pęczek natki pietruszki
 
-=== Przygotowanie
+== Przygotowanie
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
 Zdejmuję łyżką cedzakową pianę, która zebrała się po zagotowaniu grochu i gotuję.

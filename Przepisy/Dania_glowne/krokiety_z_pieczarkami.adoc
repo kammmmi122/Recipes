@@ -11,7 +11,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku364765[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * jajko 2 sztuki
 * mąka pszenna 250 gram
 * mleko 1 szklanka
@@ -27,7 +27,7 @@ Brak zdjęcia przepisu 🍲
 * mleko 5 łyżek
 * bułka tarta klasyczna Prymat 5 łyżek
 
-=== Przygotowanie
+== Przygotowanie
 Posiekaną cebulę i kiełbaskę podsmażyć na łyżce oleju aż cebulka lekko zmięknie.
 
 Obrane pieczarki pokroić niezbyt drobno.dodawać partiami na patelnię z cebulką.

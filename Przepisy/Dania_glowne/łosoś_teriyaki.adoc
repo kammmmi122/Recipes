@@ -11,7 +11,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/dania_z_grilla/losos_teriyaki/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 filety z łososia, po ok. 200 g
 * 1/2 szklanki sosu teriyaki*
 * sok z 1/2 limonki
@@ -22,7 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki oleju sezamowego
 * 4 łyżeczki ziaren sezamu
 
-=== Przygotowanie
+== Przygotowanie
 Łososia opłukać, osuszyć papierowym ręcznikiem, pesetą wyjąć ości. W większej misce wymieszać sos teriyaki, sok z limonki, syrop klonowy (lub miód lub cukier), czosnek, imbir i chilli. Włożyć łososia i dokładnie wysmarować marynatą. Odstawić na 1/2 - 1 godzinę na blat kuchenny.
 
 Łososia wyjąć z marynaty. Marynatę wlać do rondelka i gotować przez około 10 - 15 minut, aż zgęstnieje. Powstały sos teriyaki przecedzić przez sitko, a następnie wymieszać z olejem sezamowym. Na suchej patelni, na małym ogniu zrumienić ziarna sezamu.

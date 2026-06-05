@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 3 placki z tortilli pszennej
 * 200 g serka kremowego serka typu Philadelphia
 * 250 g szynki w plasterkach - 9 plasterków
@@ -22,7 +22,7 @@ Brak zdjęcia przepisu 🍲
 * pół małej czerwonej papryki
 * mały pęczek szczypiorku
 
-=== Przygotowanie
+== Przygotowanie
 Placki wysmaruj dość grubo kremowym serkiem typu Philadelphia.
 
 Na każdy placek wyłóż też odrobinę siekanego szczypiorku. Możesz też użyć koperku lub natki pietruszki.

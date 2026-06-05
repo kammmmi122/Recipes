@@ -11,7 +11,7 @@ image::20251109_210923.jpg[]
 * 🔗 https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 3 żółtka
 * 15 g drobnego cukru do wypieków
 * 60 ml mleka
@@ -23,7 +23,7 @@ image::20251109_210923.jpg[]
 * szczypta soli
 * 60 g drobnego cukru do wypieków
 
-=== Przygotowanie
+== Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 W większym naczyniu umieścić żółtka, cukier, mleko, olej, wanilię. Wymieszać rózgą kuchenną do połączenia się składników. Bezpośrednio do mieszanki przesiać mąkę z proszkiem do pieczenia i wymieszać rózgą kuchenną tylko do połączenia się składników.

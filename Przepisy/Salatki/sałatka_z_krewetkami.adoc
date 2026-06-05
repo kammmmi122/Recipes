@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-krewetkami-smazonymi-z-czosnkiem-i-papryczka-chili[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 200 g oczyszczonych krewetek
 * 1/2 opakowania miksu sałat
 * 1/2 opakowania rukoli
@@ -24,7 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki białego wina (opcjonalnie)
 * 3 łyżki soku z cytryny
 
-=== Przygotowanie
+== Przygotowanie
 Mrożone krewetki rozmrozić (w temp. pokojowej lub pod strumieniem bieżącej, chłodnej wody). Opłukać i oderwać ogonki, osuszyć.
 
 Jeden ząbek czosnku zetrzeć lub przecisnąć przez praskę, drugi pokroić na cienkie plasterki. Papryczkę chili pokroić ukośnie na cienkie plasterki.

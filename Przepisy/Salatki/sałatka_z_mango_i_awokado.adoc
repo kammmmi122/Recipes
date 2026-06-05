@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 mango
 * 1 awokado
 * 1 limonka
@@ -25,7 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka oliwy extra
 * szczypta płatków chili
 
-=== Przygotowanie
+== Przygotowanie
 Mango i awokado obrać, pokroić w kosteczkę i włożyć do salaterki lub szklanej miski. Polać sokiem wyciśniętym z całej limonki.
 
 Dodać drobno posiekaną czerwoną cebulę, pokrojoną w kosteczkę czerwoną paprykę, odcedzoną na sitku kukurydzę i czerwoną fasolę.

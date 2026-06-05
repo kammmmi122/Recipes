@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 tortille pszenne (średnica ok 15 cm)
 * 1 pierś z kurczaka
 * 2 papryczki chipotle w sosie adobo (z puszki)
@@ -22,7 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 1/2 cebuli czerwonej
 * kukurydza z puszki
 
-=== Przygotowanie
+== Przygotowanie
 Na początku zabieramy się za przygotowanie piersi z kurczaka. Kroimy go w drobną kosteczkę i przekładamy do miseczki. Wystarczy, że pokroimy w kosteczkę o wielkości 1cm x 1cm.
 
 Przekładamy do miseczki.

@@ -11,7 +11,7 @@ image::20231209_214411.jpg[]
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 kostka Kasi
 * 3/4 szklanki wody
 * 1 szklanka cukru
@@ -25,7 +25,7 @@ image::20231209_214411.jpg[]
 * 3/4 szklanki cukru
 * 200 g wiórków kokosowych
 
-=== Przygotowanie
+== Przygotowanie
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
 Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego połączenia. Do utartej masy dodać mąkę, proszek do pieczenia, dżem, rodzynki. Wszystkie składniki utrzeć.

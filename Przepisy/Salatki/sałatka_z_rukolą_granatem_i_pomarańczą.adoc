@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/zielony_srodek/granat/salatka_z_rukoli_pomaranczy_granatu/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 opakowanie rukoli (100 g)
 * 60 g orzechów włoskich lub pekan
 * 1 owoc granatu
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 1 i 1/2 łyżki soku z cytryny
 * sól i świeżo zmielony czarny pieprz
 
-=== Przygotowanie
+== Przygotowanie
 Rukolę opłukać na sitku, odcedzić, osuszyć i wyłożyć na talerz.
 
 Pomarańcze obrać i wyfiletować (ostrym nożem wykroić cząstki miąższy pomiędzy błonkami).

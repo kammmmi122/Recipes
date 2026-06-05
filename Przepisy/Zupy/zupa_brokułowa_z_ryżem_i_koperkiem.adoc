@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://zakochanewzupach.pl/zupa-brokulowa-z-ryzem-i-koperkiem[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 0.5 brokuła świeżego
 * 1 marchewka
 * 1 pietruszka
@@ -25,7 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 1 pęczek koperka
 * 0.25 szklanki śmietany
 
-=== Przygotowanie
+== Przygotowanie
 Marchewkę, pietruszkę i seler ścieramy na tarce o dużych oczkach, por kroimy w cienkie plasterki i siekamy.
 
 Podduszamy warzywa ma maśle, dorzucając dwie gałązki koperku.

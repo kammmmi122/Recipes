@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/desery/ciasta/murzynek_z_czekolada_wisniami/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 200 g masła
 * 1 szklanka (200 g) cukru
 * 1 opakowanie cukru wanilinowego lub 2 łyżeczki ekstraktu z wanilii
@@ -25,7 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki mąki ziemniaczanej lub pszennej do obtoczenia wiśni
 * 50 - 100 g czekolady
 
-=== Przygotowanie
+== Przygotowanie
 Jeśli używamy mrożonych wiśni należy je wcześniej rozmrozić na sitku i osuszyć z soku. Sok zachować. Wiśnie z kompotu odcedzić, zachować część kompotu.
 
 Tortownicę o średnicy ok. 24-25 cm posmarować masłem i wyłożyć papierem do pieczenia. Piekarnik nagrzać do 180 stopni.

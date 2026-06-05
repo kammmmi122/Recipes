@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 200 g masła
 * 200 g gorzkiej czekolady
 * 3 jajka (temp. pokojowa)
@@ -21,7 +21,7 @@ Brak zdjęcia przepisu 🍲
 * mała szczypta soli
 * dodatkowo: ok. 50 - 100 g gorzkiej czekolady na wierzch
 
-=== Przygotowanie
+== Przygotowanie
 Piekarnik nagrzać do 160 stopni C. Przygotować małą prostokątną foremkę o wymiarach ok. 21 cm x 28 cm (lub o podobnej powierzchni). Posmarować ją masłem i wyłożyć papierem do pieczenia.
 
 Masło pokroić w kostkę i włożyć do rondelka, dodać połamaną na kosteczki czekoladę i cały czas mieszając roztopić na małym ogniu, odstawić z palnika.

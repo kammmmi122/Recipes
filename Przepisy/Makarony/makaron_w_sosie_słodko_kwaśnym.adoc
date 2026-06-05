@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 500 g piersi z kurczaka
 * 1 łyżka wegety
 * 1 łyżeczka czerwonej papryki
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * sól i pieprz
 * makaron 500 g
 
-=== Przygotowanie
+== Przygotowanie
 Pokroić mięso z kurczaka na kawałki. Dodać przyprawy i wymieszać. Usmażyć mięso na patelni.
 
 Cebulę pokroić w piórka i zeszklić.

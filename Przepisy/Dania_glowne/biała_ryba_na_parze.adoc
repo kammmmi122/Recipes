@@ -12,11 +12,11 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 kawałki białej ryby (dorsza, tilapii)
 * sól i pieprz
 
-=== Przygotowanie
+== Przygotowanie
 Rybę oprószyć solą i pieprzem. Ugotować na parze
 
 [.recipe-gallery]

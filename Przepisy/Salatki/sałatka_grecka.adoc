@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/salatka_grecka/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2 pomidory
 * 4 ogórki gruntowe lub 2 szklarniowe
 * 1/2 czerwonej cebuli
@@ -22,7 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 4 łyżki oliwy extra vergine
 * świeżo zmielony pieprz
 
-=== Przygotowanie
+== Przygotowanie
 Pomidory pokroić na ćwiartki, usunąć szypułki, następnie pokroić na jeszcze mniejsze kawałki.
 
 Ogórki obrać (można pozostawić miejscami paseczki zielonej skórki), przekroić wzdłuż na pół a następnie na grubsze półplasterki.

@@ -11,14 +11,14 @@ image::20251123_183549.jpg[]
 * 🔗 https://aniagotuje.pl/przepis/pita[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2,5 szklanki mąki pszennej tortowej - 400 g
 * 5 gramów drożdży suszonych lub 15 gramów drożdży świeżych
 * 1 niecała szklanka lekko ciepłej wody - 220 ml
 * 1 łyżka delikatnej oliwy
 * 1 płaska łyżeczka soli
 
-=== Przygotowanie
+== Przygotowanie
 Umieść razem wszystkie składniki i wyrób je na elastyczne i jednolite ciasto. Miskę z ciastem przykryj ściereczką bawełnianą lub folią przezroczystą. Odstaw do wyrastania na godzinę lub nawet 90 minut.
 
 Wyrośnięte ciasto na chlebki pita przełóż na blat obsypany lekko mąką. Ciasto wyrabiaj chwilę a następnie podziel na sześć równych kawałków. Każdy kawałek uformuj w dłoniach na kształt kuli.

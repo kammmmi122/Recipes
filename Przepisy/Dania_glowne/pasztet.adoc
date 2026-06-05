@@ -10,7 +10,7 @@ image::20241228_223850.jpg[]
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1/2 kg surowego boczku lub podgardla
 * 1 kg wieprzowiny (np. łopatka, karczek, szynka, biodrówka)
 * 1 kg wołowiny (bez kości, np. antrykot, udziec)
@@ -24,7 +24,7 @@ image::20241228_223850.jpg[]
 * ok. 300 g słoniny, pokrojonej w cienkie plasterki
 * bułka tarta
 
-=== Przygotowanie
+== Przygotowanie
 Boczek pokroić i ułożyć na spodzie dużego oraz szerokiego garnka. Mięso wieprzowe i wołowe pokroić na małe kawałki około 3 x 3 cm i położyć na boczku.
 
 Cebule obrać i pokroić na grube plastry, położyć na mięsie. Wlać wodę, dodać sól, listki laurowe oraz ziele angielskie. Zagotować na dużym ogniu.

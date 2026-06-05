@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.doradcasmaku.pl/przepis-devolay-z-pieczarkami-i-serem-74872[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * pierś z kurczaka 1 kg
 * pieczarki 250 g
 * cebula 1 szt
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * jaja 2 szt
 * Sól, pieprz, majeranek
 
-=== Przygotowanie
+== Przygotowanie
 Piersi z kurczaka oczyścić,rozbić.Pieczarki oczyścić, pokroić w plasterki.
 
 Podsmażyć na 2 łyżkach masła razem z cebulką. Doprawić. Piersi przyprawić.

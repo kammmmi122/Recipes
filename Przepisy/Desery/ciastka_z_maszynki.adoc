@@ -10,7 +10,7 @@ image::20251230_232424.jpg[]
 * 🔗 https://domowe-wypieki.pl/ciasteczka/705-ciasteczka-z-maszynki[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 400 g mąki pszennej (lub w wersji kakaowej: 350 g mąki pszennej + 50 g kakao)
 * 100 g cukru pudru
 * 2 żółtka
@@ -18,7 +18,7 @@ image::20251230_232424.jpg[]
 * 2 łyżki gęstego jogurtu naturalnego lub kwaśnej śmietany 10- 18%
 * ½ łyżeczki proszku do pieczenia
 
-=== Przygotowanie
+== Przygotowanie
 Wszystkie składniki zagnieść ręcznie lub robotem kuchennym, używając haka do zagniatania ciasta. (Ciasto powinno być gładkie, nie za suche, o konsystencji miękkiej plasteliny. Gdyby zdarzyło się, że będzie za suche należy dodać jeszcze troszkę jogurtu).
 
 Ciasto nakładać porcjami do maszynki do ciastek (lub maszynki do mięsa z nakładką do ciastek) i wyciskać dowolne kształty. Długie "taśmy" ciasteczek pokroić na kilkucentymetrowe kawałki i ułożyć na blasze wyłożonej papierem do pieczenia.

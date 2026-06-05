@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 4 ziemniaki
 * 3 łyżki oleju rzepakowego
 * trochę soli i pieprzu do smaku
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 150 g jogurtu greckiego
 * 1 ząbek czosnku
 
-=== Przygotowanie
+== Przygotowanie
 Rozgrzej piekarnik do 200°C. Spore ziemniaki podobnej wielkości umyj dokładnie i osusz. Nie obieraj.
 
 Przy pomocy ostrego noża natnij ziemniaki w poprzek w odstępach ok. 0,5 centymetrowych, ale nie do końca ziemniaka.

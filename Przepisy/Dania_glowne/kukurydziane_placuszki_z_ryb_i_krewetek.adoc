@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://drive.google.com/file/d/1sjdw9vdZyCgNVb0ja-JQ-g5QqDR1AlWG/view?usp=sharing[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * mintaj - 1 filet bez skóry (300 g)
 * cukinia - 1/3 sztuki (100 g)
 * marchewki - 2 sztuki (90 g)
@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 * sezam - 1 łyżeczka (5 g)
 * chili lub gochugaru do smaku
 
-=== Przygotowanie
+== Przygotowanie
 Rybę oraz krewetki myjemy i siekamy w drobną kostkę. Umytą cukinię i obrane marchewki ścieramy na tarce na dużych oczkach. Odciskamy z nadmiaru płynu. W misce łączymy jajka z mąką kukurydzianą i przyprawami. Mieszamy z wcześniej przygotowanymi składnikami. Na rozgrzaną, posmarowaną olejem patelnię nakładamy łyżką porcję masy, formując placuszki. Smażymy z obu stron na złoty kolor. Podajemy z lekkim sosem przyrządzonym z podanych składników.
 
 [.recipe-gallery]

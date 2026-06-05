@@ -11,7 +11,7 @@ image::20240530_115153.jpg[]
 * 🔗 https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 6 jajek
 * 200 g cukru
 * 50 ml wody
@@ -35,7 +35,7 @@ image::20240530_115153.jpg[]
 * 100 ml wody
 * 3 łyżki płatków migdałów
 
-=== Przygotowanie
+== Przygotowanie
 Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.
 
 Mąkę przesiej do miski razem z proszkiem do pieczenia, wymieszaj dokładnie.

@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.tasteaway.pl/idealne-fish-chips-zrobisz-sobie-sam[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 2 duże kawałki dorsza podzielone na mniejsze kawałki do panierowania
 * 200 ml jasnego zimnego piwa
 * 1/2 łyżeczki kurkumy
@@ -31,7 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki soku z cytryny
 * świeżo zmielony pieprz
 
-=== Przygotowanie
+== Przygotowanie
 Wyjmujemy z lodówki rybę, myjemy i osuszamy papierowym ręcznikiem. Kroimy na takie kawałki, jakie chcemy serwować. Rybę solimy i pieprzymy. Odkładamy.
 
 Szykujemy panierkę do ryby. W misce mieszamy piwo, mąkę, kurkumę i proszek do pieczenia - najlepiej użyć trzepaczki (my korzystaliśmy z trzepaczki elektrycznej). Panierujemy kawałki ryby w cieście.

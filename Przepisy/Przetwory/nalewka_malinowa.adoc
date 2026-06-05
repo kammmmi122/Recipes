@@ -12,12 +12,12 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://aniagotuje.pl/przepis/nalewka-z-malin[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 kg świeżych malin
 * 1000 ml wódki 40 lub 45 %
 * 400 g zwykłego cukru
 
-=== Przygotowanie
+== Przygotowanie
 Zbierz lub kup kilogram ładnych i dojrzałym malin. W razie potrzeby zdejmij je z szypułek, oczyść i przebierz z zepsutych, czy uszkodzonych sztuk. Maliny delikatnie przepłucz pod prysznicem z zimnej, bieżącej wody.
 
 Cały kilogram gotowych malin przełóż do dużego i czystego słoja. Ja używam uniwersalnego słoja, w którym szykuję większość nalewek. To słój o pojemności 3,8 l.

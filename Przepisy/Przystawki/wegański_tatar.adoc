@@ -11,7 +11,7 @@ image::20231119_165036.jpg[]
 * 🔗 https://easyvege.pl/weganski-tatar[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 650-700 g surowych boczniaków (ważonych po oczyszczeniu, ale jeszcze przed myciem)
 * 80-100 g ekspandowanych ziaren (np. ryż, jagły, kukurydza, ja użyłam tym razem orkiszu)
 * kilka pomidorów suszonych, z oleju (użyłam 6 połówek)
@@ -35,7 +35,7 @@ image::20231119_165036.jpg[]
 * świeżo mielony pieprz
 * pieczywo
 
-=== Przygotowanie
+== Przygotowanie
 Boczniaki oczyszczamy najpierw na sucho z zabrudzeń, następnie płuczemy na sicie pod bieżącą wodą i pozbywamy się nadmiaru wody wielokrotnie potrząsając energicznie sitem. Nie chodzi o to, by grzyby stały się suche. Powinny zostać wilgotne! - chodzi tylko o to, by nie ciekła z nich woda.
 
 Rozgrzewamy patelnię i smarujemy ją cieniutko olejem. Na rozgrzanej patelni układamy boczniaki, pozwalamy im się smażyć przez ok. 3 minuty. Następnie przewracamy grzyby na drugą stronę i znów podsmażamy przez ok. 3minuty. Powtarzamy partiami, do ostatniego grzybka. Tak przygotowane grzyby nie będą już surowe, ALE nie powinny być też przypieczone. Podczas podsmażania puszczą wodę, którą warto zebrać z patelni razem z grzybami.

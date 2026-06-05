@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://mojewypieki.com/przepis/wisniowy-paj[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 300 g mąki pszennej
 * 200 g masła, w temperaturze pokojowej
 * 120 g drobnego cukru do wypieków
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki bułki tartej lub zmielonych migdałów
 * cukier puder do oprószenia
 
-=== Przygotowanie
+== Przygotowanie
 W naczyniu umieścić miękkie masło, mąkę, cukier i ekstrakt z migdałów. Wyrobić między palcami na kruszonkę, odstawić.
 
 Formę o średnicy 23 - 24 cm wyłożyć papierem do pieczenia. Dno formy lekko wylepić połową kruszonki (nie wciskamy mocno w formę, raczej wysypujemy i delikatnie przyklepujemy). Podpiec w temperaturze 180ºC przez około 15 minut na bladozłoty kolor.Ponadto:Wiśnie wydrylować, wymieszać z cukrem i mąką ziemniaczaną.

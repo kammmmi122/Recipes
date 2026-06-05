@@ -11,7 +11,7 @@ image::20231021_193002.jpg[]
 * 🔗 https://zakochanewzupach.pl/zupa-buraczkowa-ze-smietana[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 6 buraki
 * 4 ziemniaki
 * 1 marchewka
@@ -32,7 +32,7 @@ image::20231021_193002.jpg[]
 * 1 szczypta cukru do smaku
 * trochę natki pietruszki do posypania zupy
 
-=== Przygotowanie
+== Przygotowanie
 Buraczki myjemy, obieramy, kroimy w kostkę, wrzucamy na gotujący się wywar.
 
 Marchewkę, pietruszkę i seler myjemy, obieramy, kroimy w kostkę, oddajemy do garnka z buraczkami.

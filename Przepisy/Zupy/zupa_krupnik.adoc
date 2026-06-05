@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
 * 2 litry bulionu lub wody
 * 1 cebula
@@ -26,7 +26,7 @@ Brak zdjęcia przepisu 🍲
 * kawałek selera i pora
 * 1 łyżka posiekanego koperku
 
-=== Przygotowanie
+== Przygotowanie
 Mięso opłukać i włożyć do dużego garnka. Wlać 2 litry bulionu lub wody, zagotować, a następnie zszumować.
 
 Dodać obraną cebulę, ziele angielskie i listek laurowy, doprawić solą.

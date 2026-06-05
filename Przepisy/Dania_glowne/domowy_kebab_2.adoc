@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * mąka pszenna typ 650 - 500 g
 * ciepła woda - 190 ml
 * jogurt naturalny - 100 g
@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * cebula czerwona
 * feta w kostkach
 
-=== Przygotowanie
+== Przygotowanie
 Wsyp mąkę do miski.
 
 Przygotuj rozczyn. W tym celu wlej ciepłą wodę do szklanki, dodaj drożdże oraz jedną łyżkę mąki (odmierz ją z ilości wcześniej wsypanej do miski). Dokładnie wymieszaj, do momentu aż w szklance nie będzie żadnych grudek drożdży ani mąki. Odczekaj 5-10 minut, aby drożdże zaczęły działać.

@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * wino białe - 100 ml
 * bulion warzywny - 700 ml
 * cebula - 1 szt.
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * ser kozi - 150 g
 * natka pietruszki - 2 łyżki
 
-=== Przygotowanie
+== Przygotowanie
 Umyte buraki w skórkach układamy na blasze wyłożonej papierem do pieczenia. Pieczemy ok. 40-60 minut (do miękkości) w piekarniku rozgrzanym do 180°C. Studzimy i obieramy.
 
 Cebulę pokrojoną w kostkę smażymy na oliwie na rozgrzanej patelni. Gdy się zeszkli, dodajemy czosnek pokrojony w plasterki. Smażymy ok. 3 minuty.

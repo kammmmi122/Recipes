@@ -12,7 +12,7 @@ Brak zdjęcia przepisu 🍲
 * 🔗 https://www.kwestiasmaku.com/przepis/makaronowa-salatka-warstwowa[link do źródła przepisu]
 
 [.recipe-columns]
-=== Składniki
+== Składniki
 * 100 g makaronu świderki
 * 8 kawałków suszonych pomidorów z oleju
 * 125 g opakowanie mini mozzarelli
@@ -23,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 1/2 cebuli (białej lub czerwonej)
 * listki bazylii z 1 doniczki
 
-=== Przygotowanie
+== Przygotowanie
 Makaron ugotować w osolonej wodzie, odcedzić, włożyć na dno szklanej salaterki. Dodać posiekane suszone pomidory, następnie odcedzone kulki mozzarelli i oliwki.
 
 Pomidorki koktajlowe pokroić na połówki, włożyć do miski, dodać suszone oregano, sól i pieprz oraz oliwę, wymieszać i całość wyłożyć na wierzch sałatki.
