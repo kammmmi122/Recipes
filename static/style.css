@@ -1,6 +1,6 @@
-/* ===========================
-   Layout globalny
-   =========================== */
+/* ==========================================================================
+   GLOBAL LAYOUT & VARIABLES
+   ========================================================================== */
 
 :root {
   --bg: #fafaf8;
@@ -30,8 +30,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Asciidoctor containers */
-
+/* Asciidoctor global containers */
 #header,
 #content,
 #footer,
@@ -41,13 +40,18 @@ body {
   padding: 0 16px;
 }
 
-/* ===========================
-   Nagłówek strony
-   =========================== */
+/* ==========================================================================
+   PAGE HEADER (DOCUMENT TITLE & SWITCH)
+   ========================================================================== */
 
-#header > h1 {
+#header > h1, 
+#content > h1 {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   font-size: 2.2rem;
-  margin: 24px 0 8px;
+  margin: 24px 0 16px;
 }
 
 #header .details {
@@ -55,9 +59,9 @@ body {
   font-size: 0.95rem;
 }
 
-/* ===========================
-   Filtry / pasek nad kartami
-   =========================== */
+/* ==========================================================================
+   FILTERS & NAVIGATION (MAIN PAGE)
+   ========================================================================== */
 
 .filters-wrapper {
   margin: 16px 0 24px;
@@ -87,8 +91,7 @@ body {
   background: #ffffff;
   color: var(--muted);
   cursor: pointer;
-  transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease,
-    border-color 0.15s ease;
+  transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
 }
 
 .filter-pill.active {
@@ -98,9 +101,9 @@ body {
   box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
 }
 
-/* ===========================
-   GRID KART PRZEPISÓW
-   =========================== */
+/* ==========================================================================
+   RECIPE CARDS GRID (MAIN PAGE)
+   ========================================================================== */
 
 .cards-wrapper {
   margin: 24px 0 40px;
@@ -112,8 +115,6 @@ body {
   gap: 28px;
 }
 
-/* Karta przepisu */
-
 .card {
   position: relative;
   background: var(--card-bg);
@@ -123,8 +124,7 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: transform 0.15s ease, box-shadow 0.15s ease,
-    border-color 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
 }
 
 .card:hover {
@@ -132,8 +132,6 @@ body {
   box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
   border-color: rgba(0, 0, 0, 0.06);
 }
-
-/* Pasek kategorii na karcie */
 
 .card-category-label {
   position: absolute;
@@ -148,16 +146,12 @@ body {
   z-index: 2;
 }
 
-/* Obrazek karty */
-
 .card-image {
   width: 100%;
   height: 180px;
   object-fit: cover;
   display: block;
 }
-
-/* Placeholder, gdy brak zdjęcia */
 
 .card-image-placeholder {
   height: 180px;
@@ -168,8 +162,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
-/* Treść karty */
 
 .card-content {
   padding: 14px 16px 16px;
@@ -199,9 +191,9 @@ body {
   text-decoration: underline;
 }
 
-/* ===========================
-   PRZEŁĄCZNIK (switch)
-   =========================== */
+/* ==========================================================================
+   INTERACTIVE TOGGLE SWITCH
+   ========================================================================== */
 
 .switch {
   position: relative;
@@ -246,24 +238,22 @@ body {
   transform: translateX(20px);
 }
 
-/* ===========================
-   STRONA POJEDYNCZEGO PRZEPISU
-   =========================== */
-
-/* Kontener główny (Asciidoctor #content już ma max-width) */
+/* ==========================================================================
+   SINGLE RECIPE PAGE LAYOUT
+   ========================================================================== */
 
 .recipe-page {
   margin-top: 16px;
 }
 
-/* Hero image – pierwsze zdjęcie lub osobny blok */
-
+/* Hero Image Banner & Categories */
 .recipe-hero {
   position: relative;
   margin: 0 0 24px;
 }
 
-.recipe-hero img {
+.recipe-hero img,
+.recipe-hero .imageblock img {
   width: 100%;
   max-height: 360px;
   object-fit: cover;
@@ -271,97 +261,163 @@ body {
   display: block;
 }
 
-/* Pasek kategorii na hero (jeśli używasz) */
+.recipe-hero .imageblock {
+  margin: 0 !important;
+}
 
-.recipe-category-label {
+.recipe-hero .recipe-category-label,
+.recipe-hero .openblock .recipe-category-label {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 16px;
+  left: 16px;
   background: #f97316;
   color: #ffffff;
   padding: 6px 12px;
   font-size: 0.85rem;
   font-weight: 600;
-  border-bottom-right-radius: 12px;
+  border-radius: 6px;
+  z-index: 5;
 }
 
-/* Nagłówek przepisu (tytuł + switch) */
-
-#content > h1 {
-  display: flex;
+/* Recipe Hero Image Placeholder */
+.recipe-hero .card-image-placeholder {
+  width: 100%;
+  height: 360px;
+  background: #e5e7eb;
+  color: var(--muted);
+  font-size: 1.2rem;
+  font-weight: 500;
+  display: flex !important;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  font-size: 1.8rem;
-  margin: 12px 0 8px;
+  justify-content: center;
+  border-radius: 14px;
 }
 
-#content > h1 .switch {
-  flex-shrink: 0;
-}
-
-/* Szczegóły przepisu (czas, porcje, źródło) */
+/* ==========================================================================
+   RECIPE DETAILS (METRICS BAR WITH BOXES)
+   ========================================================================== */
 
 .recipe-details {
-  display: flex;
+  display: flex !important;
   flex-wrap: wrap;
-  gap: 16px;
-  margin: 8px 0 20px;
-  font-size: 0.95rem;
-  color: var(--muted);
-}
-
-.recipe-details-item {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-}
-
-/* Kolumny: składniki / przygotowanie */
-
-.recipe-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 28px;
+  gap: 12px;
   margin: 16px 0 24px;
 }
 
-.recipe-columns h2 {
+/* Uodpornienie na kontenery blokowe parsera Asciidoctor (.paragraph) */
+.recipe-details .paragraph {
+  flex: 1 1 180px;
+  margin: 0 !important;
+}
+
+.recipe-details .recipe-details-item,
+.recipe-details .paragraph p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--card-bg);
+  border: var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 12px 16px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-main);
+  margin: 0 !important;
+  min-height: 52px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.01);
+  text-align: center;
+}
+
+.recipe-details .paragraph p a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.recipe-details .paragraph p a:hover {
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   SPLIT COLUMNS (INGREDIENTS & PREPARATION)
+   ========================================================================== */
+
+.recipe-columns {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 36px;
+  margin: 28px 0;
+}
+
+/* Zgodność ze strukturą otwartych bloków */
+.recipe-columns .recipe-column-box,
+.recipe-columns .openblock {
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-columns h3 {
+  border-bottom: var(--border-subtle);
+  padding-bottom: 8px;
   margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  color: var(--text-main);
+}
+
+/* Wyczyszczenie wcięć domyślnych list w kolumnach */
+.recipe-columns .ulist ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.recipe-columns .ulist li {
   margin-bottom: 8px;
+  line-height: 1.5;
 }
 
-.recipe-columns ul,
-.recipe-columns ol {
-  margin-top: 0;
+/* Formatowanie tekstu przygotowania */
+.recipe-columns .paragraph {
+  margin-bottom: 16px;
+  line-height: 1.6;
 }
 
-/* Galeria zdjęć */
+/* ==========================================================================
+   IMAGE GALLERY (BOTTOM OF THE PAGE)
+   ========================================================================== */
 
 .recipe-gallery {
-  margin: 24px 0 40px;
+  margin: 32px 0 40px;
+  border-top: var(--border-subtle);
+  padding-top: 24px;
 }
 
 .recipe-gallery > h2 {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
+  font-size: 1.6rem;
 }
 
 .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 12px;
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.gallery-grid .imageblock {
+  margin: 0 !important;
 }
 
 .gallery-grid img {
   width: 100%;
-  border-radius: 12px;
+  height: 160px;
   object-fit: cover;
+  border-radius: var(--radius);
   display: block;
+  box-shadow: var(--shadow-soft);
 }
 
-/* ===========================
-   RESPONSYWNOŚĆ
-   =========================== */
+/* ==========================================================================
+   RESPONSIVENESS (MEDIA QUERIES)
+   ========================================================================== */
 
 @media (max-width: 900px) {
   #header,
@@ -371,20 +427,25 @@ body {
     padding: 0 12px;
   }
 
+  #header > h1,
   #content > h1 {
     flex-direction: column;
     align-items: flex-start;
-    gap: 8px;
-    font-size: 1.5rem;
+    gap: 12px;
+    font-size: 1.8rem;
   }
 
   .recipe-columns {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
+    gap: 28px;
   }
 
   .recipe-details {
     flex-direction: column;
-    align-items: flex-start;
+  }
+
+  .recipe-details .paragraph {
+    flex: 1 1 100%;
   }
 }
 
@@ -398,7 +459,13 @@ body {
     border-radius: 10px;
   }
 
-  .recipe-hero img {
-    max-height: 260px;
+  .recipe-hero img,
+  .recipe-hero .card-image-placeholder {
+    max-height: 240px;
+  }
+  
+  .gallery-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
   }
 }
