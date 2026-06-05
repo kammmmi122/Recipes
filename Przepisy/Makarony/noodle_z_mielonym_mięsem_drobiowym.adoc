@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki sosu sojowego
 * 2 łyżki sosu chili
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

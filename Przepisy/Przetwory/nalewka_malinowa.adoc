@@ -31,7 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 1000 ml wódki 40 lub 45 %
 * 400 g zwykłego cukru
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

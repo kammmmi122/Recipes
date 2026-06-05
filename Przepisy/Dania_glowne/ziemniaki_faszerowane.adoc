@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 150 g jogurtu greckiego
 * 1 ząbek czosnku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

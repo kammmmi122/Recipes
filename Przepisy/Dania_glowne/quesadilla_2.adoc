@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * pół łyżeczki wędzonej mielonej papryki
 * sól i pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

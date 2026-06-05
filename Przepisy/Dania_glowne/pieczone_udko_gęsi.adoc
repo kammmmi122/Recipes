@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 * Kilka gałązek rozmarynu
 * Sól, pieprz do smaku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

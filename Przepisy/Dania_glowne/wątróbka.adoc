@@ -30,7 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 2 cebule
 * olej do smażenia
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -32,7 +32,7 @@ image::20240911_131337.jpg[]
 * koperek
 * cytryna
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

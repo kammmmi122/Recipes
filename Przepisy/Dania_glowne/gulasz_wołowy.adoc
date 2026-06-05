@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 1 mała czerwona papryka
 * 150 g małych pieczarek
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

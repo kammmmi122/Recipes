@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * 1 puszka kokosowego mleczka / 400 ml
 * sól
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

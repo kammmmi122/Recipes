@@ -45,7 +45,7 @@ image::20240421_172701.jpg[]
 * świeża kolendra
 * opcjonalnie jogurt, chlebki naan
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

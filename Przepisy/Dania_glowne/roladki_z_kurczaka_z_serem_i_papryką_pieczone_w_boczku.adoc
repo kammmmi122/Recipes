@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * 1 ząbek czosnku
 * olej do smażenia
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -34,7 +34,7 @@ Brak zdjęcia przepisu 🍲
 * sól i pieprz
 * makaron 500 g
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

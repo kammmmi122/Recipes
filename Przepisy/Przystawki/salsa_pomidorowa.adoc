@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 * garść świeżej kolendry
 * przyprawy: płaska łyżeczka soli; pół płaskiej łyżeczki cukru; po szczypcie cynamonu, kminku i ziela angielskiego
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * opcjonalnie - świeży tymianek
 * 4 żaroodporne miseczki lub 1 żaroodporny garnek lub naczynie do zapiekania
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

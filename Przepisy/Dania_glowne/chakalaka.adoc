@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * tymianek świeży - 10 g
 * papryka żółta - 1 szt.
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

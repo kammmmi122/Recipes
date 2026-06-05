@@ -58,7 +58,7 @@ Brak zdjęcia przepisu 🍲
 * 6 plasterków sera
 * 6 plasterków bekonu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

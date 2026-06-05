@@ -53,7 +53,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki soku z cytryny
 * świeżo zmielony pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

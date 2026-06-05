@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * sól i czarny pieprz
 * oraz do smażenia: mleko roślinne lub woda, mąka pszenna lub ryżowa i olej roślinny
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

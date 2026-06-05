@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * świeżo stary parmezan
 * odrobina posiekanej natki pietruszki i/lub bazylii
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * przyprawy do smaku: sól, pieprz, zioła prowansalskie, słodka papryka i/lub ostra papryka
 * świeże zioła do posypania potrawy (natka pietruszki lub/i koperek)
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

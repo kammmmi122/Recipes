@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * ser kozi - 150 g
 * natka pietruszki - 2 łyżki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

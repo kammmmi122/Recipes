@@ -62,7 +62,7 @@ Brak zdjęcia przepisu 🍲
 * cebula czerwona
 * feta w kostkach
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 * sól - 1 szczypta
 * olej sezamowy - 1 łyżeczka
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

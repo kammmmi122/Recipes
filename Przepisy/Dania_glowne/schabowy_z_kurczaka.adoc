@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * 100 ml śmietany
 * szczypta natki pietruszki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

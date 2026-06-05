@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz
 * makaron
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka sosu sojowego
 * szczypiorek
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -55,7 +55,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka oliwy
 * przyprawy: 1 łyżeczka suszonego oregano, 1/2 łyżeczki kuminu, szczypta ostrej papryki, szczypta cukru, sól, pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

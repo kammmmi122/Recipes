@@ -48,7 +48,7 @@ Brak zdjęcia przepisu 🍲
 * 5 cukinii
 * 200 g tartej mozzarelli
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

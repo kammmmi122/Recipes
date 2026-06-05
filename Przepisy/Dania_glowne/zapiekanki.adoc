@@ -32,7 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 150 g mozzarelli tartej
 * sól i pieprz czarny
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

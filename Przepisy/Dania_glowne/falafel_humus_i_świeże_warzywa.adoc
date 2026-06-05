@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka soli
 * olej do smażenia, najlepszy będzie rzepakowy lub z pestek winogron
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 10 dag kiełbaski
 * 1 łyżka świeżo posiekanej natki pietruszki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

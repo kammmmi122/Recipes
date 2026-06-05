@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * limonka
 * 200 g ryżu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

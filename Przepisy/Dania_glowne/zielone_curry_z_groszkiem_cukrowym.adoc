@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 * ząbek czosnku - 1 szt.
 * ryż jaśminowy - 200 g
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

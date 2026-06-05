@@ -32,7 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 1 jajko
 * 1 łyżeczka soli
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

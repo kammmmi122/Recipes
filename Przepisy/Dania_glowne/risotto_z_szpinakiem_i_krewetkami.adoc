@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 * parmezan starty 150 g
 * orzeszki pinii 50 g
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

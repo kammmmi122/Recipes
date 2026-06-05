@@ -33,7 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 350 ml wody;
 * 150 g cukru.
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

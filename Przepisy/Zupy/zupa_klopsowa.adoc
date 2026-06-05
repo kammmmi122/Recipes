@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 * majeranek 1 szczypta
 * przyprawa do mięsa mielonego farszu i klopsów Prymat 0,5 opakowanie
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

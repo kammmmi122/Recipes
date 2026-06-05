@@ -31,7 +31,7 @@ Brak zdjęcia przepisu 🍲
 * szczypiorek
 * masło
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

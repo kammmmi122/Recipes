@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * pół szklanki przecieru pomidorowego
 * płaska łyżka mąki pszennej
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka oleju sezamowego
 * 5 łyżek wody
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

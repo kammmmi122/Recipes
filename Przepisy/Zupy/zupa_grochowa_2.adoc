@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżek suszonego majeranku
 * 1 pęczek natki pietruszki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -54,7 +54,7 @@ image::20231119_165036.jpg[]
 * świeżo mielony pieprz
 * pieczywo
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

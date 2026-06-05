@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz, cukier
 * mąka do obtoczenia
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

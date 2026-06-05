@@ -45,7 +45,7 @@ Brak zdjęcia przepisu 🍲
 * ¼ szklanki szczypiorku, pokrojonego w grube kawałki
 * ½ marchewki, pocięta w cienkie paseczki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

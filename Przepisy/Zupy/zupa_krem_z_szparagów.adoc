@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * drobno zmielony pieprz
 * 100 ml śmietanki kremówki 30%
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

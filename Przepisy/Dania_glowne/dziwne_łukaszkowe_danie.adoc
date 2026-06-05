@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * 50 g boczku
 * 50 g tartej mozzarelli
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

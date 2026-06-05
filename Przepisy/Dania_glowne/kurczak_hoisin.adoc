@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka oleju sezamowego
 * 1 płaska łyżka cukru
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

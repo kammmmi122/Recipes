@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * 50 g Pecorino Romano do posypania
 * opcjonalnie - świeża bazylia lub natka pietruszki do przystrojenia
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

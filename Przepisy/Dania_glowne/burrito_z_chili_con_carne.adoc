@@ -48,7 +48,7 @@ Brak zdjęcia przepisu 🍲
 * 8 plastrów ser cheddar
 * 4 tortille
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

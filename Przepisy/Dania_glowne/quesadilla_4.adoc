@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka masła klarowanego
 * salsa pomidorowa
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

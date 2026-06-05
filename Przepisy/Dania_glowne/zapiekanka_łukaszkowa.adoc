@@ -52,7 +52,7 @@ Brak zdjęcia przepisu 🍲
 * ziemniak - 1 kg
 * ser cheddar - 100 g
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

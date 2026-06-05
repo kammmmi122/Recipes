@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * olej do smażenia
 * sól, pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

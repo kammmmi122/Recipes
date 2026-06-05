@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * natka pietruszki do posypania
 * woda 150 mililitrów
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

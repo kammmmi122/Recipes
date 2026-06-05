@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz, ziele angielskie, ziarenka pieprzu
 * ulubiony makaron do rosołu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

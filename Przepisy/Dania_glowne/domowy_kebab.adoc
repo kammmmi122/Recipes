@@ -46,7 +46,7 @@ Brak zdjęcia przepisu 🍲
 * 1 zielony długi ogórek
 * ewentualnie 1 czerwona cebula
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

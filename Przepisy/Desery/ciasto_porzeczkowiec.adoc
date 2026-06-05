@@ -49,7 +49,7 @@ image::20240512_215751.jpg[]
 * 1 śmietan-fix
 * gorzkie kakao lub starta ciemna czekolada
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

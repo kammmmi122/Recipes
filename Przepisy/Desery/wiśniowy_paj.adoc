@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki bułki tartej lub zmielonych migdałów
 * cukier puder do oprószenia
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

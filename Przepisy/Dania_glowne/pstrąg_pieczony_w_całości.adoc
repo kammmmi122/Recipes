@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * świeża pietruszka
 * sól i pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

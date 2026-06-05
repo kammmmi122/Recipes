@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * 1 mała cukinia
 * 4 łyżki posiekanego szczypiorku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

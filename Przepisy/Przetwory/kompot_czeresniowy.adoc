@@ -34,7 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki cukru
 * 2 litry przegotowanej wody
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

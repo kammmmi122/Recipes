@@ -46,7 +46,7 @@ Brak zdjęcia przepisu 🍲
 * masło klarowane do smażenia
 * barszcz wigilijny lub barszcz czerwony
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

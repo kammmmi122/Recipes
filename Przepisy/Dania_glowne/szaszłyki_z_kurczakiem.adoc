@@ -31,7 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 1 papryka czerwona
 * przyprawy: sól, pieprz czarny, 1 łyżeczka słodkiej papryki, 0,5 ostrej papryki, oliwa z oliwek
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -32,7 +32,7 @@ Brak zdjęcia przepisu 🍲
 * oliwa z oliwek
 * pieprz i sól
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

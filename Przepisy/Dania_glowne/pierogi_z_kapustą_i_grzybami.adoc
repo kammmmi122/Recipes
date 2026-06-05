@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 3 cebule
 * kilka łyżek oleju roślinnego
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

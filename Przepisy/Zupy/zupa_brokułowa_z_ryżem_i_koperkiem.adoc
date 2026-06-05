@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * 1 pęczek koperka
 * 0.25 szklanki śmietany
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * maccheroni 500 gram
 * woda z gotowania makaronu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

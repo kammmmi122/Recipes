@@ -45,7 +45,7 @@ Brak zdjęcia przepisu 🍲
 * gotowy ze słoiczka dżem z borówki
 * chrupiące ziemniaczki z pieca
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

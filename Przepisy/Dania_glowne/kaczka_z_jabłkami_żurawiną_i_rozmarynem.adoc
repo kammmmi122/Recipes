@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * 1/2 łyżeczki cynamonu
 * 1 łyżka masła + 1 łyżeczka miodu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -34,7 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka masła
 * 1 jajko (opcjonalnie)
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

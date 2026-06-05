@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 * mała garść natki pietruszki
 * pół płaskiej łyżeczki soli
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

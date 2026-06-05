@@ -27,7 +27,7 @@ Brak zdjęcia przepisu 🍲
 * 4 kawałki białej ryby (dorsza, tilapii)
 * sól i pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -29,7 +29,7 @@ Brak zdjęcia przepisu 🍲
 * losowe przyprawy
 * trochę wody
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

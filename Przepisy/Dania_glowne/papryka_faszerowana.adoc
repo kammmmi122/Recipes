@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * sól
 * pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

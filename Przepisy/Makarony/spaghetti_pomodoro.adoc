@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * opcjonalnie ok 100 g parmigiano reggiano (parmezanu) lub grana padano w kawałku
 * opcjonalnie łyżeczka cukru
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

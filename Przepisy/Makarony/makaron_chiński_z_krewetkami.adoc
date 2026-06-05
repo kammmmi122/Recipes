@@ -46,7 +46,7 @@ Brak zdjęcia przepisu 🍲
 * sól morska
 * do posypania: ziarna sezamu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

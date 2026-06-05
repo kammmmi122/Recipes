@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki miodu
 * 1 łyżka musztardy dijon
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

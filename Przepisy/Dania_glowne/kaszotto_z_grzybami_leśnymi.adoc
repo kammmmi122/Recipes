@@ -35,7 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 1/2 pęczka natki pietruszki
 * sól, świeżo mielony pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

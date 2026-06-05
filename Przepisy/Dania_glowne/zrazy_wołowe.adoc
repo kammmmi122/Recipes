@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * mąka pszenna - 20 g
 * udziec wołowy - 1000 g
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

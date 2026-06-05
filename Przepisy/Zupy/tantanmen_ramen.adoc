@@ -76,7 +76,7 @@ image::20240617_154401.jpg[]
 * Prażony sezam
 * Nori.
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

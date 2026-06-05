@@ -51,7 +51,7 @@ Brak zdjęcia przepisu 🍲
 * łyżka dobrego oleju
 * sól
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

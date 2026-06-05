@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * kostka buliony wołowego
 * 100 g boczku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

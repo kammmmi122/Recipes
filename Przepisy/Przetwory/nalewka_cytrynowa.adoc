@@ -32,7 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 1 szklanka wody
 * 1 szklanka cukru
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

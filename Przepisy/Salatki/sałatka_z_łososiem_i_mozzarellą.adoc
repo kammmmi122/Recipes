@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * czarny pieprz
 * sól
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

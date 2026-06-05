@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * pół małej czerwonej papryki
 * mały pęczek szczypiorku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * 1 - 2 łyżeczki mąki
 * 1 łyżka posiekanego koperku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -38,7 +38,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki białego wina (opcjonalnie)
 * 3 łyżki soku z cytryny
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

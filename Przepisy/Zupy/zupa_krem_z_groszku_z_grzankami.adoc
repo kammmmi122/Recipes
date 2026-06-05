@@ -41,7 +41,7 @@ Brak zdjęcia przepisu 🍲
 * trochę pasta z oliwek
 * trochę kiełki do dekoracji
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

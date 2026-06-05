@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki posiekanego koperku
 * sól, pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

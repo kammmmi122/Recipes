@@ -37,7 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 1 litr bulionu np. wieprzowego, drobiowego
 * 1 łyżka posiekanej natki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

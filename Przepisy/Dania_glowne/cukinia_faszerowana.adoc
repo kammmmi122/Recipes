@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 1 jajko
 * 150 g tartego sera (np. mozzarelli)
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

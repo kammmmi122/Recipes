@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * pieprz
 * natka pietruszki
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

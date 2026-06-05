@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 * 650 ml mleka
 * szczypta gałki muszkatołowej
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

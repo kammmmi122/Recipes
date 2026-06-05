@@ -42,7 +42,7 @@ Brak zdjęcia przepisu 🍲
 * 5 łyżek sosu sojowego
 * 3 łyżki cukru (np. trzcinowego)
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -43,7 +43,7 @@ Brak zdjęcia przepisu 🍲
 * ziemniaki np. młode
 * szparagi (po ok. 6 sztuk na porcję) lub brokuły, fasolka szparagowa (mogą być mrożone)
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

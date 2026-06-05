@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 * świeżo mielony pieprz i sól
 * kiełki jarmużu lub słonecznika
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

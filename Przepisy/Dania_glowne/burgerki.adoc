@@ -34,7 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki majonezu
 * 2 łyżki keczupu
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

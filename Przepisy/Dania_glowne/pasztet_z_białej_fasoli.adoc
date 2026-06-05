@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * 5 czubatych łyżek zmielonych płatków owsianych
 * sól i pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

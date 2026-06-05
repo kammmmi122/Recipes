@@ -32,7 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 1/4 szklanki letniego mleka
 * 3 łyżki mąki pszennej
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

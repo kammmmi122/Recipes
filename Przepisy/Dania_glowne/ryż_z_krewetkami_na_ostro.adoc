@@ -39,7 +39,7 @@ Brak zdjęcia przepisu 🍲
 * świeża kolendra i/lub mięta
 * świeżo zmielony czarny pieprz i sól morska
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * sok z 1 cytryny
 * sól i zmielony pieprz
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

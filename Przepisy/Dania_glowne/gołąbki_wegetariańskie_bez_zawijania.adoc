@@ -48,7 +48,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz, cukier do smaku
 * pęczek koperku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

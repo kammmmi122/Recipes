@@ -44,7 +44,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki oleju roślinnego
 * 2 łyżeczki mieszanki przypraw np. gyros
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

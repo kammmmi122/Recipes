@@ -36,7 +36,7 @@ Brak zdjęcia przepisu 🍲
 * 1/2 łyżeczki proszku do pieczenia
 * do smażenia: np. masło klarowane, olej kokosowy, inny olej roślinny
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -45,7 +45,7 @@ Brak zdjęcia przepisu 🍲
 * sól i pieprz do smaku
 * 1 cebula
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie

@@ -40,7 +40,7 @@ Brak zdjęcia przepisu 🍲
 * 4 gałązek tymianek
 * 1 szczypta sól morska i pieprz czarny do smaku
 
-|
+
 
 [.recipe-column-box]
 === Przygotowanie
