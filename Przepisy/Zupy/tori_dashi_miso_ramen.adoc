@@ -1,4 +1,4 @@
-= Tori dashi miso ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tori Dashi Miso Ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 
 [cols=".<a,.<a"]
 [frame=none]
@@ -34,7 +34,6 @@
 * spicy miso tare
 * olej z palonego czosnku
 * grubszy makaron, który dobrze wchłania bogaty bulion
-
 |
 
 == Przygotowanie

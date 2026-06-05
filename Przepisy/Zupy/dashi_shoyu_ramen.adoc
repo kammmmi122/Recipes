@@ -6,14 +6,17 @@
 |===
 |
 == Szczegóły
-* czas przygotowania:
-* porcji:
-* źródło:
+* czas przygotowania: około 2 godzin
+* porcji: 4
+* źródło: Warsztaty w szkole K5
 
 == Składniki
 
-== Bulion
-Bulion minimalistyczny na wywarze z kombu i katsuobushi, często z dodatkiem kurczaka lub ryb, z dodatkiem sosu sojowego. Shoyu oznacza sos sojowy, nadaje bulionowy ciemniejszy kolor, oraz intensywniejszy smak.
+== Wywar
+* 3 litry woda
+* 0,2 kg kombu
+* 2 kubki bonito (katsuobushi)
+* 0,5 kubka sos sojowy
 
 == Dodatki
 * narutomaki (ciastko rybne z różowym spiralnym wzorem)
@@ -24,18 +27,12 @@ Bulion minimalistyczny na wywarze z kombu i katsuobushi, często z dodatkiem kur
 * goma tare
 * shoyu tare
 * olej chili
-
-== Makaron
-Zwykle lekko pofalowany, średniej grubości makaron.
-
-== Wywar (składniki)
-* 3 litry woda
-* 0,2 kg kombu
-* 2 kubki bonito (katsuobushi)
-* 0,5 kubka sos sojowy
+* lekko pofalowany, średniej grubości makaron
 
 == Przygotowanie
+
 Do garnka wkładamy kombu i zalewamy wodą. Gotujemy na minimalnym ogniu przez około 1 godzinę. Wyciągamy kombu, dodajemy bonito i doprowadzamy do wrzenia. Studzimy i odcedzamy.
+Dodajemy sos sojowy i mieszamy. Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem i dodajemy ulubione dodatki.
 
 |===
 
