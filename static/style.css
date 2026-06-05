@@ -359,20 +359,6 @@ body {
   display: block;
 }
 
-/* Tabela 2-kolumnowa (Składniki / Przygotowanie) */
-
-table.tableblock {
-  width: 100%;
-  border: none;
-  box-shadow: none;
-  background: transparent;
-}
-
-table.tableblock > colgroup,
-table.tableblock > tbody > tr > td.tableblock {
-  border: none;
-}
-
 /* ===========================
    RESPONSYWNOŚĆ
    =========================== */

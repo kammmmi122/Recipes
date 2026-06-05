@@ -10,6 +10,9 @@
 * https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
 
 [.recipe-columns]
+[cols=".<a,.<a"]
+[frame=none]
+[grid=none]
 |===
 |
 == Składniki
