@@ -28,12 +28,11 @@ Bulion minimalistyczny na wywarze z kombu i katsuobushi, często z dodatkiem kur
 == Makaron
 Zwykle lekko pofalowany, średniej grubości makaron.
 
-
 == Wywar (składniki)
-* woda 3 litry
-* kombu 0,2 kg
-* bonito (katsuobushi) 2 kubki
-* sos sojowy 0,5 kubka
+* 3 litry woda
+* 0,2 kg kombu
+* 2 kubki bonito (katsuobushi)
+* 0,5 kubka sos sojowy
 
 == Przygotowanie
 Do garnka wkładamy kombu i zalewamy wodą. Gotujemy na minimalnym ogniu przez około 1 godzinę. Wyciągamy kombu, dodajemy bonito i doprowadzamy do wrzenia. Studzimy i odcedzamy.
