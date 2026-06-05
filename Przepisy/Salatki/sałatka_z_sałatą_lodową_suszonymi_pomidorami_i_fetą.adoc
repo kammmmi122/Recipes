@@ -44,3 +44,5 @@ Posypać pestkami dyni i polać winegretem: olej z suszonych pomidorów (można 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

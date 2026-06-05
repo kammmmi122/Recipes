@@ -47,3 +47,5 @@ Gotową chakalakę przekładamy na talerz i posypujemy z wierzchu odrobiną curr
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

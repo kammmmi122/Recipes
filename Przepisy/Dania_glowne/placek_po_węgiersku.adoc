@@ -80,3 +80,5 @@ Przełożyć na talerz, nałożyć gorący gulasz i złożyć na pół. Po wierz
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

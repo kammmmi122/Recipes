@@ -35,3 +35,5 @@ Piersi z kurczaka przekroić na większą kostkę. Oprószyć solą, pieprzem i 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

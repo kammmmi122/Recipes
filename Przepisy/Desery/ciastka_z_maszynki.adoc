@@ -42,3 +42,5 @@ Chłodne ciasteczka dobrze przechowują się w szczelnej puszce, w temperaturze 
 
 image::/Recipes/static/images/20251230_232424.jpg[]
 image::/Recipes/static/images/20251230_232420.jpg[]
+
+--

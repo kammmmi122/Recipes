@@ -74,3 +74,5 @@ Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 
 image::/Recipes/static/images/20240512_215751.jpg[]
 image::/Recipes/static/images/20240512_223800.jpg[]
+
+--

@@ -47,3 +47,5 @@ Na koniec gotować potrawę, dodając kostkę bulionu wołowego. W razie potrzeb
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

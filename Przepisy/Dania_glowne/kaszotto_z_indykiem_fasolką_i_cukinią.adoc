@@ -46,3 +46,5 @@ Fasolkę przyciąć na końcach i pokroić na kawałki. Cukinię pokroić w kost
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

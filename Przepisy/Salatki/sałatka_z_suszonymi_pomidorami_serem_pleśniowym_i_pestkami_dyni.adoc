@@ -35,3 +35,5 @@ Sałatę umyć. Pokroić suszone pomidory, orzechy i ser camembert. Zmieszać sa
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

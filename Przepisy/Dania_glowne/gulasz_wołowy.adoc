@@ -51,3 +51,5 @@ Po podanym czasie dodać do gulaszu pokrojoną paprykę oraz pokrojone pieczarki
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

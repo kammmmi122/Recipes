@@ -45,3 +45,5 @@ Zupę odstawić z ognia, dodać posiekany koperek i szczypiorek. Śmietanę wymi
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

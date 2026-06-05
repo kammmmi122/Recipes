@@ -53,3 +53,5 @@ Na każdej papryce położyć plasterek sera lub starty ser i zapiekać jeszcze 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

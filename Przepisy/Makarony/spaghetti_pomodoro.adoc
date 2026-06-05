@@ -37,3 +37,5 @@ Jeśli zdecydujecie się użyć świeżych pomidorów, to warto zacząć od spar
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

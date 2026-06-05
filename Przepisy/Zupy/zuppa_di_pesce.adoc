@@ -52,3 +52,5 @@ Zupę nałożyć do talerzy, dodać grzanki. Obok każdej porcji postawić taler
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

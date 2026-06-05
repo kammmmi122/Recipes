@@ -39,3 +39,5 @@ Podawać z ziemniakami i surówką
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

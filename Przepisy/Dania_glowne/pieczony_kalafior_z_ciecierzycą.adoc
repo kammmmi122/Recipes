@@ -51,3 +51,5 @@ Podpowiem też, że jeśli kaszę wstawicie w tym samym czasie co warzywa, to w 
 == Zdjęcia
 
 image::/Recipes/static/images/20241026_124801.jpg[]
+
+--

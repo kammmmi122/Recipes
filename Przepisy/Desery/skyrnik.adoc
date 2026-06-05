@@ -48,3 +48,5 @@ Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod prz
 == Zdjęcia
 
 image::/Recipes/static/images/20251230_232429.jpg[]
+
+--

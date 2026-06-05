@@ -50,3 +50,5 @@ Bakława (Baklava) jest najlepsza na drugi lub trzeci dzień.
 == Zdjęcia
 
 image::/Recipes/static/images/20250724_215629.jpg[]
+
+--

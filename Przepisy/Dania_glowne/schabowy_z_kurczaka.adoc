@@ -47,3 +47,5 @@ Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

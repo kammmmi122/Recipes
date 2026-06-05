@@ -62,3 +62,5 @@ Naczynie z gotową do pieczenia zapiekanką ziemniaczaną z kiełbasą umieść 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

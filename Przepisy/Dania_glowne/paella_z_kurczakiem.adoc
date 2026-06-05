@@ -51,3 +51,5 @@ Potrawę podaję w naczyniu, w których została przygotowana. Przed podaniem po
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

@@ -50,3 +50,5 @@ Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywności
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

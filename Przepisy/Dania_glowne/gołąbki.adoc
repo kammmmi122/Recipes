@@ -48,3 +48,5 @@ Jeśli dodajemy śmietanę należy rozprowadzać ją stopniowo z sosem, dodając
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

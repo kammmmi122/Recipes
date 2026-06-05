@@ -49,3 +49,5 @@ Zupę odstawić z ognia i zaprawić śmietaną (najpierw wymieszać ją ze stopn
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

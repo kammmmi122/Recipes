@@ -67,3 +67,5 @@ W tym czasie możecie przygotować sos. Po prostu wlewacie wszystkie składniki 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

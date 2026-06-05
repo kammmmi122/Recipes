@@ -53,3 +53,5 @@ Guacamole podawaj od razu lub też po schłodzeniu w lodówce. Pastę guacamole 
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

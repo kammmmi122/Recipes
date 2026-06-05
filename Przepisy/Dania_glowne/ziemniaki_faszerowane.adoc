@@ -50,3 +50,5 @@ Ziemniaki wyjmij z piekarnika i podawaj posypane skwareczkami, z sosem i szczypi
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

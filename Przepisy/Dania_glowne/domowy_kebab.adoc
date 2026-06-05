@@ -49,3 +49,5 @@ Następnie pokrój warzywa. Kapustę drobno poszatkuj, pomidory i ogórki pokró
 
 [.recipe-gallery]
 == Zdjęcia
+
+--

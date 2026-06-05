@@ -62,3 +62,5 @@ Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany)
 [.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20230416_155911.jpg[]
+
+--

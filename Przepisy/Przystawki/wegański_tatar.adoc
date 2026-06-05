@@ -69,3 +69,5 @@ Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawi
 [.recipe-gallery]
 == Zdjęcia
 image::/Recipes/static/images/20231119_165036.jpg[]
+
+--
