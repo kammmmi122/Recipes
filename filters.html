@@ -89,73 +89,72 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const tabs = document.querySelectorAll('.tabs button');
+  const tabs = Array.from(document.querySelectorAll('.tabs button'));
   const searchInput = document.querySelector('#search');
   const cardsGrid = document.querySelector('.cards-grid');
-  const allButton = document.querySelector('.tabs button[data-filter="all"]');
+  const allButton = tabs.find(t => t.dataset.filter === 'all');
 
-  function getCards(){
+  function getCards() {
     return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
   }
 
-  function applyFilters(){
-    const q = (searchInput && searchInput.value || '').toLowerCase().trim();
-    const activeFilters = Array.from(tabs)
-      .filter(t => t.classList.contains('active') && t.getAttribute('data-filter') !== 'all')
-      .map(t => t.getAttribute('data-filter'));
+  function getActiveFilters() {
+    return tabs
+      .filter(tab => tab.classList.contains('active') && tab.dataset.filter !== 'all')
+      .map(tab => tab.dataset.filter);
+  }
 
-    const cards = getCards();
-    cards.forEach(card => {
+  function applyFilters() {
+    const q = (searchInput && searchInput.value || '').toLowerCase().trim();
+    const activeFilters = getActiveFilters();
+
+    getCards().forEach(card => {
       const title = (card.dataset.title || '').toLowerCase();
       const category = (card.dataset.category || '').toLowerCase();
       const emojiText = (card.dataset.emoji || '').toLowerCase();
-      const text = `${title} ${category} ${emojiText}`;
+      const searchableText = `${title} ${category} ${emojiText}`;
 
-      const matchesSearch = q === '' || text.includes(q);
-      const matchesCategory = activeFilters.length === 0 || activeFilters.some(filter => emojiText.includes(filter) || category.includes(filter));
+      const matchesSearch = q === '' || searchableText.includes(q);
+      const matchesFilters = activeFilters.length === 0 || activeFilters.some(filter => emojiText.includes(filter));
 
-      if(matchesSearch && matchesCategory){
-        card.style.display = '';
-      } else {
-        card.style.display = 'none';
-      }
+      card.style.display = matchesSearch && matchesFilters ? '' : 'none';
     });
   }
 
-  tabs.forEach(t => t.addEventListener('click', ()=>{
-    const filterValue = t.getAttribute('data-filter') || 'all';
-    const allButton = document.querySelector('.tabs button[data-filter="all"]');
-
-    if(filterValue === 'all'){
-      tabs.forEach(x => x.classList.toggle('active', x === allButton));
-    } else {
-      t.classList.toggle('active');
-      if(allButton){
-        allButton.classList.remove('active');
-      }
-
-      const selected = Array.from(tabs).filter(x => x !== allButton && x.classList.contains('active'));
-      if(selected.length === 0 && allButton){
-        allButton.classList.add('active');
-      }
+  function updateAllButtonState() {
+    const activeNonAll = tabs.some(tab => tab.dataset.filter !== 'all' && tab.classList.contains('active'));
+    if (allButton) {
+      allButton.classList.toggle('active', !activeNonAll);
     }
+  }
 
-    applyFilters();
-  }));
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const filterValue = tab.dataset.filter || 'all';
 
-  if(searchInput){
+      if (filterValue === 'all') {
+        tabs.forEach(t => t.classList.toggle('active', t === tab));
+      } else {
+        tab.classList.toggle('active');
+      }
+
+      updateAllButtonState();
+      applyFilters();
+    });
+  });
+
+  if (searchInput) {
     let debounce;
-    searchInput.addEventListener('input', ()=>{
+    searchInput.addEventListener('input', () => {
       clearTimeout(debounce);
-      debounce = setTimeout(()=>applyFilters(), 120);
+      debounce = setTimeout(applyFilters, 120);
     });
   }
 
-  if(allButton){
+  if (allButton) {
     allButton.classList.add('active');
   }
 
-  // run once at start
   applyFilters();
 });
 </script>
