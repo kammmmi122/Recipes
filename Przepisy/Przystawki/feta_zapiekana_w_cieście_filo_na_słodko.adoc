@@ -10,7 +10,7 @@
 * https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

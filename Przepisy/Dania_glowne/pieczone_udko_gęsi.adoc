@@ -10,7 +10,7 @@
 * https://akademiasmaku.pl/przepis/udka-z-gesi-pieczone-z-jablkami,4648[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

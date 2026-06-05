@@ -11,7 +11,7 @@
 * https://missberry.pl/char-siu-wieprzowina-po-chinsku/[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

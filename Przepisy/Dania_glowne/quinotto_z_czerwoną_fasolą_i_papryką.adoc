@@ -10,7 +10,7 @@
 * https://drive.google.com/file/d/1Z9ZqAq8x4MTHByM5vwEB_yQHJAp-0u3r/view?usp=sharing[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

@@ -10,7 +10,7 @@
 * https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

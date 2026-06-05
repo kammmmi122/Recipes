@@ -10,7 +10,7 @@
 * https://www.alemeksyk.eu/przepisy-meksykanskie/na-bazie-tortilli/quesadillas/item/607-quesadilla-z-kurczakiem-z-chipotle-w-sosie-adobo-przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

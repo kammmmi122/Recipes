@@ -10,7 +10,7 @@
 * https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-ze-szparagami-i-lososiem-wedzonym[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===

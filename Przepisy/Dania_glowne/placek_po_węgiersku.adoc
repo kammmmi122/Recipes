@@ -11,7 +11,7 @@
 * https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
 
 [.recipe-columns]
-[cols=".<a,.<a"]
+[cols="1a,1a"]
 [frame=none]
 [grid=none]
 |===
