@@ -5,8 +5,10 @@
 
 [.recipe-details]
 == Szczegóły
-
-
+* czas przygotowania: 30 minut
+* czas gotowania: 3 godziny
+* 8 porcji
+* https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
 
 [.recipe-columns]
 [cols=".<a,.<a"]
