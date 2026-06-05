@@ -42,7 +42,7 @@ def get_value(char):
 def create_index_adoc():
 
     with open(f"index.adoc", "w", encoding="utf8") as file:
-        file.write("= Lista przepisów\n")
+        file.write("= Moje Przepisy\n")
         file.write("\n++++\ninclude::filters.html[]\n++++\n")
 
     for path, subdirs, files in os.walk("."):
@@ -70,24 +70,26 @@ def create_index_adoc():
 
                 # determine thumbnail or placeholder
                 image_path = find_first_image(os.path.join(path, name))
-                if image_path:
-                    image_html = f'<div class="card-image" style="background-image:url(\'{html.escape(image_path, quote=True)}\')"></div>'
-                else:
-                    image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
+                category_slug = slugify(folder_name)
+                image_classes = "card-image"
+                if not image_path:
+                    image_classes += " card-image-placeholder"
 
                 emoji_html = " ".join(tags)
                 category_attr = html.escape(folder_name)
                 title_attr = html.escape(title.lower())
+                subtitle_text = html.escape(cat_label or "Przepis")
                 card_html = (
-                    f'<article class="card" data-category="{category_attr}" data-title="{title_attr}">'
+                    f'<article class="card" data-category="{category_attr}" data-tags="{html.escape(cat_label.lower())}" data-emoji="{html.escape(emoji_html, quote=True)}" data-title="{title_attr}">'
                     f'<a href="{html.escape(path_to_html, quote=True)}">'
-                    f'{image_html}'
-                    f'<div class="card-content">'
-                    f'<div class="card-meta">'
-                    f'<span class="card-category">{html.escape(folder_name)}</span>'
-                    f'</div>'
+                    f'<div class="{image_classes}" style="background-image:url(\'{html.escape(image_path or "", quote=True)}\')">'
+                    f'<span class="card-badge card-badge--{category_slug}">{html.escape(folder_name)}</span>'
+                    f'<div class="card-overlay"></div>'
+                    f'<div class="card-copy">'
+                    f'<div class="card-copy-tag">{subtitle_text}</div>'
                     f'<div class="card-title">{html.escape(title)}</div>'
-                    f'<div class="card-emoji">{html.escape(emoji_html)}</div>'
+                    f'<div class="card-copy-subtitle">Zobacz przepis →</div>'
+                    f'</div>'
                     f'</div>'
                     f'</a></article>'
                 )

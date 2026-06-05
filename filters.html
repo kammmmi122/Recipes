@@ -100,11 +100,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const cards = getCards();
     cards.forEach(card => {
       const text = (card.textContent || '').toLowerCase();
-      const tagEl = card.querySelector('.card-emoji');
-      const tagText = tagEl ? (tagEl.textContent || '').toLowerCase() : '';
+      const emojiText = (card.dataset.emoji || '').toLowerCase();
 
       const matchesSearch = q === '' || text.includes(q);
-      const matchesCategory = activeCategory === 'all' || tagText.includes(activeCategory);
+      const matchesCategory = activeCategory === 'all' || emojiText.includes(activeCategory);
 
       if(matchesSearch && matchesCategory){
         card.style.display = '';
