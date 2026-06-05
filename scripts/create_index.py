@@ -45,31 +45,73 @@ def create_index_adoc():
     with open(f"index.adoc", "w", encoding="utf8") as file:
         file.write("= Lista przepisów\n")
         file.write("\n++++\ninclude::filters.html[]\n++++\n")
+    # Mapping emojis to user-visible category tags
+    emoji_map = {
+        "🌱": "vege",
+        "🐟": "ryby",
+        "🦐": "ryby",
+        "🔥": "ostre",
+        "🐔": "mięsne",
+        "🦆": "mięsne",
+        "🐖": "mięsne",
+        "🥩": "mięsne",
+    }
 
     for path, subdirs, files in os.walk("."):
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
-        index = 0
         folder_name = path.split("\\")[-1].replace("_", " ")
         if ".\\" in path and not in_path(path):
             with open(f"index.adoc", "a+", encoding="utf8") as file:
                 file.write(f"\n== {folder_name}\n\n")
 
+        # Build an HTML grid for this folder using passthrough block
+        cards = []
         for name in files:
             if name.endswith("adoc") and name != "index.adoc":
-                index += 1
                 path_to_html = os.path.join(path.replace(".\\", ""), name.replace("adoc", "html")).replace("\\", "/")
-
                 title = name.replace("_", " ").capitalize().replace(".adoc", "")
-                tags = [""]
-                with open(os.path.join(path, name), "r+", encoding="utf8") as ascii_file:
-                    ascii_text = ascii_file.read()
+                tags = []
+                try:
+                    with open(os.path.join(path, name), "r", encoding="utf8") as ascii_file:
+                        ascii_text = ascii_file.read()
+                        for symbol in symbols:
+                            if symbol in ascii_text:
+                                tags.append(symbol)
+                except Exception:
+                    ascii_text = ""
 
-                    for symbol in symbols:
-                        if ascii_text.find(symbol) != -1:
-                            tags.append(symbol)
+                # Decide primary human-readable category
+                categories = set()
+                for s in tags:
+                    cat = emoji_map.get(s)
+                    if cat:
+                        categories.add(cat)
 
-                with open(f"index.adoc", "a+", encoding="utf8") as file:
-                    file.write(f"{index}. link:{path_to_html}[{title}]{' '.join(tags)}\n")
+                cat_label = ", ".join(sorted(categories)) if categories else ""
+
+                # build card HTML
+                emoji_html = " ".join(tags)
+                tag_html = f'<div class="card-tag">{cat_label}</div>' if cat_label else ''
+                card_html = (
+                    f'<article class="card">'
+                    f'<a href="{path_to_html}">'
+                    f'<div class="card-emoji">{emoji_html}</div>'
+                    f'<div class="card-title">{title}</div>'
+                    f'{tag_html}'
+                    f'</a></article>'
+                )
+                cards.append(card_html)
+
+        if cards:
+            with open(f"index.adoc", "a+", encoding="utf8") as file:
+                file.write("++++\n")
+                file.write('<div class="cards-wrapper">\n')
+                file.write('<div class="cards-grid">\n')
+                for c in cards:
+                    file.write(c + "\n")
+                file.write('</div>\n')
+                file.write('</div>\n')
+                file.write("++++\n")
 
 
 if __name__ == "__main__":

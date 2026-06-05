@@ -34,6 +34,7 @@
 </style>
 
 <div id="filters">
+  <input id="search" class="search-input" type="search" placeholder="Szukaj..." aria-label="Szukaj przepisów">
   <button data-filter="🌱">🌱 Wege</button>
   <button data-filter="🐟">🐟 Ryba</button>
   <button data-filter="🐔">🐔 Kurczak</button>
@@ -49,29 +50,30 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lists = document.querySelectorAll("ul, ol");
   const buttons = document.querySelectorAll("#filters button");
+  const searchInput = document.querySelector('#search');
 
   // Track active filters (multi-select)
   const activeFilters = new Set();
 
   function applyFilters() {
+    const query = (searchInput && searchInput.value || '').toLowerCase().trim();
     lists.forEach(list => {
       const items = Array.from(list.querySelectorAll("li"));
       let visibleCount = 0;
 
       items.forEach(li => {
-        const text = li.textContent || "";
+        const text = (li.textContent || "").toLowerCase();
 
-        // If "all" is active → show everything
-        if (activeFilters.has("all") || activeFilters.size === 0) {
-          li.style.display = "";
-          visibleCount++;
-          return;
+        // Search match
+        const searchMatch = query === '' || text.includes(query);
+
+        // Filter match
+        let filterMatch = true;
+        if (!(activeFilters.has("all") || activeFilters.size === 0)) {
+          filterMatch = [...activeFilters].some(tag => text.includes(tag));
         }
 
-        // Otherwise match ANY selected tag
-        const matches = [...activeFilters].some(tag => text.includes(tag));
-
-        if (matches) {
+        if (searchMatch && filterMatch) {
           li.style.display = "";
           visibleCount++;
         } else {
@@ -118,6 +120,14 @@ document.addEventListener("DOMContentLoaded", function () {
       applyFilters();
     });
   });
+
+  if (searchInput) {
+    let debounce;
+    searchInput.addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(() => applyFilters(), 150);
+    });
+  }
 
   // Initial state: show all
   applyFilters();
