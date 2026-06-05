@@ -1,20 +1,31 @@
 = Pulpety w sosie koperkowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 mała czerstwa bułka (np. kajzerka)
 * mleko lub woda do namoczenia bułki
@@ -31,7 +42,9 @@
 * 1 - 2 łyżeczki mąki
 * 1 łyżka posiekanego koperku
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 15 minut. Do większej miski włożyć zmielone mięso, dodać obraną i startą na tarce (o dużych oczkach) cebulę, jajko, sól i pieprz oraz odciśniętą bułkę. Wszystko dobrze wymieszać. Uformować niewielkie kulki, otoczyć je w mące.
 
@@ -44,11 +57,4 @@ Zmniejszyć ogień do minimum i gotować powoli, na małym ogniu, pod przykrycie
 W razie potrzeby można zagęścić sos mąką, którą przesiewamy przez sitko, bezpośrednio do wywaru. Możemy też rozprowadzić mąkę najpierw z 2 łyżkami wody, później dodać kilka łyżek wywaru i po wymieszaniu wszystko wlać do garnka z pulpecikami, następnie zagotować.
 
 Na koniec dodać posiekany koperek i odstawić z ognia.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

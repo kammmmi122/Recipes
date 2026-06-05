@@ -1,20 +1,31 @@
 = Buraki po burgundzku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: powyżej godziny
-* 6 - 8 porcji
-* https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: powyżej godziny
+
+[.recipe-details-item]
+👥 6 - 8 porcji
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 6 szalotek
 * 500 g małych pieczarek
@@ -33,7 +44,9 @@
 * sól i świeżo mielony czarny pieprz
 * oliwa
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Szalotki obrać, ale nie kroić. Po kolei nadziewać każdą z nich na widelec i opalać nad palnikiem gazowym przez kilka minut, dopóki nie będzie mocno przypalona. Opalone szalotki odłożyć na bok.
 
@@ -44,11 +57,4 @@ Dodać pokrojone w pół-talarki marchewki, pokrojoną w drobną kostkę pietrus
 Po upływie godziny spróbować i dodać sól oraz pieprz do smaku. W razie potrzeby dodać jeszcze pół szklanki bulionu i gotować kolejne pół godziny.
 
 Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód talerza kawałkiem pieczywa. Gulasz jest lepszy z każdym kolejnym dniem, szczególnie warto poczekać do trzeciego dnia.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

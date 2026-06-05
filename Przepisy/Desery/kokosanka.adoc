@@ -1,20 +1,30 @@
 = Kokosanka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20231209_214411.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* czas pieczenia: 50 minut
-* źródło przepisu: zeszyt mamy
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+🕒 czas pieczenia: 50 minut
+
+[.recipe-details-item]
+📝 źródło przepisu: zeszyt mamy
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Ciasto:
 
@@ -34,7 +44,9 @@
 * 3/4 szklanki cukru
 * 200 g wiórków kokosowych
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
@@ -44,10 +56,11 @@ Ubić na sztywno 6 białek. Dodać 3/4 szklanki cukru i kontynuować ubijanie. D
 
 Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, następnie pozostałe ciasto. Piec około 50 minut w temperaturze 180 stopni Celsjusza, góra-dół.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231209_214411.jpg[]
 image::/Recipes/static/images/20231210_184314.jpg[]

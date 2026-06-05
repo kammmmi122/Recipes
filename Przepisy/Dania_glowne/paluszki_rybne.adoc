@@ -1,30 +1,34 @@
 = Paluszki rybne 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcje
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 opakowania paluszków rybnych Frosta
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Paluszki rybne upiec w piekarniku według instrukcji na opakowaniu.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

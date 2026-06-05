@@ -1,20 +1,30 @@
 = Sernik tradycyjny 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20241227_221828.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina 30 minut
-* 12 porcje
-* https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina 30 minut
+
+[.recipe-details-item]
+👥 12 porcje
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 kg mielonego twarogu np. gęsty z kubełka
 * 4 średnie jajka - około 240 g po rozbiciu
@@ -22,7 +32,9 @@
 * 150 g cukru - około 3/4 szklanki
 * 1 saszetka budyniu waniliowego bez cukru - około 40 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Nagrzej piekarnik do 190 stopni z pieczeniem góra/dół. Kostkę masła o wadze 200 gramów roztop w rondelku na minimalnej mocy lub w mikrofali. Rondelek odstaw do przestudzenia.
 
@@ -36,10 +48,11 @@ Formę umieść w piekarniku nagrzanym do 190 stopni. Środkowa półka z grzani
 
 Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polewą czekoladową.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20241227_221828.jpg[]
 

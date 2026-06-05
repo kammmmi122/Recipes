@@ -1,21 +1,33 @@
 = Bułki cynamonowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240823_130756.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas wyrastania ciasta: 1 godzina 30 minut
-* czas pieczenia: 20 minut
-* 24 bułeczki
-* https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas wyrastania ciasta: 1 godzina 30 minut
+
+[.recipe-details-item]
+🕒 czas pieczenia: 20 minut
+
+[.recipe-details-item]
+📝 24 bułeczki
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 35 g drożdży świeżych lub około 10 g drożdży suszonych
 * 2 łyżki mąki pszennej - około 30 g
@@ -34,7 +46,9 @@
 * mleko do posmarowania bułek przed pieczeniem
 * lukier cytrynowy
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zacznij od szykowania rozczynu do bułek cynamonowych. W jednej misce umieść razem: 5 łyżek mleka (mleko może być lekko ciepłe, ale nie może być gorące); dwie łyżki mąki pszennej, czyli około 30 gramów mąki; 35 gramów świeżych drożdży lub około 10 gramów drożdży suszonych; 2 łyżki cukru drobnego, czyli około 30 gramów cukru.
 
@@ -68,10 +82,11 @@ Cynamonki można wyjmować z piekarnika od razu po upieczeniu. Po chwili polecam
 
 Bułeczki cynamonowe można po przestudzeniu polukrować.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240823_130756.jpg[]
 image::/Recipes/static/images/20240823_130801.jpg[]

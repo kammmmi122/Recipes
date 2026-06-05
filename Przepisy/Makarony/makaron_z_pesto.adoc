@@ -1,20 +1,30 @@
 = Makaron z pesto 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20241007_174207.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 25 minut
-* 4 porcje
-* https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 25 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 300 g makaronu
 * 1 doniczka bazylii (3 garści)
@@ -25,7 +35,9 @@
 * 20 g tartego parmezanu
 * sól, pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Rozgrzej patelnię, wrzuć na nią orzeszki piniowe i podpraż je przez kilka minut, aż delikatnie się zarumienią.
 
@@ -35,10 +47,11 @@ Za pomocą blendera zmiksuj całość na gładki sos, dopraw do smaku. Jeśli so
 
 Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20241007_174207.jpg[]
 

@@ -1,20 +1,30 @@
 = Tort truskawkowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240427_105458.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 20 porcji
-* https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Biszkopt:
 
@@ -49,7 +59,9 @@
 * 2 łyżeczki cukru wanilinowego
 * 1/2 opakowania galaretki truskawkowej (w proszku)
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 === Biszkopt:
 
@@ -93,10 +105,11 @@ Serek rozmieszać łyżką, dodać cukier puder, cukier wanilinowy i wymieszać.
 
 Tort truskawkowy wyjąć ostrożnie z tortownicy i położyć na paterze. Gotowym kremem posmarować bok i wierzch tortu. Truskawki na koronę obrać i przekroić w pionie 3 razy. Układać je okręgami na wierzchu ciasta, zaczynając od krawędzi toru. Następnie posmarować je delikatnie galaretką (będą ładnie błyszczały). Resztę truskawek przepołowić i ozdobić nimi dolną cześć toru, jak na zdjęciach.Udanych wypieków:)
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240427_105458.jpg[]
 image::/Recipes/static/images/20240427_105504.jpg[]

@@ -1,20 +1,30 @@
 = Pasta alla norma 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20231219_152132.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 50 minut
-* 4 porcji
-* https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 50 minut
+
+[.recipe-details-item]
+👥 4 porcji
+
+[.recipe-details-item]
+🔗 https://kuchnialidla.pl/pasta-alla-norma-sycylijski-makaron-z-baklazanem[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * bakłażan - 400 g
 * makaron penne - 450 g
@@ -28,7 +38,9 @@
 * oregano suszone - 1 łyżeczka
 * bazylia świeża - 5 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Blachę wykładamy papierem do pieczenia. Bakłażany kroimy w kostkę, skrapiamy połową ilości oliwy, oprószamy solą i pieprzem. Przekładamy na blaszkę. Pieczemy ok. 30 minut w 200 stopniach, aż nabiorą złotego koloru.
 
@@ -38,10 +50,11 @@ Makaron gotujemy al dente w mocno osolonej wodzie. Odcedzamy, zostawiając odrob
 
 Do sosu dodajemy ugotowany makaron. Całość mieszamy, a następnie dodajemy bakłażany oraz świeżą bazylię. Jeśli jest taka potrzeba, doprawiamy solą i pieprzem. Mieszamy. Na koniec dodajemy ricottę oraz starty parmezan.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231219_152132.jpg[]
 

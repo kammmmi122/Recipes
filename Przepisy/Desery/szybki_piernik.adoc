@@ -1,20 +1,31 @@
 = Szybki piernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 2 nieduże pierniki
-* https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+📝 2 nieduże pierniki
+
+[.recipe-details-item]
+🔗 https://mojewypieki.com/przepis/szybki-piernik[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 szklanka miodu
 * 3/4 szklanki cukru
@@ -37,7 +48,9 @@
 * 100 ml śmietany kremówki 30% lub 36%
 * 100 g czekolady deserowej, posiekanej
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
@@ -50,11 +63,4 @@ Ciasto przełożyć do dwóch keksówek o wymiarach 23,5 x 13 cm każda (wcześn
 === Polewa czekoladowa (na 2 pierniki z przepisu):
 
 Śmietanę kremówkę podgrzać w małym garnuszku. Zdjąć z palnika, dodać posiekaną czekoladę, odstawić na 2 minuty. Po tym czasie wymieszać, do roztopienia czekolady i otrzymania gładkiej polewy. Poczekać do lekkiego zgęstnienia, udekorować pierniki.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

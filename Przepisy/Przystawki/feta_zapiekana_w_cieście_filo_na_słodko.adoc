@@ -1,20 +1,31 @@
 = Feta zapiekana w cieście filo na słodko 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 30 minut
-* 2 porcje
-* https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://krytykakulinarna.com/feta-w-ciescie-przepis/[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 400 g fety (dwa kawałki po 200 g)
 * 2 łyżki sezamu (może być biały, czarny lub mieszanka)
@@ -22,7 +33,9 @@
 * 5-6 łyżek oliwy
 * 2 łyżki miodu
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Piekarnik rozgrzewamy do 220 stopni bez termoobiegu, grzanie góra/dół. Do miseczki wlewamy oliwę.
 
@@ -35,11 +48,4 @@ Dno naczynia żaroodpornego smarujemy oliwą, układamy fetę w cieście filo i 
 Zapiekamy w 220 stopniach bez termoobiegu przez 20 minut.
 
 Podajemy od razu po upieczeniu obficie skropione miodem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

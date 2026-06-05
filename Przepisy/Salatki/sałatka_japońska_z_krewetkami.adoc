@@ -1,20 +1,31 @@
 = Sałatka japońska z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* 1 porcja
-* https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+👥 1 porcja
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_orientu/salatka_z_krewetkami/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 5 krewetek
 * garść mieszanej sałaty z rukolą
@@ -26,18 +37,13 @@
 * 1 łyżka sosu sojowego
 * szczypiorek
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Krewetki ugotować na parze. Marchewkę, kalarepkę i ogórka obrać i pokroić w słupki. Awokado przekroić na pół, obrać i pokroić na plasterki.
 
 Na talerzach ułożyć posiekaną sałatę, dodać awokado, marchewkę, ogórka oraz krewetki.
 
 Wymieszać śmietankę i sos sojowy, polać po sałatce. Posypać posiekanym szczypiorkiem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

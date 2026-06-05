@@ -1,22 +1,37 @@
 = Bułeczki czosnkowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* czas wyrastania ciasta łącznie: 1 godzina 30 minut
-* czas pieczenia bułeczek: 20 minut
-* 8 bułeczek
-* https://aniagotuje.pl/przepis/buleczki-czosnkowe[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+🕒 czas wyrastania ciasta łącznie: 1 godzina 30 minut
+
+[.recipe-details-item]
+🕒 czas pieczenia bułeczek: 20 minut
+
+[.recipe-details-item]
+📝 8 bułeczek
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/buleczki-czosnkowe[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2,5 szklanki mąki pszennej np. tortowej - 400 g
 * 7 g drożdży instant - mała saszetka
@@ -29,7 +44,9 @@
 * mała garść natki pietruszki
 * pół płaskiej łyżeczki soli
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Do tych bułeczek szykowanych na drożdżach instant nie robię rozczynu. Do miski wsyp zatem dwie i pół szklanki, czyli 400 gramów mąki pszennej tortowej, do pizzy lub też uniwersalnej typ. 480 oraz po płaskiej łyżeczce soli i cukru i około 7 gramów drożdży suszonych instant (mała saszetka). Dodaj też łyżkę miękkiego masła lub oliwy lub innego oleju roślinnego. Na koniec wlej jeszcze niepełną szklankę lekko ciepłego płynu (mleko i woda w proporcji pół na pół, czyli łącznie 240 ml - niepełna szklanka).
 Całość wymieszaj łyżką drewnianą lub silikonową szpatułką. Miskę z ciastem pod bułki czosnkowe przenieś pod mikser z hakami do ciasta drożdżowego. Ciasto wyrabiaj tak 5 minut. Ciasto po wyrobieniu powinno być jednolite, gładkie i elastyczne. Możesz też wyrobić ciasto ręcznie, ale pamiętaj, że ma to trwać dość długo. Ciasto może się lekko przyklejać do ścianek miski. Takie ciasto można wyjąć i lekko obsypać mąką, a następnie uformować w zgrabną kulę i ponownie odłożyć do miski.
@@ -44,11 +61,4 @@ Wyrośnięte bułeczki (posmarowane mlekiem i żółtkiem lub też nie) natnij w
 Zacznij nagrzewać piekarnik. Ustaw opcję pieczenia góra/dół i temperaturę 190 stopni lub 180 stopni z termoobiegiem. Gotową blaszkę z bułkami umieść na środkowej półce w dobrze nagrzanym piekarniku. Bułeczki czosnkowe piecz tak około 20 minut. Upieczone bułki są wyrośnięte i rumiane. Po upieczeniu uchyl drzwi piekarnika na 5 minut, a następnie wyjmij blaszkę z upieczonymi bułkami.
 
 Bułki czosnkowe można kroić po całkowitym przestudzeniu. Jeśli bułeczki czosnkowe nie zostaną zjedzone w dniu pieczenia, polecam zawinąć je w papier śniadaniowy, a następnie luźno w torbę spożywczą przezroczystą i trzymać w szafce, w suchym i chłodnym pomieszczeniu.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

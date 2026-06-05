@@ -1,20 +1,31 @@
 = Zapiekanka łukaszkowa 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina 40 minut
-* 6 porcji
-* https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina 40 minut
+
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://kuchnialidla.pl/zapiekanka-z-miesem-i-ziemniakami[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * cebula - 1 szt.
 * pieprz czarny - 1 szczypta
@@ -41,7 +52,9 @@
 * ziemniak - 1 kg
 * ser cheddar - 100 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Marchew i pietruszkę pokrojone w kostkę smażymy w garnku na rozgrzanym oleju. Doprawiamy solą i pieprzem. Dodajemy cebulę pokrojoną w kostkę i posiekany czosnek. Smażymy, mieszając. Usmażone warzywa przekładamy na talerz.
 
@@ -60,11 +73,4 @@ Do uduszonego mięsa dodajemy podsmażone warzywa i pieczarki. Dodajemy ciecierz
 Masę mięsno-warzywną przekładamy do naczynia żaroodpornego, rozprowadzamy równomiernie i wyrównujemy.
 
 Na wierzch wykładamy purée, które również rozprowadzamy po całej powierzchni i lekko dociskamy. Pieczemy ok. 20-30 minut w piekarniku rozgrzanym do temperatury 180°C. Po tym czasie zapiekankę posypujemy z wierzchu serem startym na tarce o grubych oczkach i zapiekamy przez kolejne 20 minut.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

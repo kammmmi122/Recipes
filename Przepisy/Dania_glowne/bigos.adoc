@@ -1,20 +1,33 @@
 = Bigos 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20231105_103826.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
-* czas przygotowania: 30 minut
-* czas gotowania: 3 godziny
-* 8 porcji
-* https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
+
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
+
+[.recipe-details-item]
+🕒 czas gotowania: 3 godziny
+
+[.recipe-details-item]
+👥 8 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 40 g suszonych grzybów
 * 200 g boczku
@@ -34,7 +47,9 @@
 * 1/2 łyżeczki kminku 
 * szczypta ostrej papryki lub płatków chili
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Przygotować duży garnek z grubym dnem oraz dużą patelnię. Boczek pokroić w kosteczkę. Całe mięso pokroić w niedużą kostkę.
 
@@ -50,11 +65,11 @@ Cebulę pokroić w kostkę, następnie zeszklić ją na patelni na 1 łyżce ole
 
 Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzinę. Czasem zamieszać i sprawdzić czy bigos nie przywiera do dna. Doprawić pieprzem oraz w razie potrzeby solą.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20231105_103826.jpg[]
+[.gallery-grid]
 
+image::/Recipes/static/images/20231105_103826.jpg[]
 

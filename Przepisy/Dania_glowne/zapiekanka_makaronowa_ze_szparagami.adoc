@@ -1,20 +1,31 @@
 = Zapiekanka makaronowa ze szparagami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 2 - 3 porcje
-* https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-ze-szparagami-i-lososiem-wedzonym[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 2 - 3 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-ze-szparagami-i-lososiem-wedzonym[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 szklanki makaronu kokardki
 * 1 pęczek (500 g) szparagów
@@ -27,7 +38,9 @@
 * 1/3 łyżeczki tartej gałki muszkatołowej
 * 50 g tartego parmezanu lub grana padano
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Piekarnik nagrzać do 190 stopni C.
 
@@ -42,11 +55,4 @@ Na wierzchu ułożyć kawałki łososia wędzonego a następnie wyłożyć sos.
 Wstawić do nagrzanego piekarnika i piec przez 15 minut bez przykrycia.
 
 Po upieczeniu posypać posiekanym koperkiem i szczypiorkiem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

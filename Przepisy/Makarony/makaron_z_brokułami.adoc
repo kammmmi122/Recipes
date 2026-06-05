@@ -1,22 +1,37 @@
 = Makaron z brokułami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 30 minut
-* czas gotowania makaronu: 12 minut
-* czas gotowania brokułów: 7 minut
-* liczba porcji: około 1330 g dania
-* https://aniagotuje.pl/przepis/makaron-z-brokulami[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
+
+[.recipe-details-item]
+🕒 czas gotowania makaronu: 12 minut
+
+[.recipe-details-item]
+🕒 czas gotowania brokułów: 7 minut
+
+[.recipe-details-item]
+👥 liczba porcji: około 1330 g dania
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/makaron-z-brokulami[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 300 g makaronu np. Rigatoni - waga przed gotowaniem
 * trochę ponad pół szklanki wody po gotowanym makaronie - około 130 ml
@@ -31,7 +46,9 @@
 * przyprawy: 1/3 łyżeczki soli, po 1/4 płaskiej łyżeczki pieprzu, szczypta gałki muszkatołowej
 * ewentualne dodatki: sok z cytryny, ketchup, mleko, więcej tartego sera
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 W pierwszej kolejności polecam ugotować brokuły. Mój brokuł ważył około 580 gramów. Odcięłam same różyczki i wyszło mi 410 gramów różyczek. W garnku zagotuj wodę. Dodaj do niej płaską łyżeczkę soli. Na wrzątek "wrzuć" różyczki brokułu i gotuj je bez przykrycia przez około siedem minut. Brokuły powinny być wystarczająco miękkie, ale jędrne jednocześnie. Po siedmiu minutach gotowania wyłów różyczki brokułu i odcedź je na sitku. Po przestudzeniu można je drobniej pokroić i umieścić w misce.
 
@@ -52,11 +69,4 @@ Makaron z brokułami możesz podać na dwa sposoby. Możesz cały sos z patelni 
 Drugi sposób zastosowałam poniżej. Do prawie gotowego sosu dodaj część pokrojowych drobniej różyczek brokułu. Całość zamieszaj, zagotuj i wyłącz. 
 
 Makaron rozłóż na talarze. Na makaron wyłóż po porcji sosu, a na samą górę resztę posiekanych brokułów. Całość oprósz świeżo mielonym pieprzem lub posyp dodatkową porcją tartego sera. Podawaj jeszcze gorące.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

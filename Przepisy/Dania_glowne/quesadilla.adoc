@@ -1,20 +1,31 @@
 = Quesadilla 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 300 g filetu z kurczaka
 * 2 łyżki oliwy
@@ -31,7 +42,9 @@
 * 1/2 łyżeczki suszonego oregano
 * 1 łyżeczka płatków chili
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Kurczaka pokroić na wąskie paski dł. ok. 2 cm. Doprawić solą, pieprzem oraz wszystkimi przyprawami. Polać łyżką oleju roślinnego i dokładnie wymieszać, odstawić.
 
@@ -44,11 +57,4 @@ Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć place
 Podgrzaną z jednej strony quesadillę przełożyć na drugą stronę* i ponownie podsmażyć na maśle do zrumienienia. Powtórzyć z pozostałymi dwoma plackami tortilli i drugą połową farszu.
 
 Podgrzane quesadille kroić nożem na kawałki jak pizzę, podawać z wybranymi dodatkami.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

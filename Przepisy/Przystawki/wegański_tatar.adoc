@@ -1,20 +1,30 @@
 = Wegański tatar 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20231119_165036.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 7 porcji
-* https://easyvege.pl/weganski-tatar[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 7 porcji
+
+[.recipe-details-item]
+🔗 https://easyvege.pl/weganski-tatar[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Tatar:
 
@@ -44,7 +54,9 @@
 * świeżo mielony pieprz
 * pieczywo
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Boczniaki oczyszczamy najpierw na sucho z zabrudzeń, następnie płuczemy na sicie pod bieżącą wodą i pozbywamy się nadmiaru wody wielokrotnie potrząsając energicznie sitem. Nie chodzi o to, by grzyby stały się suche. Powinny zostać wilgotne! - chodzi tylko o to, by nie ciekła z nich woda.
 Rozgrzewamy patelnię i smarujemy ją cieniutko olejem. Na rozgrzanej patelni układamy boczniaki, pozwalamy im się smażyć przez ok. 3 minuty. Następnie przewracamy grzyby na drugą stronę i znów podsmażamy przez ok. 3minuty. Powtarzamy partiami, do ostatniego grzybka. Tak przygotowane grzyby nie będą już surowe, ALE nie powinny być też przypieczone. Podczas podsmażania puszczą wodę, którą warto zebrać z patelni razem z grzybami.
@@ -60,10 +72,11 @@ Następnie do czerwonej masy dodajemy cebulę, czosnek, pomidory suszone i boczn
 Teraz warto nastawić sobie przypomnienie w telefonie i co kilka minut mieszać tatara raz jeszcze. Każde kolejne mieszanie sprawi, że uzyskamy coraz lepszą konsystencję.
 Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawić na kilka godzin do lodówki. Najpyszniejszy będzie oczywiście na drugi dzień po przyrządzeniu.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231119_165036.jpg[]
 

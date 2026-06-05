@@ -1,20 +1,31 @@
 = Sałatka gyros 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/salatka-gyros[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/salatka-gyros[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 3 pojedyncze filety kurczaka
 * 2 łyżki stołowe przyprawy gyros/kebab
@@ -29,7 +40,9 @@
 * 2/3 szklanki majonezu
 * 1/3 szklanki gęstej śmietany lub jogurtu greckiego (opcjonalnie)
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Filety opłukać, osuszyć, oczyścić z błonek i kostek. Pokroić na małe paseczki lub w kostkę. Wymieszać z przyprawą gyros/kebab i odłożyć na ok. 1/2 godziny lub dłużej jeśli mamy czas.
 
@@ -42,11 +55,4 @@ Ogórki konserwowe pokroić w kosteczkę, kukurydzę odcedzić na sitku z zalewy
 Na większej patelni podgrzać olej, włożyć kurczaka i obsmażać na złoty kolor z każdej strony (w sumie ok. 10 minut). W trakcie smażenia doprawić mięso solą oraz pieprzem. Przełożyć na dno salaterki o średnicy 20 cm.
 
 Polać ketchupem, przykryć plasterkami czerwonej cebuli, następnie układać kolejne warstwy składników: ogórki, kukurydzę, pora, paprykę, majonez wymieszany ze śmietaną lub jogurtem, a na koniec przykryć posiekaną kapustą pekińską.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

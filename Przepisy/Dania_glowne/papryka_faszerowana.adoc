@@ -1,20 +1,31 @@
 = Papryka faszerowana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/papryka-faszerowana-mielonym-miesem-i-ryzem[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/papryka-faszerowana-mielonym-miesem-i-ryzem[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 4 papryki
 * 500 g mielonego mięsa
@@ -29,7 +40,9 @@
 * sól
 * pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Ryż ugotować do miękkości w osolonej wodzie, ok. 10 - 15 minut lub zgodnie z instrukcją na opakowaniu.
 
@@ -44,11 +57,4 @@ Piekarnik nagrzać do 200 stopni C. Papryki przekroić na połówki (postawić p
 Wstawić do piekarnika, do naczynia wlać ok. 1/2 szklanki wody i piec przez 35 minut.
 
 Na każdej papryce położyć plasterek sera lub starty ser i zapiekać jeszcze przez ok. 5 - 10 minut, aż ser będzie roztopiony lub również zrumieniony.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

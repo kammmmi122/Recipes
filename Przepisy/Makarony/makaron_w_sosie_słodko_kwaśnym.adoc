@@ -1,19 +1,28 @@
 = Makaron w sosie słodko-kwaśnym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcje
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 500 g piersi z kurczaka
 * 1 łyżka wegety
@@ -25,7 +34,9 @@
 * sól i pieprz
 * makaron 500 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Pokroić mięso z kurczaka na kawałki. Dodać przyprawy i wymieszać. Usmażyć mięso na patelni.
 
@@ -38,11 +49,4 @@ Dodać sos do całości
 Ugotować makaron według instrukcji na opakowani.
 
 Zmieszać makaron i powstały sos.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

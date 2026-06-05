@@ -1,21 +1,34 @@
 = Roladki tortilowe 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* czas chłodzenia: 10 minut
-* 24 roladki
-* https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+🕒 czas chłodzenia: 10 minut
+
+[.recipe-details-item]
+📝 24 roladki
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 3 placki z tortilli pszennej
 * 200 g serka kremowego serka typu Philadelphia
@@ -26,7 +39,9 @@
 * pół małej czerwonej papryki
 * mały pęczek szczypiorku
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Placki wysmaruj dość grubo kremowym serkiem typu Philadelphia.
 
@@ -41,11 +56,4 @@ Gotowe tortille zwijaj powoli w ścisły rulon.
 Zwinięte tortille można przekroić na pół lub na 4 kawałki albo tak jak ja, na mini roladki. Takie mini roladki są idealne jako szybka przekąska na przyjęcie.
 
 Roladki można przed podaniem schłodzić w lodówce. Nie jest to jednak konieczne. Jeśli obawiasz się o to, że roladki się otworzą podczas np. nakładania ich na talerz, to możesz w każdą sztukę wpić wykałaczkę. W wystający patyczek wbij wówczas np. czarną lub zieloną oliwkę lub mini pomidorki.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

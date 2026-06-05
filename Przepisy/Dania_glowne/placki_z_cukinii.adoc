@@ -1,20 +1,30 @@
 = Placki z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240725_185950.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 25 minut
-* 2 porcje, 10 sztuk
-* https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 25 minut
+
+[.recipe-details-item]
+👥 2 porcje, 10 sztuk
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/zielony_srodek/cukinia/placki_z_cukinii/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 3 łyżki (30 g) mąki pszennej
 * 1 jajko
@@ -24,7 +34,9 @@
 * 1 łyżka koperku lub świeżych ziół lub natki pietruszki
 * olej roślinny lub oliwa
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Mąkę wsypać do miski, wymieszać ze szczyptą soli, świeżo zmielonym pieprzem, a następnie z roztrzepanym jajkiem (najlepiej za pomocą rózgi). Wlać mleko i wymieszać na jednolite ciasto.
 
@@ -34,10 +46,11 @@ Cukinię i cebulę oraz posiekaną zieleninę dodać do ciasta i wymieszać ły�
 
 Rozgrzać patelnię z olejem lub oliwą. Nakładać po łyżce (nie więcej!) masy i smażyć placuszki przez około 2 - 3 minuty. Gdy będą ładnie zrumienione, przewrócić na drugą stronę i smażyć jeszcze przez około 2 minuty.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240725_185950.jpg[]
 

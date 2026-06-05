@@ -1,20 +1,31 @@
 = Wieprzowina po chińsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 30 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/wieprzowina_po_chinsku/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/wieprzowina_po_chinsku/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 300 g polędwiczki wieprzowej
 * 1 łyżka mąki ziemniaczanej
@@ -31,7 +42,9 @@
 * 5 łyżek sosu sojowego
 * 3 łyżki cukru (np. trzcinowego)
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Odciąć białą błonę na zewnętrznej stronie polędwiczki. Mięso przekroić wzdłuż na pół, następnie w poprzek włókien na jak najcieńsze plasterki. Doprawić solą i pieprzem, obtoczyć w mące ziemniaczanej. Nastawić ryż na gotowanie.
 
@@ -46,11 +59,4 @@ W woku lub w wysokiej i dużej patelni rozgrzać 1 łyżkę oleju, włożyć wsz
 Na patelnię dodać drugą łyżkę oleju i włożyć polędwiczkę, zwiększyć ogień do dużego i smażyć przez około 3 minuty co chwilę mieszając aby równomiernie się obsmażała.
 
 Włożyć z powrotem warzywa i wszystko wymieszać, następnie wlać sos. Gotować przez około 2 minuty aż sos zgęstnieje, w międzyczasie co chwilę zamieszać. Wyłożyć danie na talerze, obok położyć ryż, posypać szczypiorkiem i podawać.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

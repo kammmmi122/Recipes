@@ -1,20 +1,30 @@
 = Tort Raffaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240530_115153.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 3 godziny
-* 20 porcji
-* https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 3 godziny
+
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Biszkopt
 * 6 jajek
@@ -51,7 +61,9 @@
 * 3 łyżki płatków migdałów
 * pralinki Raffaello
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 === Biszkopt
 
@@ -115,10 +127,11 @@ Migdały w płatkach upraż na rozgrzanej patelni.
 
 Na schłodzony tort nałóż drugą warstwę kremu maślanego, wyrównaj. Pozostałą część kremu przełóż do worka z ozdobną końcówką i udekoruj tort. Do ozdoby użyj pralinek Raffaello oraz pokruszonych płatków migdałów.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240530_115153.jpg[]
 image::/Recipes/static/images/20240530_115148.jpg[]

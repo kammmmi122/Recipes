@@ -1,20 +1,31 @@
 = Bucatini alla amatriciana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 25 minut
-* 4 porcji
-* https://www.chilliczosnekioliwa.pl/2022/01/bucatini-all-amatriciana.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 25 minut
+
+[.recipe-details-item]
+👥 4 porcji
+
+[.recipe-details-item]
+🔗 https://www.chilliczosnekioliwa.pl/2022/01/bucatini-all-amatriciana.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 150 g guanciale - wędzonego podgardla (można zamienić na pancettę)
 * 1 łyżka oliwy
@@ -27,7 +38,9 @@
 * 50 g Pecorino Romano do posypania
 * opcjonalnie - świeża bazylia lub natka pietruszki do przystrojenia
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zgromadź wszystkie składniki. Z guanciale usuń skórę, następnie pokrój je na plastry o grubości 1 cm, a te na paski o szerokości ok. 1/2 cm. Jeśli masz guanciale w cienkich plasterkach, to pokrój je na paski.
 
@@ -44,11 +57,4 @@ W międzyczasie zagotuj duży garnek osolonej wody. Wrzuć do niego bucatini i g
 Gdy sos zgęstnieje, wrzuć do niego makaron razem z wodą z gotowania i szybko mieszaj, aby dokładnie obtoczył się sosem. Gotuj przez ok. 2 minuty.
 
 Makaron przełóż na talerze i posyp startym serem Pecorino. Jeśli chcesz możesz go udekorować listkami bazylii lub natki pietruszki. Podawaj od razu.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

@@ -1,20 +1,31 @@
 = Dal z soczewicy z Sri Lanki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 10 minut + 20 minut czekania
-* 4 - 6 porcji
-* https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 10 minut + 20 minut czekania
+
+[.recipe-details-item]
+👥 4 - 6 porcji
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 350 g soczewicy czerwonej / 2 szklanki
 * 2 ½ szklanki wody
@@ -30,7 +41,9 @@
 * 1 puszka kokosowego mleczka / 400 ml
 * sól
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Soczewicę dokładnie opłukać. Następnie przełożyć do garnka, dodać odmierzoną wodę oraz kurkumą i gotować pod przykryciem na niedużym ogniu do momentu, aż soczewica będzie lekko miękka, czyli około 10 minut.
 
@@ -41,11 +54,4 @@ Do garnka z soczewicą dodać kokosowe mleko, pół łyżeczki soli, doprowadzi�
 Suszone liście curry kupicie w Kuchniach Świata oraz każdym sklepie z żywnością orientalną. Odsyłam też do internetu, na allegro kupicie je za mniej niż 10 złotych wraz z dostawą. Mieszkańcy i mieszkanki Warszawy mogą też zaopatrzyć się za kilka złotych w świeże liście curry, sprzedaje je na Hali Mirowskiej Pan Darek w budce numer 17. Świeże liście curry są bardziej aromatyczne i wytrzymają w lodówce nawet 2 tygodnie.
 
 Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywnością orientalną lub w dobrze zaopatrzonych delikatesach. Najprościej jednak jest zamówić je na Vegepacku, gdzie można za jednym zamachem kupić wszystkie na raz.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

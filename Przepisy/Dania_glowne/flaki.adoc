@@ -1,20 +1,31 @@
 = Flaki 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 4 godziny
-* liczba porcji: 6 porcji
-* https://aniagotuje.pl/przepis/flaki[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 4 godziny
+
+[.recipe-details-item]
+👥 liczba porcji: 6 porcji
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/flaki[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 kg wołowiny - np. szponder plus karczek
 * 2,5 litra wody - 2500 ml
@@ -29,7 +40,9 @@
 * 5 łyżek mąki pszennej - do 70 g
 * 5 łyżek masła - do 80 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zacznij od wstawienia bazy pod flaki, czyli rosołu wołowego. W dużym garnku umieszczam kilogram umytego wołowego mięsa. Zawsze jest to szponder z kością oraz drugi, mniej tłusty kawałek wołowy. Może to być goleń, karczek, czy nawet łata wołowa. Od razu dodaję też kawałek pora, obrane marchewki oraz pietruszkę i kawałek korzenia selera. (Warzywa po obraniu myję i dopiero dodaję do garnka). Na koniec wlewam 2500 ml wody i wsypuję od razu łyżeczkę soli i pół płaskiej łyżeczki pieprzu.
 Kolejno garnek przykryj przykrywką. Ustaw wyższą niż średnia moc palnika i czekaj, aż bulion zacznie się gotować. Następnie zmniejsz moc palnika, tylko do takiej, by bulion delikatnie "mrugał". Zupę gotuj tak przez całe trzy godziny, do miękkości mięsa. Warzywa będą bardzo miękkie. Jeśli nie będziesz mieszać w garnku, to nic się nie rozpadnie. 
@@ -44,11 +57,4 @@ Bulion zostaw w garnku. Dodaj do niego obgotowane flaki. W garnku umieść też:
 Po minimum 30 minutach gotowania (w zależności od tego jak długo trzeba jeszcze gotować flaczki) do garnka dodaj odłożone z wywaru mięso oraz pokrojone warzywa. Zamieszaj flaki i sprawdź ich smak. W tym momencie możesz zdecydować, ile dodasz do nich soli oraz pierzu. Jeśli chcesz je dosolić, to zacznij od połowy łyżeczki. Dobrze wymieszaj flaki, sprawdź ich smak i dopiero wtedy dodaj ewentualnie trochę więcej soli. Jeśli dodajesz pieprz, to zacznij od 1/4 płaskiej łyżeczki. Po ponownym zagotowaniu flaki są już gotowe do podania.
 
 Do flaków można też na koniec dodać zasmażkę (do flaków pokazanych na zdjęciach nie szykowałam zasmażki). Na małej patelni umieszczasz 5 łyżek masła (do 80 g). Gdy tłuszcz się roztopi dodajesz pięć łyżek mąki (do 70 g) i od razu mieszasz zawartość patelni przy pomocy drewnianej łyżki. Gdy tłuszcz z mąką zacznie się pienić przelewasz całość do garnka z gotującą się zupą. Flaki od razu mieszasz i czekasz, aż ponownie się zagotują. Po 2-3 minutach można je wyłączyć. Zasmażkę można wzbogacić o pokrojoną w drobną kostkę cebulę. Na patelnię z masłem dodaj wówczas dodatkowe dwie łyżki oleju do smażenia. Cebulkę podsmażaj kilka minut do lekkiego zarumienienia, i dopiero dodawaj mąkę.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

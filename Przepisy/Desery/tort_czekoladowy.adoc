@@ -1,18 +1,24 @@
 = Tort czekoladowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240511_114709.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
+[.recipe-details-item]
+🔗 https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 jajka (rozmiar L) o temp. pokojowej
 * 1 szklanka cukru
@@ -38,7 +44,9 @@
 * 80 ml śmietanki 30%
 * 80 g gorzkiej czekolady
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Dzień wcześniej śmietankę mocno podgrzewamy, następnie dodajemy kawałki czekolady i dokładnie mieszamy do rozpuszczenia. Studzimy, przykrywamy folią i wkładamy do lodówki na całą noc.
 
@@ -46,10 +54,11 @@ Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast bok
 
 Śmietankę miksujemy razem z mascarpone oraz masłem orzechowym na gęsty krem, następnie dodajemy przesiany cukier puder. Wykładamy połowę kremu na blat ciasta, przykrywamy drugim i dalej druga część kremu i ostatni krążek ciasta. Wkładamy do lodówki na minimum kilka godzin, a najlepiej na całą noc. Przed podaniem wykonujemy polewę. Śmietankę mocno podgrzewamy i dodajemy kawałki czekolady. Dokładnie mieszamy do rozpuszczenia i wylewamy na wierzch ciasta. Dekorujemy posypką czekoladową lub startą czekoladą.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240511_114709.jpg[]
 image::/Recipes/static/images/20240511_114847.jpg[]

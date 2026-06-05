@@ -1,20 +1,30 @@
 = Butter chicken 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240421_172701.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 3 porcje
-* https://www.kwestiasmaku.com/przepis/butter-chicken[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 3 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/butter-chicken[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 500 g filetu z piersi kurczaka
 * 1 łyżka tartego imbiru
@@ -35,7 +45,9 @@
 * świeża kolendra
 * opcjonalnie jogurt, chlebki naan
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Filety z piersi kurczaka oczyścić z błonek i kostek i pokroić na ok. 2 - 3 cm kawałki. Natrzeć startym imbirem i czosnkiem, doprawić solą, pieprzem i garam masalą. Skropić sokiem z cytryny, polać oliwą i włożyć do miski. Dodać jogurt i dokładnie wymieszać. Przykryć i odstawić do lodówki na minimum 2 godziny a najlepiej na całą noc. Orzechy nerkowca zalać wodą i również zostawić do namoczenia na całą noc.
 
@@ -43,10 +55,11 @@ Wyjąć kurczaka z lodówki i ocieplić w temperaturze pokojowej. W garnku rozgr
 
 W międzyczasie na patelni rozgrzać drugą łyżkę masła klarowanego i obsmażyć zamarynowane kawałki kurczaka. Obsmażonego kurczaka przenieść do zmiksowanego sosu i całość zagotować. Śmietankę zahartować (dodać najpierw kilka łyżek gorącego sosu i wymieszać), następnie wlać wszystko do garnka z sosem i kurczakiem i wymieszać. Gotować jeszcze ok. 3 minuty na małym ogniu. Podawać z ryżem i kolendrą.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240421_172701.jpg[]
 

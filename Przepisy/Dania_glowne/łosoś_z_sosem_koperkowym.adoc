@@ -1,20 +1,31 @@
 = Łosoś z sosem koperkowym 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/losos-z-sosem-koperkowym[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/losos-z-sosem-koperkowym[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 350 g filetu z łososia
 * 1 łyżka sosu sojowego
@@ -32,7 +43,9 @@
 * ziemniaki np. młode
 * szparagi (po ok. 6 sztuk na porcję) lub brokuły, fasolka szparagowa (mogą być mrożone)
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Filet łososia przekroić na 2 porcje, położyć na desce skórką do dołu i przeciągając nożem między skórką a mięsem odciąć skórę pozostawiając ją na desce. Filety opłukać i włożyć do głębokiego talerza, doprawić solą, pieprzem, skropić sosem sojowym, sokiem z cytryny, olejem roślinnym i syropem klonowym lub miodem. Wymieszać, przewrócić na drugą stronę i zostawić do zamarynowania na minimum 1 godzinę.
 
@@ -47,11 +60,4 @@ Dodać masło, sok z cytryny i posiekany koperek, podgrzewać jeszcze przez chwi
 Szparagi ugotować w wodzie (można w wodzie po ziemniakach) - ok. 3,5 minuty. Fasolkę i brokuły (podzielić na różyczki) gotować przez ok. 8 minut (mrożone ok. 5 minut).
 
 Na talerze położyć upieczonego łososia, obok zielone dodatki, ziemniaczki i polać sosem koperkowym.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

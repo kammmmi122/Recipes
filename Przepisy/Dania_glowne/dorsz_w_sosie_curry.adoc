@@ -1,20 +1,31 @@
 = Dorsz w sosie curry 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 15 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 15 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 400 g filetów dorsza
 * 1 łyżka czerwonej pasty curry
@@ -27,7 +38,9 @@
 * limonka
 * 200 g ryżu
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
 
@@ -38,11 +51,4 @@ Wytrzeć naczynie ręcznikiem papierowym, wlać mleko kokosowe, dodać pozostał
 Dodać groszek lub pokrojoną fasolkę a także podsmażonego dorsza. Gotować przez ok. 5 minut.
 
 Skropić sokiem z limonki i podawać z ryżem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

@@ -1,20 +1,31 @@
 = Zapiekanka makaronowa 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-z-kurczakiem-i-warzywami[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/zapiekanka-makaronowa-z-kurczakiem-i-warzywami[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 150 g makaronu, np. kokardki
 * 2 łyżki oliwy extra vergine
@@ -27,7 +38,9 @@
 * 150 g mozzarelli
 * przyprawy: 1 łyżeczka oregano, 2 łyżeczki przyprawy curry, 1 łyżeczka papryki, 1/3 łyżeczki ostrej papryki, 1/2 łyżeczki kurkumy
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Makaron wrzucić na wrzątek i gotować chwilę krócej niż al dente. Piekarnik nagrzać do 180 stopni C. W małej salaterce wymieszać wszystkie przyprawy.
 
@@ -40,11 +53,4 @@ Dodać pokrojoną w kosteczkę cukinię i mieszając smażyć przez ok. 3 minuty
 Dodać pomidory, w razie potrzeby doprawić solą i pieprzem, wymieszać i zagotować. Dodać ugotowany makaron i podsmażonego kurczaka, wymieszać i wyłożyć do naczynia żaroodpornego.
 
 Przykryć pokrywą lub folią aluminiową i wstawić do piekarnika na 20 minut. Posypać tartą mozzarellą i zapiekać jeszcze przez ok. 5 minut bez przykrycia.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

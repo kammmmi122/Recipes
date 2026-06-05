@@ -1,20 +1,31 @@
 = Roladki z kurczaka z serem, pieczarkami pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 3 porcje
-* https://www.kwestiasmaku.com/przepis/roladki-z-kurczaka-z-pieczarkami-i-serem-pieczone-w-boczku[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 3 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/roladki-z-kurczaka-z-pieczarkami-i-serem-pieczone-w-boczku[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 3 pojedyncze filety z kurczaka
 * 1 łyżeczka przyprawy do kurczaka np. gyros
@@ -27,7 +38,9 @@
 * 1 łyżka oliwy extra
 * 1/2 cukinii
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Filety oczyścić z kostek i chrząstek jeśli takie się znajdują. Naciąć każdy filet z boku tworząc głębszą kieszonkę na nadzienie. Doprawić solą, pieprzem i natrzeć przyprawą.
 
@@ -36,11 +49,4 @@ Pieczarki umyć, osuszyć i pokroić najpierw na 4 części, następnie na plast
 W kieszonki kurczaka nakładać tarty ser, pieczarki oraz po pół łyżeczki musztardy francuskiej. Złączyć nacięcie kurczaka i zawinąć roladki w plasterki boczku. Ułożyć je łączeniem do góry w naczyniu żaroodpornym posmarowanym oliwą. Polać łyżeczką oliwy każdą roladkę.
 
 Piekarnik nagrzać do 200 stopni C. Cukinię pokroić w kostkę, doprawić solą, pieprzem, wymieszać z łyżeczką oliwy i łyżeczką musztardy francuskiej. Dodać do naczynia z kurczakiem i wstawić do nagrzanego piekarnika. Piec przez 25 minut.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

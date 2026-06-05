@@ -1,20 +1,31 @@
 = Zielone curry z groszkiem cukrowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://kuchnialidla.pl/zielone-curry-z-groszkiem-cukrowym[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://kuchnialidla.pl/zielone-curry-z-groszkiem-cukrowym[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * pieprz biały - 1 szczypta
 * cebula - 1 szt.
@@ -32,7 +43,9 @@
 * ząbek czosnku - 1 szt.
 * ryż jaśminowy - 200 g
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Piersi kurczaka kroimy w paski o szerokości 0,5 cm. Doprawiamy solą i pieprzem. Smażymy na rozgrzanym oleju na złoty kolor.
 
@@ -41,11 +54,4 @@ Pieczarki kroimy w ćwiartki i podsmażamy na rozgrzanym maśle. Dodajemy drobno
 Do curry dodajemy podsmażonego kurczaka i surowy groszek. Doprawiamy solą, pieprzem, cukrem, otartą skórką i sokiem z limonki. Posypujemy posiekanym szczypiorkiem.
 
 Podajemy z ugotowanym ryżem jaśminowym.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

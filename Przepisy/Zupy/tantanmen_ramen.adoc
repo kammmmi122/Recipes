@@ -1,20 +1,30 @@
 = Tantanmen ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240617_154401.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 5 godziny
-* 4 porcje
-* https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 5 godziny
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Jajka nitamago
 * 4 jajka
@@ -66,7 +76,9 @@
 * Prażony sezam
 * Nori.
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 === Jajka nitamago
 
@@ -104,10 +116,11 @@ Na spod miski nakładamy 2-3 łyżeczki tare i zalewamy trochę bulionem, miesza
 
 Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe składniki.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240617_154401.jpg[]
 

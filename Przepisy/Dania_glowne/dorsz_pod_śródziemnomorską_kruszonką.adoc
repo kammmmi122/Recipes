@@ -1,20 +1,31 @@
 = Dorsz pod śródziemnomorską kruszonką 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 2 porcje
-* https://drive.google.com/file/d/1drmcwaGPo7P0SAIorajCTYRgiGIe1Rhj/view?usp=sharing[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://drive.google.com/file/d/1drmcwaGPo7P0SAIorajCTYRgiGIe1Rhj/view?usp=sharing[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * polędwica z dorsza - 1 średnia sztuka (300 g)
 * orzechy włoskie - 1 łyżka (15 g)
@@ -22,14 +33,9 @@
 * oliwki czarne - 3 sztuki (10 g)
 * przyprawy: garść listków bazyli świeżej, 1 łyżka soku z cytryny, 1/2 łyżeczki skórki startej z cytryny, 1/3 łyżeczki oregano suszonego, sól i pieprz czarny do smaku
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Polędwice z dorsza myjemy, osuszamy i układamy na blaszce wyłożonej papierem do pieczenia lub w brytfance. Do malaksera wrzucamy orzechy włoskie, suszonego pomidora, oliwki, bazylię i przyprawy. Składniki siekamy na niezbyt jednolitą masę. Rybę obkładamy powstałą posypką, starannie ją dociskając. Wstawiamy na 220 minut do piekarnika rozgrzanego do temperatury 180 stopni C.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

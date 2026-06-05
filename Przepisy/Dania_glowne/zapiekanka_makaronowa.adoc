@@ -1,20 +1,31 @@
 = Zapiekanka makaronowa 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 3 porcje
-* https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 3 porcje
+
+[.recipe-details-item]
+🔗 https://www.kuchnia-domowa.pl/przepisy/dania-glowne/148-zapiekanka-makaronowa-z-szynka[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * ok. 170 g makaronu (użyłam cienkie rurki)
 * 150 g szynki
@@ -25,7 +36,9 @@
 * 2 łyżki koncentratu pomidorowego
 * 1 łyżka mąki pszennej
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Surowy makaron wsypać na naczynia żaroodpornego.
 
@@ -38,11 +51,4 @@ Mąkę wymieszać z małą ilością wody (ok. 2- 3 łyżki) tak, aby nie było 
 Sosem zalać makaron i szynkę. (Dokładnie przykryć cały makaron, aby ładnie ugotował się w sosie). Posypać startym serem. (Ser zatopi się częściowo w sosie).
 
 Odkryte naczynie żaroodporne wstawić do nagrzanego piekarnika i piec przez ok. 30 minut w temperaturze 200°C, grzałka góra- dół.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

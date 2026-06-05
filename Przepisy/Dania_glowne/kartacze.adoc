@@ -1,20 +1,30 @@
 = Kartacze 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20240713_181533.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* liczba porcji: 16 średnich kartaczy
-* https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 liczba porcji: 16 średnich kartaczy
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/kartacze[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 kg surowych ziemniaków - waga po obraniu
 * 1 kg ugotowanych ziemniaków
@@ -23,7 +33,9 @@
 * 2 łyżki mąki/skrobi ziemniaczanej
 * przyprawy: po płaskiej łyżeczce soli i majeranku; pół łyżeczki pieprzu
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Do zmielonego mięsa dodaj przyprawy: po płaskiej łyżeczce soli i majeranku oraz pół łyżeczki pieprzu. Dołóż też obrane i drobno posiekane cebule. Bardzo dokładnie wymieszaj mięso z przyprawami i cebulą. Jeśli mięso wyda Ci się zbite i gęste, to dodaj do niego kilka łyżek zimnej wody. Do farszu nie daję ani bułki tartej, ani jajek. 
 
@@ -39,10 +51,11 @@ Nabierz dwie łyżki masy ziemniaczanej. Uformuj kulkę a następnie spłaszcz j
 
 W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż do połowy wysokości. Do wrzątku wsyp płaską łyżeczkę soli. Na gotujący się wrzątek kładź po kilka kartaczy na raz. Zachowaj odstępy między kluskami, by miały możliwość swobodnego wypłynięcia na powierzchnię. Cepeliny gotuj tak przez 15 minut. Postaraj się tak dostosować moc palnika, by kartacze gotowały się przez cały czas. Nie ustawiaj jednak zbyt wysokiej mocy palnika (woda ma tylko lekko wrzeć). Kluski wyławiaj przy pomocy płaskiego cedzaka i odkładaj na talerz zachowując między nimi niewielkie odstępy. W ten sposób ugotuj wszystkie przygotowane kartacze.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20240713_181533.jpg[]
 image::/Recipes/static/images/20240713_201623.jpg[]

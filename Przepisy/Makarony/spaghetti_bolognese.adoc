@@ -1,19 +1,27 @@
 = Spaghetti bolognese 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20250425_171213.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcji
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcji
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 cebula
 * 1 ząbek czosnku
@@ -28,7 +36,9 @@
 * makaron spaghetti (75 g / porcję)
 * tarty parmezan
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Dodać 2 łyżki oliwy, włożyć drobno posiekaną cebulę i zeszklić. Dodać przeciśnięty przez praskę ząbek czosnku.
 
@@ -36,10 +46,11 @@ Na patelnię dodać mięso i rozpocząć obsmażanie. Przyprawić pieprzem, sol�
 
 Przykryć i gotować na małym ogniu przez 20 minut, od czasu do czasu mieszając. Podawać z ugotowanym makaronem spaghetti posypując tartym parmezanem.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20250425_171213.jpg[]
 

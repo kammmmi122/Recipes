@@ -1,20 +1,30 @@
 = Tatar ze śledzia 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20231216_212653.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 15 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/ryby_i_owoce_morza/sledzie/tatar_ze_sledzia/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 15 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/ryby_i_owoce_morza/sledzie/tatar_ze_sledzia/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 filety śledziowe (np. w oleju lub marynowane w occie lub wypłukanych z soli)
 * 2 łyżeczki posiekanej natki
@@ -27,7 +37,9 @@
 * 1 łyżka posiekanego szczypiorku
 * olej lniany
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Filety marynowane w occie dokładnie osuszyć papierowym ręcznikiem, filety w oleju po prostu odsączyć i wyjąć na deskę. Każde śledzie spróbować i ocenić czy nie są za słone.
 
@@ -37,10 +49,11 @@ Posiekać też marynowane papryczki jalapeño, marynowane podgrzybki i cebulkę,
 
 Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na talerzyki. Udekorować listkiem natki lub posiekanym szczypiorkiem, ewentualnie grzybkiem marynowanym.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20231216_212653.jpg[]
 

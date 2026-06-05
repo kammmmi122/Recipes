@@ -1,27 +1,42 @@
 = Kompot czereśniowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* 4 słoiki po 900 ml
-* czas przygotowania: 20 minut
-* czas pasteryzacji: 20 minut
-* https://aniagotuje.pl/przepis/kompot-z-czeresni[link do źródła przepisu]
+[.recipe-details-item]
+📝 4 słoiki po 900 ml
+
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+🕒 czas pasteryzacji: 20 minut
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/kompot-z-czeresni[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 kg czereśni
 * 3 łyżki cukru
 * 2 litry przegotowanej wody
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Przejrzyj swoje czereśnie i wybierz te dojrzałe oraz nieuszkodzone i nie zepsute. Czereśnie umyj pod zimną i bieżącą wodą.
 
@@ -30,11 +45,4 @@ Przygotuj też cztery czyste słoiki o pojemności 900 ml każdy. Słoiki powinn
 Do każdego słoika daj tyle samo czereśni. Swoje słoiki wypełniam czereśniami do około 3/4 wysokości. Do każdego słoika z owocami wsyp też cukier - po jednej łyżce.
 
 Do każdego słoika wlej przegotowaną wodę. Może być to wrzątek lub woda letnia. Na słoiki o pojemności 900 ml wyszło mi idealnie po 500 ml wody. Zostaw minimum 1 cm wolnej przestrzeni przy rantach i mocno zakręć słoiki. Słoiki z kompotem należy teraz poddać pasteryzacji. (20 minut w piekarniku)
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

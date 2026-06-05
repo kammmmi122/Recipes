@@ -1,20 +1,31 @@
 = Zupa krupnik 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/krupnik[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
 * 2 litry bulionu lub wody
@@ -29,7 +40,9 @@
 * kawałek selera i pora
 * 1 łyżka posiekanego koperku
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Mięso opłukać i włożyć do dużego garnka. Wlać 2 litry bulionu lub wody, zagotować, a następnie zszumować.
 
@@ -48,11 +61,4 @@ Doprawić zmielonym pieprzem i solą. Gotować przez ok. 30 minut.
 Pod koniec dodać posiekany świeży koperek.
 
 Mięso wyjąć z zupy, usunąć skórę i kości, resztę pokroić na kawałki i włożyć z powrotem do zupy.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

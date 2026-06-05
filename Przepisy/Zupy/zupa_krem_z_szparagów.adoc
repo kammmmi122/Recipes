@@ -1,20 +1,31 @@
 = Zupa krem z szparagów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 2 - 4 porcje
-* https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 2 - 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 pęczki białych szparagów
 * 1 duża cebula
@@ -25,7 +36,9 @@
 * drobno zmielony pieprz
 * 100 ml śmietanki kremówki 30%
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Szparagi opłukać, odłamać twarde i grube końcówki (ok. 3 cm), łodyżki obrać, pokroić na 2 cm kawałki. Twarde końcówki można wykorzystać do ugotowania bulionu jarzynowego, są łykowate i nie nadają się na zmiksowanie w zupie.
 
@@ -36,11 +49,4 @@ Dodać szparagi (oprócz główek) oraz 2 łyżki masła i smażyć co chwilę m
 Wlać gorący bulion i zagotować. Gotować przez ok. 5 minut, następnie dodać główki szparagów i gotować jeszcze 2 minuty. Zmiksować w stojącym blenderze z dodatkiem śmietanki kremówki na idealnie gładki krem (około 1 minuta miksowania), pozostawiając kilka główek szparagów do dekoracji.
 
 Zupę można dodatkowo przelać przez sito i przetrzeć łyżką zgromadzony na sicie miąższ, w ten sposób pozbędziemy się resztek łykowatych cząstek szparagów. Do zupy dodać pół łyżeczki drobno zmielonego pieprzu i podgrzać przed podaniem na małym ogniu. Podawać z chipsami z bekonu i tartą gałką muszkatołową oraz opcjonalnie z rukwią wodną lub rukolą.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

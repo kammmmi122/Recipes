@@ -1,20 +1,31 @@
 = Ragu alla bolognese 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 3 godziny
-* 6 porcji
-* https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 3 godziny
+
+[.recipe-details-item]
+👥 6 porcji
+
+[.recipe-details-item]
+🔗 https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * oliwa z oliwek
 * 1 średnia cebula
@@ -31,7 +42,9 @@
 * świeżo stary parmezan
 * odrobina posiekanej natki pietruszki i/lub bazylii
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Cebulę, marchewkę myjemy i kroimy w drobną kostkę.
 
@@ -48,11 +61,4 @@ Mleko podgrzewamy i dodajemy małymi partiami do sosu. Dokładnie mieszamy. Zost
 Ragu serwujemy z szerokim makaronem. Przed podaniem posypujemy parmezanem i opcjonalnie natką pietruszki lub posiekaną bazylią.
 
 Jeśli robicie ragu dzień wcześniej, przed podaniem podgrzejcie je. Jeśli będzie bardzo gęste, wówczas warto dodać odrobinę wody z gotowania makaronu, by rozluźnić sos.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

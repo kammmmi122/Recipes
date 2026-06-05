@@ -1,25 +1,38 @@
 = Skrzydełka w miodzie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.winiary.pl/przepisy/soczyste-skrzydelka-z-miodem[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.winiary.pl/przepisy/soczyste-skrzydelka-z-miodem[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 kg skrzydełek
 * 2 WINIARY POMYSŁ NA… soczyste skrzydełka z miodem
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Umyj dokładnie skrzydełka. W opakowaniu Pomysł na... znajdziesz woreczek i zapinkę. Umieść skrzydełka w woreczku, dodaj zawartość opakowania i zamknij zapinką.
 
@@ -28,11 +41,4 @@ Delikatnie obracając woreczek, równomiernie rozprowadź przyprawę na skrzyde�
 Włóż woreczek do żaroodpornego naczynia i wstaw do piekarnika rozgrzanego do temperatury 200°C. Piecz na najniższym poziomie około 50 minut.
 
 Po wyjęciu z piekarnika ostrożnie odetnij końcówkę z zapinką. Soczyste skrzydełka idealnie komponują się z sałatką Coleslaw i domowymi frytkami.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

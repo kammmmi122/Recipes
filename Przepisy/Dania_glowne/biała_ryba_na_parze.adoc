@@ -1,28 +1,35 @@
 = Biała ryba na parze 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcje
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 4 kawałki białej ryby (dorsza, tilapii)
 * sól i pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Rybę oprószyć solą i pieprzem. Ugotować na parze
 
-|===
-
-[.recipe-gallery]
-== Zdjęcia

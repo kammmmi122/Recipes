@@ -1,20 +1,31 @@
 = Gulasz z szynki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina 30 minut
-* liczba porcji: 1900 g gulaszu
-* https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina 30 minut
+
+[.recipe-details-item]
+👥 liczba porcji: 1900 g gulaszu
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 kg łopatki wieprzowej
 * 2 średnie czerwone papryki - 500 g
@@ -26,7 +37,9 @@
 * 3 łyżki koncentratu pomidorowego
 * przyprawy: 2 łyżki słodkiej papryki, po pół łyżeczki soli i pieprzu, szczypta chili
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zacznijmy od mięsa wieprzowego. Potrzebujesz około jednego kilograma mięsa (Może być trochę mniej. Wystarczy nawet 800 gramów). Najpyszniejszy gulasz wychodzi mi zawsze na łopatce wieprzowej, ale możesz też użyć samej szynki lub też wymieszać szynkę z karkówką w proporcjach pół na pół. 
 
@@ -51,11 +64,4 @@ Możesz zawsze lekko zagęścić gulasz przez dodanie do niego skrobi ziemniacza
 Zanim jednak wyłączysz gulasz, sprawdź jego smak. Być może wolisz bardziej słony gulasz i dodasz do niego trochę soli. Jeśli gulasz wieprzowy ma być ostrzejszy, to dodaj do niego więcej pieprzu lub chili. 
 
 Gulasz wieprzowy bardzo dobrze smakuje podany z kromką ulubionego pieczywa i ogórkiem kiszonym. Do gulaszy pasują również kasze: gryczana, pęczak, kuskus. Gulasz wieprzowy smakuje świetnie z tłuczonymi ziemniakami, kopytkami i kluskami śląskimi oraz surówką z białej lub czerwonej kapusty.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

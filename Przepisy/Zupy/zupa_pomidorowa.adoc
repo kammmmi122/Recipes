@@ -1,20 +1,31 @@
 = Zupa pomidorowa 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/kuchnia_polska/zupy/zupa_pomidorowa/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1 godzina
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/zupy/zupa_pomidorowa/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 ćwiartki kurczaka
 * 2 litry wody
@@ -25,7 +36,9 @@
 * szczypta zmielonego pieprzu
 * 200 g makaronu
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Mięso włożyć do garnka, dodać szczyptę soli, zalać zimną wodą i zagotować na większym ogniu.
 
@@ -36,11 +49,4 @@ Dodać pomidory, dokładnie wymieszać i zagotować.
 Zmniejszyć ogień i stopniowo dodawać śmietanę - aby uniknąć zwarzenia najlepiej wcześniej wymieszać ją w oddzielnym naczyniu (np. kubku) z kilkoma łyżkami zimnej wody a następnie ze stopniowo dodawanym gorącym wywarem (około 1/3 szklanki). Całość delikatnie podgrzać. Doprawić do smaku pieprzem.
 
 Ugotować makaron osobno.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

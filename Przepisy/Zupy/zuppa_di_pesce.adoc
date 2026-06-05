@@ -1,20 +1,31 @@
 = Zuppa di pesce 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/zuppa-di-pesce[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/zuppa-di-pesce[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 łyżki oliwy extra vergine
 * 1 ząbek czosnku
@@ -28,7 +39,9 @@
 * 100 g krewetek + opcjonalnie 2 krewetki nieobrane, z głowami
 * bagietka
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Do szerokiego większego garnka wlać oliwę, dodać obrany i pokrojony na cienkie plasterki czosnek, posiekaną w kosteczkę papryczkę chili i smażyć na małym ogniu przez około 3 minuty co chwilę mieszając.
 
@@ -43,11 +56,4 @@ Do garnka z sosem dodać małże, krewetki oraz filety ryby. Gotować przez ok. 
 Wszystkie nieotwarte małże wyrzucić. Dodać resztę natki pietruszki, jeszcze raz doprawić w razie potrzeby. Przygotować grzanki z bagietki.
 
 Zupę nałożyć do talerzy, dodać grzanki. Obok każdej porcji postawić talerz na muszle po małżach oraz miseczkę z zimną wodą i kawałkiem cytryny (do umycia palców po posiłku).
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

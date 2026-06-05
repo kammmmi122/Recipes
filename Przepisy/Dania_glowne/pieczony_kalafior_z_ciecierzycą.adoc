@@ -1,20 +1,30 @@
 = Pieczony kalafior z ciecierzycą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+image::20241026_124801.jpg[]
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 15 minut + 30 minut pieczenia
-* 2 porcje
-* https://www.jadlonomia.com/przepisy/pieczony-kalafior-z-ciecierzyca[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 15 minut + 30 minut pieczenia
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/pieczony-kalafior-z-ciecierzyca[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1/2 kalafiora / 600 g
 * 1 puszka ciecierzycy
@@ -29,7 +39,9 @@
 * sól i pieprz
 * do podania: świeża pietruszka lub koperek
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Piekarnik rozgrzać do 200 stopni. Kalafiora podzielić na różyczki, duże róże pokroić na mniejsze, liście pociąć. Puszkę ciecierzycy odcedzić, płyn z ciecierzycy warto zachować i zrobić z niego na przykład majonez.
 
@@ -41,10 +53,11 @@ Można podawać jako lekki lunch bez dodatków; jako bardziej sycący lunch posy
 
 Podpowiem też, że jeśli kaszę wstawicie w tym samym czasie co warzywa, to w pół godziny otrzymacie naprawdę porządny obiad dla kilku osób.
 
-|===
 
 [.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
 
 image::/Recipes/static/images/20241026_124801.jpg[]
 

@@ -1,19 +1,28 @@
 = Pałki z kurczaka pieczone 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 50 minut
-* 4 porcje
+[.recipe-details-item]
+🕒 czas przygotowania: 50 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 8 pałek z kurczaka
 * 2 łyżeczka czerwonej papryki
@@ -21,14 +30,9 @@
 * pieprz i sól
 * olej
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Nastawić piekarni na 180 stopni C. Mięso włożyć do worka do pieczenia. Do mięsa dodać przyprawy i 1 łyżkę oleju. Piec przez 45 minut.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

@@ -1,20 +1,31 @@
 = Tarta bananowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 45 minut
-* 20 porcji
-* https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 45 minut
+
+[.recipe-details-item]
+👥 20 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 === Spód
 
@@ -33,7 +44,9 @@
 * 1 i 1/2 łyżeczki żelatyny (do bitej śmietany) lub śmietan-fix
 * 25 g gorzkiej czekolady
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Ugotować budyń według przepisu. Odstawić z ognia i przełożyć do miski (tylko nie metalowej). Dokładnie ostudzić, wstawić do lodówki.
 
@@ -48,11 +61,4 @@ Banany pokroić na plasterki, włożyć do miski i dokładnie obtoczyć w soku z
 === Bita śmietana
 
 Żelatynę wsypać do rondelka, wlać 1/4 szklanki wody i wymieszać. Podgrzewać na małym ogniu ciągle mieszając. Jak tylko żelatyna całkowicie się rozpuści przelać ją do miseczki i ostudzić (najlepiej wstawić miseczkę do zimnej wody). Zimną śmietanę ubić na sztywno z 1 łyżką cukru, pod koniec dodać letnią żelatynę lub śmietan-fix i jeszcze przez chwilę razem ubijać. Śmietanę rozprowadzić po deserze i udekorować roztopioną czekoladą (można ją wycisnąć przez woreczek z wyciętą malutką dziurką).
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

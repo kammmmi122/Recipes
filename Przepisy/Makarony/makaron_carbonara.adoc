@@ -1,20 +1,31 @@
 = Makaron carbonara 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/pasta/makaron_carbonara/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/pasta/makaron_carbonara/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 jajka
 * 100 g boczku (wędzonego lub suszonego - pancetty)
@@ -24,7 +35,9 @@
 * 30 g sera Pecorino (lub Parmezanu lub Grana Padano)
 * sól i świeżo zmielony czarny pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Jajka sparzyć wrzątkiem, wbić do głębokiego talerza, doprawić solą i roztrzepać widelcem.
 
@@ -35,11 +48,4 @@ Trzymając patelnię na małym ogniu dodać makaron i wymieszać. Odstawić z og
 Makaron polać roztrzepanymi jajkami i wymieszać. Jajka nie mogą całkowicie się ściąć, mają utworzyć kremowy sos i tylko trochę zgęstnieć od gorącego makaronu.
 
 Wyłożyć na talerze i posypać pozostałym serem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

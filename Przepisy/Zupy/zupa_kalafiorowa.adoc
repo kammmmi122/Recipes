@@ -1,20 +1,31 @@
 = Zupa kalafiorowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/zupa-kalafiorowa-z-ziemniakami-i-marchewka[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 4 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/zupa-kalafiorowa-z-ziemniakami-i-marchewka[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 łyżki oliwy
 * 1 łyżka masła
@@ -27,7 +38,9 @@
 * 2 łyżki posiekanego szczypiorku
 * 200 g gęstej śmietany z kubka 18%
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę, dodać obraną i pokrojoną na cienkie plasterki marchewkę i smażyć co chwilę mieszając przez 2 minuty.
 
@@ -36,11 +49,4 @@ Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać je przez ok
 Dodać świeżego kalafiora pokrojonego na małe różyczki i jeszcze przez chwilę razem podsmażać (kalafiora mrożonego dodajemy później). Wlać gorący bulion i zagotować. Przykryć i gotować przez ok. 20 minut do miękkości warzyw. W połowie tego czasu dodać mrożone różyczki kalafiora, wcześniej opłukane na sitku pod gorącą wodą.
 
 Zupę odstawić z ognia, dodać posiekany koperek i szczypiorek. Śmietanę wymieszać z kilkoma łyżkami zimnej wody, później z kilkoma łyżkami wywaru. Po zahartowaniu śmietany dodawać ją stopniowo do zupy cały czas mieszając. Podawać z pieczywem.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

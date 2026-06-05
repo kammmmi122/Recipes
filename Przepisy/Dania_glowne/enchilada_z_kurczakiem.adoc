@@ -1,20 +1,31 @@
 = Enchilada z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 35 minut
-* 3 - 5 porcji
-* https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 35 minut
+
+[.recipe-details-item]
+👥 3 - 5 porcji
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/przepis/enchilada-z-kurczakiem[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 5 dużych tortilli
 * 100 g ryżu długoziarnistego
@@ -44,7 +55,9 @@
 * 1 łyżeczka oliwy
 * przyprawy: 1 łyżeczka suszonego oregano, 1/2 łyżeczki kuminu, szczypta ostrej papryki, szczypta cukru, sól, pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Nastawić do ugotowania ryż. Kurczaka pokroić na 2 cm paski. Doprawić go solą, pieprzem oraz mieszanką przypraw i nasmarować 2 łyżkami oleju roślinnego.
 
@@ -59,11 +72,4 @@ Czosnek obrać i przekroić na pół. Włożyć do rondelka z oliwą i chwilę p
 Rozłożyć farsz na tortille, posypać połową sera i listkami kolendry, zwinąć w ruloniki.
 
 Piekarnik nagrzać do 180 stopni C. W formie lub na blaszce ułożyć zwinięte tortille łączeniem do dołu, polać sosem i posypać drugą połową sera. Zapiekać przez 20 minut. Posypać kolendrą i posiekanym chili.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

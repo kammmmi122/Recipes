@@ -1,21 +1,31 @@
 = Zupa tajska z owocami morza 🦐 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 20 minut
+
+[.recipe-details-item]
+👥 2 porcje
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
@@ -30,7 +40,9 @@
 * 1 czerwona papryczka chili świeża lub suszona + mielona papryka ostra do smaku
 * ryż jaśminowy, kolendra
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
@@ -41,12 +53,4 @@ Dodać imbir, wlać bulion, mleko kokosowe i zagotować. W międzyczasie dodać 
 Do lekko gotującego się wywaru włożyć pokrojone filety i owoce morza. Gotować bez przykrycia na małym ogniu przez około 5 minut dodając sól do smaku.
 
 Doprawić papryczką chili. Podawać z ugotowanym ryżem i świeżą kolendrą.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
-
 

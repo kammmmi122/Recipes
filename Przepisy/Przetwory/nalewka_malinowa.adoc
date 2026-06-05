@@ -1,26 +1,39 @@
 = Nalewka malinowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 30 minut + 1 miesiąc
-* liczba porcji: około 1,5 l nalewki
-* https://aniagotuje.pl/przepis/nalewka-z-malin[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 30 minut + 1 miesiąc
+
+[.recipe-details-item]
+👥 liczba porcji: około 1,5 l nalewki
+
+[.recipe-details-item]
+🔗 https://aniagotuje.pl/przepis/nalewka-z-malin[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 kg świeżych malin
 * 1000 ml wódki 40 lub 45 %
 * 400 g zwykłego cukru
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Zbierz lub kup kilogram ładnych i dojrzałym malin. W razie potrzeby zdejmij je z szypułek, oczyść i przebierz z zepsutych, czy uszkodzonych sztuk. Maliny delikatnie przepłucz pod prysznicem z zimnej, bieżącej wody. 
 
@@ -40,11 +53,4 @@ Sok oraz owoce przecedzam przez sitko do słoika z dwa dni temu zlaną nalewką.
 To jeszcze nie koniec. Po przecedzeniu resztek soku nalewka nie będzie klarowna. Aby można ją było spokojnie odłożyć do leżakowania, trzeba ją dokładnie przefiltrować z fragmentów owoców oraz innych zanieczyszczeń. 
 
 Po prawidłowym i dokładnym przefiltrowaniu Twoja nalewka malinowa będzie idealnie klarowna. Możesz ją przelać do kilku mniejszych butelek lub słoików. Nalewka z malin powinna leżakować np. w kuchennym schowku lub piwniczce minimum sześć miesięcy.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

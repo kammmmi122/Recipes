@@ -1,20 +1,31 @@
 = Pierogi z kapustą i grzybami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: 1,5 godziny
-* ok. 80 sztuk
-* https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_kapusta/przepis.html[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: 1,5 godziny
+
+[.recipe-details-item]
+📝 ok. 80 sztuk
+
+[.recipe-details-item]
+🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_kapusta/przepis.html[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 1 słoik litrowy suszonych grzybów (ok. 100 g)
 * 1 kg kiszonej kapusty
@@ -29,7 +40,9 @@
 * 3 cebule
 * kilka łyżek oleju roślinnego
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Grzyby opłukać, zalać zimną wodą i odstawić na 6 godzin lub na całą noc. Następnego dnia zagotować, dodać obraną marchewkę, pietruszkę i gotować aż będą miękkie. Pod koniec gotowania doprawić solą i pieprzem.
 
@@ -48,11 +61,4 @@ Ciasto podzielić na 4 części, kolejno rozwałkowywać na placki. Małą szkla
 Gotować do miękkości, przez około 3 minuty, ale najlepiej sprawdzić czy pierogi są już miękkie, odławiając jednego na łyżkę cedzakową i dotykając palcem.
 
 Podawać z zeszkloną na oleju pokrojoną w drobną kostkę cebulą.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 

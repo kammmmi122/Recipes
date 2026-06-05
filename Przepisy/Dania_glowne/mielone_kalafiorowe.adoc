@@ -1,20 +1,31 @@
 = Mielone kalafiorowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[.recipe-page]
+[.recipe-hero]
+
+[.recipe-category-label]
+Dania główne
+
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
 
 [.recipe-details]
-== Szczegóły
 
-* czas przygotowania: do 45 minut
-* 8 - 10 kotletów
-* https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
+[.recipe-details-item]
+🕒 czas przygotowania: do 45 minut
+
+[.recipe-details-item]
+📝 8 - 10 kotletów
+
+[.recipe-details-item]
+🔗 https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
+
+
 
 [.recipe-columns]
-[cols="1a,1a"]
-[frame=none]
-[grid=none]
-|===
-|
+
+[.recipe-column-box]
 == Składniki
 * 2 ½ szklanki startego kalafiora / ½ kalafiora
 * 1 duża cebula
@@ -28,7 +39,9 @@
 * 1 ½ - 2 łyżeczki pieprzu ziołowy
 * sól i czarny pieprz
 
-|
+
+
+[.recipe-column-box]
 == Przygotowanie
 Piekarnik rozgrzać do 180 stopni, blachę do pieczenia wyłożyć papierem. Kalafiora wraz z łodygą zetrzeć na dużych oczkach tarki, cebulę zetrzeć na dużych oczkach tarki, a czosnek na małych oczkach. Wszystko przełożyć do bardzo dużej miski.
 
@@ -49,11 +62,4 @@ To samo dotyczy syropu z agawy - odrobina słodyczy nadaje odpowiedniej głębi 
 Umycie rąk po wyrobieniu masy jest bardzo ważne - dzięki temu kotlety łatwo się formują, są równe i chrupiące.
 
 Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygodnia w lodówce, świetnie smakują na zimno.
-
-|===
-
-[.recipe-gallery]
-== Zdjęcia
-
-
 
