@@ -60,18 +60,6 @@ def get_value(char):
     else:
         return len(polish_alphabet_string)
 
-emoji_map = {
-    "🌱": "vege",
-    "🐟": "ryby",
-    "🦐": "ryby",
-    "🔥": "ostre",
-    "🐔": "mięsne",
-    "🦆": "mięsne",
-    "🐖": "mięsne",
-    "🥩": "mięsne",
-}
-
-
 def create_index_adoc():
 
     with open(f"index.adoc", "w", encoding="utf8") as file:
@@ -101,15 +89,6 @@ def create_index_adoc():
                 except Exception:
                     ascii_text = ""
 
-                # Decide primary human-readable category
-                categories = set()
-                for s in tags:
-                    cat = emoji_map.get(s)
-                    if cat:
-                        categories.add(cat)
-
-                cat_label = ", ".join(sorted(categories)) if categories else ""
-
                 # determine thumbnail or placeholder
                 image_path = find_first_image(os.path.join(path, name))
                 if image_path:
@@ -118,17 +97,15 @@ def create_index_adoc():
                     image_html = '<div class="card-image card-image--placeholder">Brak zdjęcia</div>'
 
                 emoji_html = " ".join(tags)
-                tag_html = f'<div class="card-tag">{html.escape(cat_label)}</div>' if cat_label else ''
                 category_attr = html.escape(folder_name)
                 title_attr = html.escape(title.lower())
                 card_html = (
-                    f'<article class="card" data-category="{category_attr}" data-tags="{html.escape(cat_label.lower())}" data-title="{title_attr}">'
+                    f'<article class="card" data-category="{category_attr}" data-title="{title_attr}">'
                     f'<a href="{html.escape(path_to_html, quote=True)}">'
                     f'{image_html}'
                     f'<div class="card-content">'
                     f'<div class="card-meta">'
                     f'<span class="card-category">{html.escape(folder_name)}</span>'
-                    f'{tag_html}'
                     f'</div>'
                     f'<div class="card-title">{html.escape(title)}</div>'
                     f'<div class="card-emoji">{html.escape(emoji_html)}</div>'
