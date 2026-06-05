@@ -85,7 +85,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: #ff6b6b; /* kolor nadpisywany w JS */
+  background: #ff6b6b;
   color: white;
   padding: 6px 12px;
   font-size: 13px;
@@ -95,8 +95,39 @@ body {
   z-index: 5;
 }
 
+.card[data-category="Dania glowne"] .card-category-label {
+  background: #d64541;
+}
+
+.card[data-category="Desery"] .card-category-label {
+  background: #ec6b8b;
+}
+
+.card[data-category="Makarony"] .card-category-label {
+  background: #f5a623;
+}
+
+.card[data-category="Przetwory"] .card-category-label {
+  background: #7dbb49;
+}
+
+.card[data-category="Przystawki"] .card-category-label {
+  background: #4aa5b5;
+}
+
+.card[data-category="Salatki"] .card-category-label {
+  background: #3a8c40;
+}
+
+.card[data-category="Zupy"] .card-category-label {
+  background: #4a90e2;
+}
+
 .card-content {
   padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 .card-title {
@@ -116,6 +147,25 @@ body {
   text-decoration: none;
 }
 
+.card-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: rgba(0, 122, 204, 0.12);
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+.card-link:hover,
+.card-link:focus-visible {
+  background: rgba(0, 122, 204, 0.18);
+  color: #005a9e;
+  transform: translateY(-1px);
 /* --- POZOSTAŁE STYLE (bez zmian) --- */
 
 .card-image-placeholder {

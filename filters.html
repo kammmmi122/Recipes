@@ -57,6 +57,12 @@
     width:100%;
     max-width:360px;
   }
+  .no-results-message {
+    text-align:center;
+    color:#555;
+    font-weight:600;
+    padding:28px 16px;
+  }
   .collapsed{display:none}
 
   @media (max-width:840px){
@@ -93,6 +99,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.querySelector('#search');
   const cardsGrid = document.querySelector('.cards-grid');
   const allButton = tabs.find(t => t.dataset.filter === 'all');
+  const noResultsMessage = document.createElement('div');
+  noResultsMessage.className = 'no-results-message';
+  noResultsMessage.textContent = 'Brak przepisów spełniających warunki.';
+
+  if (cardsGrid && cardsGrid.parentNode) {
+    cardsGrid.parentNode.insertBefore(noResultsMessage, cardsGrid.nextSibling);
+    noResultsMessage.style.display = 'none';
+  }
 
   function getCards() {
     return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
@@ -100,8 +114,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function getActiveFilters() {
     return tabs
-      .filter(tab => tab.classList.contains('active') && tab.dataset.filter !== 'all')
-      .map(tab => tab.dataset.filter);
+      .filter(tab => tab.classList.contains('active') && (tab.dataset.filter || '').trim() !== 'all')
+      .map(tab => (tab.dataset.filter || '').trim());
   }
 
   function applyFilters() {
@@ -111,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
     getCards().forEach(card => {
       const title = (card.dataset.title || '').toLowerCase();
       const category = (card.dataset.category || '').toLowerCase();
-      const emojiText = (card.dataset.emoji || '').toLowerCase();
+      const emojiText = ((card.dataset.emoji || '').trim() || (card.querySelector('.card-emoji')?.textContent || '')).toLowerCase();
       const searchableText = `${title} ${category} ${emojiText}`;
 
       const matchesSearch = q === '' || searchableText.includes(q);
@@ -119,6 +133,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
       card.style.display = matchesSearch && matchesFilters ? '' : 'none';
     });
+
+    if (noResultsMessage) {
+      const visibleCardCount = getCards().filter(card => card.style.display !== 'none').length;
+      noResultsMessage.style.display = visibleCardCount === 0 ? '' : 'none';
+    }
   }
 
   function updateAllButtonState() {

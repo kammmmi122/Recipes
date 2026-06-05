@@ -14,7 +14,7 @@ def in_path(path):
     return in_path_var
 
 
-def find_first_image(recipe_path):
+def find_last_image(recipe_path):
     try:
         with open(recipe_path, "r", encoding="utf8") as file:
             text = file.read()
@@ -26,9 +26,9 @@ def find_first_image(recipe_path):
         return None
 
     photos_section = re.split(r"(?m)^==\s+", sections[1])[0]
-    match = re.search(r"image::([^\[]+)\[", photos_section)
-    if match:
-        return match.group(1).strip()
+    matches = re.findall(r"image::([^\[]+)\[", photos_section)
+    if matches:
+        return matches[-1].strip()
 
     return None
 
@@ -63,7 +63,7 @@ def create_index_adoc():
 
     # HEADER
     with open(f"index.adoc", "w", encoding="utf8") as file:
-        file.write("= Lista przepisów\n")
+        file.write("= Moje przepisy\n")
         file.write("\n++++\ninclude::filters.html[]\n++++\n")
 
     # WALK THROUGH FOLDERS
@@ -98,7 +98,7 @@ def create_index_adoc():
                 emoji_html = " ".join(tags)
 
                 # IMAGE
-                image_path = find_first_image(os.path.join(path, name))
+                image_path = find_last_image(os.path.join(path, name))
                 if image_path:
                     image_html = (
                         f'<img class="card-image" src="{html.escape(image_path, quote=True)}" '
