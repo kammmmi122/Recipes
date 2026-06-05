@@ -54,36 +54,63 @@ body {
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 18px;
+  gap: 28px;
   margin-top: 18px;
 }
 
+/* --- NOWY WYGLĄD KART --- */
+
 .card {
-  background: var(--card-bg);
-  border-radius: var(--radius);
-  box-shadow: rgba(16, 24, 40, 0.06);
+  background: #fff;
+  border-radius: 14px;
   overflow: hidden;
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  transition: transform .2s ease;
+  position: relative;
 }
 
 .card:hover {
-  transform: translateY(-6px);
-  box-shadow: rgba(16, 24, 40, 0.12);
-}
-
-.card a {
-  display: block;
-  padding: 18px 16px;
-  color: inherit;
-  text-decoration: none;
+  transform: translateY(-4px);
 }
 
 .card-image {
-  min-height: 192px;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
 }
+
+/* Pasek kategorii w lewym górnym rogu */
+.card-category-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #ff6b6b; /* kolor nadpisywany w JS */
+  color: white;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  border-bottom-right-radius: 8px;
+  z-index: 5;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 12px 0;
+}
+
+.card-link {
+  color: #0077ff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* --- POZOSTAŁE STYLE (bez zmian) --- */
 
 .card-image-placeholder {
   display: grid;
@@ -94,12 +121,6 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-}
-
-.card-content {
-  display: grid;
-  gap: 12px;
-  padding: 18px;
 }
 
 .card-meta {
@@ -117,14 +138,6 @@ body {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: #94a3b8;
-}
-
-.card-title {
-  margin-top: 6px;
-  font-size: 1.18rem;
-  line-height: 1.3;
-  font-weight: 700;
-  color: #0b0b0b;
 }
 
 .card-emoji {
