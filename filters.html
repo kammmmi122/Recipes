@@ -2,17 +2,24 @@
 <style>
   .header-controls{
     display:flex;
-    flex-wrap:wrap;
+    flex-wrap:nowrap;
     gap:12px;
-    justify-content:flex-end;
+    justify-content:space-between;
     align-items:center;
   }
   .tabs{
     display:flex;
     gap:14px;
-    flex-wrap:wrap;
+    flex-wrap:nowrap;
     align-items:center;
     justify-content:flex-end;
+    overflow-x:auto;
+    padding-bottom:2px;
+  }
+  .tabs::after {
+    content: '';
+    flex: 1;
+    min-width: 0;
   }
   .tabs button{
     background:none;
@@ -23,6 +30,7 @@
     font-weight:600;
     color:#3a3a3a;
     transition:background-color .2s, color .2s;
+    white-space:nowrap;
   }
   .tabs button.active,
   .tabs button:hover{
@@ -34,7 +42,8 @@
     gap:12px;
     align-items:center;
     justify-content:flex-end;
-    min-width:260px;
+    min-width:0;
+    flex:0 1 auto;
   }
   .search-input{
     padding:10px 14px;
@@ -47,9 +56,9 @@
   .collapsed{display:none}
 
   @media (max-width:840px){
-    .header-controls{justify-content:center;}
-    .controls{justify-content:center;}
-    .tabs{justify-content:center;}
+    .header-controls{flex-wrap:wrap;justify-content:center;}
+    .controls{justify-content:center;width:100%;}
+    .tabs{justify-content:center;overflow-x:auto;}
   }
   @media (max-width:560px){
     .search-input{min-width:180px;}
