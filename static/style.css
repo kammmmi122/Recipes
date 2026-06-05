@@ -113,15 +113,12 @@ body {
 /* --- POZOSTAŁE STYLE (bez zmian) --- */
 
 .card-image-placeholder {
-  display: grid;
-  place-items: center;
-  min-height: 192px;
-  background: linear-gradient(135deg, #2b2f35 0%, #14181d 100%);
-  color: #cbd5e1;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 
 .card-meta {
   display: flex;
