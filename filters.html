@@ -1,32 +1,91 @@
 <!doctype html>
 <style>
   .site-header{
-    max-width:1100px;margin:32px auto 8px;padding:0 20px;display:flex;flex-direction:column;gap:12px;align-items:stretch
+    max-width:1100px;
+    margin:32px auto 8px;
+    padding:0 20px;
+    display:grid;
+    grid-template-columns:1fr auto;
+    gap:16px;
+    align-items:center;
   }
-  .site-header h1{font-size:2rem;margin:0;text-align:center}
-  .tabs{display:flex;gap:18px;align-items:center;justify-content:center}
-  .tabs button{background:none;border:none;padding:8px 12px;border-bottom:3px solid transparent;cursor:pointer;font-weight:600;color:#3a3a3a}
-  .tabs button.active{color:var(--accent,#007acc);border-color:var(--accent,#007acc)}
-  .controls{display:flex;gap:12px;align-items:center;justify-content:center}
-  .search-input{padding:10px 12px;border-radius:10px;border:1px solid #e6e6e6;min-width:220px}
-
-  /* hide old lists if present */
+  .site-header h1{
+    font-size:2rem;
+    margin:0;
+    text-align:left;
+  }
+  .header-controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    justify-content:flex-end;
+    align-items:center;
+  }
+  .tabs{
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:flex-end;
+  }
+  .tabs button{
+    background:none;
+    border:none;
+    padding:8px 12px;
+    border-radius:12px;
+    cursor:pointer;
+    font-weight:600;
+    color:#3a3a3a;
+    transition:background-color .2s, color .2s;
+  }
+  .tabs button.active,
+  .tabs button:hover{
+    color:var(--accent,#007acc);
+    background:rgba(0,122,204,.1);
+  }
+  .controls{
+    display:flex;
+    gap:12px;
+    align-items:center;
+    justify-content:flex-end;
+    min-width:260px;
+  }
+  .search-input{
+    padding:10px 14px;
+    border-radius:14px;
+    border:1px solid #e6e6e6;
+    min-width:240px;
+    width:100%;
+    max-width:360px;
+  }
   .collapsed{display:none}
 
-  @media (max-width:700px){.site-header h1{font-size:1.5rem}}
+  @media (max-width:840px){
+    .site-header{grid-template-columns:1fr;}
+    .site-header h1{text-align:center;}
+    .header-controls{justify-content:center;}
+    .controls{justify-content:center;}
+    .tabs{justify-content:center;}
+  }
+  @media (max-width:560px){
+    .site-header h1{font-size:1.6rem;}
+    .search-input{min-width:180px;}
+  }
 </style>
 
 <div class="site-header">
   <h1>Moje Przepisy</h1>
-  <div class="tabs" role="tablist" aria-label="Filtry kategorii">
-    <button data-filter="all" class="active">Wszystkie</button>
-    <button data-filter="mięsne">Mięsne</button>
-    <button data-filter="vege">Vege</button>
-    <button data-filter="ryby">Ryby</button>
-    <button data-filter="ostre">Ostre</button>
-  </div>
-  <div class="controls">
-    <input id="search" class="search-input" type="search" placeholder="Szukaj przepisoe..." aria-label="Szukaj przepisów">
+  <div class="header-controls">
+    <div class="controls">
+      <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
+    </div>
+    <div class="tabs" role="tablist" aria-label="Filtry kategorii">
+      <button data-filter="all" class="active">Wszystkie</button>
+      <button data-filter="mięsne">Mięsne</button>
+      <button data-filter="vege">Vege</button>
+      <button data-filter="ryby">Ryby</button>
+      <button data-filter="ostre">Ostre</button>
+    </div>
   </div>
 </div>
 

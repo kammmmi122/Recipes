@@ -1,4 +1,6 @@
+import html
 import os
+import re
 
 symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
@@ -11,6 +13,25 @@ def in_path(path):
             in_path_var = True
 
     return in_path_var
+
+
+def find_first_image(recipe_path):
+    try:
+        with open(recipe_path, "r", encoding="utf8") as file:
+            text = file.read()
+    except Exception:
+        return None
+
+    sections = re.split(r"(?m)^==\s+Zdjęcia\s*$", text)
+    if len(sections) < 2:
+        return None
+
+    photos_section = re.split(r"(?m)^==\s+", sections[1])[0]
+    match = re.search(r"image::([^\[]+)\[", photos_section)
+    if match:
+        return match.group(1).strip()
+
+    return None
 
 
 def create_keep_note():
@@ -89,15 +110,29 @@ def create_index_adoc():
 
                 cat_label = ", ".join(sorted(categories)) if categories else ""
 
-                # build card HTML
+                # determine thumbnail or placeholder
+                image_path = find_first_image(os.path.join(path, name))
+                if image_path:
+                    image_html = f'<div class="card-image" style="background-image:url(\'{html.escape(image_path, quote=True)}\')"></div>'
+                else:
+                    image_html = '<div class="card-image card-image--placeholder">Brak zdjęcia</div>'
+
                 emoji_html = " ".join(tags)
-                tag_html = f'<div class="card-tag">{cat_label}</div>' if cat_label else ''
+                tag_html = f'<div class="card-tag">{html.escape(cat_label)}</div>' if cat_label else ''
+                category_attr = html.escape(folder_name)
+                title_attr = html.escape(title.lower())
                 card_html = (
-                    f'<article class="card">'
-                    f'<a href="{path_to_html}">'
-                    f'<div class="card-emoji">{emoji_html}</div>'
-                    f'<div class="card-title">{title}</div>'
+                    f'<article class="card" data-category="{category_attr}" data-tags="{html.escape(cat_label.lower())}" data-title="{title_attr}">'
+                    f'<a href="{html.escape(path_to_html, quote=True)}">'
+                    f'{image_html}'
+                    f'<div class="card-content">'
+                    f'<div class="card-meta">'
+                    f'<span class="card-category">{html.escape(folder_name)}</span>'
                     f'{tag_html}'
+                    f'</div>'
+                    f'<div class="card-title">{html.escape(title)}</div>'
+                    f'<div class="card-emoji">{html.escape(emoji_html)}</div>'
+                    f'</div>'
                     f'</a></article>'
                 )
                 cards.append(card_html)
