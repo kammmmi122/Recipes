@@ -212,14 +212,14 @@ input:checked + .slider::before {
   background: var(--card-bg);
   padding: 18px;
   border-radius: 10px;
-  box-shadow: rgb(16 24 40 / 4%);
+  box-shadow: rgba(16, 24, 40, 0.04);
 }
 
 .recipe-columns .steps {
   background: var(--card-bg);
   padding: 18px;
   border-radius: 10px;
-  box-shadow: rgba(16, 24, 40, 0.040.04);
+  box-shadow: rgba(16, 24, 40, 0.04);
 }
 
 .recipe-columns h2 {
@@ -241,7 +241,7 @@ input:checked + .slider::before {
   margin: 0 0 8px;
 }
 
-@media (max-width: 800px) {
+@media (width <= 800px) {
   .recipe-columns {
     grid-template-columns: 1fr;
     padding: 12px;
