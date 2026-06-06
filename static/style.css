@@ -240,39 +240,23 @@ body {
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
   width: 100%;
-  height: 360px;
-  background: #e5e7eb;
-  color: var(--muted);
-  font-size: 1.3rem;
-  font-weight: 500;
+  max-height: 450px; /* Zamiast sztywnego height: 360px dajemy max-height */
+  background: #f3f4f6; /* Delikatne tło, jeśli obrazek ma inne proporcje */
   display: flex !important;
   align-items: center;
   justify-content: center;
   border-radius: 14px;
   margin: 16px 0 24px !important;
   box-shadow: var(--shadow-soft);
-  position: relative;
+  overflow: hidden;
 }
 
 .recipe-hero img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  max-height: 450px;
+  object-fit: contain; /* Obrazek kurczy się/skaluje tak, aby zmieścić się CAŁY bez ucinania krawędzi */
   border-radius: 14px;
-}
-
-.recipe-hero::before {
-  content: "Dania główne";
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  background: #f97316;
-  color: #ffffff;
-  padding: 6px 12px;
-  font-size: 0.85rem;
-  font-weight: 600;
-  border-radius: 6px;
-  z-index: 5;
 }
 
 /* 2. Pasek szczegółów */
