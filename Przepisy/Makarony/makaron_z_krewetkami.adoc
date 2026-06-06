@@ -1,18 +1,18 @@
 = Makaron z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 25 minut
-* 2 porcje, po 600 kcal
-* https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 200 g mrożonych krewetek
 * 125 g makaronu np. tagliatelle
 * 1 łyżka oliwy extra vergine
@@ -23,9 +23,8 @@
 * 6 pomidorków koktajlowych
 * 2 łyżki posiekanej natki pietruszki
 * 125 ml śmietanki 30%
-|
-== Przygotowanie
 
+== Przygotowanie
 Krewetki rozmrozić, oczyścić jeśli jest konieczność, oderwać ogonki, opłukać i osuszyć.
 
 Makaron ugotować w osolonej wodzie zgodnie z instrukcją na opakowaniu.
@@ -40,7 +39,8 @@ Wlać śmietankę i zagotować. Gotować przez ok. 1 minutę aż sos zgęstnieje
 
 Dodać odcedzony makaron i wszystko razem podgrzać.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

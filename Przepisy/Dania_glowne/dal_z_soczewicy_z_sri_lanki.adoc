@@ -1,18 +1,18 @@
 = Dal z soczewicy z Sri Lanki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 10 minut + 20 minut czekania
-* 4 - 6 porcji
-* https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 10 minut
+* 🕒 czas gotowania: 10 minut
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/dahl-soczewicowy-ze-sri-lanki[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 350 g soczewicy czerwonej / 2 szklanki
 * 2 ½ szklanki wody
 * 1 ½łyżeczki kurkumy
@@ -27,9 +27,7 @@
 * 1 puszka kokosowego mleczka / 400 ml
 * sól
 
-|
 == Przygotowanie
-
 Soczewicę dokładnie opłukać. Następnie przełożyć do garnka, dodać odmierzoną wodę oraz kurkumą i gotować pod przykryciem na niedużym ogniu do momentu, aż soczewica będzie lekko miękka, czyli około 10 minut.
 
 Po upływie tego czasu cebulę pokroić w drobną kostkę, a na patelni mocno rozgrzać kilka łyżek oleju. Na olej wrzucić kumin, gorczycę, kozieradkę, chili oraz cebulę i smażyć przez 3 minuty, do momentu aż będzie przezroczysta i zacznie się lekko złocić. Następnie dodać liście curry, smażyć ostatnią minutę, a gorący olej wraz z przyprawami wlać do soczewicy.
@@ -40,7 +38,8 @@ Suszone liście curry kupicie w Kuchniach Świata oraz każdym sklepie z żywno�
 
 Pozostałe przyprawy można kupić w sklepach zielarskich, sklepach z żywnością orientalną lub w dobrze zaopatrzonych delikatesach. Najprościej jednak jest zamówić je na Vegepacku, gdzie można za jednym zamachem kupić wszystkie na raz.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

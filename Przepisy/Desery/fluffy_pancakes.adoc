@@ -1,18 +1,17 @@
 = Fluffy pancakes 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20251109_210923.jpg[]
 
-* czas przygotowania: 30 minut
-* 15 - 18 porcji
-* https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://mojewypieki.com/przepis/puszyste-japonskie-pancakes[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 3 żółtka
 * 15 g drobnego cukru do wypieków
 * 60 ml mleka
@@ -24,9 +23,7 @@
 * szczypta soli
 * 60 g drobnego cukru do wypieków
 
-|
 == Przygotowanie
-
 Wszystkie składniki powinny być w temperaturze pokojowej.
 
 W większym naczyniu umieścić żółtka, cukier, mleko, olej, wanilię. Wymieszać rózgą kuchenną do połączenia się składników. Bezpośrednio do mieszanki przesiać mąkę z proszkiem do pieczenia i wymieszać rózgą kuchenną tylko do połączenia się składników.
@@ -37,10 +34,9 @@ Większą łyżką (u mnie łyżka do lodów) odmierzać porcje ciasta i smaży�
 
 Puszyste japońskie placuszki podawać prosto z patelni, z ulubionymi owocami i syropem klonowym (odłożone do wystudzenia - nieco opadną).
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20251109_210923.jpg[]
-image::/Recipes/static/images/20251109_210926.jpg[]
+[.gallery-grid]
+image::20251109_210923.jpg[]
+image::20251109_210926.jpg[]

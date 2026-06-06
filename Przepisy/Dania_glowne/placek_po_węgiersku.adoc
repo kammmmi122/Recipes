@@ -1,21 +1,17 @@
 = Placek po węgiersku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 2,5 godziny
-* 1 porcja placek
-* 6 - 8 porcji gulasz
-* https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 1 porcja
+* 🔗 https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
-Gulasz węgierski:
-
 * 1 kg łopatki wieprzowej lub szynki
 * 100 g parzonego lub gotowanego boczku
 * 1 duża cebula
@@ -34,9 +30,6 @@ Gulasz węgierski:
 * 200 g pieczarek
 * 2 łyżki masła
 * 2 łyżki mąki
-
-Placek:
-
 * 1/2 kg ziemniaków
 * 1/2 łyżki mąki pszennej
 * 1/4 cebuli
@@ -45,9 +38,7 @@ Placek:
 * 5 łyżek oleju roślinnego do smażenia
 * do podania: śmietana i natka pietruszki
 
-|
 == Przygotowanie
-
 Gulasz węgierski:
 
 Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.
@@ -70,7 +61,8 @@ Rozgrzać patelnię (śr. 20-22 cm), wlać 3 łyżki oleju. Wyłożyć całą ma
 
 Przełożyć na talerz, nałożyć gorący gulasz i złożyć na pół. Po wierzchu polać gęstą śmietaną i posypać natką.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

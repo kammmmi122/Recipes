@@ -35,7 +35,7 @@
   .tabs button.active,
   .tabs button:hover{
     color:var(--accent,#007acc);
-    background:rgba(0,122,204,.1);
+    background:rgba(0,122,204,.12);
   }
   .controls{
     display:flex;
@@ -45,6 +45,10 @@
     min-width:0;
     flex:0 1 auto;
   }
+
+  .tabs button.active {
+    background: rgba(0, 122, 204, 0.14);
+  }
   .search-input{
     padding:10px 14px;
     border-radius:14px;
@@ -52,6 +56,12 @@
     min-width:240px;
     width:100%;
     max-width:360px;
+  }
+  .no-results-message {
+    text-align:center;
+    color:#555;
+    font-weight:600;
+    padding:28px 16px;
   }
   .collapsed{display:none}
 
@@ -85,51 +95,85 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const tabs = document.querySelectorAll('.tabs button');
+  const tabs = Array.from(document.querySelectorAll('.tabs button'));
   const searchInput = document.querySelector('#search');
   const cardsGrid = document.querySelector('.cards-grid');
+  const allButton = tabs.find(t => t.dataset.filter === 'all');
+  const noResultsMessage = document.createElement('div');
+  noResultsMessage.className = 'no-results-message';
+  noResultsMessage.textContent = 'Brak przepisów spełniających warunki.';
 
-  function getCards(){
+  if (cardsGrid && cardsGrid.parentNode) {
+    cardsGrid.parentNode.insertBefore(noResultsMessage, cardsGrid.nextSibling);
+    noResultsMessage.style.display = 'none';
+  }
+
+  function getCards() {
     return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
   }
 
-  let activeCategory = 'all';
+  function getActiveFilters() {
+    return tabs
+      .filter(tab => tab.classList.contains('active') && (tab.dataset.filter || '').trim() !== 'all')
+      .map(tab => (tab.dataset.filter || '').trim());
+  }
 
-  function applyFilters(){
+  function applyFilters() {
     const q = (searchInput && searchInput.value || '').toLowerCase().trim();
-    const cards = getCards();
-    cards.forEach(card => {
-      const text = (card.textContent || '').toLowerCase();
-      const tagEl = card.querySelector('.card-emoji');
-      const tagText = tagEl ? (tagEl.textContent || '').toLowerCase() : '';
+    const activeFilters = getActiveFilters();
 
-      const matchesSearch = q === '' || text.includes(q);
-      const matchesCategory = activeCategory === 'all' || tagText.includes(activeCategory);
+    getCards().forEach(card => {
+      const title = (card.dataset.title || '').toLowerCase();
+      const category = (card.dataset.category || '').toLowerCase();
+      const emojiText = ((card.dataset.emoji || '').trim() || (card.querySelector('.card-emoji')?.textContent || '')).toLowerCase();
+      const searchableText = `${title} ${category} ${emojiText}`;
 
-      if(matchesSearch && matchesCategory){
-        card.style.display = '';
+      const matchesSearch = q === '' || searchableText.includes(q);
+      const matchesFilters = activeFilters.length === 0 || activeFilters.some(filter => emojiText.includes(filter));
+
+      card.style.display = matchesSearch && matchesFilters ? '' : 'none';
+    });
+
+    if (noResultsMessage) {
+      const visibleCardCount = getCards().filter(card => card.style.display !== 'none').length;
+      noResultsMessage.style.display = visibleCardCount === 0 ? '' : 'none';
+    }
+  }
+
+  function updateAllButtonState() {
+    const activeNonAll = tabs.some(tab => tab.dataset.filter !== 'all' && tab.classList.contains('active'));
+    if (allButton) {
+      allButton.classList.toggle('active', !activeNonAll);
+    }
+  }
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const filterValue = tab.dataset.filter || 'all';
+
+      if (filterValue === 'all') {
+        tabs.forEach(t => t.classList.toggle('active', t === tab));
       } else {
-        card.style.display = 'none';
+        tab.classList.toggle('active');
       }
+
+      updateAllButtonState();
+      applyFilters();
     });
-  }
+  });
 
-  tabs.forEach(t => t.addEventListener('click', ()=>{
-    tabs.forEach(x=>x.classList.remove('active'));
-    t.classList.add('active');
-    activeCategory = t.getAttribute('data-filter') || 'all';
-    applyFilters();
-  }));
-
-  if(searchInput){
+  if (searchInput) {
     let debounce;
-    searchInput.addEventListener('input', ()=>{
+    searchInput.addEventListener('input', () => {
       clearTimeout(debounce);
-      debounce = setTimeout(()=>applyFilters(), 120);
+      debounce = setTimeout(applyFilters, 120);
     });
   }
 
-  // run once at start
+  if (allButton) {
+    allButton.classList.add('active');
+  }
+
   applyFilters();
 });
 </script>

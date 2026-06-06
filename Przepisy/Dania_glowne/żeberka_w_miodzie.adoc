@@ -1,20 +1,18 @@
 = Żeberka w miodzie 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 30 minut
-* czas marynowania żeberek: 30 minut
-* czas pieczenia żeberek: 1 godzina 30 minut
-* 4 duże porcje
-* https://aniagotuje.pl/przepis/zeberka-pieczone[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/zeberka-pieczone[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg żeberek wieprzowych
 * 1 łyżka ulubionej musztardy
 * 4 łyżki płynnego miodu
@@ -25,9 +23,7 @@
 * 4 łyżki oleju
 * przyprawy: płaska łyżka majeranku, łyżeczka słodkiej papryki, po pół łyżeczki soli, pieprzu i ostrej papryki, 2 listki laurowe, 3 ziela angielskie, ewentualnie po szczypcie kminku, kolendry i rozmarynu
 
-|
 == Przygotowanie
-
 Przygotuj około jednego kilograma żeberek wieprzowych. Żeberka pokrój na kawałki. Niech każdy kawałek zawiera jedną podłużną kostkę. W osobne miseczce wymieszaj składniki marynaty. Będą to: jedna łyżka ulubionej musztardy delikatesowej lub musztardy Dijon, jeśli lubisz ostrzejsze żeberka; trzy łyżki płynnego miodu (jedna łyżka zostaje do smarowania żeberek pod koniec pieczenia); 3 łyżki dowolnego oleju do smażenia (jedna łyżka zostaje do smarowania żeberek pod koniec pieczenia); płaska łyżka majeranku; łyżeczka słodkiej papryki; po pół łyżeczki soli, pieprzu i ostrej papryki; dwa listki laurowe połamane na mniejsze kawałki; trzy ziarna ziela angielskiego oraz ewentualnie po szczypcie kminku, kolendry i rozmarynu. Marynatą wysmaruj dokładnie wszystkie żeberka.
 
 Przykryj je i odstaw do lodówki przynajmniej na pół godziny. Możesz też przygotować je wieczorem i zostawić do marynowania na całą noc. Porada: Część ząbków czosnku (lub wszystkie ) możesz przepuścić przez praskę i dodać je do składników na marynatę. Wówczas nie dodajesz ich już w całości do naczynia, w którym żeberka będą się piekły z warzywami.
@@ -35,6 +31,7 @@ Przykryj je i odstaw do lodówki przynajmniej na pół godziny. Możesz też prz
 W dość dużym naczyniu żaroodpornym umieść żeberka razem z całą marynatą. Pomiędzy żeberka wyłóż warzywa. Obraną cebulę pokrój na kilka mniejszych kawałków. Paprykę oczyść z gniazda nasiennego i pokrój w grubsze paski. Ząbki czosnku obierz i dodaj do naczynia w całości (chyba, że poszły do marynaty). Całość możesz oprószyć dodatkowo świeżo mielonym pieprzem. Jeśli masz gałązki świeżego rozmarynu lub tymianku, to możesz je wcisnąć między warzywa i żeberka.
 
 Do naczynia wlej na koniec około 1/3 szklanki dowolnego bulionu lub też jasnego albo ciemnego piwa. Możesz też wlać samą wodę lub nawet sok wyciśnięty z jednej dużej pomarańczy.
+
 Porada: Zamiata zwykłej cebuli możesz użyć cebulę czosnkową lub czerwoną. Jeśli chodzi o paprykę, to możesz użyć papryki w dowolnym kolorze.
 
 Naczynie z żeberkami i warzywami przykryj szczelnie i umieść na środkowej półce w piekarniku nagrzanym do 190 stopni. Wybierz opcję pieczenia góra/dół. Żeberka piecz w ten sposób przez godzinę (pieczenie wydłużasz o 30 minut, jeśli masz duże i grube kawałki). Po tym czasie zdejmij przykrywkę/folię. Ostrożnie wyjmij naczynie z piekarnika.
@@ -47,7 +44,8 @@ Blaszkę z żeberkami umieść w piekarniku na wyższej półce. Ustaw średnią
 
 Żeberka podałam z domowymi frytkami po chłopsku oraz z surówkami z czerwonej i białej kapusty.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

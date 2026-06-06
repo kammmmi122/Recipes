@@ -1,18 +1,17 @@
 = Sajgonki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20240502_181440.jpg[]
 
-* czas przygotowania: 45 minut
-* ok. 25 - 30 sztuk
-* https://www.kwestiasmaku.com/kuchnia_orientu/sajgonki_przepis/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/sajgonki_przepis/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1/2 cebuli
 * 1 średnia marchewka starta na tarce o małych oczkach
 * 1/2 - 1 łyżeczki startego imbiru
@@ -30,9 +29,7 @@
 * olej roślinny do smażenia np. arachidowy
 * do podania: sos chili wymieszany z sosem sojowym, sos do sajgonek, sos słodko - pikantny chili
 
-|
 == Przygotowanie
-
 Na patelni rozgrzać łyżkę oleju, zeszklić drobniutko posiekaną cebulę, dodać marchewkę, imbir i starty czosnek, smażyć przez minutę. Dodać mięso i mieszając smażyć przez około 2 minuty aż całe będzie obsmażone (zmieni kolor na szary).
 
 Wlać sos sojowy i sos rybny, mieszając smażyć przez pół minuty. Odstawić z ognia i przełożyć do dużej miski, dodać natkę, miętę, szczypiorek.
@@ -43,10 +40,9 @@ Naleśniki wkładać na kilkanaście sekund do ciepłej wody, układać na desce
 
 Smażyć partiami, w woku lub na patelni, na około 3 mm warstwie oleju (sajgonki mają mieć złoty kolor i być zrumienione nieco bardziej niż na zdjęciach).
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20240502_181440.jpg[]
-image::/Recipes/static/images/20250507_180946.jpg[]
+[.gallery-grid]
+image::20240502_181440.jpg[]
+image::20250507_180946.jpg[]

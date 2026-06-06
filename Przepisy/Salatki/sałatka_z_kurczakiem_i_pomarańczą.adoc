@@ -1,34 +1,29 @@
 = Sałatka z kurczakiem i pomarańczą 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 pomarańcze
 * 400 g filetu z piersi kurczaka (np. polędwiczki)
 * 50 g rukoli
 * 50 g orzechów włoskich
 * 6 kawałków suszonych pomidorów
-
-=== Sos
-
 * 4 łyżki soku z pomarańczy
 * 2 łyżki oliwy
 * 2 łyżki miodu
 * 1 łyżka musztardy dijon
 
-|
 == Przygotowanie
-
 Pomarańcze obrać ze skórek a następnie wyfiletować (ostrym nożem wykroić cząstki miąższu pomiędzy błonkami). Z resztek pomarańczy wycisnąć sok i zachować go do sosu (około 4 - 5 łyżek).
 
 Do soku z pomarańczy dodać resztę składników sosu, czyli: oliwę, miód i musztardę, następnie doprawić solą oraz pieprzem.
@@ -43,7 +38,8 @@ Suszone pomidory wyjąć z zalewy i pokroić na cienkie paseczki.
 
 Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszone pomidory, polać pozostałym sosem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

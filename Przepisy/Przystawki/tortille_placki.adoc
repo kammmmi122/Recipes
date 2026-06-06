@@ -1,26 +1,23 @@
 = Tortille placki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20250713_174140.jpg[]
 
-* czas przygotowania: 25 minut
-* 12 sztuk
-* https://www.kwestiasmaku.com/przepis/tortille[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/tortille[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 szklanki mąki pszennej
 * 1/2 łyżeczki soli
 * 3 łyżki smalcu lub oleju kokosowego lub masła
 * 2/3 szklanki wrzącej wody
 
-|
 == Przygotowanie
-
 Do miski wsypać mąkę, dodać sól i smalec lub olej kokosowy. Dodawać stopniowo wrzącą wodę (wlewać ją bezpośrednio na tłuszcz) i mieszać składniki widelcem. Połączyć je i uformować kulę. Wyrabiać przez ok. 3 minuty aż ciasto będzie gładkie. Zawinąć w folię spożywczą i odstawić na 1 godzinę w temp. pokojowej.
 
 Ciasto podzielić na 10 lub 16 równych części i uformować kulki, odstawić na minimum 10 minut, maksymalnie na 1 i 1/2 godziny, przykryć aby nie obeschły.
@@ -33,10 +30,9 @@ Usmażyć resztę placków jak wyżej, odpowiednio dostosowując stopień rozgrz
 
 Aby łatwiej było zawijać tortillę z nadzieniem lub kroić ją na chipsy, usmażone tortille trzymam przez jakiś czas zawinięte w wilgotną ściereczkę. Można je też podgrzać.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20250713_174140.jpg[]
-image::/Recipes/static/images/20250713_180058.jpg[]
+[.gallery-grid]
+image::20250713_174140.jpg[]
+image::20250713_180058.jpg[]

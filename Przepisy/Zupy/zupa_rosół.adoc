@@ -1,26 +1,24 @@
 = Zupa rosół 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/kuchnia_polska/rosol/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/rosol/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kurczak o wadze około 2 kg
 * 3 litry wody
 * 2 włoszczyzny:
 * przyprawy: 1 łyżka soli morskiej, 3 ziarenka ziela angielskiego, 1 liść laurowy, 4 całe ziarenka pieprzu
 
-|
 == Przygotowanie
-
 Jeśli mamy całego kurczaka należy go pokroić na części - odciąć szyję, skrzydełka, uda. Korpus pozostawić razem z piersiami.
 
 Wszystkie części opłukać, następnie włożyć do dużego garnka i zalać zimną wodą. Posolić i zagotować na średnim ogniu.
@@ -33,8 +31,8 @@ Warzywa włożyć do rosołu i zagotować. Dodać przyprawy: ziele angielskie, l
 
 Rosół podawać gorący, z ugotowanym makaronem, posiekaną natką, pokrojoną na cienkie plasterki marchewką z rosołu oraz kawałkami mięsa z kurczaka.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

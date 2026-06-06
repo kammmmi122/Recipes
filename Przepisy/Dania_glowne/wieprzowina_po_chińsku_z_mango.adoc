@@ -1,18 +1,18 @@
 = Wieprzowina po chińsku z mango 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 30 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 mała polędwiczka wieprzowa
 * 1 łyżka mąki ziemniaczanej
 * 1 mango
@@ -27,9 +27,7 @@
 * 5 łyżek sosu sojowego
 * 2 łyżki cukru (np. trzcinowego)
 
-|
 == Przygotowanie
-
 Odciąć białą błonę na zewnętrznej stronie polędwiczki. Mięso przekroić wzdłuż na pół, następnie w poprzek włókien na jak najcieńsze plasterki. Doprawić solą i pieprzem, obtoczyć w mące ziemniaczanej.
 
 Nastawić ryż na gotowanie. Mango obrać i pokroić w słupki. Paprykę pokroić w paski, cebulę obrać i pokroić w piórka.
@@ -46,7 +44,8 @@ Włożyć z powrotem warzywa z mango i wszystko wymieszać, następnie wlać sos
 
 Wyłożyć danie na talerze, obok położyć ryż, posypać szczypiorkiem i podawać.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

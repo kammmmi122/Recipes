@@ -1,18 +1,18 @@
 = Schab nadziewany mozzarellą i pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 90 minut
-* 6 porcje
-* https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 90 minut
+* 🕒 czas gotowania: 90 minut
+* 👥 6 porcje
+* 🔗 https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -23,9 +23,7 @@
 * olej do smażenia
 * sól, pieprz
 
-|
 == Przygotowanie
-
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.
@@ -40,8 +38,8 @@ Roladki smażę z każdej strony na rozgrzanym oleju.
 
 Gotowe, podaję z ulubioną surówką i ziemniakami.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

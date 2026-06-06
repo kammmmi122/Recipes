@@ -5,17 +5,24 @@ import re
 symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
 
+category_colors = {
+  "Dania glowne": "#ff6b6b",
+"Makarony": "#ffa94d",
+  "Zupy": "#4dabf7",
+  "Salatki": "#69db7c",
+  "Desery": "#f06595",
+  "Przetwory": "#ffd43b",
+};
 
 def in_path(path):
     in_path_var = False
     for var in [".git", "static", "scripts"]:
         if var in path:
             in_path_var = True
-
     return in_path_var
 
 
-def find_first_image(recipe_path):
+def find_last_image(recipe_path):
     try:
         with open(recipe_path, "r", encoding="utf8") as file:
             text = file.read()
@@ -27,9 +34,9 @@ def find_first_image(recipe_path):
         return None
 
     photos_section = re.split(r"(?m)^==\s+", sections[1])[0]
-    match = re.search(r"image::([^\[]+)\[", photos_section)
-    if match:
-        return match.group(1).strip()
+    matches = re.findall(r"image::([^\[]+)\[", photos_section)
+    if matches:
+        return matches[-1].strip()
 
     return None
 
@@ -39,60 +46,82 @@ def get_value(char):
     else:
         return len(polish_alphabet_string)
 
+
 def create_index_adoc():
 
+    # HEADER
     with open(f"index.adoc", "w", encoding="utf8") as file:
-        file.write("= Lista przepisów\n")
+        file.write("= Moje przepisy\n")
         file.write("\n++++\ninclude::filters.html[]\n++++\n")
 
+    # WALK THROUGH FOLDERS
     for path, subdirs, files in os.walk("."):
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
         folder_name = path.split("\\")[-1].replace("_", " ")
-        if ".\\" in path and not in_path(path):
-            with open(f"index.adoc", "a+", encoding="utf8") as file:
-                file.write(f"\n== {folder_name}\n\n")
 
-        # Build an HTML grid for this folder using passthrough block
         cards = []
+
+        # BUILD CARDS
         for name in files:
             if name.endswith("adoc") and name != "index.adoc":
-                path_to_html = os.path.join(path.replace(".\\", ""), name.replace("adoc", "html")).replace("\\", "/")
+
+                # URL
+                path_to_html = os.path.join(
+                    path.replace(".\\", ""), name.replace("adoc", "html")
+                ).replace("\\", "/")
+
+                # TITLE
                 title = name.replace("_", " ").capitalize().replace(".adoc", "")
+
+                # EMOJI TAGS
                 tags = []
                 try:
-                    with open(os.path.join(path, name), "r", encoding="utf8") as ascii_file:
-                        ascii_text = ascii_file.read()
+                    with open(os.path.join(path, name), "r", encoding="utf8") as recipe_file:
+                        recipe_text = recipe_file.read()
                         for symbol in symbols:
-                            if symbol in ascii_text:
+                            if symbol in recipe_text:
                                 tags.append(symbol)
                 except Exception:
-                    ascii_text = ""
+                    recipe_text = ""
+                emoji_html = " ".join(tags)
 
-                # determine thumbnail or placeholder
-                image_path = find_first_image(os.path.join(path, name))
+                # IMAGE
+                image_path = find_last_image(os.path.join(path, name))
                 if image_path:
-                    image_html = f'<div class="card-image" style="background-image:url(\'{html.escape(image_path, quote=True)}\')"></div>'
+                    image_html = (
+                        f'<img class="card-image" src="{html.escape(image_path, quote=True)}" '
+                        f'alt="{html.escape(title)}">'
+                    )
                 else:
                     image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
 
-                emoji_html = " ".join(tags)
-                category_attr = html.escape(folder_name)
-                title_attr = html.escape(title.lower())
+                # CATEGORY LABEL (colored in CSS/JS)
+                category_label = (
+                    f'<div class="card-category-label" style="background:{category_colors.get(folder_name, "#999")}">'
+                    f'{html.escape(folder_name)}'
+                    f'</div>'
+                )
+
+                # NEW CARD HTML — MATCHES YOUR NEW CSS
                 card_html = (
-                    f'<article class="card" data-category="{category_attr}" data-title="{title_attr}">'
-                    f'<a href="{html.escape(path_to_html, quote=True)}">'
+                    f'<article class="card" '
+                    f'data-category="{html.escape(folder_name)}" '
+                    f'data-title="{html.escape(title.lower())}" '
+                    f'data-emoji="{html.escape(emoji_html, quote=True)}">'
+                    f'{category_label}'
                     f'{image_html}'
                     f'<div class="card-content">'
-                    f'<div class="card-meta">'
-                    f'<span class="card-category">{html.escape(folder_name)}</span>'
+                    f'<h3 class="card-title">{html.escape(title)}</h3>'
+                    f'<span class="card-emoji">{html.escape(emoji_html)}</span>'
+                    f'<a class="card-link" href="{html.escape(path_to_html, quote=True)}">'
+                    f'Zobacz przepis ></a>'
                     f'</div>'
-                    f'<div class="card-title">{html.escape(title)}</div>'
-                    f'<div class="card-emoji">{html.escape(emoji_html)}</div>'
-                    f'</div>'
-                    f'</a></article>'
+                    f'</article>'
                 )
+
                 cards.append(card_html)
 
+        # WRITE CARDS FOR THIS CATEGORY
         if cards:
             with open(f"index.adoc", "a+", encoding="utf8") as file:
                 file.write("++++\n")

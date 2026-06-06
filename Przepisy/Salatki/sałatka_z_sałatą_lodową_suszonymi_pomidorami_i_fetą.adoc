@@ -1,18 +1,18 @@
 = Sałatka z sałatą lodową, suszonymi pomidorami i fetą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/dania_dla_dwojga/party/salatka_z_feta/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/party/salatka_z_feta/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1/4 lub 1/3 główki sałaty lodowej
 * garstka roszponki
 * 5 kawałków suszonych pomidorów w zalewie
@@ -25,16 +25,15 @@
 * 1 łyżka syropu z agawy lub klonowego lub płynnego miodu
 * sól i pieprz
 
-|
 == Przygotowanie
-
 Sałatę opłukać i osuszyć, pokroić w kostkę, włożyć do salaterek razem z opłukaną roszponką. Doprawić solą i pieprzem.
 
 Pomidory suszone wyjąć z zalewy i pokroić na cienkie paseczki, fetę pokroić w kosteczkę, chili oraz białe i jasnozielone części dymki na cienkie plasterki, wszystko dodać do sałatki.
 
 Posypać pestkami dyni i polać winegretem: olej z suszonych pomidorów (można zebrać z dna słoika suszone zioła) wymieszać w miseczce z sokiem z limonki, syropem lub miodem i doprawić solą oraz pieprzem. Polać po sałatce.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

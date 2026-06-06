@@ -1,18 +1,18 @@
 = Noodle z mielonym mięsem drobiowym 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 25 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 25 minut
+* 🕒 czas gotowania: 25 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/noodle-z-mielonym-miesem-drobiowym[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 łyżki oleju roślinnego
 * 200 g mielonego mięsa drobiowego
 * 2 ząbki czosnku
@@ -28,9 +28,7 @@
 * 2 łyżki sosu sojowego
 * 2 łyżki sosu chili
 
-|
 == Przygotowanie
-
 Rozgrzać wok z olejem, włożyć mięso oraz przeciśnięty przez praskę czosnek, obrany i drobno starty imbir, sól i pieprz. Smażyć na dużym ogniu co chwilę mieszając, mniej więcej przez ok. 8 minut.
 
 Dodać pokrojone liście pak choi i pokrojoną na kawałeczki paprykę. Smażyć mieszając przez ok. 2 - 3 minuty.
@@ -41,7 +39,8 @@ Do woka z mięsem i warzywami dodać ugotowany makaron i wymieszać.
 
 Wlać sos, wymieszać i podgrzać. Posypać szczypiorkiem i sezamem lub orzeszkami.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

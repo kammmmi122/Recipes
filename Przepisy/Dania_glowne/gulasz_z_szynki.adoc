@@ -1,18 +1,18 @@
 = Gulasz z szynki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina 30 minut
-* liczba porcji: 1900 g gulaszu
-* https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg łopatki wieprzowej
 * 2 średnie czerwone papryki - 500 g
 * 2 duże marchewki - 300 g
@@ -23,9 +23,7 @@
 * 3 łyżki koncentratu pomidorowego
 * przyprawy: 2 łyżki słodkiej papryki, po pół łyżeczki soli i pieprzu, szczypta chili
 
-|
 == Przygotowanie
-
 Zacznijmy od mięsa wieprzowego. Potrzebujesz około jednego kilograma mięsa (Może być trochę mniej. Wystarczy nawet 800 gramów). Najpyszniejszy gulasz wychodzi mi zawsze na łopatce wieprzowej, ale możesz też użyć samej szynki lub też wymieszać szynkę z karkówką w proporcjach pół na pół.
 
 Mięso pokrój na nieduże kawałki na jeden kęs. Postaraj się, by kawałki mięsa były mniej więcej tej samej wielkości, czyli do 2 x 2 cm. Do miski z kawałkami mięsa wsyp też przyprawy: 2 łyżki słodkiej papryki, po pół łyżeczki soli i pieprzu oraz symboliczna szczypta chili. Cztery duże ząbki czosnku obierz i przepuść przez praskę. Jeśli nie masz świeżego czosnku, to dodaj jedną łyżkę suszonego. Dokładnie wymieszaj mięso z przyprawami i czosnkiem.
@@ -50,7 +48,8 @@ Zanim jednak wyłączysz gulasz, sprawdź jego smak. Być może wolisz bardziej 
 
 Gulasz wieprzowy bardzo dobrze smakuje podany z kromką ulubionego pieczywa i ogórkiem kiszonym. Do gulaszy pasują również kasze: gryczana, pęczak, kuskus. Gulasz wieprzowy smakuje świetnie z tłuczonymi ziemniakami, kopytkami i kluskami śląskimi oraz surówką z białej lub czerwonej kapusty.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

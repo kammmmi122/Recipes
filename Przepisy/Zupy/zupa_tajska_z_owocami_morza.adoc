@@ -1,18 +1,18 @@
 = Zupa tajska z owocami morza 🦐 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 20 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/curry/zupa_curry_z_owocami_morza/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
 * 1 łyżeczka tartego imbiru
@@ -26,9 +26,7 @@
 * 1 czerwona papryczka chili świeża lub suszona + mielona papryka ostra do smaku
 * ryż jaśminowy, kolendra
 
-|
 == Przygotowanie
-
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
 W garnku podgrzać olej, dodać pastę curry i smażyć ją przez około 1 - 2 minuty (garnek można przykryć aby nie pryskało).
@@ -39,7 +37,8 @@ Do lekko gotującego się wywaru włożyć pokrojone filety i owoce morza. Gotow
 
 Doprawić papryczką chili. Podawać z ugotowanym ryżem i świeżą kolendrą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

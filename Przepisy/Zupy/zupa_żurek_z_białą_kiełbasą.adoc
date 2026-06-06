@@ -1,18 +1,17 @@
 = Zupa żurek z białą kiełbasą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20240329_154743.jpg[]
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.kwestiasmaku.com/kuchnia_polska/wielkanoc/zurek_na_zakwasie/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/wielkanoc/zurek_na_zakwasie/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1,5 litra bulionu lub wywaru mięsnego
 * 400 g wędzonych żeberek lub kości wieprzowych lub wędzonego ew. parzonego boczku
 * 500 g surowej białej kiełbasy
@@ -23,9 +22,7 @@
 * ugotowane jajka
 * chleb np. domowy
 
-|
 == Przygotowanie
-
 Bulion lub wywar zagotować z dodatkiem pokrojonych na 2 - 3 części wędzonych żeberek lub kości lub pokrojonego na 4 części boczku. Gotować przez ok. 20 minut.
 
 Dodać surową białą kiełbasę, zmniejszyć ogień i gotować na wolnym ogniu przez ok. 20 minut.
@@ -38,8 +35,8 @@ Wyjąć kiełbasę z zupy, pokroić ją na plasterki, włożyć z powrotem do ga
 
 Żurek podawać z ugotowanym jajkiem i pieczywem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-image::/Recipes/static/images/20240329_154743.jpg[]
+
+[.gallery-grid]
+image::20240329_154743.jpg[]

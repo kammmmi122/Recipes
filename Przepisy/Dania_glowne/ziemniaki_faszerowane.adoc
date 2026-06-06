@@ -1,18 +1,18 @@
 = Ziemniaki faszerowane 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina 45 minut
-* 4 porcje
-* https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 4 ziemniaki
 * 3 łyżki oleju rzepakowego
 * trochę soli i pieprzu do smaku
@@ -23,9 +23,7 @@
 * 150 g jogurtu greckiego
 * 1 ząbek czosnku
 
-|
 == Przygotowanie
-
 Rozgrzej piekarnik do 200°C. Spore ziemniaki podobnej wielkości umyj dokładnie i osusz. Nie obieraj.
 
 Przy pomocy ostrego noża natnij ziemniaki w poprzek w odstępach ok. 0,5 centymetrowych, ale nie do końca ziemniaka.
@@ -40,7 +38,8 @@ W międzyczasie na patelni podsmaż szynkę lub boczek, pokrojone w kostkę i zr
 
 Ziemniaki wyjmij z piekarnika i podawaj posypane skwareczkami, z sosem i szczypiorkiem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

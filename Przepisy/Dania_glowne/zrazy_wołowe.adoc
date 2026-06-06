@@ -1,18 +1,18 @@
 = Zrazy wołowe 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 2 godziny
-* 6 porcji
-* https://kuchnialidla.pl/zwijane-zrazy-wolowe[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 🕒 czas gotowania: 2 godziny
+* 👥 2-3 porcje
+* 🔗 https://kuchnialidla.pl/zwijane-zrazy-wolowe[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * cebula - 2 szt.
 * pieprz czarny - 1 szczypta
 * ogórek kiszony - 2 szt.
@@ -26,16 +26,15 @@
 * mąka pszenna - 20 g
 * udziec wołowy - 1000 g
 
-|
 == Przygotowanie
-
 Cebulę kroimy w piórka, a ogórki kiszone w cienkie paski. Podsmażamy na odrobinie smalcu, doprawiamy solą i pieprzem.
 
 Mięso kroimy w plastry o szerokości ok. 1,5 cm i rozbijamy tłuczkiem. Każdy plaster mięsa smarujemy musztardą i posypujemy majerankiem. Układamy kolejno plastry boczku oraz podsmażoną cebulę z ogórkiem. Zrazy zwijamy i związujemy sznurkiem. Oprószamy mąką i obsmażamy z każdej strony na rozgrzanym smalcu na brązowy kolor. Układamy w naczyniu żeliwnym, podlewamy wodą i dusimy na wolnym ogniu do miękkości przez ok. 1,5 godziny.
 
 Zrazy wyjmujemy. Powstały sos redukujemy, doprawiamy musztardą i majerankiem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

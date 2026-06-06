@@ -1,18 +1,17 @@
 = Greckie klopsiki w sosie pomidorowym 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20250622_184004.jpg[]
 
-* czas przygotowania: 1 godzina
-* 30 sztuk
-* https://polikala.com/index.php/2022/11/22/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://polikala.com/index.php/2022/11/22/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg mięsa mielonego wieprzowo-wołowego
 * 1 cebula starta na tarce o grubych oczkach
 * 2 łyżki tłuczonej lub grubo mielonej kolendry
@@ -30,9 +29,7 @@
 * passata pomidorowa
 * 200 g fety
 
-|
 == Przygotowanie
-
 Do mięsa dodaj cebulę, przyprawy, starty czosnek, sól oraz posiekaną miętę i natkę pietruszki. Dokładnie wszystko wymieszaj i odstaw do lodówki na minimum pół godziny (a najlepiej na całą noc).
 
 Wyjmij mięso z lodówki i dodaj jajko, bułkę tartą oraz lodowatą wodę.
@@ -47,10 +44,9 @@ Smaż klopsiki z każdej strony na złoty kolor, następnie odsącz je na talerz
 
 Zagotuj passatę pomidorową, włóż klopsiki i podgotuj przez 3 minuty. Skrusz fetę i dodaj do potrawy.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20250622_184004.jpg[]
-image::/Recipes/static/images/20250622_184733.jpg[]
+[.gallery-grid]
+image::20250622_184004.jpg[]
+image::20250622_184733.jpg[]

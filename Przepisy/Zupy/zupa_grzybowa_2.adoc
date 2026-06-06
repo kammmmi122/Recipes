@@ -1,18 +1,18 @@
 = Zupa grzybowa 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.kuchnia-domowa.pl/przepisy/zupy/474-zupa-grzybowa[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kuchnia-domowa.pl/przepisy/zupy/474-zupa-grzybowa[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 500 g świeżych lub mrożonych grzybów (np. prawdziwki, podgrzybki, zajączki, maślaki, kozaki)
 * 1 cebula
 * 1 litr wywaru warzywnego
@@ -23,14 +23,13 @@
 * sól, pieprz
 * makaron
 
-|
 == Przygotowanie
-
 Grzyby oczyścić. (Grzyby najlepiej oczyścić szczoteczką z zabrudzeń. Jeśli to nie wystarczy można je szybko opłukać w misce z zimną wodą i osuszyć na ręczniku papierowym). Pokroić na spore kawałki.
 
 Cebulę obrać i pokroić w kostkę. Na patelni rozgrzać masło. Dodać cebulę i smażyć na średniej mocy palnika, aż się zeszkli. Dodać pokrojone grzyby i smażyć na większej mocy palnika ok. 5 minut.
 
 Marchewkę obrać i zetrzeć na tarce o dużych oczkach.
+
 Natkę pietruszki posiekać drobno.
 
 Grzyby z cebulą przełożyć do niedużego garnka, dodać marchewkę i zalać gorącym wywarem. Doprowadzić do zagotowania. Od zagotowania, gotować ok. 15 minut pod przykryciem, na małej mocy palnika, aż grzyby i marchewka będą miękkie.
@@ -39,7 +38,8 @@ Pod koniec dodać natkę pietruszki. Doprawić śmietaną, solą i pieprzem do s
 
 Podawać z ugotowanym makaronem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

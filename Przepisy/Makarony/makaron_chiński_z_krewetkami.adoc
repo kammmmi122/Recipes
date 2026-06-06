@@ -1,18 +1,18 @@
 = Makaron chiński z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 20 minut
-* 4 porcje
-* http://blogzapetytem.pl/2018/04/09/makaron-chinski-z-krewetkami-i-warzywami[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 4 porcje
+* 🔗 http://blogzapetytem.pl/2018/04/09/makaron-chinski-z-krewetkami-i-warzywami[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 15 sztuk krewetek (obranych, bez pancerzy i ogonów)
 * 200g makaronu chińskiego Chow Mein lub Mie lub VonTon (waga po ugotowaniu)
 * 1 marchew
@@ -32,9 +32,7 @@
 * sól morska
 * do posypania: ziarna sezamu
 
-|
 == Przygotowanie
-
 Makaron przygotowujemy według przepisu na opakowaniu, odsączamy i przepłukujemy zimną wodą
 
 Marchew i papryki kroimy w słupki a por i cebulę w krążki. Na patelni lub w woku rozgrzewamy łyżkę oleju roślinnego i podsmażamy na nim warzywa (marchew, papryki, por, cebulę, groszek i opcjonalnie grzyby, pędy oraz kiełki). Całość dusimy kilka minut, aż warzywa zmiękną
@@ -45,7 +43,8 @@ Na patelni, na łyżce masła podsmażamy krewetki z przeciśniętym czosnkiem i
 
 Podsmażone krewetki przekładamy do makaronu z warzywami, mieszamy i wszystko razem przez chwilę podsmażamy. Podajemy posypane podprażonym na suchej patelni sezamem
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

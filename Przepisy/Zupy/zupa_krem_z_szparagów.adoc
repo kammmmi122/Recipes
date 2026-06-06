@@ -1,18 +1,18 @@
 = Zupa krem z szparagów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 2 - 4 porcje
-* https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/zielony_srodek/szparagi/zupa_krem_z_bialych_szparagow/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 pęczki białych szparagów
 * 1 duża cebula
 * 4 łyżki masła
@@ -22,9 +22,7 @@
 * drobno zmielony pieprz
 * 100 ml śmietanki kremówki 30%
 
-|
 == Przygotowanie
-
 Szparagi opłukać, odłamać twarde i grube końcówki (ok. 3 cm), łodyżki obrać, pokroić na 2 cm kawałki. Twarde końcówki można wykorzystać do ugotowania bulionu jarzynowego, są łykowate i nie nadają się na zmiksowanie w zupie.
 
 W garnku roztopić 2 łyżki masła i zeszklić pokrojoną w kosteczkę cebulę. Następnie dodać obrane i pokrojone w drobną kosteczkę ziemniaki i mieszając co chwilę smażyć przez ok. 5 minut.
@@ -35,7 +33,8 @@ Wlać gorący bulion i zagotować. Gotować przez ok. 5 minut, następnie dodać
 
 Zupę można dodatkowo przelać przez sito i przetrzeć łyżką zgromadzony na sicie miąższ, w ten sposób pozbędziemy się resztek łykowatych cząstek szparagów. Do zupy dodać pół łyżeczki drobno zmielonego pieprzu i podgrzać przed podaniem na małym ogniu. Podawać z chipsami z bekonu i tartą gałką muszkatołową oraz opcjonalnie z rukwią wodną lub rukolą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

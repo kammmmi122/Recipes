@@ -1,18 +1,18 @@
 = Kaszotto z grzybami leśnymi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.cafebabilon.pl/kaszotto-z-grzybami-lesnymi/[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.cafebabilon.pl/kaszotto-z-grzybami-lesnymi/[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 500 g grzybów leśnych, świeżych lub mrożonych
 * po 2 łyżki masła i oleju
 * 2 szalotki (można zastąpić zwykłą cebulą)
@@ -21,17 +21,21 @@
 * 1/2 pęczka natki pietruszki
 * sól, świeżo mielony pieprz
 
-|
 == Przygotowanie
-
 Świeże grzyby oczyść i opłucz, a mrożone wyłóż na sito, aby się rozmroziły. Następnie duże pokrój w mniejsze kawałki, małe mogą pozostać w całości.
+
 Szalotkę obierz, pokrój w kostkę i oprósz solą.
+
 Na dużej patelni rozgrzej masło z olejem. Dodaj szalotkę i na małym ogniu smaż aż zmięknie.
+
 Dołóż grzyby i suchą kaszę, zwiększ moc palnika i smaż 3-4 minuty. Wlej 1 szklankę bulionu, dopraw solą i pieprzem. Zmniejsz ogień i gotuj, co jakiś czas mieszając. Gdy płyn się wchłonie, wlej kolejną szklankę bulionu, a następnie czynności powtórz.
+
 Gotuj do miękkości kaszy, w razie potrzeby podlej wodą.
+
 Przed podaniem posyp świeżo mielonym pieprzem, a na talerzach obficie posyp natką pietruszki.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

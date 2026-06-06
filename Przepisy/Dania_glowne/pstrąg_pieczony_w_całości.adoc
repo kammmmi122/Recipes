@@ -1,18 +1,18 @@
 = Pstrąg pieczony w całości 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina
-* 4 porcje
-* https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 https://www.alemeksyk.eu/smaki-swiata/item/712-pstrag-pieczony-z-maslem-i-cytryna-przepis-tescia.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 4 średnie wypatroszone pstrągi (tęczowy lub łososiowy)
 * 2 cytryny
 * 1 limonka
@@ -25,20 +25,16 @@
 * świeża pietruszka
 * sól i pieprz
 
-|
 == Przygotowanie
-
 Pstrągi dokładnie patroszymy, czyścimy i myjemy. Generalnie są dwie szkoły czyszczenia, jedni rybę skrobią z łusek, inni natomiast jedynie czyszczą wierzchnią warstwę śluzu, którym powleczone są łuski. My wykonujemy jedynie tę drugą czynność... wychodzimy z założenia, że i tak przecież zjada się samo mieso, a skóra wędruje do kosza.
 
 Suszymy papierowymi ręcznikami. Robimy kilka nacięć na jednym boku pstrąga.
-
 
 Solimy i pieprzymy do smaku, zarówno z wierzchu (głównie nacięcia, w tym miejscu mięso najlepiej wchłonie sól) jak i w środku.
 
 Wkładamy do środka po jednym nieobranym, jedynie zgniecionym ząbku czosnku, lepiej uwolni swój aromat.
 
 Cytrynę i limonkę kroimy na plasterki i wkładamy do każdego pstrąga po kilka plasterków.
-
 
 Dokładamy świeżą pietruszkę lub kolendrę, w zależności co kto lubi. My najczęściej używamy kolendry ogrodowej, jest znacznie intensywniejsza w smaku i aromacie.
 
@@ -50,7 +46,8 @@ Pstrągi układamy na blaszce wyłożonej papierem do pieczenia, wkładamy do pi
 
 Pstrąga można jeść samego, ale jednak preferujemy bardziej klasyczną polską wersję, z ziemniaczkami i duszona cebulką :)
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

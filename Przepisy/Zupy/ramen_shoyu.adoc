@@ -1,18 +1,17 @@
 = Ramen shoyu 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20230416_155911.jpg[]
 
-* czas przygotowania: 7 godziny
-* 6 porcji
-* https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 7 godziny
+* 🕒 czas gotowania: 7 godziny
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/ramen-shoyu-z-wieprzowina[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg kości wieprzowych
 * 1 kg kości drobiowych (np. korpus kurczaka, indyka)
 * 4 cebulki szalotki
@@ -32,9 +31,8 @@
 * kiełki fasoli
 * 200 g bok choy (pak choy)
 * sezamowy olej chili
-|
-== Przygotowanie
 
+== Przygotowanie
 Do dużego garnka włożyć kości wieprzowe i drobiowe. Całkowicie zalać je zimną wodą. Doprowadzić do wrzenia na dużym ogniu, następnie odcedzić, przepłukać zimną wodą i ponownie włożyć je do pustego garnka.
 
 Cebulki obrać z zewnętrznych łusek, umyć. Cebulki i czosnek rozgnieść dla uwolnienia soku, dodać do garnka z mięsem. Dodać pokrojony na plastry imbir oraz obraną i pokrojoną na kilka części marchewkę. Dodać zgrubnie opłukany glon konbu i zalać całość zimną wodą (około 2 litry, do przykrycia składników).
@@ -51,8 +49,8 @@ Do misek włożyć ugotowany makaron, wlać bulion, ułożyć grzyby shitake, pl
 
 Można też dodać pak choi (pokrojony wzdłuż na szerokie paski i blanszowany), kiełki fasoli i skropić olejem sezamowym chili. Im więcej składników, tym lepiej ;) Ramen to zupa z dużą ilością makaronu i dodatków w porównaniu z samym bulionem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-image::/Recipes/static/images/20230416_155911.jpg[]
+
+[.gallery-grid]
+image::20230416_155911.jpg[]

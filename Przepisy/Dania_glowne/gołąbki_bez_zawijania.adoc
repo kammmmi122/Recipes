@@ -1,18 +1,18 @@
 = Gołąbki bez zawijania 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina
-* liczba porcji: około 21 gołąbków z sosem
-* https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 800 g łopatki wieprzowej
 * 800 g kapusty (około pół główki) - młoda lub stara + łyżeczka soli
 * 2 średnie cebule - 250 g
@@ -27,14 +27,13 @@
 * pół szklanki przecieru pomidorowego
 * płaska łyżka mąki pszennej
 
-|
 == Przygotowanie
-
 Potrzebujesz około 800 gramów mięsa wieprzowego. Według mnie najlepsza do gołąbków bez zawijania jest łopatka wieprzowa. Zakupiłam dość tłustą łopatkę, ponieważ taką właśnie lubimy, ale możesz też wybrać w sklepie znacznie chudszy kawałek mięsa. Na gołąbki bez zawijania nada się również mieszanka karkówki z chudą szynką lub też  biodrówka, którą gorąco polecam.
 
 Mięso zmiel w maszynce na średnich oczkach. Jeśli nie masz maszynki, to polecam zakup mięsa u rzeźnika z możliwością zmielenia mięsa na miejscu w sklepie.
 
 Ważąc kapustę do tych gołąbków używam jej tyle samo co mięsa, lub trochę mniej. Te akurat gołąbki bez zawijania szykowałam z młodej kapusty. Odkroiłam 800 gramów kapusty. Po zdjęciu brzydkich liści i wycięciu głąba zostało mi około 630 gramów kapusty gotowej do szatkowania.
+
 Porada: Możesz też użyć kapustę starą/białą oraz kapustę pekińską. Postępujesz z nimi tak samo, jak z młodą kapustą.
 
 Kapustę trzeba bardzo, bardzo dokładnie i drobno poszatkować. Można zrobić to nożem, jednak zdecydowanie polecam użyć maszynki z nakładką do drobnego siekana warzyw. Niektórym udaje się zetrzeć kapustę na tarce.
@@ -58,6 +57,7 @@ Na patelni umieszczaj po kilka kotletów na raz i podsmażaj je na rumiano z obu
 W tej sposób podsmaż wszystkie kotleciki gołąbkowe.
 
 Do dużego garnka wlej 1500 ml bulionu. Może to być sam rosół drobiowy lub też nawet bulion warzywny. Wlej do niego pół szklanki przecieru pomidorowego (może być Passata z butelki, czy też pomidorki z kartonu) i dodaj dwie łyżki koncentratu pomidorowego. Zamiast przecieru możesz użyć dwój dużych pomidorów malinowych (obrane i drobno posiekane).
+
 Całość wymieszaj i zagotuj. Zmniejsz moc i zacznij umieszczać w garnku kotlety gołąbkowe. Umieść wszystkie i zwiększ moc do takiej, by całość tylko lekko mrugała. Gołąbki bez zawijania gotuj tak 35 minut bez przykrycia.
 
 Na koniec możesz jeszcze zagęścić sos pomidorowy dodając płaską łyżkę mąki pszennej (Ja zazwyczaj odlewam sobie wcześniej odrobinę bulionu i rozrabiam go z mąką. Jednolitą mieszankę wlewam do garnka, lekko mieszam. Po zagotowaniu wyłączam).
@@ -66,7 +66,8 @@ Gołąbki bez zawijania podaję z ziemniakami lub kluskami śląskimi. Kopytka o
 
 Aby zrobić gołąbki bez zawijania w piekarniku wystarczy, że po podsmażeniu na patelni kotlecików gołąbkowych ułożysz je jeden obok drugiego w dużym naczyniu żaroodpornym. Gołąbki zalej sosem pomidorowym. Sos pomidorowy to: 2 szklanki bulionu; 2 szklanki przecieru pomidorowego; 4 łyżki koncentratu; 4 łyżki śmietanki słodkiej 30 %, po łyżeczce soli i oregano oraz pół łyżeczki pieprzu. Gołąbki bez zawijania umieść na środkowej półce w piekarniku nagrzanym do 180 stopni. Ustaw opcję pieczenia góra/dół. Naczynie z gołąbkami piecz bez przykrycia przez około 35 minut.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

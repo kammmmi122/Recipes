@@ -1,19 +1,17 @@
 = Bigos 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20231105_103826.jpg[]
 
-* czas przygotowania: 30 minut
-* czas gotowania: 3 godziny
-* 8 porcji
-* https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 3 godziny
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/bigos[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 40 g suszonych grzybów
 * 200 g boczku
 * 400 g mięsa gulaszowego wieprzowego
@@ -32,9 +30,7 @@
 * 1/2 łyżeczki kminku
 * szczypta ostrej papryki lub płatków chili
 
-|
 == Przygotowanie
-
 Przygotować duży garnek z grubym dnem oraz dużą patelnię. Boczek pokroić w kosteczkę. Całe mięso pokroić w niedużą kostkę.
 
 Na gorącą patelnię wlać 1 łyżkę oleju, włożyć boczek i co chwilę mieszając smażyć przez ok. 5 minut, przełożyć do garnka. Na patelnię wlać drugą łyżkę oleju i partiami obsmażać mięso, następnie przekładać je do garnka z boczkiem.
@@ -49,8 +45,8 @@ Cebulę pokroić w kostkę, następnie zeszklić ją na patelni na 1 łyżce ole
 
 Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzinę. Czasem zamieszać i sprawdzić czy bigos nie przywiera do dna. Doprawić pieprzem oraz w razie potrzeby solą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
-image::/Recipes/static/images/20231105_103826.jpg[]
+
+[.gallery-grid]
+image::20231105_103826.jpg[]

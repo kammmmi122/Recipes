@@ -1,17 +1,17 @@
 = Tortille 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20250809_202330.jpg[]
 
-* czas przygotowania: 45 minut
-* 4 porcje
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 piersi z kurczaka
 * 1 łyżeczka przyprawy złocisty kurczak
 * 4 tortile
@@ -26,9 +26,7 @@
 * suszony czosnek
 * pieprz i sól
 
-|
 == Przygotowanie
-
 Pokroić mięso z kurczaka na kawałki. Dodać przyprawy i wymieszać. Usmażyć mięso na patelni.
 
 Stworzyć sos poprzez zmieszanie śmietany, sól, pieprz, czosnek i koperek.
@@ -37,9 +35,8 @@ Pokroić warzywa w kostkę.
 
 Gotowe tortile składać, używając sosu, miesa i warzyw.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20250809_202330.jpg[]
+[.gallery-grid]
+image::20250809_202330.jpg[]

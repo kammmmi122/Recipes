@@ -1,18 +1,16 @@
 = Pasztet 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20241228_223850.jpg[]
 
-* czas przygotowania: 2h
-* 12 porcji
-* https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pasztet_domowy/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1/2 kg surowego boczku lub podgardla
 * 1 kg wieprzowiny (np. łopatka, karczek, szynka, biodrówka)
 * 1 kg wołowiny (bez kości, np. antrykot, udziec)
@@ -26,9 +24,7 @@
 * ok. 300 g słoniny, pokrojonej w cienkie plasterki
 * bułka tarta
 
-|
 == Przygotowanie
-
 Boczek pokroić i ułożyć na spodzie dużego oraz szerokiego garnka. Mięso wieprzowe i wołowe pokroić na małe kawałki około 3 x 3 cm i położyć na boczku.
 
 Cebule obrać i pokroić na grube plastry, położyć na mięsie. Wlać wodę, dodać sól, listki laurowe oraz ziele angielskie. Zagotować na dużym ogniu.
@@ -45,9 +41,8 @@ Dwie wąskie i podłużne formy o długości 30 cm wysmarować smalcem, boki i d
 
 Wstawić do nagrzanego do 190 stopni C piekarnika i piec przez ok 1,5 godziny. Ostudzić. Można trzymać w lodówce lub część pasztetu zamrozić.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20241228_223850.jpg[]
+[.gallery-grid]
+image::20241228_223850.jpg[]

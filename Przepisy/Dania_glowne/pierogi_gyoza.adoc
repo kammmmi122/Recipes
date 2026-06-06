@@ -1,32 +1,24 @@
 = Pierogi gyoza 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * ¼ szklanki wody
 * 1 łyżka oleju roślinnego
 * 1 łyżka oleju sezamowego
-
-=== Ciasto:
-
 * 240 g mąki uniwersalnej
 * ½ łyżeczki soli
 * 120 ml wody
-
-Lub gotowe ciasto na gyozę ze sklepu
-
-=== Farsz:
-
 * 280 g zmielonego mięsa
 * 2-3 duże liście białej kapusty (ok 120g)
 * 15 g zielonej cebulki
@@ -37,16 +29,11 @@ Lub gotowe ciasto na gyozę ze sklepu
 * 1 łyżka sosu sojowego
 * 1 łyżeczka soli
 * Świeżo zmielony pieprz
-
-=== Sos:
-
 * 2 łyżki octu ryżowego
 * 2 łyżki sosu sojowego
 * 2-3 krople oleju chili - la-yu
 
-|
 == Przygotowanie
-
 Jeżeli nie macie gotowego ciasta na gyozę to zacznijcie właśnie od tego. Dokładnie odmierzcie mąkę i przesiejcie ją do miski. Do przegotowanej, wciąż ciepłej wody dodajcie sól i wymieszajcie. Powoli dodawajcie wodę do mąki mieszając szpatułką lub drewnianą łyżką aż będziecie mogli uformować z ciasta kulę. Jeżeli ciasto będzie zbyt twarde dodajcie jeszcze odrobinę wody. Wyrabiajcie przez 10 minut (nie mniej!), aż stanie się gładkie. Zawińcie w folię i włóżcie do lodówki na 10 minut. Po wyciągnięciu z lodówki dobrze rozwałkujcie na posypanym skrobią ziemniaczaną blacie i wytnijcie szklanką cieniutkie plasterki jak na pierogi. Gotowe ciasto przykryjcie ręcznikiem by nie wyschło.
 
 Białą kapustę siekamy na drobne kawałeczki, a zieloną cebulkę w cienkie plasterki. Ząbek czosnku oraz imbir ścieramy. Wszystko razem wkładamy do miski i dodajemy pozostałe składniki farszu. Pamiętajcie by dobrze doprawić wszystko solą i pieprzem by nadzienie nie było mdłe w smaku. Gdy wszystko ze sobą wymieszacie możecie odrobinkę skosztować, czy jest wystarczająco słone. Mieszanie możecie zacząć szpatułką, jednak zakończcie ugniatając rękoma do czasu aż będzie kleiste.
@@ -57,7 +44,8 @@ Na patelni rozgrzejcie łyżkę oleju roślinnego. Ułóżcie pierożki płaską
 
 W tym czasie możecie przygotować sos. Po prostu wlewacie wszystkie składniki do spodeczka i mieszacie zachowując podane wyżej proporcje. Uważajcie jednak z olejem chili, gdyż jest on bardzo ostry! 2-3 krople wystarczą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

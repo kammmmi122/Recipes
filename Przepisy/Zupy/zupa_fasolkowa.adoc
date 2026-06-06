@@ -1,18 +1,18 @@
 = Zupa fasolkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 łyżka oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -27,9 +27,7 @@
 * 1 łyżka posiekanego koperku
 * 200 g śmietany 18% lub 80 ml śmietanki 18% z kartonika (do zup i sosów)
 
-|
 == Przygotowanie
-
 W garnku na oliwie i maśle poddusić pokrojoną w kosteczkę cebulę. Pora opłukać, obrać z zewnętrznych grubszych warstw i odciąć zielone końce. Pozostałą białą i jasnozieloną część przekroić wzdłuż na 4 części, opłukać je i pokroić na plasterki.
 
 Dodać do garnka z cebulą i razem podsmażać przez ok. 2 minuty. Pod koniec dodać przeciśnięty przez praskę czosnek.
@@ -40,7 +38,8 @@ Wlać gorący bulion, doprawić solą i pieprzem, dodać kurkumę i zagotować. 
 
 Odstawić z ognia i dodać posiekany koperek oraz śmietanę (gęstą z kubka należy wcześniej zahartować kilkoma łyżkami zupy, natomiast słodką śmietankę z kartonika można wlać bezpośrednio do zupy).
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,18 +1,18 @@
 = Quesadilla 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 300 g filetu z kurczaka
 * 2 łyżki oliwy
 * 1 cebula
@@ -28,9 +28,7 @@
 * 1/2 łyżeczki suszonego oregano
 * 1 łyżeczka płatków chili
 
-|
 == Przygotowanie
-
 Kurczaka pokroić na wąskie paski dł. ok. 2 cm. Doprawić solą, pieprzem oraz wszystkimi przyprawami. Polać łyżką oleju roślinnego i dokładnie wymieszać, odstawić.
 
 Cebulę pokroić w piórka, paprykę - podobnie jak kurczaka - na wąskie paski dł. ok. 2 cm. Doprawić solą i zeszklić na patelni na łyżce oleju, odłożyć na talerz.
@@ -43,7 +41,8 @@ Podgrzaną z jednej strony quesadillę przełożyć na drugą stronę* i ponowni
 
 Podgrzane quesadille kroić nożem na kawałki jak pizzę, podawać z wybranymi dodatkami.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

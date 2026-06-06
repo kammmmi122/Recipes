@@ -1,18 +1,18 @@
 = Wiśniowy paj 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina
-* 20 porcji
-* https://mojewypieki.com/przepis/wisniowy-paj[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://mojewypieki.com/przepis/wisniowy-paj[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 300 g mąki pszennej
 * 200 g masła, w temperaturze pokojowej
 * 120 g drobnego cukru do wypieków
@@ -23,9 +23,7 @@
 * 3 łyżki bułki tartej lub zmielonych migdałów
 * cukier puder do oprószenia
 
-|
 == Przygotowanie
-
 W naczyniu umieścić miękkie masło, mąkę, cukier i ekstrakt z migdałów. Wyrobić między palcami na kruszonkę, odstawić.
 
 Formę o średnicy 23 - 24 cm wyłożyć papierem do pieczenia. Dno formy lekko wylepić połową kruszonki (nie wciskamy mocno w formę, raczej wysypujemy i delikatnie przyklepujemy). Podpiec w temperaturze 180ºC przez około 15 minut na bladozłoty kolor.Ponadto:Wiśnie wydrylować, wymieszać z cukrem i mąką ziemniaczaną.
@@ -34,7 +32,8 @@ Podpieczony spód równomiernie posypać bułką tartą lub zmielonymi migdałam
 
 Piec w temperaturze 180ºC przez 40 - 45 minut do zezłocenia kruszonki. Wyjąć, wystudzić.Przed podaniem oprószyć cukrem pudrem.* Wiśnie mrożone najpierw odmrozić na durszlaku, większym sitku lub ręczniczku kuchennym.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

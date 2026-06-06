@@ -1,18 +1,18 @@
 = Roladki z kurczaka z serem i papryką pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 3 porcje
-* https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 3 porcje
+* 🔗 https://foodmag.pl/przepis/roladki-z-kurczaka-z-papryka-i-mozzarella[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 3 piersi z kurczaka, duże
 * 1 papryka czerwona
 * 1 mozzarella
@@ -24,9 +24,7 @@
 * 1 ząbek czosnku
 * olej do smażenia
 
-|
 == Przygotowanie
-
 Paprykę wstawiamy do nagrzanego piekarnika do 230ºC i opiekamy ją z każdej strony. Wyjmujemy i wkładamy do foliowej torebki. Po kilku minutach wyjmujemy ją, zdejmujemy skórkę, usuwamy nasiona i kroimy w paski.
 
 Piersi z kurczaka myjemy i osuszamy, następnie kroimy na pół, wzdłuż. Każdy kawałek układamy na torebce śniadaniowej (to ułatwi zwijanie roladek), przykrywamy drugą i rozbijamy dość cienko.
@@ -35,7 +33,8 @@ Masło mieszamy z kolendrą, dodajemy starty czosnek, lekko doprawiamy solą i p
 
 Szynkę rozkładamy po 2 sztuki tak, aby plastry zachodziły na siebie. Na brzegu układamy roladkę z kurczaka i zawijamy w szynkę. Spód możemy spiąć wykałaczką. 1 łyżkę oleju rozgrzewamy i obsmażamy roladki z każdej strony, na dość mocno rozgrzanej patelni. Przekładamy je do naczynia żaroodpornego, podlewamy 3- 4 łyżkami wody i pieczemy ok. 15 minut w temperaturze 180ºC. Podajemy gorące z ziemniakami i sałatą lub kroimy na zimno do kanapek.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

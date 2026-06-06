@@ -1,27 +1,24 @@
 = Kopytka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 30 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/kopytka[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/kopytka[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg ziemniaków
 * 200 g mąki
 * 1 jajko
 * 1 łyżeczka soli
 
-
-|
 == Przygotowanie
-
 Ziemniaki obrać i ugotować w osolonej wodzie. Odcedzić i od razu rozgnieść praską na idealnie gładkie puree. Przełożyć do miski i całkowicie ostudzić.
 
 Dodać mąkę, jajko oraz szczyptę soli. Połączyć składniki w jednolite ciasto.
@@ -34,7 +31,8 @@ Gotować partiami: wkładać na gotującą i osoloną wodę w dużym garnku i go
 
 W trakcie gotowania delikatnie przemieszać wodę drewnianą łyżką sprawdzając czy kopytka nie przykleiły się do dna. Wyławiać łyżką cedzakową i wykładać na talerze.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

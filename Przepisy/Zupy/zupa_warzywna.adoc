@@ -1,18 +1,18 @@
 = Zupa warzywna 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/zupa-jarzynowa[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/zupa-jarzynowa[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 mieszanki mieszanki wiosennej
 * 500 g kiełbasy
 * 500 g ziemniaków
@@ -22,9 +22,8 @@
 * 1 i 1/2 litra bulionu jarzynowego lub drobiowego
 * 1/3 szklanki śmietany 18% lub 30%
 * koperek lub natka pietruszki lub bazylia
-|
-== Przygotowanie
 
+== Przygotowanie
 W szerokim większym garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać mieszankę wiosenną i mieszając podsmażać przez ok. 3 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać przez ok. 3 minuty co chwilę mieszając.
@@ -39,8 +38,8 @@ Gotować pod przykryciem przez ok. 15 minut aż warzywa będą miękkie. Na koni
 
 Zupę odstawić z ognia i zaprawić śmietaną (najpierw wymieszać ją ze stopniowo dodawanym wywarem, w ilości około szklanki, następnie przelać do garnka z zupą i wymieszać). Podawać z pieczywem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

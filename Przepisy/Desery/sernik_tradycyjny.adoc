@@ -1,31 +1,30 @@
-= Sernik tradycyjny 🌱 +++ <label class="switch">  <input data-status="off" type="checkbox" >  <span class="slider round"></span></label>+++
+= Sernik tradycyjny 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20241227_221828.jpg[]
 
-* czas przygotowania: 1 godzina 30 minut
-* 12 porcje
-* https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 12 porcje
+* 🔗 https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg mielonego twarogu np. gęsty z kubełka
 * 4 średnie jajka - około 240 g po rozbiciu
 * 200 g masła - 1 klasyczna kostka
 * 150 g cukru - około 3/4 szklanki
 * 1 saszetka budyniu waniliowego bez cukru - około 40 g
 
-|
 == Przygotowanie
-
 Nagrzej piekarnik do 190 stopni z pieczeniem góra/dół. Kostkę masła o wadze 200 gramów roztop w rondelku na minimalnej mocy lub w mikrofali. Rondelek odstaw do przestudzenia.
 
 W misce umieść razem: ser twarogowy z wiaderka; 4 jajka; roztopione i przestudzone masło (może być jeszcze lekko ciepłe); 150 gramów cukru (zwykły lub drobny); saszetkę proszku budyniowego bez cukru (waniliowy lub śmietankowy).
+
 Jeśli nie masz budyniu, to do masy możesz też dodać 40 g skrobi ziemniaczane plus płaską łyżeczkę pasty lub esencji waniliowej.
+
 Całość dobrze wymieszaj łyżką lub mikserem na niskich obrotach. Masę serową mieszaj krótko, tylko do połączenia składników. Ciasto powinno mieć konsystencję budyniu.
 
 Spód tortownicy o średnicy 24 cm wyłóż papierem do pieczenia. Gęste ciasto przełóż do tortownicy i wyrównaj powierzchnię.
@@ -34,9 +33,8 @@ Formę umieść w piekarniku nagrzanym do 190 stopni. Środkowa półka z grzani
 
 Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polewą czekoladową.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20241227_221828.jpg[]
+[.gallery-grid]
+image::20241227_221828.jpg[]

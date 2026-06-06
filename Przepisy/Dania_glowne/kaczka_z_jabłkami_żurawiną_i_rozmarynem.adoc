@@ -1,18 +1,18 @@
 = Kaczka z jabłkami, żurawiną i rozmarynem 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 2 godziny
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/pieczone-udka-kaczki[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 🕒 czas gotowania: 2 godziny
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/pieczone-udka-kaczki[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 4 kacze udka
 * świeży rozmaryn
 * 2 ząbki czosnku
@@ -22,16 +22,15 @@
 * 1/2 łyżeczki cynamonu
 * 1 łyżka masła + 1 łyżeczka miodu
 
-|
 == Przygotowanie
-
 Udka wyjąć wcześniej z lodówki. Doprawić solą i pieprzem, dodać obrany i przepołowiony czosnek oraz kilka kawałków gałązek rozmarynu. Ułożyć skórką do góry w naczyniu lub formie do pieczenia, szczelnie przykryć pokrywą lub folią aluminiową i piec przez 90 minut w 180 stopniach C.
 
 Pod koniec pieczenia zacząć przygotowywać jabłka: przekroić na połówki, obrać, wydrążyć nasiona i ponacinać nożem od wypukłej strony. Posypać cynamonem.
 
 Zdjąć przykrycie z formy, zlać tłuszcz (można go wykorzystać do smażenia ziemniaków), dodać jabłka (nacięciami do góry). Wsypać świeżą żurawinę świeżą jeśli ją mamy. Udka posmarować masłem roztopionym z miodem i piec przez 20 minut tym razem bez przykrycia. Udekorować świeżym rozmarynem i żurawiną ze słoiczka.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

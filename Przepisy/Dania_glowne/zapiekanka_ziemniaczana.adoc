@@ -1,19 +1,18 @@
 = Zapiekanka ziemniaczana 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina
-* czas pieczenia zapiekanki: 40 minut
-* 6 porcji
-* https://aniagotuje.pl/przepis/zapiekanka-ziemniaczana-z-kielbasa[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas gotowania: 1 godzina
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/zapiekanka-ziemniaczana-z-kielbasa[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 kg ziemniaków - waga przed obraniem
 * opakowanie kiełbasy morlińskiej z szynki - 540 g
 * 2 średnie cebule - około 400 g
@@ -24,9 +23,7 @@
 * przyprawy: po płaskiej łyżeczce soli i słodkiej papryki; pół płaskiej łyżeczki pieprzu; szczypta gałki muszkatołowej; 2 łyżeczki czosnku; 1 łyżeczka papryki wędzonej
 * dodatki: garść pomidorków koktajlowych oraz natka pietruszki lub szczypiorek
 
-|
 == Przygotowanie
-
 Ziemniaki należy obrać i pokroić w plasterki nie grubsze niż 1 cm.
 
 Przepłukane plasterki ziemniaków zalej w garnku zimną wodą. Wsyp płaską łyżkę soli. Garnek przykryj przykrywką i ustaw wysoką moc palnika. Gdy ziemniaki zaczną się gotować zmniejsz moc palnika i gotuj je około 5-8 minut licząc od zagotowania wody. Plasterki ziemniaków powinny być na wpół ugotowane. Odlej wodę a plasterki ziemniaków odstaw do lekkiego przestudzenia.
@@ -36,6 +33,7 @@ W trakcie gotowania ziemniaków zacznij szykować cebule. Nagrzej dużą patelni
 Podsmażoną cebulkę przełóż do osobnej miseczki.
 
 Potrzebujesz jedno opakowanie, czyli 540 gramów kiełbasy morlińskiej z szynki (lub trochę mniej). Będą to trzy kiełbasy o długości około 20 cm każda. Morliny posiadają też w ofercie kiełbasę śląską oraz kiełbasę z piersi z kurczaka, które również sprawdzą się w tej zapiekance.
+
 Kiełbasę pokrój w plasterki o grubości o około 5 mm i umieść je na patelni po cebuli. Plasterki kiełbasy podsmażaj na lekko rumiano z obu stron. Zajęło mi to około 20 minut. Do podsmażania kiełbasy nie używałam już dodatkowego tłuszczu na patelnię.
 
 Naczynie do zapiekania wysmaruj od środka odrobiną oleju lub masła klarowanego. U mnie było to naczynie ceramiczne o średnicy 28 cm. Możesz też użyć dowolnego innego naczynia żaroodpornego z wyższym rantem. Wybierz naczynie o pojemności około dwóch litrów.
@@ -52,7 +50,8 @@ Na warstwę cebulki z kiełbasą wyłóż drugą połowę sera (tartego lub w pl
 
 Naczynie z gotową do pieczenia zapiekanką ziemniaczaną z kiełbasą umieść w piekarniku nagrzanym do 180 stopni. Wybierz środkową półkę z opcją pieczenia góra/dół. Zapiekankę ziemniaczaną piecz bez przykrycia przez 40 minut (lub dłużej, jeśli ziemniaki nie były po tym czasie miękkie).
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

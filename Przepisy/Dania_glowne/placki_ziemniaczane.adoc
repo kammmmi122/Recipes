@@ -1,18 +1,17 @@
 = Placki ziemniaczane 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20260115_185756.jpg[]
 
-* czas przygotowania: 30 minut
-* ok. 12 sztuk
-* https://www.kwestiasmaku.com/przepis/placki-ziemniaczane[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/placki-ziemniaczane[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1/2 kg ziemniaków
 * 1/2 łyżki mąki pszennej
 * 1/4 cebuli
@@ -20,18 +19,15 @@
 * sól
 * olej roślinny do smażenia
 
-|
 == Przygotowanie
-
 Ziemniaki i cebulę obrać i zetrzeć na tarce o małych oczkach bezpośrednio do większej i płaskiej miski. Zostawić je w misce bez mieszania, miskę delikatnie przechylić i odstawić tak na ok. 5 minut.
 
 W międzyczasie odlewać zbierający się sok, delikatnie przytrzymując masę, nadal ich nie mieszać. Na koniec docisnąć dłonią do miski i odlać jeszcze więcej soku. Dodać mąkę, jajko oraz dwie szczypty soli.
 
 Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porcje masy (2 łyżki) na rozgrzany olej i rozprowadzać ją na dość cienki placek. Smażyć na średnim ogniu przez ok. 2 - 3 minuty na złoty kolor, przewrócić na drugą stronę i powtórzyć smażenie.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20260115_185756.jpg[]
+[.gallery-grid]
+image::20260115_185756.jpg[]

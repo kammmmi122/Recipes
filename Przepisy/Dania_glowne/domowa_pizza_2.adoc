@@ -1,18 +1,17 @@
 = Domowa pizza 2 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1,5 godziny
-* 2 sztuki
-* https://www.kwestiasmaku.com/przepis/ciasto-na-pizze[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/ciasto-na-pizze[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 25 g świeżych drożdży (lub 7 g instant)
 * 150 ml ciepłej wody
 * 1/2 łyżeczki cukru
@@ -20,9 +19,7 @@
 * 1 łyżeczka soli
 * 1 łyżka oliwy
 
-|
 == Przygotowanie
-
 Świeże drożdże ocieplić w temperaturze pokojowej. Przygotować rozczyn: drożdże rozpuścić w ciepłej wodzie, dodać 2 łyżki mąki oraz cukier, dokładnie wymieszać i odstawić na ok. 10 minut do wyrośnięcia (rozczyn ze świeżych drożdży zwiększa objętość o ok. 3 razy - jeśli tak się nie stanie proces przygotowania rozczynu trzeba powtórzyć od nowa, natomiast rozczyn z drożdży instant może się tylko trochę spienić).
 
 Mąkę przesiać do miski, wymieszać z solą, zrobić wgłębienie w środku i wlać w nie rozczyn. Sukcesywnie zagarniać łyżką mąkę do środka i przez 2 - 3 minuty mieszać składniki, pod koniec dodając jeszcze oliwę.
@@ -37,7 +34,8 @@ Blaszki (tortownice) posmarować oliwą. Włożyć na środek kulkę ciasta, del
 
 Wyłożyć cienką warstwę sosu pomidorowego, ser* oraz ulubione dodatki. Odczekać ok. 15 minut aż ciasto podrośnie, następnie piec w maksymalnie nagrzanym piekarniku (minut. 250 st. C) przez ok. 10 minut.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

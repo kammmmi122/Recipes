@@ -1,19 +1,18 @@
 = Naleśniki z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 30 minut
-* czas smażenia naleśników: 20 minut
-* 11 sporych naleśników
-* https://aniagotuje.pl/przepis/nalesniki-z-kurczakiem[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 🕒 czas gotowania: 30 minut
+* 👥 2-3 porcje
+* 🔗 https://aniagotuje.pl/przepis/nalesniki-z-kurczakiem[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 1 pełna szklanka i 2 łyżki mąki pszennej
 * 3 średnie jajka
 * 1 szklanka mleka
@@ -28,9 +27,7 @@
 * 2 łyżki oleju roślinnego
 * 2 łyżeczki mieszanki przypraw np. gyros
 
-|
 == Przygotowanie
-
 W pierwszej kolejności polecam przygotować sobie farsz do naleśników z kurczakiem. Jedną większą pierś z kurczaka umyj pod zimną bieżącą wodą i osusz ręcznikiem papierowym. Pierś oczyść z żyłek i ewentualnych chrząstek i pokrój w kawałki nie większe niż 1-1,5 cm.
 
 Do miski z kawałkami kurczaka wsyp dwie łyżeczki ulubionej mieszanki przypraw np. gyros i wymieszaj całość dokładnie. Możesz też skomponować własną mieszankę (sól, pieprz, słodka papryka, oregano, tymianek...).
@@ -70,7 +67,8 @@ Naleśniki z kurczakiem zalecam przed podaniem zapiec w piekarniku lub też pods
 
 Naleśniki podsmażone na patelni lub zapieczone w papierniku będą nie tylko bardziej chrupiące. Ser żółty, który znajduje się w farszu będzie się ciągnął podczas jedzenia a cały farsz będzie lepiej związany.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

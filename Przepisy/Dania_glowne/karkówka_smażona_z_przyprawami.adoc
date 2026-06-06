@@ -1,28 +1,28 @@
 = Karkówka smażona z przyprawami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 15 minut
-* 4 porcje
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 4 kawałki karkówki
 * ulubione przyprawy
 * pieprz i sól
 * olej do smażenia
 
-|
 == Przygotowanie
-
 Oprószyć kawałki solą, pieprzem i ulubionymi przyprawami. Rozgrzać grillową patelnię. Dodać odrobinę oleju. Usmażyć karkówkę na rozgrzanej patelni.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

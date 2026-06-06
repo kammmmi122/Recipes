@@ -1,20 +1,18 @@
 = Domowy kebab 2 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 4 porcje
-* https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcje
+* 🔗 https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
-=== Bułka:
-
 * mąka pszenna typ 650 - 500 g
 * ciepła woda - 190 ml
 * jogurt naturalny - 100 g
@@ -23,24 +21,15 @@
 * drożdże świeże - 25 g / drożdże suche - 7-8 g
 * żółtko do posmarowania ciasta
 * sezam do posypania ciasta
-
-=== Dwie porcje mięsa do kebaba:
-
 * mięso z piersi indyka - 100 g
 * mięso z uda kurczaka - 50 g (po usunięciu tłuszczu)
 * oliwa - 5 ml
 * przyprawa do kurczaka "Złocisty Kurczak" - 3 g,
 * przyprawa Garam Masala - 3 g
-
-=== Pięć porcji sosu do kebaba:
-
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
 * majonez - 50 g
 * czosnek - 1-2 ząbki
-
-=== Świeże dodatki według uznania:
-
 * sałata lodowa
 * kapusta czerwona
 * pomidor malinowy
@@ -48,12 +37,12 @@
 * cebula czerwona
 * feta w kostkach
 
-|
 == Przygotowanie
 
 === Bułka do kebaba:
 
 Wsyp mąkę do miski.
+
 Przygotuj rozczyn. W tym celu wlej ciepłą wodę do szklanki, dodaj drożdże oraz jedną łyżkę mąki (odmierz ją z ilości wcześniej wsypanej do miski). Dokładnie wymieszaj, do momentu aż w szklance nie będzie żadnych grudek drożdży ani mąki. Odczekaj 5-10 minut, aby drożdże zaczęły działać.
 
 Po upływie 5-10 minut wlej do miski jogurt naturalny oraz zawartość szklanki z przygotowanym wcześniej rozczynem. Dodaj sól i oliwę.
@@ -67,14 +56,12 @@ Po godzinie zagrzej piekarnik do temperatury 200°C, grzanie góra-dół. Blach�
 Przełóż ciasto na papier do pieczenia i delikatnie je rozwałkuj - tak, aby uzyskało okrągły kształt o średnicy ok. 28-30 cm.
 
 Weź jajko, oddziel żółtko od białka. Żółtko rozmieszaj widelcem i posmaruj powierzchnię bułki przy użyciu pędzelka.
+
 Całość posyp sezamem. Piecz około 25 minut w piekarniku nagrzanym do 200°C.
 
 Odczekaj, aż bułka ostygnie po wyjęciu z piekarnika, zanim zaczniesz ją kroić.
 
 Pokrój ją na ćwiartki (jeżeli przygotowujesz mniej niż cztery porcje, pozostałe bułki możesz zamrozić).
-
-
-=== Mięso:
 
 Mięso z indyka oraz mięso z kurczaka pokrój na niewielkie paski.
 
@@ -84,17 +71,11 @@ Dobrze wymieszaj mięso z przyprawami, aby powstała marynata. Pozostaw, aby nab
 
 Mięso przesmaż przy użyciu ceramicznej patelni grillowej bezpośrednio przed składaniem kebaba. Wrzuć mięso na dobrze rozgrzaną patelnię (bez dodatku tłuszczu) i smaż przez 2-3 minuty z każdej strony.
 
-=== Sos:
-
 Do miseczki dodaj jogurt Skyr, rzadki jogurt naturalny oraz majonez. Wymieszaj.
 
 Przeciśnij przez praskę czosnek i dodaj do sosu.
 
-=== Świeże dodatki:
-
 Na koniec pokrój świeże warzywa w ilości według uznania.
-
-=== Całość:
 
 Przekrój bułkę w poprzek, aby powstała kieszonka.
 
@@ -106,7 +87,8 @@ Polej mięso pozostałą ilością sosu.
 
 Na górę dodaj pomidora, ogórka oraz czerwoną cebulę.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

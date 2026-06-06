@@ -1,26 +1,25 @@
 = Wątróbka 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 4 porcje
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 500 g wątróbki wieprzowej
 * 2 łyżki mąki ziemniaczanej
 * sól i pieprz do smaku
 * 2 cebule
 * olej do smażenia
 
-|
 == Przygotowanie
-
 Cebule pokroić w piórka i zeszklić na patelni.
 
 Wątróbkę umyć, pokroić na kawałki, obtoczyć w mące ziemniaczanej.
@@ -29,8 +28,8 @@ Wątróbkę usmażyć na oleju. Pod koniec dodać pieprz i sól do smaku.
 
 Podawać z ziemniakami i surówką
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

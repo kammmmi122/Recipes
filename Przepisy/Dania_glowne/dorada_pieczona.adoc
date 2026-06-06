@@ -1,29 +1,28 @@
 = Dorada pieczona 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* 1 porcja
-* https://drive.google.com/file/d/1DcJYwChbu6zpQpigyzLcRgFe_kN-Ly0b/view?usp=share_link[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 1 porcja
+* 🔗 https://drive.google.com/file/d/1DcJYwChbu6zpQpigyzLcRgFe_kN-Ly0b/view?usp=share_link[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * dorada - 1 sztuka (170 g)
 * cytryna 1/2 sztuki (40 g)
 * oliwa z oliwek extra vergine - 1 łyżeczka (5 g)
 * przyprawy: 1 ząbek czosnku, duża garść ziół świeżych, np. natki pietruszki, tymianku, szałwii lub rozmarynu, sól i pieprz czarny świeżo mielony do smaku
 
-|
 == Przygotowanie
-
 Doradę myjemy, osuszamy i nacinamy skórę w 3 miejscach z każdej strony. Rybę z wierzchu i wewnątrz nacieramy oliwą. Do środka wkładamy pokrojony w plasterki czosnek, umyte i osuszone zioła oraz 2 plasterki cytryny. Doprawiamy solą i pieprzem. Wstawiamy na 20-30 minut (czas pieczenia zależy od wielkości ryby) do piekarnika rozgrzanego na 200 stopni C. Przed podaniem doradę skrapiamy pozostałą cytryną.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

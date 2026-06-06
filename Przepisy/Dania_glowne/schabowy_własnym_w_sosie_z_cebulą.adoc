@@ -1,18 +1,17 @@
 = Schabowy własnym w sosie z cebulą 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: powyżej 1 godziny
-* 2 porcje
-* https://www.doradcasmaku.pl/przepis-schab-w-sosie-wlasnym-300432[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2 porcje
+* 🔗 https://www.doradcasmaku.pl/przepis-schab-w-sosie-wlasnym-300432[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * schab bez kości 300-400 gramów
 * cebula 1 sztuka
 * sól morska jodowana drobnoziarnista Prymat 1 łyżeczka
@@ -22,9 +21,7 @@
 * natka pietruszki do posypania
 * woda 150 mililitrów
 
-|
 == Przygotowanie
-
 Schab pokroić w plastry o grubości 1-2 cm.
 
 Kawałki mięsa położyć na suchej dobrze nagrzanej patelni. Mięso powinno prawie się przypalić, nabrać koloru mocno brązowego z obydwu stron. To właśnie te przypalone soki nadadzą wyjątkowego smaku sosowi.
@@ -33,7 +30,8 @@ Gdy mięso jest dość dobrze przyrumienione, dodać posiekaną cebulę i zalać
 
 Gdy mięso jest miękkie, zagęścić sos łyżką mąki wymieszaną z 50 ml zimnej wody. Następnie dodać łyżkę śmietany, posiekaną natkę pietruszki, zamieszać i wyłączyć źródło ciepła. Sos i schab gotowy - smacznego!
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,19 +1,17 @@
 = Zapiekanka pasterska 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1,5 godziny
-* 6 porcje
-* https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 6 porcje
+* 🔗 https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
-=== Mięso mielone z warzywami
 * 600 g mielonej jagnięciny lub wołowiny
 * 100 g mrożonego groszku
 * 100 g marchewki - może być mrożona
@@ -27,17 +25,13 @@
 * 100 ml wody
 * kostka wołowa
 * 150 ml czerwonego wina
-
-=== Puree ziemniaczane
 * około 1200 g ziemniaków - waga przed obraniem
 * 100 g masła - pół klasycznej kostki
 * 50 ml mleka - około 1/5 szklanki
 * 20 g tartego parmezanu - lub więcej
 * po sporej szczypcie soli i pieprzu
 
-|
 == Przygotowanie
-
 Około 1200 gramów ziemniaków obierz cienko i ugotuj do miękkości w lekko osolonej wodzie.
 
 Nagrzej dużą patelnię z grubym dnem. Wylej 2 łyżki oleju. Na gorący tłuszcz wyłóż obraną i drobno posiekaną cebulę. Podsmażaj ją na średniej mocy palnika przez około 5-7 minut, do zeszklenia i lekkiego zarumienienia.
@@ -60,12 +54,12 @@ Do ziemniaków dodaj 100 gramów masła oraz minimum 20 gramów drobno startego 
 
 Ugnieć gorące ziemniaki z dodatkami na puree. Możesz użyć do tego specjalnego sitka lub praski. Uważaj jednak na to, by nie ugniatać ziemniaków za długo.
 
-
 Na warstwę farszu z mięsa i warzyw wyłóż równo jeszcze ciepłe puree ziemniaczane. Wyrównaj powierzchnię, a na koniec wykonaj wzory przy użyciu widelca. Nie jest to konieczne, ale warto zetrzeć też odrobinę zimnego masła, które w piecu roztopi się i sprawi, że zapiekanka ładniej się zarumieni.
 
 Formę umieść w piekarniku nagrzanym do 180 stopni. Wybierz środkową półkę z opcją pieczenia góra/dół (jeśli masz małą komorę piekarnika i grzałki od góry, to naczynie umieść na półce niżej). Z termoobiegiem ustaw 170 stopni. Zapiekę pasterską zapiekaj bez przykrycia przez około 20-25 minut. Po 10 minutach zapiekania obserwuj jednak zapiekankę. Jeśli przypieka się za mocno, to obniż temperaturę lub umieść ją o piętro niżej. Upieczoną można od razu wyjąć z piekarnika i podawać.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

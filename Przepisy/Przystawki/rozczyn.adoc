@@ -1,26 +1,24 @@
 = Rozczyn 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 20 minut
-* 1 porcja
-* https://mojewypieki.com/post/jak-zrobic-rozczyn-ze-swiezych-drozdzy[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 20 minut
+* 👥 1 porcja
+* 🔗 https://mojewypieki.com/post/jak-zrobic-rozczyn-ze-swiezych-drozdzy[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 25 g drożdży świeżych
 * 1 łyżka cukru
 * 1/4 szklanki letniego mleka
 * 3 łyżki mąki pszennej
 
-|
 == Przygotowanie
-
 Do niedużego garnuszka rozkruszyć drożdże, zasypać cukrem. Zalać letnim mlekiem (nie gorącym! - zbyt wysoka temperatura zabije drożdże). Wymieszać do rozpuszczenia się drożdży.
 
 Dodać mąkę, wymieszać, by nie było grudek.
@@ -29,7 +27,8 @@ Przykryć ściereczką i odstawić w ciepłe miejsce do wyrośnięcia, na około
 
 Uwaga: składniki na rozczyn odejmujemy z przepisu na wybrane przez Was ciasto drożdżowe. Jeśli w przepisie nie ma mleka, stosujemy w zamian wodę. Rodzaj użytej mąki również zależy od mąki, jaką mamy w wybranym przepisie, nie musi być to mąka pszenna. Ilość drożdży użyta do przygotowania rozczynu (powyżej) jest przykładowa - należy użyć ilość drożdży, jaka zawarta jest w wybranym przez Was przepisie.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

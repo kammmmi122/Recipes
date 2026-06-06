@@ -1,18 +1,18 @@
 = Zuppa di pesce 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 2 porcje
-* https://www.kwestiasmaku.com/przepis/zuppa-di-pesce[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/zuppa-di-pesce[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 łyżki oliwy extra vergine
 * 1 ząbek czosnku
 * pół pęczka natki pietruszki
@@ -25,9 +25,7 @@
 * 100 g krewetek + opcjonalnie 2 krewetki nieobrane, z głowami
 * bagietka
 
-|
 == Przygotowanie
-
 Do szerokiego większego garnka wlać oliwę, dodać obrany i pokrojony na cienkie plasterki czosnek, posiekaną w kosteczkę papryczkę chili i smażyć na małym ogniu przez około 3 minuty co chwilę mieszając.
 
 Pomidory sparzyć, obrać ze skórki i pokroić w kosteczkę. Dodać do garnka i na większym ogniu gotować przez ok. 5 minut co chwilę mieszając.
@@ -42,7 +40,8 @@ Wszystkie nieotwarte małże wyrzucić. Dodać resztę natki pietruszki, jeszcze
 
 Zupę nałożyć do talerzy, dodać grzanki. Obok każdej porcji postawić talerz na muszle po małżach oraz miseczkę z zimną wodą i kawałkiem cytryny (do umycia palców po posiłku).
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

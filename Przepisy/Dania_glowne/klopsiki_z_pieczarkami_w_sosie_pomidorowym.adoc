@@ -1,18 +1,18 @@
 = Klopsiki z pieczarkami w sosie pomidorowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 4 porcje
-* https://www.kwestiasmaku.com/przepis/pulpeciki-w-sosie-pomidorowym[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/pulpeciki-w-sosie-pomidorowym[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 500 g mielonego mięsa (z indyka, cielęcego lub wieprzowego np. z szynki)
 * 1 cebula
 * 2 ząbki czosnku
@@ -24,9 +24,7 @@
 * oliwa, masło
 * 350 ml przecieru pomidorowego, passaty z butelki lub kartonu
 
-|
 == Przygotowanie
-
 Na patelni na łyżce oliwy zeszklić pokrojoną w kosteczkę cebulę, pod koniec dodać starty 1 ząbek czosnku oraz 1 łyżkę masła, suszone oregano i paprykę w proszku, wymieszać i chwilę razem podsmażyć. Zdjąć z patelni i zmielić razem z mięsem lub drobniej posiekać na desce.
 
 Zmielone mięso wraz z podsmażoną cebulą umieścić w misce. Dodać bułkę tartą lub ugotowaną kaszę, jajko, sos sojowy, doprawić solą oraz pieprzem i dokładnie wyrobić. Wilgotnymi dłońmi uformować nieduże pulpeciki.
@@ -39,7 +37,8 @@ Dodać przecier pomidorowy i zagotować. Gotować bez przykrycia przez około 10
 
 Sos spróbować i doprawić w razie potrzeby solą, pieprzem, cukrem i suszonym oregano. Podawać z makaronem i tartym serem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,18 +1,17 @@
 = Buraki po burgundzku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: powyżej godziny
-* 6 - 8 porcji
-* https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 6 szalotek
 * 500 g małych pieczarek
 * 2 marchewki
@@ -30,9 +29,7 @@
 * sól i świeżo mielony czarny pieprz
 * oliwa
 
-|
 == Przygotowanie
-
 Szalotki obrać, ale nie kroić. Po kolei nadziewać każdą z nich na widelec i opalać nad palnikiem gazowym przez kilka minut, dopóki nie będzie mocno przypalona. Opalone szalotki odłożyć na bok.
 
 Pieczarki pokroić na ćwiartki, te najmniejsze wystarczy przekroić na pół. Na dnie dużego garnka z bardzo grubym dnem rozgrzać kilka łyżek oliwy i dodać pokrojone pieczarki, poddusić przez chwilę i dodać opalone szalotki pokrojone w bardzo grube plastry.
@@ -43,7 +40,8 @@ Po upływie godziny spróbować i dodać sól oraz pieprz do smaku. W razie potr
 
 Gotowy gulasz jeść z bagietką lub chlebem, koniecznie wycierając spód talerza kawałkiem pieczywa. Gulasz jest lepszy z każdym kolejnym dniem, szczególnie warto poczekać do trzeciego dnia.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

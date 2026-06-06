@@ -1,17 +1,17 @@
 = Hotdogi z warzywkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+image::20240517_111652.jpg[]
 
-* czas przygotowania: 35 minut
-* 2 porcje
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 5 parówki
 * 5 bułek śniadaniowych
 * pomidor
@@ -20,14 +20,11 @@
 * 2 łyżka majonezu
 * 2 łyżki musztardy
 
-|
 == Przygotowanie
-
 Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobić sos z majonezu i ketchupu. Złożyć hot-dog: spód chleba/bułki wysmarować sosem, dodać parówkę, ulubione warzywa. Na wierzch polać sosem i musztardą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20240517_111652.jpg[]
+[.gallery-grid]
+image::20240517_111652.jpg[]

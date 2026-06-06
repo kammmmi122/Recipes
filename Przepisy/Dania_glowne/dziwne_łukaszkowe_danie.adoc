@@ -1,18 +1,18 @@
 = Dziwne Łukaszkowe danie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 35 minut
-* 2 porcje
-* https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 🕒 czas gotowania: 35 minut
+* 👥 2 porcje
+* 🔗 https://www.youtube.com/watch?v=iXmQ582Gsp4&t=358s[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 piersi z kurczaka
 * sól i pieprz
 * 1 łyżeczka papryki słodkiej
@@ -20,25 +20,21 @@
 * olej do smażenia
 * 50 g tartej mozzarelli
 * 2 żółtka
-
-=== Na farsz:
 * 50 g serka filadelfia
 * 1 ząbek czosnku
 * 2 łyżki szczypiorku
 * 50 g boczku
 * 50 g tartej mozzarelli
 
-|
 == Przygotowanie
-
 Piersi z kurczaka naciąć na środku tworząc dziurę. Oprószyć przyprawami. Wypełnić dziurę kulką folii aluminiowej owiniętą  papierem do pieczenia. Zesmażyć tak przygotowanie piersi na patelni przez 4-5 minut
 
 Zesmażyć pocięty w kostkę boczek. Przygotować farsz, mieszając wszystkie składniki razem.
 
 Wyjąc kulkę z folii i dodać do środka farsz. Na górę dodać żółtko i tarty ser. Zapiec w piekarniku rozgrzanym do 180 stopni C przez 10 minut.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

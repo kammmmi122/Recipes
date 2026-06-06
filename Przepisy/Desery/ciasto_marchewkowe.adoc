@@ -1,18 +1,17 @@
 = Ciasto marchewkowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1,5 godziny
-* 20 porcji
-* https://www.kwestiasmaku.com/desery/ciasta/ciasto_marchewkowe/przepis.html[link do źródła przepisu]
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗 https://www.kwestiasmaku.com/desery/ciasta/ciasto_marchewkowe/przepis.html[link do źródła przepisu]
 
+[.recipe-columns]
 == Składniki
-
 * 2 jajka
 * 200 g drobnego cukru lub cukru pudru
 * 150 ml oleju roślinnego
@@ -24,16 +23,11 @@
 * 1/2 łyżeczki proszku do pieczenia
 * po 1 łyżeczce sody i cynamonu
 * szczypta soli
-
-=== Polewa:
-
 * 125 g kremowego serka np. Twój Smak, Philadelphia
 * 50 g masła (miękkiego)
 * 100 g cukru pudru
 
-|
 == Przygotowanie
-
 Jajka ocieplić w temperaturze pokojowej. Ubić je do podwojenia objętości. Dodać cukier i dalej ubijać aż masa będzie gładka i puszysta. Wciąż ubijając na wysokich obrotach, dolewać ciągłym, cieniutkim strumieniem olej.
 
 Dodać marchewkę, ananasa, orzechy, wiórki kokosowe i delikatnie wymieszać. Piekarnik nagrzać do 150 stopni C.
@@ -42,14 +36,14 @@ Do osobnej miski przesiać mąkę, dodać proszek do pieczenia, sodę, cynamon i
 
 Ciasto wyłożyć do formy o średnicy 24 cm wyłożonej papierem do pieczenia. Piec przez 1 godzinę lub do suchego patyczka.
 
-
 Ubić serek razem z miękkim masłem i cukrem pudrem. Włożyć na kilkanaście minut do lodówki.
 
 Dobrze wystudzone ciasto przekroić poziomo na 2 części. Spód posmarować 1/3 ilości polewy.
 
 Przykryć drugą częścią ciasta i rozsmarować resztę polewy. Udekorować orzechami.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
