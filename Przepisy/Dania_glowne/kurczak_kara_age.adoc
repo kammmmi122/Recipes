@@ -1,15 +1,17 @@
 = Kurczak kara-age 🍗 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania:
-* porcji:
-* źródło:
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: * porcji:
+* 🕒 czas gotowania: * porcji:
+* 👥 * źródło: porcji
+* 🔗 == Składniki
+
+[.recipe-columns]
 == Składniki
 * 1,5 kg udka z kurczaka (oczyszczone)
 
@@ -28,7 +30,10 @@
 == Przygotowanie
 Łączymy składniki marynaty i osobno panierki. Wkładamy kurczaka w marynatę na kilkanaście minut. Dobrze obtaczamy w panierce i smażymy kilka minut w oleju w temp. 180 st.C.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

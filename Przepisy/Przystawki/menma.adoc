@@ -1,15 +1,17 @@
 = Menma (fermentowane pędy bambusa) 🎋 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 30 minut + czas chłodzenia
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut + czas chłodzenia
+* 🕒 czas gotowania: 30 minut + czas chłodzenia
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 0,5 kubka pędy bambusa
 * 2 kubki woda 
@@ -20,7 +22,10 @@
 == Przygotowanie
 Wodę mieszamy z teriyaki, mirinem i wodą. Dodajemy pędy bambusa, katsuobushi i gotujemy około 20 minut. Pozostawiamy do ostygnięcia, przekładamy do pojemnika i chłodzimy około 10 godzin.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

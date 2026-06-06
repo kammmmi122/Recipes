@@ -1,16 +1,17 @@
 = Coxinha 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina 15 minut
-* porcji: 12 sztuk
-* źródło: warsztaty kulinarne w szkole Skoma
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina 15 minut
+* 🕒 czas gotowania: 1 godzina 15 minut
+* 👥 12 sztuk porcji
+* 🔗 warsztaty kulinarne w szkole Skoma
 
+[.recipe-columns]
 == Składniki
 
 == Ciasto
@@ -55,7 +56,10 @@ Formuj coxinha, nabierając kawałek ciasta wielkości orzecha włoskiego. Spła
 
 Zanurz każdą coxinhę w mleku, obtocz w bułce tartej i smaż w rozgrzanym oleju po 3–4 minuty z każdej strony, aż nabiorą złotego koloru. Odsącz na papierowym ręczniku.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

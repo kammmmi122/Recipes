@@ -1,10 +1,15 @@
 = Tort kinder 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1,5 godziny
+* 🕒 czas gotowania: 1,5 godziny
+
+[.recipe-columns]
 == Szczegóły
 
 * liczba porcji: 12
@@ -60,7 +65,7 @@
 * batoniki Kinder Bueno
 * jajka Kinder Niespodzianka
 
-|
+
 == Przygotowanie
 
 Jajka (6 szt) powinny być w temp. pokojowej! Bardzo dokładnie oddzielamy białka od żółtek. Do suchej miski dodajemy białka i szczyptę soli. Ubijamy na wysokich obrotach miksera przez około 5 minut. Masa być bardzo puszysta i sztywna.
@@ -112,7 +117,10 @@ Wierzch tortu udekorowałam batonikami Kinder, Kinder Bueno i jajkami Kinder. Op
 
 Wkładamy tort na kilka godzin do lodówki, jednak przed jego krojeniem polecam wyciągnąć go tak około 30 minut szybciej, aby tynk nabrał temperatury pokojowej i ładnie się kroił.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

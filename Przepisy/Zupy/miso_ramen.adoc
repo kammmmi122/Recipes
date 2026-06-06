@@ -1,15 +1,14 @@
 = Miso ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 6 godzin
-* 4 porcje
-* https://www.napaleczkach.pl/2021/01/miso-ramen.html[link do źródła przepisu]
+[.recipe-hero]
+image::/Recipes/static/images/20260223_175028.jpg[]
 
+[.recipe-details]
+* 🕒 czas przygotowania: 6 godzin
+* 🕒 czas gotowania: 6 godzin
+
+[.recipe-columns]
 == Składniki
 
 === Bulion:
@@ -53,7 +52,7 @@ opakowanie kiełków fasoli mung
 4 marynowane jajka
 boczek chāshū
 
-|
+
 == Przygotowanie
 
 Rozpoczynamy od przygotowania naszej bazy, czyli bulionu z kurczaka.
@@ -78,11 +77,11 @@ Gdy mamy już przygotowany bulion z tare (oraz oczywiście całą resztę dodatk
 
 Podajemy od razu.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
 
-image::/Recipes/static/images/20260223_175028.jpg[]
+[.gallery-grid]
+--
 image::/Recipes/static/images/20260223_174846.jpg[]
 image::/Recipes/static/images/20260223_174841.jpg[]
+--

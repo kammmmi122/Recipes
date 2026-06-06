@@ -1,16 +1,17 @@
 = Pierogi gyoza 🦐🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina 30 minut
-* porcji: 24 pierożki
-* źródło: dołączony PDF
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina 30 minut
+* 🕒 czas gotowania: 1 godzina 30 minut
+* 👥 24 pierożki porcji
+* 🔗 dołączony PDF
 
+[.recipe-columns]
 == Składniki
 
 * mrożone ciasto gyoza, okrągłe 24 sztuki
@@ -40,7 +41,10 @@ Na patelni rozgrzej olej. Smaż pierożki na średnim ogniu przez około 4 minut
 
 Podawaj gyoza z posiekanym szczypiorem i czarnym sezamem, a jeśli chcesz, z dodatkową porcją sosu sojowego lub oleju chili.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

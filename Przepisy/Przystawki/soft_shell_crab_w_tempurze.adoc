@@ -1,15 +1,17 @@
 = Soft shell crab w tempurze 🦀 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 15 minut
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 0,1 kg mąka pszenna
 * 0,1 kg mąka ryżowa
@@ -22,7 +24,10 @@
 == Przygotowanie
 Mieszamy mąki, wodę, wódkę i sól i chłodzimy ciasto. Kraby suszymy bardzo dokładnie, przekładamy na ręcznik papierowy i pozostawiamy na kilkanaście minut. Smażymy kraba w temp. 190 st.C około 2 minuty.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

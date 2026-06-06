@@ -1,15 +1,17 @@
 = Chashu boczek 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania:
-* porcji:
-* źródło:
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: * porcji:
+* 🕒 czas gotowania: * porcji:
+* 👥 * źródło: porcji
+* 🔗 == Składniki
+
+[.recipe-columns]
 == Składniki
 * 0,5 kg boczku
 * 0,25 litra wody 
@@ -19,7 +21,10 @@
 == Przygotowanie
 Zwijamy boczek i wiążemy sznurkiem. Mieszamy wszystkie składniki zalewy, zalewamy boczek i zawijamy folią aluminiową, pieczemy w temp. 180 st.C około 1 godziny, zdejmujemy folię i przekładamy na drugą stronę, pieczemy kolejne 30 minut. Boczek ma być miękki na tyle, że pałeczka przejdzie na wylot. Studzimy, ściągamy sznurek i zwijamy ciasno folią spożywczą.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

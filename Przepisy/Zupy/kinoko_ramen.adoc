@@ -1,15 +1,17 @@
 = Kinoko Ramen 🍄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: około 3 godzin
-* porcji: 4
-* źródło: Warsztaty w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: około 3 godzin
+* 🕒 czas gotowania: około 3 godzin
+* 👥 4 porcji
+* 🔗 Warsztaty w szkole K5
+
+[.recipe-columns]
 == Składniki
 
 == Wywar
@@ -37,7 +39,10 @@
 
 Wszystkie składniki zalewamy 3 litrami wody i gotujemy około 1 godziny (na małej temperaturze). Przykrywamy i odstawiamy na minimum 2 godziny. Odcedzamy składniki (grzyby, które można użyć do innych dań). Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem, tare i dodajemy ulubione dodatki.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

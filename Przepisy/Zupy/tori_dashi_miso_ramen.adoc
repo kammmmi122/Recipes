@@ -1,17 +1,18 @@
 = Tori Dashi Miso Ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
 * liczba porcji: 4
 * czas przygotowania: 10 min
 * czas gotowania: 10-12 godzin
 * źródło przepisu: warsztaty kulinarne w szkole K5
 
+
+[.recipe-columns]
 == Składniki
 
 === Wywar drobiowy
@@ -34,7 +35,6 @@
 * spicy miso tare
 * olej z palonego czosnku
 * grubszy makaron, który dobrze wchłania bogaty bulion
-|
 
 == Przygotowanie
 
@@ -42,7 +42,10 @@ Pieczemy części kurczaka w piekarniku w 180 st. około 40 minut. Wkładamy d
 
 Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem i dodajemy ulubione dodatki.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

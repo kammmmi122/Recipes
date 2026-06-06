@@ -1,15 +1,17 @@
 = Olej z palonego czosnku 🧄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 15 minut
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 10 ząbków czosnek (obrany i posiekany)
 * 0,15 litra olej 
@@ -21,7 +23,10 @@
 
 Na oleju podgrzewamy czosnek, podgrzewamy. Smażymy powoli kilka minut, aż czosnek będzie mocno brązowy, przestajemy podgrzewać. Dodajemy olej sezamowy oraz opcjonalnie czarny sezam. Odstawiamy na 10 minut, żeby wszystko przeszło aromatem. Miksujemy na gładko.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

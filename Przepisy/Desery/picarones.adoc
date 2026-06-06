@@ -1,10 +1,17 @@
 = Picarones 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 🕒 czas gotowania: 2 godziny
+* 👥 15–20 picarones porcji
+* 🔗 dołączony PDF
+
+[.recipe-columns]
 == Szczegóły
 
 * czas przygotowania: 2 godziny
@@ -53,7 +60,10 @@ W rondelku umieść sok i skórkę z pomarańczy, cukier muscovado, melasę oraz
 
 Polej ciepłe picarones syropem miel de chancaca tuż przed podaniem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

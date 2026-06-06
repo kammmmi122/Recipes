@@ -1,5 +1,13 @@
 = Moje przepisy
+:imagesdir: /Recipes/static/images
 
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+
+[.recipe-columns]
 ++++
 include::filters.html[]
 ++++
@@ -301,3 +309,11 @@ include::filters.html[]
 </div>
 </div>
 ++++
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

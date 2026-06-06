@@ -1,15 +1,17 @@
 = Olej chili 🌶️ +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 15 minut
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 3 ząbki czosnek 
 * 0,5 kubka olej 
@@ -21,7 +23,10 @@
 == Przygotowanie
 Olej gotujemy z czosnkiem, szczypiorkiem i imbirem tak długo, aż będą chrupiące. Dodajemy płatki chili i olej sezamowy, mieszamy i odstawiamy do ostygnięcia.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

@@ -1,15 +1,17 @@
 = Krewetki w panko 🍤 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania:
-* porcji:
-* źródło:
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: * porcji:
+* 🕒 czas gotowania: * porcji:
+* 👥 * źródło: porcji
+* 🔗 == Składniki
+
+[.recipe-columns]
 == Składniki
 * krewetki 6 sztuki (oczyszczone i delikatnie rozbite)
 * jajko 1 sztuka (roztrzepane)
@@ -22,7 +24,10 @@
 == Przygotowanie
 Shichimi togarashi mieszamy z jajkiem. Krewetki obtaczamy w mące ryżowej, jajku i obtaczamy w panierce panko. Smażymy w oleju w temp. 170 st.C, aż będą rumiane, odsączamy.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

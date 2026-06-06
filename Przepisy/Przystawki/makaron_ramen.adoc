@@ -1,15 +1,17 @@
 = Makaron ramen 🍜 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 15 minut
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 1 łyżka soda 
 * 0,24 litra woda
@@ -20,7 +22,10 @@
 == Przygotowanie
 Sodę pieczemy w temp. 120 st.C 1 godzinę. Mieszamy wodę, sól i sodę, aż składniki się wymieszają (utworzony roztwór nazywa się kansui). Mieszamy mąką i żółtka, dodajemy kansui i mieszamy dalej tak długo, aż ciasto zacznie odchodzić od ścian miski. Ugniatamy ciasto ręcznie przez kilkam minut, zawijamy w folię i odstawiamy na 1 godzinę. Tak przygotowane ciasto kroimy na makaron.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

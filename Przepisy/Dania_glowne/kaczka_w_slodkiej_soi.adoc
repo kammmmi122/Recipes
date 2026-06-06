@@ -1,15 +1,17 @@
 = Kaczka w słodkiej soi 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania:
-* porcji:
-* źródło:
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: * porcji:
+* 🕒 czas gotowania: * porcji:
+* 👥 * źródło: porcji
+* 🔗 == Składniki
+
+[.recipe-columns]
 == Składniki
 * 0,4 kg kaczka pierś
 * 0,1 kg cukier trzcinowy
@@ -23,7 +25,10 @@
 == Przygotowanie
 Wszystkie składniki sosu łączymy razem i gotujemy na wolnym ogniu kilkanaście minut. Kaczkę smażymy od strony skóry aż będzie rumiana, z drugiej strony około minuty, smarujemy kaczkę sosem i pieczemy w temp. 180 st.C około 15 minut.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

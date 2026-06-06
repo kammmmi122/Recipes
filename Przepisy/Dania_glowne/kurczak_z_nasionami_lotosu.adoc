@@ -1,16 +1,17 @@
 = Kurczak z nasionami lotosu 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 1 godzina 30 minut
-* porcji: 4
-* źródło: dołączony PDF
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina 30 minut
+* 🕒 czas gotowania: 1 godzina 30 minut
+* 👥 4 porcji
+* 🔗 dołączony PDF
 
+[.recipe-columns]
 == Składniki
 
 * 4 udka kurczaka
@@ -35,7 +36,10 @@ W dużym garnku połącz ugotowane nasiona lotosu, odsączone grzyby shiitake, o
 
 Gotuj na parze przez około 45 minut, aż kurczak będzie miękki, a aromaty składników się połączą. Podawaj z ryżem lub pszennymi plackami.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

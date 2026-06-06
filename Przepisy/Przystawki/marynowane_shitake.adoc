@@ -1,15 +1,17 @@
 = Marynowane shitake 🍄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
-* czas przygotowania: 15 minut
-* porcji: 4
-* źródło: warsztaty kulinarne w szkole K5
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
 == Składniki
 * 0,15 kg grzyby shitake  (pokrojone w paski)
 * 0,5 kubka sos sojowy jasny 
@@ -21,7 +23,10 @@
 == Przygotowanie
 Wszystkie składniki z wyjątkiem grzybów mieszamy. Marynatę zagotowujemy i redukujemy. Następnie dodajemy do niej grzyby i odstawiamy do wystygnięcia.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

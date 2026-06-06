@@ -1,16 +1,17 @@
 = Gorący kociołek z tofu i grzybami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* porcji: 4
-* źródło: dołączony PDF
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcji
+* 🔗 dołączony PDF
 
+[.recipe-columns]
 == Składniki
 
 * skórka tofu 0,3 kg (zwinięta i pokrojona na prostokąty)
@@ -38,7 +39,10 @@ Dodaj pokrojony por, papryki i grzyby mun, dokładnie mieszając. Wlej przygotow
 
 Przykryj patelnię i duś na średnim ogniu przez około 3 minuty, aż sos zgęstnieje. Podawaj gorący kociołek z tofu i warzywami, najlepiej z ryżem.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

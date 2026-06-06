@@ -1,16 +1,17 @@
 = Rou Jia Mo 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 2 godziny 30 minut
-* porcji: 6
-* źródło: dołączony PDF
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny 30 minut
+* 🕒 czas gotowania: 2 godziny 30 minut
+* 👥 6 porcji
+* 🔗 dołączony PDF
 
+[.recipe-columns]
 == Składniki
 
 * boczek wieprzowy 1 kg (bez skóry)
@@ -47,7 +48,10 @@ Po wyrośnięciu zagnieć ciasto krótko, podziel na 12 równych części i ufor
 
 Przekrój chlebki na pół, napełnij je aromatycznym mięsem i podawaj z dodatkową porcją świeżej kolendry.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

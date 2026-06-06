@@ -1,16 +1,17 @@
 = Arepas 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
 
-[cols=".<a,.<a"]
-[frame=none]
-[grid=none]
-|===
-|
-== Szczegóły
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
 
-* czas przygotowania: 45 minut
-* porcji: 6 arep
-* źródło: dołączony PDF
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 6 arep porcji
+* 🔗 dołączony PDF
 
+[.recipe-columns]
 == Składniki
 
 * 250 g mąki z białej kukurydzy Harina P.A.N. lub Maseca
@@ -36,7 +37,10 @@ Rozgrzej żeliwną patelnię lub patelnię z grubym dnem na średnim ogniu. Sma�
 
 Przed podaniem przetnij każdą arepę w około 3/4 wysokości, tworząc kieszonkę na nadzienie. Możesz włożyć do środka kurczaka, fasolę, awokado, ser, kolendrę i limonkę.
 
-|===
-
-[.text-center]
+[.recipe-gallery]
 == Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--
