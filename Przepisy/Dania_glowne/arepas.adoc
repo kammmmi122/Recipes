@@ -8,8 +8,8 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
 * 🕒 czas gotowania: 45 minut
-* 👥 6 arep porcji
-* 🔗 dołączony PDF
+* 👥 6 arep
+* 🔗 warsztaty kulinarne w szkole Skoma
 
 [.recipe-columns]
 == Składniki

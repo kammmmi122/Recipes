@@ -6,10 +6,10 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: * porcji:
-* 🕒 czas gotowania: * porcji:
-* 👥 * źródło: porcji
-* 🔗 == Składniki
+* 🕒 czas przygotowania: 20 minut
+* 🕒 czas gotowania: 10-15 minut
+* 👥 4 porcje
+* 🔗 warsztaty kulinarne w szkole K5
 
 [.recipe-columns]
 == Składniki

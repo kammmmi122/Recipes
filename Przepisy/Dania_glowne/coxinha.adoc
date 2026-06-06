@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina 15 minut
 * 🕒 czas gotowania: 1 godzina 15 minut
-* 👥 12 sztuk porcji
+* 👥 12 sztuk
 * 🔗 warsztaty kulinarne w szkole Skoma
 
 [.recipe-columns]

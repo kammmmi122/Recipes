@@ -9,7 +9,7 @@ Brak zdjęcia przepisu 🍲
 * 🕒 czas przygotowania: 35 minut
 * 🕒 czas gotowania: 35 minut
 * 👥 4 porcje
-* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
+* 🔗 przepis własny
 
 [.recipe-columns]
 == Składniki
