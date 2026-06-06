@@ -235,12 +235,12 @@ body {
    UKŁAD STRONY PRZEPISU (STRUKTURA ASSETS & GRIDS)
    ========================================================================== */
 
-/* 1. Hero Banner */
+/* 1. Hero Banner (Efekt szerokiej panoramy) */
 .recipe-hero, 
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
   width: 100%;
-  max-height: 450px;
+  height: 300px;
   background: #f3f4f6;
   display: flex !important;
   align-items: center;
@@ -253,9 +253,9 @@ body {
 
 .recipe-hero img {
   width: 100%;
-  height: auto;
-  max-height: 450px;
-  object-fit: contain; /* Zabezpiecza przed ucinaniem i deformacją zdjęcia */
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
   border-radius: 14px;
 }
 
@@ -329,7 +329,7 @@ body {
   line-height: 1.6;
 }
 
-/* 4. Galeria Zdjęć */
+/* 4. Galeria Zdjęć (Kafelki o stałych proporcjach) */
 .recipe-gallery {
   clear: both;
   margin-top: 48px;
@@ -344,7 +344,7 @@ body {
 
 .gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* Przystosowane do większych ujęć */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
   gap: 20px;
 }
 
@@ -354,13 +354,16 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  height: auto;
-  min-height: 300px;
-  max-height: 450px;
-  object-fit: cover; /* Wypełnia kadr 400x600 / 600x400 bez zniekształceń */
+  aspect-ratio: 3 / 2; /* Proporcje typu 600x400 */
+  object-fit: cover;
   border-radius: var(--radius);
   display: block;
   box-shadow: var(--shadow-soft);
+  transition: transform 0.2s ease;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.02);
 }
 
 /* ==========================================================================
@@ -402,15 +405,11 @@ body {
   .recipe-hero, 
   .recipe-hero.paragraph,
   .recipe-hero .card-image-placeholder {
-    height: 240px;
+    height: 200px;
   }
 
   .gallery-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* Na telefonie pełna szerokość dla kafelka */
     gap: 16px;
-  }
-  
-  .gallery-grid img {
-    min-height: 250px;
   }
 }
