@@ -227,12 +227,12 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
 
             # 4. Kolumny - Składniki i Przygotowanie jako podnagłówki pod jedną klasą
             f.write('[.recipe-columns]\n')
-            f.write('=== Składniki\n')
+            f.write('== Składniki\n')
             for ing in ingredients_lines:
                 f.write(f'* {ing}\n')
             f.write('\n')
 
-            f.write('=== Przygotowanie\n')
+            f.write('== Przygotowanie\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
 

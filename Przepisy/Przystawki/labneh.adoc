@@ -1,0 +1,29 @@
+= Labneh 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/labneh[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 650 g jogurtu greckiego
+* szczypta soli morskiej
+
+== Przygotowanie
+Wymieszać jogurt z solą morską. Umieścić go na sitku zawieszonym na garnku lub misce i wyłożonym gazą (2 - 3 warstwy). Związać supełek tworząc sakiewkę i lekko zacisnąć.
+
+Zawiesić nad miską, tak aby serwatka swobodnie do niej ściekała i zostawić na całą noc lub ok. 12 godzin.
+
+Po tym czasie rozwiązać supełek i wyłożyć gotowy twarożek do miski lub na talerz.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
