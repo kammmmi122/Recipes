@@ -39,3 +39,4 @@ W dużym, szerokim garnku zagotuj wodę. Garnek wypełnij wodą nie więcej niż
 
 [.gallery-grid]
 image::20240713_181533.jpg[]
+image::20240713_201623.jpg[]
