@@ -232,7 +232,7 @@ body {
 }
 
 /* ==========================================================================
-   UKŁAD STRONY PRZEPISU (NOWA STRUKTURA BEZ DZIELNIKÓW BLOKOWYCH)
+   UKŁAD STRONY PRZEPISU (STRUKTURA ASSETS & GRIDS)
    ========================================================================== */
 
 /* 1. Hero Banner */
@@ -240,39 +240,23 @@ body {
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
   width: 100%;
-  height: 360px;
-  background: #e5e7eb;
-  color: var(--muted);
-  font-size: 1.3rem;
-  font-weight: 500;
+  max-height: 450px;
+  background: #f3f4f6;
   display: flex !important;
   align-items: center;
   justify-content: center;
   border-radius: 14px;
   margin: 16px 0 24px !important;
   box-shadow: var(--shadow-soft);
-  position: relative;
+  overflow: hidden;
 }
 
 .recipe-hero img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  max-height: 450px;
+  object-fit: contain; /* Zabezpiecza przed ucinaniem i deformacją zdjęcia */
   border-radius: 14px;
-}
-
-.recipe-hero::before {
-  content: "Dania główne";
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  background: #f97316;
-  color: #ffffff;
-  padding: 6px 12px;
-  font-size: 0.85rem;
-  font-weight: 600;
-  border-radius: 6px;
-  z-index: 5;
 }
 
 /* 2. Pasek szczegółów */
@@ -307,10 +291,8 @@ body {
   text-decoration: none;
 }
 
-/* 3. UKŁAD DWUKOLUMNOWY (Nagłówki H2 jako elementy niezależne) */
+/* 3. UKŁAD DWUKOLUMNOWY */
 @media (min-width: 901px) {
-  /* Sprytne łączenie: jeśli sekcje .recipe-ingredients i .recipe-preparation leżą obok siebie,
-     zmniejszamy ich szerokość i ustawiamy jako float lub inline-block obok siebie */
   .recipe-ingredients, 
   .recipe-preparation {
     width: 48%;
@@ -323,7 +305,6 @@ body {
   }
 }
 
-/* Stylizacja nagłówków H2 wewnątrz kolumn */
 .recipe-column-box h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
@@ -350,7 +331,7 @@ body {
 
 /* 4. Galeria Zdjęć */
 .recipe-gallery {
-  clear: both; /* Resetuje opływanie szerokich kolumn powyżej */
+  clear: both;
   margin-top: 48px;
   border-top: var(--border-subtle);
   padding-top: 24px;
@@ -363,8 +344,8 @@ body {
 
 .gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* Przystosowane do większych ujęć */
+  gap: 20px;
 }
 
 .gallery-grid .imageblock {
@@ -373,8 +354,10 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  height: 160px;
-  object-fit: cover;
+  height: auto;
+  min-height: 300px;
+  max-height: 450px;
+  object-fit: cover; /* Wypełnia kadr 400x600 / 600x400 bez zniekształceń */
   border-radius: var(--radius);
   display: block;
   box-shadow: var(--shadow-soft);
@@ -395,7 +378,7 @@ body {
 
   .recipe-ingredients, 
   .recipe-preparation {
-    width: 100% !important; /* Na mobile zajmują pełną szerokość i spadają pod siebie */
+    width: 100% !important;
     display: block !important;
     margin-right: 0 !important;
     margin-bottom: 32px;
@@ -423,7 +406,11 @@ body {
   }
 
   .gallery-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .gallery-grid img {
+    min-height: 250px;
   }
 }
