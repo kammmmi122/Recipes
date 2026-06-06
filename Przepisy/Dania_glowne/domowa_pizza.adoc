@@ -38,3 +38,4 @@ Podawać gorącą.
 
 [.gallery-grid]
 image::20250822_173944.jpg[]
+image::20250814_220620.jpg[]

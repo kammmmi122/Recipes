@@ -101,3 +101,4 @@ Jak widzieliście, on rósł, ale podczas tego stygnięcia opadnie i to opadnie 
 
 [.gallery-grid]
 image::20231006_223932.jpg[]
+image::20231014_215500.jpg[]

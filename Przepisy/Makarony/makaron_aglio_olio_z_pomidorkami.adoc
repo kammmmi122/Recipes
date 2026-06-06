@@ -28,3 +28,4 @@ Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo dr
 
 [.gallery-grid]
 image::20260208_173706.jpg[]
+image::20260208_173830.jpg[]

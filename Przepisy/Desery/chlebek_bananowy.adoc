@@ -36,3 +36,4 @@ Ciasto wyłożyć do wyścielonej papierem do pieczenia dużej podłużnej formy
 
 [.gallery-grid]
 image::20240519_085926.jpg[]
+image::20240519_085941.jpg[]
