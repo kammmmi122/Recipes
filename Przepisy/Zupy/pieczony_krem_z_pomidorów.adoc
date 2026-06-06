@@ -6,10 +6,10 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* Czas przygotowania: 15 minut
-* Czas pieczenia: 35-40 minut
-* Porcje: 4-6
-* https://www.instagram.com/reel/DXPbsGdiVKU/?igsh=MTdxcHphbjZmd3U2aA==[link do źródła przepisu]
+* 🕒 Czas przygotowania: 15 minut
+* 🕒 Czas pieczenia: 35-40 minut
+* 👥 Porcje: 4-6
+* 🌐 https://www.instagram.com/reel/DXPbsGdiVKU/?igsh=MTdxcHphbjZmd3U2aA==[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
