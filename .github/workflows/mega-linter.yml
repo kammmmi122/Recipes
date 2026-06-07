@@ -49,4 +49,4 @@ jobs:
 
       - name: Fix file permissions for self-hosted runner
         if: always()
-        run: sudo chown -R $USER:$USER ${{ github.workspace }}
+        run: sudo chown -R "$USER":"$USER" "${{ github.workspace }}"
