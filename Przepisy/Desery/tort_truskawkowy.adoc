@@ -75,6 +75,8 @@ Tort truskawkowy wyjąć ostrożnie z tortownicy i położyć na paterze. Gotowy
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20240427_105458.jpg[]
 image::20240427_105504.jpg[]
 image::20240427_110531.jpg[]
+--

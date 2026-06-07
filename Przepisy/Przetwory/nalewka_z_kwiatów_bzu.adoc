@@ -25,5 +25,7 @@ Kwiaty odciąć od łodyżek i przełożyć do dużego słoja. Wsypać kwasek cy
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20240526_205344.jpg[]
 image::20240531_084134.jpg[]
+--

@@ -38,5 +38,7 @@ Puszyste japońskie placuszki podawać prosto z patelni, z ulubionymi owocami i 
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20251109_210923.jpg[]
 image::20251109_210926.jpg[]
+--
