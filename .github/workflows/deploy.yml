@@ -5,6 +5,8 @@ on:
     workflows: ["Build asciidoc"] # Musi idealnie pasować do 'name' z pierwszego pliku
     types:
       - completed
+    branches:
+      - main
 
 permissions:
   contents: read
