@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    # Opcjonalnie: uruchamiaj tylko, gdy zmieniają się przepisy lub skrypty
     paths:
       - "Przepisy/**"
       - "scripts/**"
@@ -12,6 +11,7 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
