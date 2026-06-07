@@ -24,21 +24,20 @@ jobs:
   build:
     name: AsciiDoc Build
     runs-on: self-hosted
+    timeout-minutes: 30
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
           lfs: true
 
       - name: Build AsciiDoc
-        run: |
-          chmod +x ./scripts/build.sh
-          ./scripts/build.sh
+        run:  ./scripts/build.sh
 
       - name: Publish Artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: page
           path: |
@@ -47,4 +46,5 @@ jobs:
             static/*
             Przepisy/**/*.html
             Przepisy/**/*.jpg
+          retention-days: 30
           if-no-files-found: error
