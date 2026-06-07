@@ -22,8 +22,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
-    # Krytyczna poprawka: sprawdzamy czy to był bezpośredni PUSH, a nie PULL_REQUEST
-    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push' }}
+    # KLUCZOWY WARUNEK:
+    # 1. Poprzedni build musiał zakończyć się sukcesem
+    # 2. Lista powiązanych Pull Requestów MUSI być pusta (czyli to zwykły push)
+    if: ${{ github.event.workflow_run.conclusion == 'success' && toJson(github.event.workflow_run.pull_requests) == '[]' }}
 
     steps:
       # Krok 1: Pobranie artefaktu
