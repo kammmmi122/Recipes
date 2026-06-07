@@ -144,7 +144,9 @@
       const activeFilters = getActiveFilters();
 
       getCards().forEach((card) => {
-        const title = (card.dataset.title || "").toLowerCase();
+        const title = (
+          card.querySelector(".card-title")?.textContent || ""
+        ).toLowerCase();
         const category = (card.dataset.category || "").toLowerCase();
         const emojiText = (
           (card.dataset.emoji || "").trim() ||

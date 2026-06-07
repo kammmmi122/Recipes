@@ -37,5 +37,7 @@ Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnię
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20240820_080313.jpg[]
 image::20240820_080359.jpg[]
+--

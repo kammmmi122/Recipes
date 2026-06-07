@@ -103,12 +103,9 @@ def create_index_adoc():
                     f'</div>'
                 )
 
-                # NEW CARD HTML — MATCHES YOUR NEW CSS
+                # CARD HTML
                 card_html = (
-                    f'<article class="card" '
-                    f'data-category="{html.escape(folder_name)}" '
-                    f'data-title="{html.escape(title.lower())}" '
-                    f'data-emoji="{html.escape(emoji_html, quote=True)}">'
+                    f'<article class="card" data-category="{html.escape(folder_name)}">'
                     f'{category_label}'
                     f'{image_html}'
                     f'<div class="card-content">'

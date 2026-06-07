@@ -366,10 +366,14 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  aspect-ratio: 3 / 2; /* Proporcje typu 600x400 */
+  max-width: 600px;
+  aspect-ratio: auto;
   object-fit: cover;
+  object-position: center;
+
   border-radius: var(--radius);
   display: block;
+  margin: 0 auto;
   box-shadow: var(--shadow-soft);
   transition: transform 0.2s ease;
 }

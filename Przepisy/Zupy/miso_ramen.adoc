@@ -2,7 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-image::/Recipes/static/images/20260223_175028.jpg[]
+image::20260223_175028.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 6 godzin
@@ -80,6 +80,7 @@ Podajemy od razu.
 
 [.gallery-grid]
 --
-image::/Recipes/static/images/20260223_174846.jpg[]
-image::/Recipes/static/images/20260223_174841.jpg[]
+image::20260223_174846.jpg[]
+image::20260223_174841.jpg[]
+image::20260223_175028.jpg[]
 --

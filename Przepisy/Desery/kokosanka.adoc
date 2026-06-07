@@ -38,6 +38,8 @@ Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, n
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20231209_214411.jpg[]
 image::20231210_184314.jpg[]
 image::20231210_184321.jpg[]
+--

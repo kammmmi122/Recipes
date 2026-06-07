@@ -2,8 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260529_185420.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 minut
@@ -47,4 +46,4 @@ Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem se
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+image::20260529_185420.jpg[]

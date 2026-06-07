@@ -2,7 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-image::/Recipes/static/images/20260216_222222.jpg[]
+image::20260216_222222.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina + czas pieczenia
@@ -47,6 +47,4 @@ Wszystkie składniki umieścić w naczyniu i rozetrzeć grzbietem łyżki do otr
 == Zdjęcia
 
 [.gallery-grid]
---
-// Tutaj pojawią się zdjęcia
---
+image::20260216_222222.jpg[]
