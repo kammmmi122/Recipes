@@ -1,0 +1,41 @@
+= Sałatka z białej kapusty z olejem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg białej kapusty poszatkować
+
+0,5 kg marchwi zetrzeć na grubej tarce
+
+0,5 kg cebuli pokroić w kostkę
+
+Kapustę posolić (2 łyżki soli), wymieszać i odstawić na 2 godziny. Odcisnąć mocno. Dodać marchew i cebulę.
+
+Zalewa:
+
+1 szkl. octu
+
+1 szkl. cukru
+
+1 szkl. oleju
+
+pieprz czarny mielony (1 łyżeczka)
+
+Wszystkie składniki zalewy wymieszać (nie gotować) i zalać warzywa. Wymieszać dokładnie, odstawić na 5-6 godzin. Nakładać do słoików, dobrze ubijając. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

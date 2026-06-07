@@ -1,0 +1,31 @@
+= Chatka Puchatka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 paczki herbatników
+
+60 dag twarogu (zmielić)
+
+1 kost tłuszczu (roztopić)
+
+1 szkl. cukru
+
+tłuszcz + twaróg + cukier (½ biała na herbatniki, ½ z kakao i położyć na środek i włożyć do lodówki). Zewnętrzne przykryć herbat. Po schłodzeniu polać polewą.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

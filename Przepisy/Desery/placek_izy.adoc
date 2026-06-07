@@ -1,0 +1,39 @@
+= Placek Izy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+30 dag maku
+
+1 ½ szkl. cukru
+
+9 jaj
+
+1 kost palmy
+
+1 łyżeczka proszku
+
+9 łyżek kaszy mannej
+
+bakalie
+
+½ kg musu jabłkowego
+
+żółtka + cukier + palma utrzeć + proszek + pozostałe składniki. Na końcu mak i białka.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

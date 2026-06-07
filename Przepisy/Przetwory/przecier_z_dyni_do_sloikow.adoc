@@ -1,0 +1,27 @@
+= Przecier z dyni do słoików 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+dynię obrać, usunąć nasiona, miąższ pokroić w kostkę.
+
+Wrzucić do garnka, podlać minimalną ilością wody i dusić pod przykryciem do miękkości (ok. 20 min).
+
+Zblendować na gładkie purée. Gorący przecier nakładać do słoików. Pasteryzować 20 min. Doskonała baza do zup lub ciast zimą.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

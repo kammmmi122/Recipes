@@ -1,0 +1,39 @@
+= Biszkopt makowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+½ kg maku (2x przekręcić)
+
+¾ kost. palmy
+
+6 jaj
+
+1 ½ szkl. cukru
+
+1 mały proszek
+
+1 szkl. mąki
+
+olejek migdałowy
+
+1 p. rodzynek, migdały, figi, skórka pom.
+
+Palma + cukier + żółtka + pozost składniki + ubita piana
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

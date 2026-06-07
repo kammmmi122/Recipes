@@ -1,0 +1,37 @@
+= Sałatka z dyni (w zalewie słodko-kwaśnej) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+dynię obrać ze skóry, usunąć miękki środek z nasionami. Miąższ pokroić w równą kostkę (ok. 2 cm).
+
+Ułożyć luźno w słoikach. Do każdego słoika włożyć: 2 goździki, kawałek kory cynamonu.
+
+Zalewa:
+
+4 szkl. wody
+
+1 szkl. octu
+
+1,5 szkl. cukru
+
+szczypta soli
+
+Zagotować zalewę do całkowitego rozpuszczenia cukru. Gorącą zalewą zalać dynię w słoikach. Pasteryzować ok. 10-12 min (dynia nie może się rozgotować, powinna pozostać lekko chrupka).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

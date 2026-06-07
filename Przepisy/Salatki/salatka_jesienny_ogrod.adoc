@@ -1,0 +1,47 @@
+= Sałatka "Jesienny Ogród" 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+1 kg ogórków gruntowych (w talarki)
+
+1 kg kapusty białej (poszatkować)
+
+0,5 kg papryki czerwonej (w paski)
+
+0,5 kg marchwi (zetrzeć na tarce)
+
+0,5 kg cebuli (w piórka)
+
+Wszystkie warzywa wymieszać, dodać 2,5 łyżki soli i odstawić na 3 godziny. Bardzo mocno odcisnąć sok.
+
+Zalewa:
+
+1 szkl. octu
+
+1 szkl. cukru
+
+1 szkl. oleju
+
+1 łyżka ziaren gorczycy
+
+0,5 łyżeczki pieprzu mielonego
+
+Zalewę wymieszać na zimno do rozpuszczenia cukru, zalać warzywa i dokładnie wymieszać. Odstawić na całą noc. Rano przełożyć do słoików, dobrze dociskając warzywa. Pasteryzować przez 15 min od momentu zagotowania wody.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

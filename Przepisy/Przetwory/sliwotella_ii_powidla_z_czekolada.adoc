@@ -1,0 +1,31 @@
+= Śliwotella II (Powidła z czekoladą) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg śliwek węgierek (wypestkować, zmielić)
+
+0,5 kg cukru
+
+2 płaskie łyżki kakao
+
+1 tabliczka gorzkiej czekolady (10 dag)
+
+Śliwki smażyć ok. 2 godziny. Dodać cukier i kakao, smażyć kolejne 30 min. Na koniec dodać połamaną czekoladę i wymieszać do rozpuszczenia. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

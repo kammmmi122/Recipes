@@ -1,0 +1,31 @@
+= Dżem z dyni i pomarańczy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg miąższu dyni (pokroić w małą kostkę)
+
+3 duże pomarańcze
+
+1 cytryna
+
+0,8 kg cukru
+
+Z pomarańczy i cytryny otrzeć skórkę (tylko pomarańczową część) i wycisnąć sok. Dynię wrzucić do garnka, zalać sokiem z cytrusów, dodać otartą skórkę i smażyć, aż dynia całkowicie się rozpadnie (ok. 30-40 min). Dodać cukier i smażyć na wolnym ogniu, ciągle mieszając, przez kolejne 30 min, aż dżem zgęstnieje. Gorący nakładać do słoików. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

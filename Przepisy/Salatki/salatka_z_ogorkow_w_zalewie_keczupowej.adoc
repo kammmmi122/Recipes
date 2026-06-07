@@ -1,0 +1,41 @@
+= Sałatka z ogórków w zalewie keczupowej 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg ogórków gruntowych (pokroić w grube plastry ze skórką)
+
+0,5 kg cebuli (pokroić w piórka)
+
+Warzywa posolić (1,5 łyżki), wymieszać i odstawić na 2 godziny. Odlać powstały sok.
+
+Zalewa:
+
+1 szkl. wody
+
+0,5 szkl. octu
+
+0,5 szkl. cukru
+
+1 słoik (ok. 300 g) pikantnego keczupu (np. Kotlin lub Włocławek)
+
+3-4 łyżki oleju
+
+Składniki zalewy połączyć w garnku i zagotować. Gorącą zalewą zalać ogórki z cebulą, wymieszać dokładnie. Nakładać do słoików. Pasteryzować 10-12 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

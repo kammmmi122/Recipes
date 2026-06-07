@@ -1,0 +1,41 @@
+= Sałatka z zielonych pomidorów słodko-pikantna 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2,5 kg zielonych pomidorów (pokroić w plastry)
+
+0,5 kg cebuli (pokroić w piórka)
+
+Pomidory i cebulę wymieszać z 2 łyżkami soli i odstawić na całą noc. Rano odcisnąć z soku.
+
+Zalewa:
+
+2 szklanki wody
+
+1 szklanka octu
+
+1,5 szklanki cukru
+
+1 łyżeczka ostrej papryki mielonej
+
+przyprawy: gorczyca, ziele angielskie, liść laurowy
+
+Zalewę zagotować z przyprawami, wrzucić odciśnięte warzywa i gotować wszystko razem na małym ogniu przez ok. 15 minut (aż pomidory zrobią się lekko przezroczyste). Nakładać na gorąco do słoików, dobrze zakręcić. Pasteryzować 10 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

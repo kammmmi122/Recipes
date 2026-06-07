@@ -1,0 +1,47 @@
+= Sałatka z buraków 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+1 kg buraków ugot. i zetrzeć
+
+1 kg papryki pokroić w paski
+
+1 kg cebuli — " — w piórka
+
+1 kg kapusty poszatkować
+
+7-8 szt. ogórków pokroić w plastry
+
+1 kg marchwi ugotować i zetrzeć
+
+1 szkl. oleju
+
+¾ szkl. octu
+
+½ szkl. cukru
+
+0,5 paczki pieprzu mielonego
+
+zielona pietruszka
+
+liść laurowy, ziele angielskie
+
+Wszystko wymieszać i odstawić na parę godzin. Pasteryzować 15 min. pod koc.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

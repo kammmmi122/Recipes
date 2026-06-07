@@ -1,0 +1,41 @@
+= Sałatka z patisonów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg młodych patisonów pokroić w kostkę lub plastry
+
+0,5 kg papryki czerwonej pokroić w paski
+
+2-3 szt. cebuli pokroić w piórka
+
+Warzywa wymieszać, posolić i odstawić na 1-2 godz. Odcisnąć.
+
+Zalewa:
+
+3 szkl. wody
+
+1 szkl. octu
+
+1 szkl. cukru
+
+gorczyca, pieprz, liść laur.
+
+Zagotować zalewę. Włożyć warzywa do słoików, zalać gorącą zalewą. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,35 @@
+= Grzyby w occie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+grzyby (borowiki, podgrzybki, maślaki, rydze) oczyścić, obgotować w osolonej wodzie z dodatkiem kwasku cytrynowego ok. 15-20 min. Odcedzić.
+
+Zalewa:
+
+3 szkl. wody
+
+1 szkl. octu
+
+2 łyżki cukru
+
+1 łyżka soli
+
+Zagotować z przyprawami: cebula pokrojona w plastry, ziele ang, liść laur, pieprz ziarnisty, gorczyca. Do słoików włożyć grzyby, zalać gorącą zalewą razem z cebulą. Pasteryzować 10-15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

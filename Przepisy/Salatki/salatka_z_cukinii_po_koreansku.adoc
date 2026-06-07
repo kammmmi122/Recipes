@@ -1,0 +1,43 @@
+= Sałatka z cukinii po koreańsku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg cukinii (zetrzeć na tarce do słupków/marchewki po koreańsku)
+
+0,5 kg marchwi (zetrzeć na tej samej tarce)
+
+0,5 kg cebuli (pokroić w piórka)
+
+2 główki czosnku (przecisnąć przez praskę)
+
+Warzywa wymieszać w misce, dodać:
+
+1 paczka przyprawy do marchewki po koreańsku
+
+1 szkl. cukru
+
+1 szkl. oleju
+
+1 szkl. octu
+
+2 łyżki soli
+
+Wszystko dokładnie wymieszać i odstawić na 3-4 godziny. Przełożyć do słoików razem z powstałym sokiem. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

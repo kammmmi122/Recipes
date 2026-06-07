@@ -1,0 +1,31 @@
+= Syrop z kwiatów czarnego bzu 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+50-60 szt. dużych, w pełni rozwiniętych baldachów kwiatów czarnego bzu (zbieranych w słoneczny dzień, z dala od dróg)
+
+2 litry wody
+
+2 kg cukru
+
+sok z 3 dużych cytryn (lub 1 płaska łyżka kwasku cytrynowego)
+
+Kwiaty dokładnie przejrzeć (nie myć, by nie stracić cennego pyłku), odciąć grube zielone łodyżki. Zalać wrzącą wodą i odstawić na 24 godziny w chłodne miejsce. Następnie przecedzić napar przez gęstą gazę. Dodać cukier oraz sok z cytryny, podgrzewać ciągle mieszając, aż cukier całkowicie się rozpuści. Doprowadzić do wrzenia, rozlać gorący syrop do butelek. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,35 @@
+= Sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+1 ½ kg twarogu | 0,75 | 1 kg
+
+¾ kg cukru | 1 ½ szk | 2
+
+1 budyń żółty | ½ | ⅔
+
+6 łyżek kaszy mannej | 3 | 4
+
+1 kost palmy | ½ | ⅔
+
+10 dag rodzynek
+
+olejek migdałowy
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

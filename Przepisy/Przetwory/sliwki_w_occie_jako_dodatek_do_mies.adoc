@@ -1,0 +1,35 @@
+= Śliwki w occie (jako dodatek do mięs) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg śliwek węgierek (twardych, mogą być z pestkami) umyć, nakłuć każdą wykałaczką w kilku miejscach (by nie popękały). Ułożyć w słoikach.
+
+Zalewa:
+
+2 szkl. wody
+
+1 szkl. octu
+
+0,5 kg cukru
+
+goździki, cynamon
+
+Zagotować wodę z cukrem i przyprawami, na końcu dodać ocet. Gorącą zalewą zalać śliwki. Pasteryzować ok. 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

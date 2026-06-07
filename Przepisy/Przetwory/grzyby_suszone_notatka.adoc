@@ -1,0 +1,27 @@
+= Grzyby suszone (Notatka) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+Grzyby (prawdziwki, podgrzybki, kozaki) — nie myć wodą! Oczyścić dokładnie nożykiem i suchą ściereczką lub szczoteczką.
+
+Pokroić kapelusze w grubsze plastry (ok. 0,5 cm), mniejsze sztuki suszyć w całości. Nóżki pokroić w krążki.
+
+Suszyć w suszarce do warzyw/grzybów w temp. 50-60°C lub na siatkach w przewiewnym, słonecznym miejscu. Ususzone grzyby powinny być chrupkie i łamać się przy zginaniu. Przechowywać w szczelnie zamkniętych szklanych słoikach (można wrzucić 1 liść laurowy przeciw molom).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

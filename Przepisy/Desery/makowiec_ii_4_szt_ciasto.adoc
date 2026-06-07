@@ -1,0 +1,37 @@
+= Makowiec II 4 szt (Ciasto) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+(Podano proporcje na dużą porcję oraz po prawej na mniejszą)
+
+1 kg mąki | 0,25 dag
+
+20 (15) dag drożdży | 5 dag
+
+0,5 kg cukru | 125 dag
+
+1 kost tłuszczu | ¼ kost
+
+5 jaj | 1 jajo
+
+0,5 l mleka | ½ szklanki
+
+olejek migdał.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

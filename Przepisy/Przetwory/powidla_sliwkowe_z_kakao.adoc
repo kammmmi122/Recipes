@@ -1,0 +1,31 @@
+= Powidła śliwkowe z kakao 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+5 kg śliwek węgierek (wypestkowanych)
+
+1 kg cukru
+
+3 łyżki ciemnego kakao
+
+2 cukry waniliowe
+
+Śliwki wysmażyć w szerokim garnku tak jak na tradycyjne powidła (ok. 3-4 godziny na małym ogniu). Gdy masa będzie już gęsta, dodać cukier, kakao oraz cukier waniliowy. Wszystko razem dokładnie wymieszać i smażyć jeszcze przez ok. 20-30 minut, uważając, by nie przypalić spodu. Gorące powidła nakładać do wyparzonych słoików. Pasteryzować 10 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,41 @@
+= Sałatka z patisonów i papryki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2,5 kg patisonów (obrać, usunąć gniazda, pokroić w grube paski lub kostkę)
+
+1 kg papryki czerwonej i żółtej (pokroić w paski)
+
+0,5 kg cebuli (pokroić w krążki)
+
+Warzywa posolić (2 łyżki), odstawić na 2 godziny, odcisnąć sok.
+
+Zalewa:
+
+3 szkl. wody
+
+1 szkl. octu
+
+1 szkl. cukru
+
+pieprz ziarnisty, ziele angielskie
+
+Zagotować zalewę. Do słoików nakładać warzywa, zalewać gorącym płynem. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

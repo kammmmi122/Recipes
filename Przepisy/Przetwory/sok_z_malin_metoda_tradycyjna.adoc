@@ -1,0 +1,27 @@
+= Sok z malin (metoda tradycyjna) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg malin
+
+2 kg cukru
+
+Maliny ułożyć warstwami w dużym garnku lub słoju, zasypując każdą warstwę cukrem. Odstawić na 2-3 dni w ciepłe miejsce, aż owoce puszczą sok, od czasu do czasu zamieszać. Zlać powstały sok przez gęstą gazę. Sok zagotować, szumować pianę. Gorący sok rozlewać do ciemnych butelek. Pasteryzować ok. 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

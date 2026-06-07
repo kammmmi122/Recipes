@@ -1,0 +1,29 @@
+= Dżem z truskawek i rabarbaru 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg truskawek (odszypułkowanych)
+
+1 kg rabarbaru (obrać ze skórki i pokroić w małe kawałki)
+
+1,2 kg cukru
+
+Truskawki i rabarbar wrzucić do szerokiego garnka, zasypać cukrem i odstawić na 2-3 godziny, aż puszczą sok. Następnie smażyć na wolnym ogniu, często mieszając, przez ok. 1-1,5 godziny, aż woda odparuje, a dżem uzyska pożądaną gęstość. Gorący dżem nakładać do wyparzonych słoików. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

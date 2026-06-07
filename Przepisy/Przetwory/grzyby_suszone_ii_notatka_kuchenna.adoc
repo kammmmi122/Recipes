@@ -1,0 +1,27 @@
+= Grzyby suszone II (Notatka kuchenna) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+Grzyby dokładnie oczyścić nożykiem lub szczoteczką (nie myć wodą!).
+
+Kapelusze pokroić w plastry (~ 0,5 cm), mniejsze sztuki zostawić w całości, nóżki w krążki.
+
+Suszyć w suszarce lub w przewiewnym miejscu w temperaturze 50-60°C, aż będą kruche. Przechowywać w szczelnych słoikach z liściem laurowym.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

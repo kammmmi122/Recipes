@@ -1,0 +1,27 @@
+= Przecier z ogórków na zupę ogórkową 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+ogórki gruntowe (mogą być większe) dokładnie umyć, zetrzeć na tarce o grubych oczkach.
+
+Na 1 kg startych ogórków dać 1 pełną łyżkę soli kamiennej.
+
+Dokładnie wymieszać ogórki z solą w misce, odstawić na 1-2 godziny, aż puszczą dużo soku. Przełożyć ciasno do słoików (np. po dżemie), dociskając, by sok zakrył ogórki. Zamknąć szczelnie. Nie pasteryzować — ogórki same skasują się w słoikach. Przechowywać w chłodnym miejscu.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

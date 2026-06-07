@@ -1,0 +1,43 @@
+= Sałatka warzywna z ogórków i pomidorów 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg ogórków pokroić w plastry
+
+1 kg pomidorów pokroić w ćwiartki
+
+0,5 kg cebuli pokroić w piórka
+
+0,5 kg papryki pokroić w paski
+
+Wszystko posolić, odstawić na 1 godz. Odcisnąć.
+
+Zalewa:
+
+1 szkl. octu
+
+1 szkl. wody
+
+1 szkl. cukru
+
+1 szkl. oleju
+
+Zagotować. Zalać warzywa. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

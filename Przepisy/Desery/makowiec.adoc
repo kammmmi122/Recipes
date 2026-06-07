@@ -1,0 +1,52 @@
+= Makowiec🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+image::20240329_212500.jpg[]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 4 godziny
+* 👥 2-3 porcje
+* 🔗 przepis od mamy z książki Kasi
+
+[.recipe-columns]
+== Składniki
+
+=== Ciasto:
+* 40 dag mąki
+* 10 dag cukru
+* 10 dag KASI (margaryny)
+* 1 jajko
+* 3 żółtka
+* ½ szklanki mleka
+* 4 dag drożdży
+
+=== Nadzienie:
+* 40 dag maku
+* 1 l mleka
+* 15 dag KASI (margaryny)
+* ¾ szklanki miodu naturalnego
+* ½ laski wanilii
+* 4 jajka
+* 8 łyżeczek cukru
+* bakalie (rodzynki, migdały, skórka pomarańczowa)
+
+== Przygotowanie
+
+Mak opłukać, usunąć zanieczyszczenia. Zalać wrzącym mlekiem i na małym ogniu gotować 30 min. Następnie dokładnie osączyć i zmleć dwukrotnie przez maszynkę ze specjalnym sitkiem o małych oczkach.
+
+Drożdże rozpuścić w osłodzonym letnim mleku i odstawić do wyrośnięcia.
+
+Przygotować ciasto: KASIĘ z cukrem utrzeć do białości, dodać jajko i żółtka; do przesianej mąki wlać wyrośnięty rozczyn, dodać masę jajeczną i wyrabiać drewnianą łyżką lub ręką tak długo, aż ciasto będzie odstawać; nakryć lnianą ściereczką i przenieść w ciepłe miejsce do wyrośnięcia.
+
+W rondlu roztopić KASIĘ, miód, dodać miąższ wanilii, bakalie i mak. Smażyć na małym ogniu 15 min. Ostudzić. Dodać utarte z cukrem żółtka i ubitą na sztywno pianę z białek.
+
+Na posypanej mąką stolnicy rozwałkować ciasto na prostokąt, posmarować białkiem, nałożyć nadzienie. Zwinąć w rulon.
+
+Piec ok. 1 godz. w piekarniku nagrzanym do 200°C.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+image::20240329_212500.jpg[]

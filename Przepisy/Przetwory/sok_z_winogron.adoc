@@ -1,0 +1,25 @@
+= Sok z winogron 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+4 kg ciemnego winogrona (obrać z gałązek, dokładnie umyć).
+
+Owoce wrzucić do garnka, lekko pognieść np. tłuczkiem do ziemniaków, by puściły sok. Podlać 1 szklanką wody. Gotować na małym ogniu przez 20 min. Następnie przecisnąć całą masę przez gęste sito lub gazę. Otrzymany czysty sok powtórnie przelać do garnka, dodać cukier (ok. 20-30 dag na 1 litr soku — do smaku). Zagotować, rozlać do butelek. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

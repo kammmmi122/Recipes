@@ -1,0 +1,29 @@
+= Kompot ze śliwek 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+śliwki (węgierki lub jerozolimskie) umyć, można wypestkować lub zostawić w całości (wtedy nakłuć wykałaczką). Ułożyć ciasno w słoikach do 3/4 wysokości.
+
+Zalewa:
+
+na 1 litr wody dać 30-40 dag cukru (w zależności od słodyczy śliwek).
+
+Zalać owoce gorącą zalewą. Pasteryzować 15-20 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

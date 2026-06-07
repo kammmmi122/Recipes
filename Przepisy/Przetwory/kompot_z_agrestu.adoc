@@ -1,0 +1,31 @@
+= Kompot z agrestu 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+agrest (dojrzały, ale jędrny) oczyścić zypułek i ogonków, umyć i nakłuć każdy owoc szpilką (zapobiega to pękaniu skórki).
+
+Ułożyć ciasno w słoikach.
+
+Zalewa:
+
+na 1 litr wody dać 40 dag cukru.
+
+Gorącą zalewą zalać agrest. Pasteryzować ok. 20 min od momentu zagotowania wody.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

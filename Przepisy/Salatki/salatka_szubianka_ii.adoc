@@ -1,0 +1,43 @@
+= Sałatka "Szubianka" II 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg ogórków (ze skórką, w grube półplastry)
+
+1 kg kapusty białej (poszatkować)
+
+0,5 kg marchwi (zetrzeć na grubej tarce)
+
+0,5 kg cebuli (w piórka)
+
+Kapustę i ogórki posolić (2 łyżki), odstawić na 2 godziny, mocno odcisnąć. Wymieszać z resztą warzyw.
+
+Zalewa (na zimno):
+
+1 szklanka octu
+
+1 szklanka oleju
+
+1 szklanka cukru
+
+1 łyżeczka pieprzu mielonego
+
+Wymieszać, zalać warzywa, odstawić na 3-4 godziny. Przełożyć do słoików, pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

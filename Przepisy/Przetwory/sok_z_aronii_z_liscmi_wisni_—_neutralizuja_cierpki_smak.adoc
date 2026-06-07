@@ -1,0 +1,33 @@
+= Sok z aronii (z liśćmi wiśni — neutralizują cierpki smak) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg aronii (przemrożonej wcześniej w zamrażalniku przez 2 dni)
+
+200-300 szt. świeżych liści wiśni
+
+2 kg cukru
+
+2 litry wody
+
+sok z 2 cytryn (lub 1 płaska łyżka kwasku cytrynowego)
+
+Aronię i liście wiśni zalać wodą i gotować na małym ogniu przez ok. 30 min. Wywar przecedzić przez gęste sito (liście i owoce wyrzucić). Do czystego płynu dodać cukier oraz sok z cytryny. Zagotować ponownie, mieszając do rozpuszczenia cukru. Gorący sok rozlewać do słoików lub butelek. Pasteryzować ok. 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

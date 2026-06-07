@@ -1,0 +1,29 @@
+= Dżem truskawkowy z żelfixem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2 kg dojrzałych truskawek (umyć, odszypułkować)
+
+0,7-1 kg cukru (w zależności od upodobań)
+
+2 opakowania Żelfixu (2:1)
+
+Owoce lekko pognieść lub zmiksować (jeśli nie lubimy dużych kawałków). Żelfix wymieszać z owocami i doprowadzić do wrzenia, ciągle mieszając. Następnie dodać cukier i gotować przez kolejne 3-5 minut na mocnym ogniu, cały czas mieszając. Zdjąć z ognia, usunąć powstałą pianę. Gorący dżem przelewać do słoików i natychmiast obracać dnem do góry.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,29 @@
+= Dżem z brzoskwiń 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg brzoskwiń (sparzyć wrzątkiem, obrać ze skórki, usunąć pestki i pokroić w grubą kostkę)
+
+1 kg cukru
+
+sok z 1 cytryny
+
+Owoce wrzucić do garnka, wlać sok z cytryny i smażyć na małym ogniu przez ok. 1 godzinę, często mieszając. Gdy brzoskwiniowe kawałki zaczną się rozpadać, dodać cukier. Smażyć kolejne 30-45 min, aż dżem ładnie zgęstnieje i nabierze szklistości. Gorący rozlać do słoików. Pasteryzować 10 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

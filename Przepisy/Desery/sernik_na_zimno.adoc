@@ -1,11 +1,11 @@
-= Sernik na zimno +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sernik na zimno 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 image::20240430_144110.jpg[]
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 5 godzin
 * 👥 2-3 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/sernik-na-zimno[link do źródła przepisu]
 

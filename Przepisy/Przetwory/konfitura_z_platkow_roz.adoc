@@ -1,0 +1,29 @@
+= Konfitura z płatków róż 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+0,5 kg płatków róży fałdzistolistnej (cukrowej) — obciąć białe, gorzkie nasady płatków.
+
+1 kg cukru
+
+sok z 1 dużej cytryny
+
+Płatki wrzucić do makutry, zasypać połową cukru i ucierać drewnianą pałką, aż puszczą sok i zamienią się w miazgę. Resztę cukru zagotować z 1 szklanką wody na gęsty syrop. Do wrzącego syropu dodać utarte płatki oraz sok z cytryny (płatki odzyskają wtedy piękny, czerwony kolor). Smażyć na bardzo małym ogniu przez ok. 20-30 min. Przełożyć do małych słoiczków.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

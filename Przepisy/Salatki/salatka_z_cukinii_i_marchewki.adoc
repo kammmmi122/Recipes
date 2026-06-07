@@ -1,0 +1,43 @@
+= Sałatka z cukinii i marchewki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+3 kg cukinii (zetrzeć na tarce o grubych oczkach wraz ze skórką)
+
+1 kg marchwi (zetrzeć na tarce o grubych oczkach)
+
+0,5 kg cebuli (pokroić w piórka)
+
+Warzywa wymieszać w misce, posolić 2 łyżkami soli i odstawić na 2 godziny. Dobrze odcisnąć.
+
+Zalewa:
+
+1,5 szkl. wody
+
+1 szkl. octu
+
+1 szkl. cukru
+
+0,5 szkl. oleju
+
+przyprawy: pieprz, liść laur, gorczyca
+
+Zagotować zalewę, zalać warzywa, wymieszać. Przełożyć do słoików. Pasteryzować 15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

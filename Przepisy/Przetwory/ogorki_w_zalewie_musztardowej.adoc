@@ -1,0 +1,39 @@
+= Ogórki w zalewie musztardowej 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+2-3 kg ogórków obrać, przekroić wzdłuż na 4 części (w słupki).
+
+Ułożyć pionowo w słoikach. Do każdego słoika włożyć: 1 gałązkę kopru, kilka ziaren gorczycy.
+
+Zalewa:
+
+4 szkl. wody
+
+1 szkl. octu
+
+1 szkl. cukru
+
+2 łyżki soli
+
+5 łyżek musztardy (np. sarepskiej lub delikatesowej)
+
+Składniki zalewy (oprócz musztardy) zagotować. Zdjąć z ognia, dodać musztardę i dokładnie wymieszać trzepaczką. Letnią zalewą zalać ogórki. Pasteryzować 5-8 min od momentu zagotowania wody.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

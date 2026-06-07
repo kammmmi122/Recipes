@@ -1,0 +1,41 @@
+= Sałatka z ogórków 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+4 kg ogórków
+
+0,5 kg cebuli
+
+0,5 kg marchwi
+
+seler, pietruszka (natka)
+
+Ogórki pokroić w plastry. Cebulę w piórka. Marchew zetrzeć na tarce. Posolić i odstawić na 2 godz. Odcisnąć sok.
+
+Zalewa:
+
+1 szkl. octu
+
+1 szkl. oleju
+
+1 szkl. cukru
+
+Zagotować. Zalać warzywa. Włożyć w słoiki i pasteryzować 10-15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

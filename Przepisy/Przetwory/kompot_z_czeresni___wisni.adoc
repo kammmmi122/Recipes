@@ -1,0 +1,33 @@
+= Kompot z czereśni / wiśni 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+owoce umyć, przebrać, ułożyć w słoikach.
+
+Zalewa:
+
+na 1 litr wody dać:
+
+do czereśni: 25-30 dag cukru
+
+do wiśni: 40-50 dag cukru
+
+Zalać owoce gorącą zalewą. Pasteryzować ok. 20 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
