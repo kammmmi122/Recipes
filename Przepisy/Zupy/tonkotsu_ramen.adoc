@@ -1,0 +1,42 @@
+= Tonkotsu Ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: około 12 godzin
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+
+== Wywar wieprzowy (składniki)
+* 0,5 kg golonka wieprzowa
+* 0,5 kg boczek wieprzowy
+* 0,1 kg cebuli
+* 3 ząbki czosnku
+* 0,1 kg jabłko Granny Smith (posiekane)
+* 3 cm kawałek imbiru
+* 3 litry woda 
+
+== Dodatki
+* chashu (plastry wieprzowiny)
+* marynowane shitake
+* kimchi tare (opcjonalnie)
+* curry tare
+* cienki i prosty makaron, aby zbalansować ciężkość bulionu.
+
+== Przygotowanie
+
+Zalewamy składniki wodą, doprowadzamy do wrzenia i gotujemy przez około 30 minut, mieszamy i ściągamy wszystkie szumowiny utworzone na powierzchni. Przecedzamy wywar do drugiego garnka, wyciągamy mięso i płuczemy je. Wkładamy wszystkie składniki do garnka i uzupełniamy wodą. Gotujemy 12 godzin na małym ogniu, uzupełniamy co jakiś czas wodę. Odcedzamy składniki i pozostawiamy wywar. Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem i dodajemy ulubione dodatki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

@@ -1,0 +1,35 @@
+= Makaron z łososiem i serkiem 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 15 min
+* 🕒 czas pieczenia: 25 min
+* 👥 liczba porcji: 2
+* 🔗 https://www.instagram.com/reel/DP-3-nLiDIL/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* 300g świeżego łososia
+* 1 serek śmietankowy np typu Philadelphia
+* 200 g pomidorków koktajlowych
+* 200 g ugotowanego makaronu
+* sól
+* pieprz
+
+== Przygotowanie
+
+Umieść w naczyniu żaroodpornym wszystkie składniki poza makaronem, dopraw solą i pieprzem. Piecz przez 25 min.
+Gdy łosoś się upiecze, dodaj ugotowany wcześniej makaron i wymieszaj całość.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

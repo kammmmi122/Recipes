@@ -1,0 +1,34 @@
+= Kimchi tare 🌱 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+* 5 łyżek kimchi 
+* 1 ząbek czosnek 
+* 5 łyżek sos sojowy 
+* 5 łyżek gochujang 
+* 2 łyżeczki gochugaru 
+* 2 łyżki tare sojowe 
+* 1,5 łyżeczki olej sezamowy 
+* 2 łyżeczki mirin 
+
+== Przygotowanie
+Miksujemy razem wszystkie składniki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

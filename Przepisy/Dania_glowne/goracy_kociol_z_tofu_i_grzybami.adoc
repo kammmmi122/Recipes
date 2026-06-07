@@ -1,0 +1,48 @@
+= Gorący kociołek z tofu i grzybami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+
+* skórka tofu 0,3 kg (zwinięta i pokrojona na prostokąty)
+* wieprzowina z tłuszczem 0,15 kg (pokrojona na cienkie plastry)
+* mały por, posiekany
+* grzyby mun 1 sztuka (namoczone i pokrojone)
+* 3 ząbki czosnku (posiekane)
+* sól szczypta
+* sos ostrygowy 1 łyżka
+* sos sojowy 1 łyżka
+* mąka ziemniaczana 1 łyżka
+* pasta z fermentowanej soi 2 łyżki
+* 0,5 papryki zielonej (pokrojonej)
+* 0,5 papryki czerwonej (pokrojonej)
+* olej do smażenia
+* woda do duszenia
+
+== Przygotowanie
+
+Skórkę tofu blanszuj we wrzątku przez 1 minutę i odcedź. Przygotuj marynatę, mieszając sos ostrygowy, sos sojowy i mąkę ziemniaczaną.
+
+Na rozgrzanym oleju przesmaż plastry wieprzowiny, aż się zrumienią. Dodaj czosnek, pastę z fermentowanej soi i smaż jeszcze chwilę.
+
+Dodaj pokrojony por, papryki i grzyby mun, dokładnie mieszając. Wlej przygotowaną marynatę oraz pół szklanki wody, delikatnie wymieszaj i dodaj tofu.
+
+Przykryj patelnię i duś na średnim ogniu przez około 3 minuty, aż sos zgęstnieje. Podawaj gorący kociołek z tofu i warzywami, najlepiej z ryżem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

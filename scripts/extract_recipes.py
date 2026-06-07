@@ -210,7 +210,7 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write(f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
             f.write(':imagesdir: /Recipes/static/images\n\n')
 
-            # 2. Hero - klasa i element bez pstej linii!
+            # 2. Hero - klasa i element bez pustej linii!
             f.write('[.recipe-hero]\n')
             f.write('[.card-image-placeholder]\n')
             f.write('Brak zdjęcia przepisu 🍲\n\n')
@@ -225,14 +225,14 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
                 f.write('* 👥 2-3 porcje\n')
             f.write(f'* 🔗 {link}[link do źródła przepisu]\n\n')
 
-            # 4. Kolumny - Składniki i Przygotowanie jako podnagłówki pod jedną klasą
+            # 4. Kolumny - Składniki i Przygotowanie jako nagłówki pod jedną klasą
             f.write('[.recipe-columns]\n')
-            f.write('=== Składniki\n')
+            f.write('== Składniki\n')
             for ing in ingredients_lines:
                 f.write(f'* {ing}\n')
             f.write('\n')
 
-            f.write('=== Przygotowanie\n')
+            f.write('== Przygotowanie\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
 

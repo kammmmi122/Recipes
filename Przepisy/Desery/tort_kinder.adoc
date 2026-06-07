@@ -1,0 +1,119 @@
+= Tort kinder 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1,5 godziny
+* 🕒 czas chłodzenia: minimum 6 godzin (najlepiej cała noc)
+* 👥 liczba porcji: 12
+* 🔗 https://poprostupycha.com.pl/przepis/tort-kinder/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+=== Biszkopt:
+
+* 6 jajek
+* szczypta soli
+* 160 g cukru drobnego
+* 140 g mąki pszennej tortowej
+* 45 g mąki ziemniaczanej
+
+=== Krem Kinder bueno:
+
+* 350 ml śmietanki 30%
+* 200 g czekolady mlecznej
+* 50 g czekolady gorzkiej
+* 350 g mascarpone
+* 5 łyżeczek kremu czekoladowego np. nutelli
+* 3 łyżeczki masła orzechowego
+* 3 batoniki Kinder Bueno
+
+=== Krem truskawkowy:
+
+* 400 g truskawek np. mrożonych
+* opcjonalnie mała garść malin np. mrożonych
+* 60 g cukru
+* 17 g żelatyny
+* 5 łyżek zimnej wody
+* 250 ml śmietanki 36%
+
+=== Tynk maślany:
+
+* 60 g cukru
+* 90 g mleka
+* 250 g masła
+* 1 łyżeczka cukru pudru
+* 120 g mleka w proszku
+
+=== Drip czekoladowy:
+
+* 100 g mlecznej czekolady
+* 3-4 łyżki śmietanki kremówki 30%
+
+=== Dodatkowo:
+
+* batoniki Kinder
+* batoniki Kinder Bueno
+* jajka Kinder Niespodzianka
+
+== Przygotowanie
+
+Jajka (6 szt) powinny być w temp. pokojowej! Bardzo dokładnie oddzielamy białka od żółtek. Do suchej miski dodajemy białka i szczyptę soli. Ubijamy na wysokich obrotach miksera przez około 5 minut. Masa być bardzo puszysta i sztywna.
+
+Po tym czasie dodajemy stopniowo po 1 łyżce cukru (łącznie 160 g, najlepiej drobnego do wypieków). Za każdym razem dokładnie miksujemy do momentu rozpuszczenia się cukru. Masa powinna zdecydowanie zwiększyć swoją objętość i być idealnie sztywna. Całość ubijamy około 7 minut. Najlepiej to sprawdzić tym, że jak obrócisz miskę do góry nogami to nie zmieni się ich konsystencja i nic nie wyleci z miski.
+
+Dodajemy żółtka i miksujemy tylko przez chwilkę. Następnie dodajemy przesianą mąkę pszenną tortową (140 g) i ziemniaczaną (45 g). Całość mieszamy bardzo delikatnie za pomocą trzepaczki.
+
+Tortownicę o średnicy 18 cm wykładamy papierem do pieczenia. Masę przekładamy do tortownicy. Pieczemy w temp. 160ºC przez ok. 50 minut (góra-dół, z termoobiegiem) lub do tzw. suchego patyczka. Po tym czasie ciasto od razu wyjmujemy z piekarnika i upuszczamy je z wysokości 20-30 cm na blat kuchenny czy podłogę. Dzięki temu biszkopt będzie równiutki i nie opadnie po przestygnięciu. Odstawiamy do wystygnięcia. Kroimy na równe 4 blaty. Ponczujemy biszkopty odrobiną przestudzonej herbaty.
+
+Następnie do garnka wlewamy śmietankę kremówkę (350 ml) i ją podgrzewamy aż będzie bardzo ciepła, lecz jej nie zagotowujemy (nie doprowadzamy do wrzenia). Do osobnej miski dodajemy posiekaną czekoladę mleczną (200 g), gorzką (50 g), krem czekoladowy (4-5 łyżeczek) oraz masło orzechowe (3 łyżeczki). Zalewamy je podgrzaną śmietanką i mieszamy do momentu powstania jednolitej masy. Wkładamy do lodówki na całą noc lub chociaż na 5-6 godzin.
+
+Po tym czasie dodajemy do masy czekoladowej schłodzone mascarpone (około 350 g) i miksujemy na małych lub średnich obrotach aż powstanie sztywny krem. Jeśli chcesz to odłóż 2-3 łyżki kremu do osobnej miseczki, aby udekorować nim wierzch tortu.
+
+Na sam koniec dodajemy drobno pokrojone batoniki Kinder Bueno (3 szt) i mieszamy za pomocą łyżki.
+
+Dolny blat tortu wkładamy ponownie do rantu (tortownicy).
+
+Nakładamy połowę kremu czekoladowego, wyrównujemy. Przykrywamy drugim blatem biszkopta.
+
+Następnie przygotowujemy krem truskawkowy. Truskawki (400 g, ja użyłam rozmrożonych, a dodatkowo wrzuciłam garść rozmrożonych malin) wrzucamy do małego garnka i podlewamy kilkoma łyżkami wody. Wsypujemy cukier (około 60 g) i mieszamy. Gotujemy na małym ogniu aż zmiękną i zaczną puszczać sok.
+
+W tym czasie do małej miseczki wsypujemy żelatynę (15 g) i zalewamy zimną wodą (5 łyżek). Mieszamy i zostawiamy na kilka minut, aby żelatyna napęczniała. Gdy truskawki zmiękną wtedy zdejmujemy je na chwilę z palnika i blendujemy na gładkie puree.
+
+Ponownie garnek z puree stawiamy na palnik i doprowadzamy do wrzenia. Zdejmujemy z palnika, dodajemy napęczniałą żelatynę i dokładnie mieszamy. Odstawiamy po chwili w zimne miejsce np. do lodówki czy na balkon, aby masa się schłodziła, ale nie stężała.
+
+Schłodzoną śmietankę (250 ml) ubijamy na wysokich obrotach miksera. Tylko tym razem miksujemy do momentu aż śmietanka nie będzie do końca sztywna. Dodajemy stopniowo po 1 lub 2 łyżki ostudzonej masy truskawkowej i delikatnie mieszamy za pomocą trzepaczki tylko do połączenia się składników.
+
+Krem truskawkowy będzie na początku nieco rzadki, ale wystarczy go na chwilę włożyć do lodówki, aby nieco zgęstniał (tylko trzeba pilnować żeby całkowicie nie stężał!).
+
+Gdy krem zrobi się nieco gęstszy, wtedy nakładamy go na blat biszkoptu, wyrównujemy.
+
+Przykrywamy tort trzecim blatem biszkopta. Nakładamy pozostały krem czekoladowy, wyrównujemy. Na wierzch układamy ostatni- czwarty blat biszkoptu. Wkładamy do lodówki na minimum godzinę.
+
+Później przygotowujemy tynk maślany. W małym garnku podgrzewamy mleko (90 g) i cukier (60 g). Mieszamy do momentu roztopienia się cukru. Odstawiamy do przestygnięcia. W misce miksujemy na jasny puch miękkie masło przez około 3-4 minuty (250 g).
+
+Następnie dodajemy cukier puder (1 czubata łyżeczka), całkowicie przestudzoną masę z garnka i mleko w proszku (120 g). Miksujemy do momentu powstania jednolitego kremu maślanego.
+
+Tort wyciągamy z rantu (tortownicy). Wykładamy tynk od razu na tort. Najlepiej najpierw nałożyć połowę tynku za pomocą łyżki.
+
+Wygładzamy wierzch i boki tortu za pomocą szpatułki o długiej i gładkiej krawędzi. Wkładamy do lodówki na minimum 30 minut. Pozostały tynk zostaje w misce na blacie kuchennym (nie wkładamy go do lodówki).
+
+Nakładamy pozostałą masę maślaną i ponownie wygładzamy za pomocą szpatułki. Znowu wkładamy do lodówki na 30 minut.
+
+Przygotowujemy drip czekoladowy. W malutkim garnku podgrzewamy śmietankę (4 łyżki) i czekoladę (100 g) na minimalnym ogniu. Cały czas mieszamy do momentu roztopienia się czekolady. Można to też zrobić polewę za pomocą mikrofalówki. Odstawiamy do przestygnięcia. Przelewamy do specjalnej, małej buteleczki (z małym dziubkiem) lub do rękawa cukierniczego. Dekorujemy czekoladą brzegi tortu - można objechać tort dookoła lub tylko z jednej strony.
+
+Wierzch tortu udekorowałam batonikami Kinder, Kinder Bueno i jajkami Kinder. Opcjonalnie można 2 łyżki kremu czekoladowego przełożyć do rękawa cukierniczego i udekorować nim wierzch tortu.
+
+Wkładamy tort na kilka godzin do lodówki, jednak przed jego krojeniem polecam wyciągnąć go tak około 30 minut szybciej, aby tynk nabrał temperatury pokojowej i ładnie się kroił.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

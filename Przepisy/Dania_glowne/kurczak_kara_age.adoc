@@ -1,0 +1,39 @@
+= Kurczak kara-age 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+* 1,5 kg udka z kurczaka (oczyszczone)
+
+=== Marynata do kurczaka
+* 4 łyżki sake 
+* 4 łyżki sos sojowy 
+* 4 łyżki sok imbirowy (woda 0,5 kubka + 4 łyżki imbiru, zmiksowane i przecedzone)
+
+=== Panierka kara-age
+* 0,1 kg mąka pszenna
+* 5 łyżek mąka ryżowa
+* 2 łyżeczki sól 
+* 1 łyżeczka pieprz
+* 0,5 łyżeczki sansho pepper 
+
+== Przygotowanie
+Łączymy składniki marynaty i osobno panierki. Wkładamy kurczaka w marynatę na kilkanaście minut. Dobrze obtaczamy w panierce i smażymy kilka minut w oleju w temp. 180 st.C.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

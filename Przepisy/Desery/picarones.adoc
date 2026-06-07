@@ -1,0 +1,63 @@
+= Picarones 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 🕒 czas gotowania: 2 godziny
+* 👥 15-20 picarones porcji
+* 🔗 warsztaty kulinarne w szkole Skoma
+
+[.recipe-columns]
+== Składniki
+
+* 450 g obranej dyni (piżmowa lub muscat)
+* 450 g obranych batatów
+* 1 laska cynamonu
+* 1 gwiazdka anyżu
+* 3 goździki
+* 500 g mąki pszennej typ 650
+* 2 łyżki cukru (ok. 30 g)
+* 7 g suchych drożdży lub 14 g świeżych
+* 30 ml letniej wody
+* olej do smażenia (rzepakowy lub słonecznikowy)
+
+=== Syrop miel de chancaca
+
+* 100 g cukru trzcinowego muscovado
+* 50 g melasy lub syropu z trzciny cukrowej, karobu albo morwy
+* sok i skórka z 1 pomarańczy
+* 1 laska cynamonu
+* 1 gwiazdka anyżu
+* 3 goździki
+
+== Przygotowanie
+
+Dynię i bataty pokrój na mniejsze kawałki, włóż do garnka i zalej zimną wodą tak, aby były przykryte. Dodaj laskę cynamonu, anyż i goździki. Gotuj na średnim ogniu przez 20-25 minut, aż warzywa będą miękkie.
+
+Odcedź, wystudź i przeciśnij przez praskę do ziemniaków lub zmiksuj blenderem na gładkie purée. Przełóż do miski.
+
+Rozpuść drożdże w letniej wodzie i dodaj je do purée wraz z mąką i cukrem. Zagniataj ciasto do połączenia składników. Powinno być miękkie, plastyczne i lekko klejące.
+
+Przykryj ciasto ściereczką i odstaw na 30-60 minut, aż podwoi objętość. Następnie krótko zagnieć je ponownie.
+
+Rozgrzej olej do około 170-180°C. Przygotuj miskę z zimną wodą i solą, aby zapobiec przyklejaniu się ciasta do rąk.
+
+Nabieraj kawałki ciasta wielkości orzecha włoskiego, formuj kulki, a następnie zrób w nich dziurkę i delikatnie rozciągnij, tworząc kształt pączków.
+
+Smaż pączki 2-3 minuty z każdej strony na gorącym oleju. Odsącz je na papierowym ręczniku.
+
+W rondelku umieść sok i skórkę z pomarańczy, cukier muscovado, melasę oraz przyprawy. Doprowadź do wrzenia, a następnie gotuj na małym ogniu przez 7-10 minut, aż syrop zgęstnieje. Przecedź, usuń przyprawy i skórkę.
+
+Polej ciepłe picarones syropem miel de chancaca tuż przed podaniem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

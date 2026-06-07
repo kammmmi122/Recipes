@@ -1,0 +1,39 @@
+= Mięso wieprzowe mielone tantanmen-style 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+* 0,4 kg mielona wieprzowina
+* olej sezamowy 1 łyżka
+* czosnek 3 ząbki (drobno posiekane)
+* imbir świeży 1 łyżka (drobno posiekany)
+* pasta doubanjiang (pikantna pasta z bobu i chili) 2 łyżki
+* sos sojowy 2 łyżki
+* mirin 1 łyżka
+* sake 1 łyżka
+* cukier 1 łyżeczka
+* pasta miso jasna 1 łyżka
+* woda lub bulion 0,5 kubka
+* chili płatki 1 łyżeczka
+* biały pieprz 1 łyżeczka
+
+== Przygotowanie
+Rozgrzewamy delikatnie olej sezamowy, dodajemy pastę doubanjiang i mieszamy. Dodajemy wieprzowinę, rozdrabniamy i smażymy kilka minut, aż mięso się zrumieni i wytopi lekko tłuszcz. Dodajemy sos sojowy, mirin, sake, cukier i miso. Mieszamy dokładnie. Wlewamy wodę, żeby mięso lekko się "zlepiło" i sos zgęstniał. Doprawiamy płatkami chili i białym pieprzem, smażymy jeszcze kilka minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

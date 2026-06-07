@@ -1,0 +1,34 @@
+= Goma tare 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 🕒 czas gotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+* 3 łyżki szczypiorek  (posiekany)
+* 3 łyżki imbir  (posiekany)
+* 8 łyżek cukier
+* 0,1 litra sos sojowy
+* 6 łyżek olej chili 
+* 0,35 kg pasta sezamowa
+* 5 łyżek sezam biały (prażony)
+* 5 łyżek sezam czarny  (prażony)
+
+== Przygotowanie
+Miksujemy składniki w blenderze oprócz sezamów, które dodajemy na koniec.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

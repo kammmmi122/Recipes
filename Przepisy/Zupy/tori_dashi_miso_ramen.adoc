@@ -1,0 +1,50 @@
+= Tori Dashi Miso Ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 👥 liczba porcji: 4
+* 🕒 czas przygotowania: 10 min
+* 🕒 czas gotowania: 10-12 godzin
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+
+=== Wywar drobiowy
+
+* 0,5 kg skrzydełka z kurczaka
+* 0,5 kg udka z kurczaka
+* 0,1 kg glonów kombu
+* 2 cm kawałek imbiru
+* 0,1 kg por
+* kilka sztuk shitake suszonych
+* 2 łyżki pasty miso jasnej
+* 3 litry wody
+
+=== Dodatki
+
+* kurczak kara-age
+* kaczka pieczona w słodkiej soi
+* chipsy ze skóry kurczaka
+* dymka (posiekana)
+* spicy miso tare
+* olej z palonego czosnku
+* grubszy makaron, który dobrze wchłania bogaty bulion
+
+== Przygotowanie
+
+Pieczemy części kurczaka w piekarniku w 180 st. około 40 minut. Wkładamy do garnka z resztą składników i zalewamy 4 litrami wody. Doprowadzamy do wrzenia i na średnim ogniu gotujemy przez 30 minut ściągając wszystkie szumowiny. Przykrywamy i gotujemy na małym ogniu 8-10 godzin. Dodajemy pastę miso i mieszamy.
+
+Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem i dodajemy ulubione dodatki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

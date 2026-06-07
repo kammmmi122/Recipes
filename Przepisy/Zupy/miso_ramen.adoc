@@ -1,0 +1,85 @@
+= Miso ramen 🐔 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+image::/Recipes/static/images/20260223_175028.jpg[]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 6 godzin
+* 🕒 czas gotowania: 6 godzin
+* 👥 4 porcje
+* 🔗 https://www.napaleczkach.pl/2021/01/miso-ramen.html[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+=== Bulion:
+
+* 1 cały kurczak (około 2,25 kg)
+* 2 spore marchewki, pokrojone w większe części
+* 0,5 kubka czosnku, rozgniecionego
+* 2 zielone cebulki
+5 l wody
+1 cebula, przekrojona na pół
+ok 7,5 cm imbiru ze skórą
+
+=== Tare:
+
+* 2 łyżki oleju sezamowego
+* 1/2 kubka startej cebuli
+2 łyżki startego imbiru
+1/4 kubka startego czosnku
+1 kubek mielonej wieprzowiny
+1/2 kubka białej pasty miso
+1/4 kubka czerwonej pasty miso
+1/4 kubka uprażonych i zmielonych ziaren sezamu
+5 łyżek sosu hoisin
+1 łyżka pasty doubanjiang
+3 łyżki sosu sojowego
+
+=== Olej z palonego czosnku:
+
+2 łyżki oleju roślinnego
+ok 50 g czosnku (około 1 główka)
+2 łyżki oleju sezamowego
+5 g prażonych ziaren czarnego sezamu
+szczypta soli
+
+=== Dodatkowo:
+
+4 opakowania makaronu rāmen
+1/2 kubka odcedzonej kukurydzy
+opakowanie kiełków fasoli mung
+4 marynowane jajka
+boczek chāshū
+
+== Przygotowanie
+
+Rozpoczynamy od przygotowania naszej bazy, czyli bulionu z kurczaka.
+
+Na suchej patelni lub nad płomieniem zwęglamy imbir oraz cebulę przekrojoną na pół. W razie potrzeby opłukujemy.
+
+W dużym garnku umieszczamy kurczaka, marchew, czosnek oraz białą część zielonej cebulki. Zalewamy 4 litrami wody tak, aby kurczak był zakryty na około 5 cm. Resztę wody zostawiamy na później. Dorzucamy zwęgloną cebulę i imbir. Doprowadzamy wywar do wrzenia, a następnie zmniejszamy ogień tak aby jedynie delikatnie się gotował. Zbieramy z wierzchu wszelkie szumowiny. Przez cały czas gotowania kurczak powinien być zakryty wodą, jeśli więc okaże się że jest jej za mało, dolewamy z pozostałego nam litra wody. Po 30 minutach gotowania dorzucamy zieloną część dymki i gotujemy dalej przez kolejną godzinę, pamiętając by rosół nie gotował się zbyt mocno. Po tym czasie ostrożnie wyławiamy kurczaka i gdy trochę ostygnie obieramy go z mięsa (możemy je wykorzystać do innych przepisów ^^).
+
+Kości pozostałe po kurczaku opłukujemy i wrzucamy do rosołu. Ponownie doprowadzamy do wrzenia i zmniejszamy ogień na niski. W ten sposób gotujemy przez kolejne 1,5 godziny, aż otrzymamy około 3 litry rosołu.  Odcedzamy - nasza baza jest gotowa do użycia.
+
+Następnie zajmujemy się przyrządzeniem tare. Łączymy ze sobą olej sezamowy, cebulę, imbir, oraz czosnek i podsmażamy razem w średniej wielkości garnku na niskim ogniu. Często mieszamy aż do uzyskania odpowiedniego aromatu. Dodajemy mięso i podwyższamy ogień. Smażymy dalej aż mięso nie będzie surowe. Do tej mieszanki dodajemy pasty miso, sezam, sos hoisin, pastę doubanjiang oraz sos sojowy. Całość doprowadzamy do wrzenia i odstawiamy z ognia
+
+Przygotowujemy olej. Czosnek siekamy w plasterki. Olej roślinny rozgrzewamy w garnuszku lub na patelni razem z czosnkiem. Gdy czosnek zrobi się delikatnie brązowy, część ściągamy z patelni. Resztę smażymy dalej. Gdy uzyskamy złoto-brązowy kolor ściągamy kolejną część czosnku. Resztę smażymy aż do uzyskania czarnego koloru. Ściągamy z ognia i dolewamy olej sezamowy. Powinien on obniżyć temperaturę oleju. Cały czosnek z każdego etapu smażenia razem z olejem, sezamem oraz szczyptą soli wrzucamy do blendera lub rozgniatamy dokładnie w moździerzu. Powinien być gęsty. Przelewamy do słoiczka lub innego pojemnika. Przed użyciem warto nim wstrząsnąć.
+
+Kiełki fasoli przepłukujemy, a następnie odsączamy z nadmiaru wody. Podsmażamy chwilę na oleju sezamowym pod koniec posypując je niewielką ilością soli. Ostawiamy.
+
+Aby przygotować 4 miski rāmenu łączymy ze sobą w garnku 8 kubków bulionu oraz 1 i 3/4 kubka tare. Dokładnie mieszamy i podgrzewamy.
+
+Gdy mamy już przygotowany bulion z tare (oraz oczywiście całą resztę dodatków) pora na złożenie naszej miski. Gotujemy makaron zgodnie z instrukcją i rozdzielamy go pomiędzy miski. Zalewamy bulionem, a na wierzch kładziemy kukurydzę, kiełki, po 1 jajku przekrojonym na pół oraz oczywiście po kawałku boczku chāshū. Polewamy niewielką ilością oleju z palonego czosnku.
+
+Podajemy od razu.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+image::/Recipes/static/images/20260223_174846.jpg[]
+image::/Recipes/static/images/20260223_174841.jpg[]
+--

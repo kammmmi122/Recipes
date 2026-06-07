@@ -1,0 +1,65 @@
+= Coxinha 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina 15 minut
+* 🕒 czas gotowania: 1 godzina 15 minut
+* 👥 12 sztuk
+* 🔗 warsztaty kulinarne w szkole Skoma
+
+[.recipe-columns]
+== Składniki
+
+=== Ciasto
+* 450 ml mleka
+* 450 ml bulionu drobiowego lub wody
+* 1 łyżka soli
+* 50 g masła
+* 2 duże ziemniaki obrane i puree (około 625 g)
+* 450 g mąki uniwersalnej (przesianej)
+
+=== Nadzienie
+* 2 duże piersi kurczaka bez kości i skóry (około 300 g)
+* 60 g masła
+* 4 ząbki czosnku posiekane lub starte
+* 1 mała cebula drobno posiekana lub starta
+* 1 łyżka papryki
+* 2 łyżki serka śmietankowego
+* 4 łyżki sosu pomidorowego
+* 1 łyżka wody
+* sól i czarny pieprz do smaku
+* posiekana pietruszka do smaku
+
+=== Panierowanie
+* 125 ml mleka
+* okruchy chleba
+* ubijane jajko (opcjonalnie)
+* olej roślinny do smażenia
+
+== Przygotowanie
+
+Ugotuj kurczaka w wodzie lub bulionie drobiowym przez 10 minut w szybkowarze lub garnku. Pozwól ciśnieniu opadać naturalnie przez 5 minut, a następnie ostudź mięso i rozdrobnij je. Zachowaj wywar do ciasta.
+
+W dużej patelni rozpuść masło na średnim ogniu. Dodaj cebulę i smaż 2 minuty, potem dodaj czosnek i smaż kolejne 2 minuty. Dodaj paprykę, serek śmietankowy i sos pomidorowy, dobrze wymieszaj.
+
+Dodaj rozdrobnione mięso z kurczaka, dopraw solą i pieprzem, a potem wymieszaj z pietruszką. Odstaw nadzienie do ostygnięcia.
+
+W garnku wymieszaj mleko, bulion lub wodę, sól, masło oraz puree ziemniaczane. Zagotuj mieszankę, a następnie stopniowo dodawaj przesianą mąkę, ciągle mieszając, aż powstanie gładkie i gęste ciasto.
+
+Gotuj ciasto przez 5-7 minut na średnim ogniu, aż odejdzie od ścianek garnka i utworzy zwartą kulę. Przełóż je na lekko natłuszczoną powierzchnię i ostudź do temperatury, w której będzie można je formować.
+
+Formuj coxinha, nabierając kawałek ciasta wielkości orzecha włoskiego. Spłaszcz go w dłoni, uformuj kształt łezki, umieść łyżkę nadzienia i ostrożnie zlep brzegi.
+
+Zanurz każdą coxinhę w mleku, obtocz w bułce tartej i smaż w rozgrzanym oleju po 3-4 minuty z każdej strony, aż nabiorą złotego koloru. Odsącz na papierowym ręczniku.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

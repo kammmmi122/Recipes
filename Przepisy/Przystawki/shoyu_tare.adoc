@@ -1,0 +1,29 @@
+= Shoyu tare 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 15 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+* 0,5 litra sos sojowy 
+* 2 łyżki cukier 
+* 0,1 litra mirin 
+
+== Przygotowanie
+
+Rozpuszczamy cukier w połowie sosu sojowego na wolnym ogniu. Dodajemy resztę składników.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

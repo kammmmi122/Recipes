@@ -1,0 +1,56 @@
+= Biangbiang z żeberkami 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina 30 minut
+* 🕒 czas gotowania: 1 godzina 30 minut
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole Skoma
+
+[.recipe-columns]
+== Składniki
+
+* makaron biang biang 0,3 kg
+* żeberka wołowe 0,25 kg
+* imbir 2 łyżeczki starty
+* ya cai lub zha cai 4 łyżki (posiekane)
+* suszone płatki chili 1 łyżeczka
+* wino ryżowe Shaoxing 4 łyżeczki
+* sos ze słodkiej fasoli 6 łyżek
+* wywar z kurczaka lub warzyw 1 kubek
+* jasny sos sojowy 2 łyżki
+* ocet z czarnego ryżu 2 łyżeczki
+* domowy olej chili 2 łyżki
+* mielony pieprz syczuański 0,5 łyżeczki
+* czosnek mielony 1 łyżeczka
+* imbir mielony 1 łyżeczka
+* olej sezamowy 1 łyżeczka
+* cukier 0,5 łyżeczki
+* pak choy 4 sztuki
+* groch żółty 0,1 kg
+* prażone orzechy ziemne do posypania
+* posiekany szczypior do posypania
+
+== Przygotowanie
+
+Żeberka natrzyj startym imbirem, czosnkiem, sosem ze słodkiej fasoli i 2 łyżkami sosu sojowego. Odstaw na minimum 30 minut, aby mięso przeszło aromatem.
+
+Umieść żeberka w naczyniu żaroodpornym, dodaj posiekaną ya cai lub zha cai, płatki chili i wino Shaoxing. Polej wszystko dodatkową porcją sosu ze słodkiej fasoli i przykryj folią. Piecz w 180°C przez około 1-1,5 godziny, aż mięso będzie miękkie.
+
+W osobnym garnku podgrzej wywar. Dodaj sos sojowy, ocet z czarnego ryżu, domowy olej chili, mielony pieprz syczuański, czosnek i imbir mielony, olej sezamowy oraz cukier. Gotuj kilka minut, aż smaki się połączą.
+
+Groch żółty ugotuj osobno do miękkości. Blanszuj pak choy przez około 2 minuty, aż liście będą jędrne, ale nadal chrupkie. Makaron ugotuj według instrukcji na opakowaniu.
+
+Na talerzu rozłóż porcję makaronu, dodaj gotowany groch i pak choy. Polej gorącym bulionem i na wierzch wyłóż pokrojone żeberka. Posyp danie prażonymi orzechami ziemnymi i świeżym szczypiorem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

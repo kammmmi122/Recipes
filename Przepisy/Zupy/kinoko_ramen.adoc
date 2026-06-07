@@ -1,0 +1,47 @@
+= Kinoko Ramen 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: około 3 godzin
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+
+=== Wywar
+
+* 1 główka czosnku przypalany 
+* 1 sztuka średni por  przypalany
+* 0,1 kg shitake suszone
+* 4 łyżki mirin 
+* 0,3 kg  cebula (przypalana)
+* 4 łyżki sojowe tare 
+* 3 litry woda 
+
+=== Dodatki
+
+* shitake marynowane
+* pak choi (podsmażony)
+* tofu silken (pokrojone w kostkę)
+* menma (fermentowane pędy bambusa)
+* shoyu tare
+* sezam prażony
+* olej nori
+* makaron Soba, który ma delikatnie orzechowy posmak, który świetnie komponuje się z aromatem grzybów.
+
+== Przygotowanie
+
+Wszystkie składniki zalewamy 3 litrami wody i gotujemy około 1 godziny (na małej temperaturze). Przykrywamy i odstawiamy na minimum 2 godziny. Odcedzamy składniki (grzyby, które można użyć do innych dań). Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem, tare i dodajemy ulubione dodatki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

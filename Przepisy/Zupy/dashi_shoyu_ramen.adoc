@@ -1,0 +1,45 @@
+= Dashi Shoyu Ramen 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: około 2 godzin
+* 🕒 czas gotowania: około 2 godzin
+* 👥 4 porcji
+* 🔗 warsztaty kulinarne w szkole K5
+
+[.recipe-columns]
+== Składniki
+
+=== Wywar
+* 3 litry woda
+* 0,2 kg kombu
+* 2 kubki bonito (katsuobushi)
+* 0,5 kubka sos sojowy
+
+=== Dodatki
+* narutomaki (ciastko rybne z różowym spiralnym wzorem)
+* jajko marynowane w soi
+* krewetki w panko
+* soft shell crab w tempurze
+* dymka (posiekana)
+* goma tare
+* shoyu tare
+* olej chili
+* lekko pofalowany, średniej grubości makaron
+
+== Przygotowanie
+
+Do garnka wkładamy kombu i zalewamy wodą. Gotujemy na minimalnym ogniu przez około 1 godzinę. Wyciągamy kombu, dodajemy bonito i doprowadzamy do wrzenia. Studzimy i odcedzamy.
+Dodajemy sos sojowy i mieszamy. Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaron, zalewamy bulionem i dodajemy ulubione dodatki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--

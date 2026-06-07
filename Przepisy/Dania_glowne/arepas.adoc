@@ -1,0 +1,47 @@
+= Arepas 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 45 minut
+* 🕒 czas gotowania: 45 minut
+* 👥 6 arep
+* 🔗 warsztaty kulinarne w szkole Skoma
+
+[.recipe-columns]
+== Składniki
+
+* 250 g mąki z białej kukurydzy Harina P.A.N. lub Maseca
+* 590 ml ciepłej wody
+* 1 łyżeczka soli
+* 1 łyżka oleju roślinnego (opcjonalnie)
+
+=== Wypełnienie
+
+* 1 szklanka rozdrobnionego kurczaka
+* 150 g czarnej fasoli, odsączonej i opłukanej
+* 1 dojrzałe awokado pokrojone w plasterki
+* 150 g sera queso fresco lub mozzarelli
+* 2 łyżki świeżej kolendry, posiekanej
+* 1 limonka pokrojona na cząstki
+
+== Przygotowanie
+
+W dużej misce wymieszaj ciepłą wodę z solą. Stopniowo dodawaj mąkę kukurydzianą, mieszając rękami, aż powstanie gładkie, elastyczne ciasto.
+
+Odstaw ciasto na 5 minut, aby mąka w pełni się nawodniła. Podziel je na 6 równych porcji, formując kulki. Spłaszcz każdą kulkę na krążek o grubości około 1,3 cm i średnicy 10 cm.
+
+Rozgrzej żeliwną patelnię lub patelnię z grubym dnem na średnim ogniu. Smaż arepas przez 7-8 minut z każdej strony, aż uzyskają złoty kolor i lekko się spulchnią. Po usmażeniu zawiń je w czysty ręcznik kuchenny na 2-3 minuty.
+
+Przed podaniem przetnij każdą arepę w około 3/4 wysokości, tworząc kieszonkę na nadzienie. Możesz włożyć do środka kurczaka, fasolę, awokado, ser, kolendrę i limonkę.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+// Tutaj pojawią się zdjęcia
+--
