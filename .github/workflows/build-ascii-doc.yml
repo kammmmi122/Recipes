@@ -37,7 +37,7 @@ jobs:
         run:  ./scripts/build.sh
 
       - name: Publish Artifacts
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: page
           path: |

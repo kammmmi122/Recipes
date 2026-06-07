@@ -1,0 +1,52 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Uruchamia się po zakończeniu wypychania kodu na domyślny branch
+  push:
+    branches: ["main"]
+
+  # Pozwala na ręczne uruchomienie z zakładki Actions
+  workflow_dispatch:
+
+# Prawa dostępu dla GITHUB_TOKEN wymagane do wdrażania na GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  actions: read
+
+# Tylko jedno jednoczesne wdrożenie. NIE anulujemy trwających wdrożeń produkcyjnych.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: self-hosted
+    
+    steps:
+      # Krok 1: Pobranie wygenerowanych plików HTML/JPG za pomocą oficjalnej akcji v8
+      - name: Download artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: page           # Dokładna nazwa zadeklarowana w "Publish Artifacts" pierwszego workflow
+          path: ./public       # Pobieramy pliki do dedykowanego podfolderu dla porządku
+
+      # Krok 2: Konfiguracja środowiska GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      # Krok 3: Przygotowanie plików z folderu ./public do wysłania na Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public       # Ta ścieżka musi się zgadzać z krokiem pobierania
+
+      # Krok 4: Właściwe wdrożenie na serwery GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
