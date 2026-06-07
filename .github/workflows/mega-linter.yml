@@ -40,9 +40,6 @@ jobs:
           # Linter nie wywali całego pipeline'u w przypadku błędów formatowania
           DISABLE_ERRORS: true
 
-          # Nie zapisujemy raportów na dysku kontenera/runnera
-          REPORT_OUTPUT_FOLDER: none
-
           # Twoje niestandardowe argumenty dla linterów
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
           SPELL_LYCHEE_ARGUMENTS: "--exclude drive.google.com"
