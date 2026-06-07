@@ -1,9 +1,10 @@
 name: Deploy static content to Pages
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: ["Build asciidoc"]
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -21,36 +22,32 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
+    # PEWNY WARUNEK DLA JEDNEGO RUNNERA:
+    # 1. Poprzedni build musiał zakończyć się sukcesem.
+    # 2. Sprawdzamy czy SHA commitu wyzwalającego jest dokładnie taki sam (to cecha merge/push na main).
+    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_sha == github.sha }}
 
     steps:
-      # Krok 1: Czekamy, aż workflow budujący ("AsciiDoc Build") zakończy się sukcesem dla tego commitu
-      - name: Wait for Build Workflow
-        uses: lewagon/wait-on-check-action@v1.7.0
-        with:
-          ref: ${{ github.sha }}
-          check-name: 'AsciiDoc Build' # Musi dokładnie odpowiadać 'name' joba z build-ascii-doc.yml
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          wait-interval: 10 # sprawdza stan co 10 sekund
-
-      # Krok 2: Pobranie artefaktu (używamy v4 dla pełnej kompatybilności cross-job)
+      # Krok 1: Pobranie artefaktu
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
           name: page
           path: ./public
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
 
-      # Krok 3: Konfiguracja środowiska GitHub Pages
+      # Krok 2: Konfiguracja środowiska GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
-      # Krok 4: Przygotowanie plików z folderu ./public do wysłania
+      # Krok 3: Przygotowanie plików z folderu ./public do wysłania
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
-      # Krok 5: Wdrożenie na serwery GitHub Pages
+      # Krok 4: Wdrożenie na serwery GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
