@@ -1,22 +1,17 @@
-# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
-  # Uruchamia się po zakończeniu wypychania kodu na domyślny branch
-  push:
-    branches: ["main"]
+  workflow_run:
+    workflows: ["Build asciidoc"] # Musi idealnie pasować do 'name' z pierwszego pliku
+    types:
+      - completed
 
-  # Pozwala na ręczne uruchomienie z zakładki Actions
-  workflow_dispatch:
-
-# Prawa dostępu dla GITHUB_TOKEN wymagane do wdrażania na GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
   actions: read
 
-# Tylko jedno jednoczesne wdrożenie. NIE anulujemy trwających wdrożeń produkcyjnych.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -27,26 +22,30 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
+    # Uruchom tylko wtedy, gdy poprzedni workflow zakończył się sukcesem
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     steps:
-      # Krok 1: Pobranie wygenerowanych plików HTML/JPG za pomocą oficjalnej akcji v8
+      # Krok 1: Pobranie artefaktu z konkretnego, zakończonego właśnie workflow
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
-          name: page # Dokładna nazwa zadeklarowana w "Publish Artifacts" pierwszego workflow
-          path: ./public # Pobieramy pliki do dedykowanego podfolderu dla porządku
+          name: page
+          path: ./public
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }} # To wskazuje GitHubowi właściwą paczkę
 
       # Krok 2: Konfiguracja środowiska GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
-      # Krok 3: Przygotowanie plików z folderu ./public do wysłania na Pages
+      # Krok 3: Przygotowanie plików z folderu ./public do wysłania
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: ./public # Ta ścieżka musi się zgadzać z krokiem pobierania
+          path: ./public
 
-      # Krok 4: Właściwe wdrożenie na serwery GitHub Pages
+      # Krok 4: Wdrożenie na serwery GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
