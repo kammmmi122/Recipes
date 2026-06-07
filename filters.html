@@ -1,80 +1,79 @@
 <!doctype html>
 <style>
-  .header-controls{
-    display:flex;
-    flex-wrap:nowrap;
-    gap:12px;
-    justify-content:space-between;
-    align-items:center;
+  .header-controls {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 12px;
+    justify-content: space-between;
+    align-items: center;
   }
-  .tabs{
-    display:flex;
-    gap:14px;
-    flex-wrap:nowrap;
-    align-items:center;
-    justify-content:flex-end;
-    overflow-x:auto;
-    padding-bottom:2px;
+  .tabs {
+    display: flex;
+    gap: 14px;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-end;
+    overflow-x: auto;
+    padding-bottom: 2px;
   }
   .tabs::after {
     content: '';
     flex: 1;
     min-width: 0;
   }
-  .tabs button{
-    background:none;
-    border:none;
-    padding:8px 12px;
-    border-radius:12px;
-    cursor:pointer;
-    font-weight:600;
-    color:#3a3a3a;
-    transition:background-color .2s, color .2s;
-    white-space:nowrap;
+  .tabs button {
+    background: none;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: 600;
+    color: #3a3a3a;
+    transition: background-color .2s, color .2s;
+    white-space: nowrap;
   }
   .tabs button.active,
-  .tabs button:hover{
-    color:var(--accent,#007acc);
-    background:rgba(0,122,204,.12);
+  .tabs button:hover {
+    color: var(--accent,#007acc);
+    background: rgba(0,122,204,.12);
   }
-  .controls{
-    display:flex;
-    gap:12px;
-    align-items:center;
-    justify-content:flex-end;
-    min-width:0;
-    flex:0 1 auto;
+  .controls {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: flex-end;
+    min-width: 0;
+    flex: 0 1 auto;
   }
-
   .tabs button.active {
     background: rgba(0, 122, 204, 0.14);
   }
-  .search-input{
-    padding:10px 14px;
-    border-radius:14px;
-    border:1px solid #e6e6e6;
-    min-width:240px;
-    width:100%;
-    max-width:360px;
+  .search-input {
+    padding: 10px 14px;
+    border-radius: 14px;
+    border: 1px solid #e6e6e6;
+    min-width: 240px;
+    width: 100%;
+    max-width: 360px;
   }
   .no-results-message {
-    text-align:center;
-    color:#555;
-    font-weight:600;
-    padding:28px 16px;
+    text-align: center;
+    color: #555;
+    font-weight: 600;
+    padding: 28px 16px;
+    width: 100%;
   }
-  .collapsed{display:none}
+  .collapsed { display: none }
 
-  @media (max-width:840px){
-    .header-controls{flex-wrap:wrap;justify-content:center;}
-    .controls{justify-content:center;width:100%;}
-    .tabs{justify-content:center;overflow-x:auto;}
+  @media (max-width: 840px) {
+    .header-controls { flex-wrap: wrap; justify-content: center; }
+    .controls { justify-content: center; width: 100%; }
+    .tabs { justify-content: center; overflow-x: auto; }
   }
-  @media (max-width:560px){
-    .search-input{min-width:180px;}
+  @media (max-width: 560px) {
+    .search-input { min-width: 180px; }
   }
 </style>
-
 
 <div class="header-controls">
   <div class="tabs" role="tablist" aria-label="Filtry kategorii">
@@ -88,7 +87,7 @@
     <button data-filter="🔥">🔥 Ostro</button>
     <button data-filter="all">Wszystkie</button>
   </div>
-    <div class="controls">
+  <div class="controls">
     <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
   </div>
 </div>
@@ -97,25 +96,24 @@
 document.addEventListener("DOMContentLoaded", function () {
   const tabs = Array.from(document.querySelectorAll('.tabs button'));
   const searchInput = document.querySelector('#search');
-  const cardsGrid = document.querySelector('.cards-grid');
   const allButton = tabs.find(t => t.dataset.filter === 'all');
+  
+  // Tworzymy globalny komunikat o braku wyników i wstrzykujemy go pod kontrolery filtrowania
   const noResultsMessage = document.createElement('div');
   noResultsMessage.className = 'no-results-message';
   noResultsMessage.textContent = 'Brak przepisów spełniających warunki.';
+  document.querySelector('.header-controls').after(noResultsMessage);
+  noResultsMessage.style.display = 'none';
 
-  if (cardsGrid && cardsGrid.parentNode) {
-    cardsGrid.parentNode.insertBefore(noResultsMessage, cardsGrid.nextSibling);
-    noResultsMessage.style.display = 'none';
-  }
-
+  // POPRAWKA 1: Pobieramy absolutnie wszystkie karty na stronie, niezależnie w jakiej sekcji się znajdują
   function getCards() {
-    return cardsGrid ? Array.from(cardsGrid.querySelectorAll('.card')) : [];
+    return Array.from(document.querySelectorAll('.card'));
   }
 
   function getActiveFilters() {
     return tabs
       .filter(tab => tab.classList.contains('active') && (tab.dataset.filter || '').trim() !== 'all')
-      .map(tab => (tab.dataset.filter || '').trim());
+      .map(tab => (tab.dataset.filter || '').trim().toLowerCase());
   }
 
   function applyFilters() {
@@ -128,12 +126,29 @@ document.addEventListener("DOMContentLoaded", function () {
       const emojiText = ((card.dataset.emoji || '').trim() || (card.querySelector('.card-emoji')?.textContent || '')).toLowerCase();
       const searchableText = `${title} ${category} ${emojiText}`;
 
+      // Czy tekst pasuje do wyszukiwarki
       const matchesSearch = q === '' || searchableText.includes(q);
-      const matchesFilters = activeFilters.length === 0 || activeFilters.some(filter => emojiText.includes(filter));
+      
+      // POPRAWKA 2: Zmieniono z .some na .every, aby zaznaczenie np. "Wege" i "Ostro" 
+      // pokazywało dania, które spełniają OBA te warunki na raz.
+      const matchesFilters = activeFilters.length === 0 || activeFilters.every(filter => emojiText.includes(filter));
 
       card.style.display = matchesSearch && matchesFilters ? '' : 'none';
     });
 
+    // POPRAWKA 3: Ukrywanie/pokazywanie całych sekcji (np. nagłówków kategorii), jeśli są puste
+    const grids = document.querySelectorAll('.cards-grid');
+    grids.forEach(grid => {
+      // Szukamy najbliższego wspólnego kontenera dla danej sekcji przepisów (np. <section> lub <div>)
+      const section = grid.closest('section') || grid.parentElement;
+      const hasVisibleCards = grid.querySelectorAll('.card:not([style*="display: none"])').length > 0;
+      
+      if (section && section !== document.body) {
+        section.style.display = hasVisibleCards ? '' : 'none';
+      }
+    });
+
+    // Kontrola komunikatu o całkowitym braku wyników na stronie
     if (noResultsMessage) {
       const visibleCardCount = getCards().filter(card => card.style.display !== 'none').length;
       noResultsMessage.style.display = visibleCardCount === 0 ? '' : 'none';
