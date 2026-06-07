@@ -6,9 +6,9 @@ on:
       - main
     # Opcjonalnie: uruchamiaj tylko, gdy zmieniają się przepisy lub skrypty
     paths:
-      - 'Przepisy/**'
-      - 'scripts/**'
-      - '*.adoc'
+      - "Przepisy/**"
+      - "scripts/**"
+      - "*.adoc"
   pull_request:
     branches:
       - main
@@ -34,7 +34,7 @@ jobs:
           lfs: true
 
       - name: Build AsciiDoc
-        run:  ./scripts/build.sh
+        run: ./scripts/build.sh
 
       - name: Publish Artifacts
         uses: actions/upload-artifact@v7

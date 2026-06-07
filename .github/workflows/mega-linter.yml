@@ -34,10 +34,10 @@ jobs:
         env:
           # Pełne skanowanie tylko na push do main, na PR tylko zmienione pliki
           VALIDATE_ALL_CODEBASE: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
-          
+
           # Linter nie wywali całego pipeline'u w przypadku błędów formatowania
           DISABLE_ERRORS: true
-          
+
           # Nie zapisujemy raportów na dysku kontenera/runnera
           REPORT_OUTPUT_FOLDER: none
 
