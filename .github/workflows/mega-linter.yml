@@ -13,7 +13,9 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
+  issues: write # needed for issue creation when errors are found
+  pull-requests: write # needed for PR comments
 
 jobs:
   megalinter:
