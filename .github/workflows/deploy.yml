@@ -22,8 +22,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
-    # Uruchom tylko wtedy, gdy poprzedni workflow zakończył się sukcesem ORAZ był to branch main
-    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main' }}
+    # Krytyczna poprawka: sprawdzamy czy to był bezpośredni PUSH, a nie PULL_REQUEST
+    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push' }}
 
     steps:
       # Krok 1: Pobranie artefaktu
