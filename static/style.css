@@ -247,17 +247,22 @@ body {
    UKŁAD STRONY PRZEPISU (STRUKTURA ASSETS & GRIDS)
    ========================================================================== */
 
-/* 1. Hero Banner (Efekt szerokiej panoramy) */
+/* 1. Hero Banner (Efekt szerokiej panoramy na całą długość ekranu) */
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
-  width: 100%;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   height: 300px;
   background: #f3f4f6;
   display: flex !important;
   align-items: center;
   justify-content: center;
-  border-radius: 14px;
+  border-radius: 0;
   margin: 16px 0 24px !important;
   box-shadow: var(--shadow-soft);
   overflow: hidden;
@@ -268,7 +273,7 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center 35%;
-  border-radius: 14px;
+  border-radius: 0; /* Dopasowane do kontenera */
 }
 
 /* 2. Pasek szczegółów */
@@ -366,10 +371,14 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  aspect-ratio: 3 / 2; /* Proporcje typu 600x400 */
+  max-width: 600px;
+  aspect-ratio: auto;
   object-fit: cover;
+  object-position: center;
+
   border-radius: var(--radius);
   display: block;
+  margin: 0 auto;
   box-shadow: var(--shadow-soft);
   transition: transform 0.2s ease;
 }
