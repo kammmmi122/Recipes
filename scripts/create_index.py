@@ -87,9 +87,10 @@ def create_index_adoc():
 
                 # IMAGE
                 image_path = find_last_image(os.path.join(path, name))
-                if image_path:
+                full_image_path = os.path.join("Recipes/static/images/", image_path) if image_path else None
+                if full_image_path:
                     image_html = (
-                        f'<img class="card-image" src="{html.escape(image_path, quote=True)}" '
+                        f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" '
                         f'alt="{html.escape(title)}">'
                     )
                 else:

@@ -4,54 +4,47 @@ on:
   push:
     branches:
       - main
+    # Opcjonalnie: uruchamiaj tylko, gdy zmieniają się przepisy lub skrypty
+    paths:
+      - "Przepisy/**"
+      - "scripts/**"
+      - "*.adoc"
   pull_request:
+    branches:
+      - main
 
 concurrency:
-  group: ${{ github.ref }}-${{ github.workflow }}
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
+permissions:
+  contents: read
 
 jobs:
   build:
-    name: ascii doc
+    name: AsciiDoc Build
     runs-on: self-hosted
+    timeout-minutes: 30
 
     steps:
-      # Git Checkout
       - name: Checkout Code
         uses: actions/checkout@v6
         with:
-          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          lfs: "true"
+          lfs: true
 
-      - name: Change permissions
-        run: chmod 755 ./scripts/build.sh
-
-      - name: Build
+      - name: Build AsciiDoc
         run: ./scripts/build.sh
 
-      - name: Publish
-        uses: actions/upload-artifact@v4
+      - name: Publish Artifacts
+        uses: actions/upload-artifact@v7
         with:
           name: page
           path: |
             *.html
             *.jpg
             static/*
-            Przepisy/*.jpg
-            Przepisy/*.html
-            Przepisy/Przetwory/*.jpg
-            Przepisy/Przetwory/*.html
-            Przepisy/Desery/*.jpg
-            Przepisy/Desery/*.html
-            Przepisy/Dania_glowne/*.jpg
-            Przepisy/Dania_glowne/*.html
-            Przepisy/Zupy/*.jpg
-            Przepisy/Zupy/*.html
-            Przepisy/Przystawki/*.jpg
-            Przepisy/Przystawki/*.html
-            Przepisy/Makarony/*.jpg
-            Przepisy/Makarony/*.html
-            Przepisy/Salatki/*.jpg
-            Przepisy/Salatki/*.html
+            Przepisy/**/*.html
+            Przepisy/**/*.jpg
+          retention-days: 30
           if-no-files-found: error

@@ -17,7 +17,7 @@
     padding-bottom: 2px;
   }
   .tabs::after {
-    content: '';
+    content: "";
     flex: 1;
     min-width: 0;
   }
@@ -29,13 +29,15 @@
     cursor: pointer;
     font-weight: 600;
     color: #3a3a3a;
-    transition: background-color .2s, color .2s;
+    transition:
+      background-color 0.2s,
+      color 0.2s;
     white-space: nowrap;
   }
   .tabs button.active,
   .tabs button:hover {
-    color: var(--accent,#007acc);
-    background: rgba(0,122,204,.12);
+    color: var(--accent, #007acc);
+    background: rgba(0, 122, 204, 0.12);
   }
   .controls {
     display: flex;
@@ -63,15 +65,28 @@
     padding: 28px 16px;
     width: 100%;
   }
-  .collapsed { display: none }
+  .collapsed {
+    display: none;
+  }
 
   @media (max-width: 840px) {
-    .header-controls { flex-wrap: wrap; justify-content: center; }
-    .controls { justify-content: center; width: 100%; }
-    .tabs { justify-content: center; overflow-x: auto; }
+    .header-controls {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .controls {
+      justify-content: center;
+      width: 100%;
+    }
+    .tabs {
+      justify-content: center;
+      overflow-x: auto;
+    }
   }
   @media (max-width: 560px) {
-    .search-input { min-width: 180px; }
+    .search-input {
+      min-width: 180px;
+    }
   }
 </style>
 
@@ -88,98 +103,121 @@
     <button data-filter="all">Wszystkie</button>
   </div>
   <div class="controls">
-    <input id="search" class="search-input" type="search" placeholder="Szukaj przepisów..." aria-label="Szukaj przepisów">
+    <input
+      id="search"
+      class="search-input"
+      type="search"
+      placeholder="Szukaj przepisów..."
+      aria-label="Szukaj przepisów"
+    />
   </div>
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const tabs = Array.from(document.querySelectorAll('.tabs button'));
-  const searchInput = document.querySelector('#search');
-  const allButton = tabs.find(t => t.dataset.filter === 'all');
-  
-  const noResultsMessage = document.createElement('div');
-  noResultsMessage.className = 'no-results-message';
-  noResultsMessage.textContent = 'Brak przepisów spełniających warunki.';
-  document.querySelector('.header-controls').after(noResultsMessage);
-  noResultsMessage.style.display = 'none';
+  document.addEventListener("DOMContentLoaded", function () {
+    const tabs = Array.from(document.querySelectorAll(".tabs button"));
+    const searchInput = document.querySelector("#search");
+    const allButton = tabs.find((t) => t.dataset.filter === "all");
 
-  function getCards() {
-    return Array.from(document.querySelectorAll('.card'));
-  }
+    const noResultsMessage = document.createElement("div");
+    noResultsMessage.className = "no-results-message";
+    noResultsMessage.textContent = "Brak przepisów spełniających warunki.";
+    document.querySelector(".header-controls").after(noResultsMessage);
+    noResultsMessage.style.display = "none";
 
-  function getActiveFilters() {
-    return tabs
-      .filter(tab => tab.classList.contains('active') && (tab.dataset.filter || '').trim() !== 'all')
-      .map(tab => (tab.dataset.filter || '').trim().toLowerCase());
-  }
-
-  function applyFilters() {
-    const q = (searchInput && searchInput.value || '').toLowerCase().trim();
-    const activeFilters = getActiveFilters();
-
-    getCards().forEach(card => {
-      const title = (card.dataset.title || '').toLowerCase();
-      const category = (card.dataset.category || '').toLowerCase();
-      const emojiText = ((card.dataset.emoji || '').trim() || (card.querySelector('.card-emoji')?.textContent || '')).toLowerCase();
-      const searchableText = `${title} ${category} ${emojiText}`;
-
-      const matchesSearch = q === '' || searchableText.includes(q);
-      const matchesFilters = activeFilters.length === 0 || activeFilters.every(filter => emojiText.includes(filter));
-
-      card.style.display = matchesSearch && matchesFilters ? '' : 'none';
-    });
-
-    const grids = document.querySelectorAll('.cards-grid');
-    grids.forEach(grid => {
-      const section = grid.closest('section') || grid.parentElement;
-      const hasVisibleCards = grid.querySelectorAll('.card:not([style*="display: none"])').length > 0;
-      
-      if (section && section !== document.body) {
-        section.style.display = hasVisibleCards ? '' : 'none';
-      }
-    });
-
-    if (noResultsMessage) {
-      const visibleCardCount = getCards().filter(card => card.style.display !== 'none').length;
-      noResultsMessage.style.display = visibleCardCount === 0 ? '' : 'none';
+    function getCards() {
+      return Array.from(document.querySelectorAll(".card"));
     }
-  }
 
-  function updateAllButtonState() {
-    const activeNonAll = tabs.some(tab => tab.dataset.filter !== 'all' && tab.classList.contains('active'));
+    function getActiveFilters() {
+      return tabs
+        .filter(
+          (tab) =>
+            tab.classList.contains("active") &&
+            (tab.dataset.filter || "").trim() !== "all",
+        )
+        .map((tab) => (tab.dataset.filter || "").trim().toLowerCase());
+    }
+
+    function applyFilters() {
+      const q = ((searchInput && searchInput.value) || "").toLowerCase().trim();
+      const activeFilters = getActiveFilters();
+
+      getCards().forEach((card) => {
+        const title = (card.dataset.title || "").toLowerCase();
+        const category = (card.dataset.category || "").toLowerCase();
+        const emojiText = (
+          (card.dataset.emoji || "").trim() ||
+          card.querySelector(".card-emoji")?.textContent ||
+          ""
+        ).toLowerCase();
+        const searchableText = `${title} ${category} ${emojiText}`;
+
+        const matchesSearch = q === "" || searchableText.includes(q);
+        const matchesFilters =
+          activeFilters.length === 0 ||
+          activeFilters.every((filter) => emojiText.includes(filter));
+
+        card.style.display = matchesSearch && matchesFilters ? "" : "none";
+      });
+
+      const grids = document.querySelectorAll(".cards-grid");
+      grids.forEach((grid) => {
+        const section = grid.closest("section") || grid.parentElement;
+        const hasVisibleCards =
+          grid.querySelectorAll('.card:not([style*="display: none"])').length >
+          0;
+
+        if (section && section !== document.body) {
+          section.style.display = hasVisibleCards ? "" : "none";
+        }
+      });
+
+      if (noResultsMessage) {
+        const visibleCardCount = getCards().filter(
+          (card) => card.style.display !== "none",
+        ).length;
+        noResultsMessage.style.display = visibleCardCount === 0 ? "" : "none";
+      }
+    }
+
+    function updateAllButtonState() {
+      const activeNonAll = tabs.some(
+        (tab) =>
+          tab.dataset.filter !== "all" && tab.classList.contains("active"),
+      );
+      if (allButton) {
+        allButton.classList.toggle("active", !activeNonAll);
+      }
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const filterValue = tab.dataset.filter || "all";
+
+        if (filterValue === "all") {
+          tabs.forEach((t) => t.classList.toggle("active", t === tab));
+        } else {
+          tab.classList.toggle("active");
+        }
+
+        updateAllButtonState();
+        applyFilters();
+      });
+    });
+
+    if (searchInput) {
+      let debounce;
+      searchInput.addEventListener("input", () => {
+        clearTimeout(debounce);
+        debounce = setTimeout(applyFilters, 120);
+      });
+    }
+
     if (allButton) {
-      allButton.classList.toggle('active', !activeNonAll);
+      allButton.classList.add("active");
     }
-  }
 
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      const filterValue = tab.dataset.filter || 'all';
-
-      if (filterValue === 'all') {
-        tabs.forEach(t => t.classList.toggle('active', t === tab));
-      } else {
-        tab.classList.toggle('active');
-      }
-
-      updateAllButtonState();
-      applyFilters();
-    });
+    applyFilters();
   });
-
-  if (searchInput) {
-    let debounce;
-    searchInput.addEventListener('input', () => {
-      clearTimeout(debounce);
-      debounce = setTimeout(applyFilters, 120);
-    });
-  }
-
-  if (allButton) {
-    allButton.classList.add('active');
-  }
-
-  applyFilters();
-});
 </script>
