@@ -7,7 +7,7 @@ polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóP
 
 category_colors = {
   "Dania glowne": "#ff6b6b",
-"Makarony": "#ffa94d",
+  "Makarony": "#ffa94d",
   "Zupy": "#4dabf7",
   "Salatki": "#69db7c",
   "Desery": "#f06595",
@@ -87,7 +87,7 @@ def create_index_adoc():
 
                 # IMAGE
                 image_path = find_last_image(os.path.join(path, name))
-                full_image_path = os.path.join("Recipes/static/images/", image_path) if image_path else None
+                full_image_path = os.path.join("/Recipes/static/images/", image_path) if image_path else None
                 if full_image_path:
                     image_html = (
                         f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" '
