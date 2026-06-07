@@ -8,16 +8,10 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
 * 🕒 czas gotowania: 2 godziny
-* 👥 15–20 picarones porcji
-* 🔗 dołączony PDF
+* 👥 15-20 picarones porcji
+* 🔗 warsztaty kulinarne w szkole Skoma
 
 [.recipe-columns]
-== Szczegóły
-
-* czas przygotowania: 2 godziny
-* porcji: 15–20 picarones
-* źródło: dołączony PDF
-
 == Składniki
 
 * 450 g obranej dyni (piżmowa lub muscat)
@@ -31,7 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 30 ml letniej wody
 * olej do smażenia (rzepakowy lub słonecznikowy)
 
-== Syrop miel de chancaca
+=== Syrop miel de chancaca
 
 * 100 g cukru trzcinowego muscovado
 * 50 g melasy lub syropu z trzciny cukrowej, karobu albo morwy
