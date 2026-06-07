@@ -12,27 +12,21 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-
-== Przygotowanie
 3 kg cukinii (zetrzeć na tarce o grubych oczkach wraz ze skórką)
-
 1 kg marchwi (zetrzeć na tarce o grubych oczkach)
-
 0,5 kg cebuli (pokroić w piórka)
 
 Warzywa wymieszać w misce, posolić 2 łyżkami soli i odstawić na 2 godziny. Dobrze odcisnąć.
 
-Zalewa:
+=== Zalewa:
 
-1,5 szkl. wody
-
-1 szkl. octu
-
-1 szkl. cukru
-
-0,5 szkl. oleju
-
+1,5 szklanki wody
+1 szklanka octu
+1 szklanka cukru
+0,5 szklanki oleju
 przyprawy: pieprz, liść laur, gorczyca
+
+== Przygotowanie
 
 Zagotować zalewę, zalać warzywa, wymieszać. Przełożyć do słoików. Pasteryzować 15 min.
 

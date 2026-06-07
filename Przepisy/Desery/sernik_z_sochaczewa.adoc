@@ -12,23 +12,17 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+1 kg twarogu
+1 kostka masła i palma
+2 ugotowane ziemniaki
+3 łyżki mączki ziemniacz. (czubate)
+2 łyżki cukru
+8 jaj
+bakalie
+olejek
 
 == Przygotowanie
-1 kg twarogu
 
-1 kost masła i palma
-
-2 ugotowane ziemniaki
-
-3 łyżki mączki ziemniacz. (czubate)
-
-2 łyżki cukru
-
-8 jaj
-
-bakalie
-
-olejek
 
 [.recipe-gallery]
 == Zdjęcia

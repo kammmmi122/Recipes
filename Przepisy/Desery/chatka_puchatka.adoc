@@ -12,16 +12,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+3 paczki herbatników
+60 dag twarogu (zmielić)
+1 kostka tłuszczu (roztopić)
+1 szklanka cukru
 
 == Przygotowanie
-3 paczki herbatników
-
-60 dag twarogu (zmielić)
-
-1 kost tłuszczu (roztopić)
-
-1 szkl. cukru
-
 tłuszcz + twaróg + cukier (½ biała na herbatniki, ½ z kakao i położyć na środek i włożyć do lodówki). Zewnętrzne przykryć herbat. Po schłodzeniu polać polewą.
 
 [.recipe-gallery]

@@ -13,24 +13,16 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 ½ kg maku (2x przekręcić)
-
-¾ kost. palmy
-
+¾ kostki palmy
 6 jaj
-
-1 ½ szkl. cukru
-
+1 ½ szklanka cukru
 1 mały proszek
-
-1 szkl. mąki
-
+1 szklanka mąki
 olejek migdałowy
-
 1 p. rodzynek, migdały, figi, skórka pom.
+
 == Przygotowanie
-
-
-Palma + cukier + żółtka + pozost składniki + ubita piana
+Palma + cukier + żółtka + pozostałe składniki + ubita piana
 
 [.recipe-gallery]
 == Zdjęcia

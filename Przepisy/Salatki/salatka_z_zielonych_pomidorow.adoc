@@ -12,24 +12,17 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-
-== Przygotowanie
 3 kg zielonych pomidorów pokroić w plastry, posolić i odstawić na noc. Rano odcisnąć.
-
 0,5 kg cebuli pokroić w piórka
-
 0,5 kg marchwi ugotować i pokroić w krążki
 
-Zalewa:
-
-2 szkl. wody
-
-1 szkl. octu
-
-1 szkl. cukru
-
+=== Zalewa:
+2 szklanka wody
+1 szklanka octu
+1 szklanka cukru
 pieprz, ziele ang, liść laur, gorczyca
 
+== Przygotowanie
 Zagotować zalewę, wrzucić warzywa i gotować na małym ogniu ok. 15 min (aż pomidory staną się szkliste). Przełożyć do słoików i pasteryzować 10 min.
 
 [.recipe-gallery]

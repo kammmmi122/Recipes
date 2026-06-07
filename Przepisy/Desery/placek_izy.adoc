@@ -12,24 +12,16 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-
-== Przygotowanie
 30 dag maku
-
-1 ½ szkl. cukru
-
+1 ½ szklanka cukru
 9 jaj
-
-1 kost palmy
-
+1 kostka palmy
 1 łyżeczka proszku
-
 9 łyżek kaszy mannej
-
 bakalie
-
 ½ kg musu jabłkowego
 
+== Przygotowanie
 żółtka + cukier + palma utrzeć + proszek + pozostałe składniki. Na końcu mak i białka.
 
 [.recipe-gallery]

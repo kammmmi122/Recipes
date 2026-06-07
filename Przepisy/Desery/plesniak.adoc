@@ -12,23 +12,15 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-
-== Przygotowanie
-3 szkl. mąki
-
-1 ½ szkl. cukru (w tym 1 szk do białek)
-
+3 szklanka mąki
+1 ½ szklanka cukru (w tym 1 szk do białek)
 5 jaj
-
-1 kost palmy
-
-(Góra strony to dokończenie Pleśniaka ze str. 9)
-
-1 łyżecz proszku
-
+1 kostka palmy
+1 łyżeczka proszku
 kakao
-
 ½ kg jabłek lub śliwek
+== Przygotowanie
+
 
 [.recipe-gallery]
 == Zdjęcia
