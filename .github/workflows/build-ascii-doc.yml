@@ -46,5 +46,5 @@ jobs:
             static/*
             Przepisy/**/*.html
             Przepisy/**/*.jpg
-          retention-days: 30
+          retention-days: 7
           if-no-files-found: error

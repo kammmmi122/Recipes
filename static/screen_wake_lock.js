@@ -63,8 +63,8 @@ if (wakeButton) {
 }
 
 // Reacquire wake lock on visibility change (e.g., card navigation)
-document.addEventListener("visibilitychange", async () => {
-  if (wakeLockActive && document.visibilityState === "visible") {
-    await requestWakeLock();
+document.addEventListener('visibilitychange', async () => {
+  if (wakeLock !== null && document.visibilityState === 'visible' && wakeLockActive) {
+    await requestWakeLock(); // Re-acquire lock
   }
 });
