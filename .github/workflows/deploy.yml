@@ -22,11 +22,14 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
-    # KLUCZOWY WARUNEK:
-    # 1. Poprzedni build musiał zakończyć się sukcesem
-    # 2. Lista powiązanych Pull Requestów MUSI być pusta (czyli to zwykły push)
-    if: ${{ github.event.workflow_run.conclusion == 'success' && toJson(github.event.workflow_run.pull_requests) == '[]' }}
-
+    # BEZWZGLĘDNY WARUNEK:
+    # 1. Poprzedni workflow musiał zakończyć się sukcesem.
+    # 2. Eventem wyzwalającym tamten workflow MUSIAŁ być push (odrzuca pull_request).
+    # 3. Gałęzią docelową tamtego workflow MUSIAŁ być main.
+    if: >
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.head_branch == 'main'
     steps:
       # Krok 1: Pobranie artefaktu
       - name: Download artifact
