@@ -1,4 +1,4 @@
-= Ciasto kokosowe z borówkami amerykańskimi +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ciasto kokosowe z borówkami amerykańskimi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -6,15 +6,11 @@ image::/Recipes/static/images/20260216_222222.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina + czas pieczenia
-* 🕒 czas gotowania: 1 godzina + czas pieczenia
+* 🕒 czas pieczenia: 40-50 minut
+* 👥 12 porcji
+* 🔗 https://mojewypieki.com/przepis/ciasto-kokosowe-z-borowkami-amerykanskimi[link do źródła przepisu]
 
 [.recipe-columns]
-== Szczegóły
-
-* czas przygotowania: 1 godzina + czas pieczenia
-* 12 porcji
-* https://mojewypieki.com/przepis/ciasto-kokosowe-z-borowkami-amerykanskimi[link do źródła przepisu]
-
 == Składniki
 
 * 125 g masła
@@ -26,13 +22,26 @@ image::/Recipes/static/images/20260216_222222.jpg[]
 * 75 g wiórków kokosowych
 * 125 g greckiego jogurtu naturalnego lub kwaśnej śmietany 12%
 * 450 g borówki amerykańskiej
+
+=== Lukier kokosowy
 * 1 szklanka cukru pudru
 * 3 łyżki likieru kokosowego*
 
 
 == Przygotowanie
 
-Ciasto kokosowe z borówkami amerykańskimi - składniki:Wszystkie składniki powinny być w temperaturze pokojowej. Mąkę pszenną i proszek do pieczenia - przesiać, odłożyć.W misie miksera umieścić masło z cukrem. Utrzeć do otrzymania bardzo jasnej i puszystej masy, przez kilka minut. Dodawać jajka, jedno po drugim, miksując do połączenia po każdym dodaniu. Dodać ekstrakt cytrynowy i zmiksować. Dodać przesianą mąkę z proszkiem do pieczenia i wiórki kokosowe na zmianę z jogurtem greckim/kwaśną śmietaną, w dwóch turach i krótko wymieszać przy pomocy szpatułki, tylko do połączenia się składników.Formę tortownicę o średnicy 25 cm wyłożyć papierem do pieczenia. Przełożyć ciasto, wyrównać. Na ciasto wysypać borówki amerykańskie, lekko wciskając je w ciasto.Ciasto kokosowe z borówkami amerykańskimi piec w temperaturze 160ºC bez termoobiegu przez około 40 lub dłużej, do tzw. suchego patyczka. Wyjąć z piekarnika, polukrować , kroić i podawać.Lukier kokosowy:Wszystkie składniki umieścić w naczyniu i rozetrzeć grzbietem łyżki do otrzymania gładkiego lukru. Jeśli lukier będzie zbyt rzadki - dosypać cukru pudru, a jeśli zbyt gęsty - likieru kokosowego.* Można zastąpić sokiem z cytryny lub wodą.Smacznego :-).
+Wszystkie składniki powinny być w temperaturze pokojowej. Mąkę pszenną i proszek do pieczenia - przesiać, odłożyć.
+
+W misie miksera umieścić masło z cukrem. Utrzeć do otrzymania bardzo jasnej i puszystej masy, przez kilka minut. Dodawać jajka, jedno po drugim, miksując do połączenia po każdym dodaniu. Dodać ekstrakt cytrynowy i zmiksować. Dodać przesianą mąkę z proszkiem do pieczenia i wiórki kokosowe na zmianę z jogurtem greckim/kwaśną śmietaną, w dwóch turach i krótko wymieszać przy pomocy szpatułki, tylko do połączenia się składników.
+
+Formę tortownicę o średnicy 25 cm wyłożyć papierem do pieczenia. Przełożyć ciasto, wyrównać. Na ciasto wysypać borówki amerykańskie, lekko wciskając je w ciasto.
+
+Ciasto kokosowe z borówkami amerykańskimi piec w temperaturze 160ºC bez termoobiegu przez około 40 lub dłużej, do tzw. suchego patyczka. Wyjąć z piekarnika, polukrować , kroić i podawać.
+
+
+=== Lukier kokosowy
+
+Wszystkie składniki umieścić w naczyniu i rozetrzeć grzbietem łyżki do otrzymania gładkiego lukru. Jeśli lukier będzie zbyt rzadki - dosypać cukru pudru, a jeśli zbyt gęsty - likieru kokosowego.
 
 [.recipe-gallery]
 == Zdjęcia

@@ -19,7 +19,8 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka soli
 * 1 łyżka oleju roślinnego (opcjonalnie)
 
-== Wypełnienie (opcjonalne)
+=== Wypełnienie
+
 * 1 szklanka rozdrobnionego kurczaka
 * 150 g czarnej fasoli, odsączonej i opłukanej
 * 1 dojrzałe awokado pokrojone w plasterki

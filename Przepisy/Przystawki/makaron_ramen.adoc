@@ -1,4 +1,4 @@
-= Makaron ramen 🍜 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Makaron ramen 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -6,8 +6,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 15 minut
-* 🕒 czas gotowania: 15 minut
+* 🕒 czas przygotowania: 1 godzina
 * 👥 4 porcji
 * 🔗 warsztaty kulinarne w szkole K5
 

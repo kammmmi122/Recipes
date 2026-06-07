@@ -7,16 +7,11 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1,5 godziny
-* 🕒 czas gotowania: 1,5 godziny
+* 🕒 czas chłodzenia: minimum 6 godzin (najlepiej cała noc)
+* 👥 liczba porcji: 12
+* 🔗 https://poprostupycha.com.pl/przepis/tort-kinder/[link do źródła przepisu]
 
 [.recipe-columns]
-== Szczegóły
-
-* liczba porcji: 12
-* czas przygotowania: 1,5 godziny
-* czas chłodzenia: minimum 6 godzin (najlepiej cała noc)
-* https://poprostupycha.com.pl/przepis/tort-kinder/[link do źródła przepisu]
-
 == Składniki
 
 === Biszkopt:
@@ -65,7 +60,6 @@ Brak zdjęcia przepisu 🍲
 * batoniki Kinder Bueno
 * jajka Kinder Niespodzianka
 
-
 == Przygotowanie
 
 Jajka (6 szt) powinny być w temp. pokojowej! Bardzo dokładnie oddzielamy białka od żółtek. Do suchej miski dodajemy białka i szczyptę soli. Ubijamy na wysokich obrotach miksera przez około 5 minut. Masa być bardzo puszysta i sztywna.
@@ -75,7 +69,6 @@ Po tym czasie dodajemy stopniowo po 1 łyżce cukru (łącznie 160 g, najlepiej 
 Dodajemy żółtka i miksujemy tylko przez chwilkę. Następnie dodajemy przesianą mąkę pszenną tortową (140 g) i ziemniaczaną (45 g). Całość mieszamy bardzo delikatnie za pomocą trzepaczki.
 
 Tortownicę o średnicy 18 cm wykładamy papierem do pieczenia. Masę przekładamy do tortownicy. Pieczemy w temp. 160ºC przez ok. 50 minut (góra-dół, z termoobiegiem) lub do tzw. suchego patyczka. Po tym czasie ciasto od razu wyjmujemy z piekarnika i upuszczamy je z wysokości 20-30 cm na blat kuchenny czy podłogę. Dzięki temu biszkopt będzie równiutki i nie opadnie po przestygnięciu. Odstawiamy do wystygnięcia. Kroimy na równe 4 blaty. Ponczujemy biszkopty odrobiną przestudzonej herbaty.
-
 
 Następnie do garnka wlewamy śmietankę kremówkę (350 ml) i ją podgrzewamy aż będzie bardzo ciepła, lecz jej nie zagotowujemy (nie doprowadzamy do wrzenia). Do osobnej miski dodajemy posiekaną czekoladę mleczną (200 g), gorzką (50 g), krem czekoladowy (4-5 łyżeczek) oraz masło orzechowe (3 łyżeczki). Zalewamy je podgrzaną śmietanką i mieszamy do momentu powstania jednolitej masy. Wkładamy do lodówki na całą noc lub chociaż na 5-6 godzin.
 

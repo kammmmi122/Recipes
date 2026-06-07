@@ -6,7 +6,6 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: około 12 godzin
 * 🕒 czas gotowania: około 12 godzin
 * 👥 4 porcji
 * 🔗 warsztaty kulinarne w szkole K5

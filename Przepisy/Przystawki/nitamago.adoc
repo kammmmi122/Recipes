@@ -7,7 +7,8 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 12 godzin
-* 🕒 czas gotowania: 12 godzin
+* 👥 liczba porcji: 4
+* 🔗 https://www.napaleczkach.pl/2018/01/nitamago.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
@@ -20,7 +21,6 @@ Brak zdjęcia przepisu 🍲
 * 1 ząbek czosnku
 * 2 kawałki imbiru
 * 4 jajka
-
 
 == Przygotowanie
 

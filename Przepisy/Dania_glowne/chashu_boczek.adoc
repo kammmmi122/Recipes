@@ -13,12 +13,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,5 kg boczku
 * 0,25 litra wody 
 * 0,25 litra sos sojowy
 * 2 łyżki cukru
 
 == Przygotowanie
+
 Zwijamy boczek i wiążemy sznurkiem. Mieszamy wszystkie składniki zalewy, zalewamy boczek i zawijamy folią aluminiową, pieczemy w temp. 180 st.C około 1 godziny, zdejmujemy folię i przekładamy na drugą stronę, pieczemy kolejne 30 minut. Boczek ma być miękki na tyle, że pałeczka przejdzie na wylot. Studzimy, ściągamy sznurek i zwijamy ciasno folią spożywczą.
 
 [.recipe-gallery]

@@ -1,4 +1,4 @@
-= Dashi Shoyu Ramen 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Dashi Shoyu Ramen 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -14,13 +14,13 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-== Wywar
+=== Wywar
 * 3 litry woda
 * 0,2 kg kombu
 * 2 kubki bonito (katsuobushi)
 * 0,5 kubka sos sojowy
 
-== Dodatki
+=== Dodatki
 * narutomaki (ciastko rybne z różowym spiralnym wzorem)
 * jajko marynowane w soi
 * krewetki w panko

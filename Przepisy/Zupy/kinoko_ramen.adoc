@@ -1,4 +1,4 @@
-= Kinoko Ramen 🍄 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kinoko Ramen 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -6,7 +6,6 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: około 3 godzin
 * 🕒 czas gotowania: około 3 godzin
 * 👥 4 porcji
 * 🔗 warsztaty kulinarne w szkole K5
@@ -14,7 +13,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-== Wywar
+=== Wywar
 
 * 1 główka czosnku przypalany 
 * 1 sztuka średni por  przypalany
@@ -24,7 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 4 łyżki sojowe tare 
 * 3 litry woda 
 
-== Dodatki
+=== Dodatki
 
 * shitake marynowane
 * pak choi (podsmażony)

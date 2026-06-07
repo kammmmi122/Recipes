@@ -7,8 +7,9 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 15 min
-* 🕒 czas gotowania: 15 min
-* https://www.instagram.com/reel/DP-3-nLiDIL/[link do źródła przepisu]
+* 🕒 czas pieczenia: 25 min
+* 👥 liczba porcji: 2
+* 🔗 https://www.instagram.com/reel/DP-3-nLiDIL/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
@@ -19,7 +20,6 @@ Brak zdjęcia przepisu 🍲
 * 200 g ugotowanego makaronu
 * sól
 * pieprz
-
 
 == Przygotowanie
 

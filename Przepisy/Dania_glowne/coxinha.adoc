@@ -14,7 +14,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-== Ciasto
+=== Ciasto
 * 450 ml mleka
 * 450 ml bulionu drobiowego lub wody
 * 1 łyżka soli
@@ -22,7 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 2 duże ziemniaki obrane i puree (około 625 g)
 * 450 g mąki uniwersalnej (przesianej)
 
-== Nadzienie
+=== Nadzienie
 * 2 duże piersi kurczaka bez kości i skóry (około 300 g)
 * 60 g masła
 * 4 ząbki czosnku posiekane lub starte
@@ -34,7 +34,7 @@ Brak zdjęcia przepisu 🍲
 * sól i czarny pieprz do smaku
 * posiekana pietruszka do smaku
 
-== Panierowanie
+=== Panierowanie
 * 125 ml mleka
 * okruchy chleba
 * ubijane jajko (opcjonalnie)
@@ -50,11 +50,11 @@ Dodaj rozdrobnione mięso z kurczaka, dopraw solą i pieprzem, a potem wymieszaj
 
 W garnku wymieszaj mleko, bulion lub wodę, sól, masło oraz puree ziemniaczane. Zagotuj mieszankę, a następnie stopniowo dodawaj przesianą mąkę, ciągle mieszając, aż powstanie gładkie i gęste ciasto.
 
-Gotuj ciasto przez 5–7 minut na średnim ogniu, aż odejdzie od ścianek garnka i utworzy zwartą kulę. Przełóż je na lekko natłuszczoną powierzchnię i ostudź do temperatury, w której będzie można je formować.
+Gotuj ciasto przez 5-7 minut na średnim ogniu, aż odejdzie od ścianek garnka i utworzy zwartą kulę. Przełóż je na lekko natłuszczoną powierzchnię i ostudź do temperatury, w której będzie można je formować.
 
 Formuj coxinha, nabierając kawałek ciasta wielkości orzecha włoskiego. Spłaszcz go w dłoni, uformuj kształt łezki, umieść łyżkę nadzienia i ostrożnie zlep brzegi.
 
-Zanurz każdą coxinhę w mleku, obtocz w bułce tartej i smaż w rozgrzanym oleju po 3–4 minuty z każdej strony, aż nabiorą złotego koloru. Odsącz na papierowym ręczniku.
+Zanurz każdą coxinhę w mleku, obtocz w bułce tartej i smaż w rozgrzanym oleju po 3-4 minuty z każdej strony, aż nabiorą złotego koloru. Odsącz na papierowym ręczniku.
 
 [.recipe-gallery]
 == Zdjęcia

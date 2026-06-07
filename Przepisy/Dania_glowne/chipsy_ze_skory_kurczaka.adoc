@@ -1,4 +1,4 @@
-= Chipsy ze skóry kurczaka 🍗 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Chipsy ze skóry kurczaka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -13,11 +13,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,3 kg skóry z kurczaka
 * 1 łyżeczka shichmi togarashi 
 * sól, cukru
 
 == Przygotowanie
+
 Rozkładamy skóry na papier i pieczemy przez 20 minut w 190 st.C. Odcedzamy tłuszcz i pieczemy kilkanaście minut (aż będą złotego koloru). Zlewamy tłuszcz i zmniejszamy do 120 st.C i pieczemy przez kilkanaście minut. Wykładamy na papier, odsączamy tłuszcz i posypujemy przyprawami.
 
 [.recipe-gallery]

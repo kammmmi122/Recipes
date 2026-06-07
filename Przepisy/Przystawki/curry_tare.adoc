@@ -1,4 +1,4 @@
-= Curry tare 🍛 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Curry tare 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -28,7 +28,6 @@ Brak zdjęcia przepisu 🍲
 * tare sojowe 0,3 litra
 * ocet ryżowy 0,1 litra
 * olej chili 2 łyżeczki
-
 
 == Przygotowanie
 Podsmażamy cebulę, czosnek i imbir na maśle. Dodajemy curry, mąkę, garam masalę i podsmażamy kilka minut. Dodajemy resztę składników i miksujemy.
