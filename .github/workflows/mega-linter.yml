@@ -47,6 +47,4 @@ jobs:
           # Token potrzebny do wystawiania statusów w GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fix file permissions for self-hosted runner
-        if: always()
-        run: sudo chown -R $USER:$USER ${{ github.workspace }}
+          FIX_FIX_OWNERSHIP: true
