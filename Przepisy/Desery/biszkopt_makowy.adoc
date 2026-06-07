@@ -12,8 +12,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-
-== Przygotowanie
 ½ kg maku (2x przekręcić)
 
 ¾ kost. palmy
@@ -29,6 +27,8 @@ Brak zdjęcia przepisu 🍲
 olejek migdałowy
 
 1 p. rodzynek, migdały, figi, skórka pom.
+== Przygotowanie
+
 
 Palma + cukier + żółtka + pozost składniki + ubita piana
 
