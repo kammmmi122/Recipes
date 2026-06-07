@@ -2,8 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20230701_175706.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -32,4 +31,4 @@ Bułki grilluję w piekarniku lub opiekaczu, następnie każdą przecinam i smar
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+image::20230701_175706.jpg[]
