@@ -12,13 +12,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-1 ½ kg twarogu | 0,75 | 1 kg
-¾ kg cukru | 1 ½ szk | 2
-1 budyń żółty | ½ | ⅔
-6 łyżek kaszy mannej | 3 | 4
-1 kostka palmy | ½ | ⅔
-10 dag rodzynek
-olejek migdałowy
+* 1 ½ kg twarogu | 0,75 | 1 kg
+* ¾ kg cukru | 1 ½ szk | 2
+* 1 budyń żółty | ½ | ⅔
+* 6 łyżek kaszy mannej | 3 | 4
+* 1 kostka palmy | ½ | ⅔
+* 10 dag rodzynek
+* olejek migdałowy
+
 == Przygotowanie
 
 

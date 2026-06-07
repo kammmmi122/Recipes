@@ -12,15 +12,16 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* 1 kg mąki 
+* 0,20 palmy
+* 8 jaj 
+* marmolada
+* 10 dag drożdży 
+* spirytus
+* ½ l mleka
 
 == Przygotowanie
-1 kg mąki | 0,20 palmy
 
-8 jaj | marmolada
-
-10 dag drożdży | spirytus
-
-½ l mleka
 
 [.recipe-gallery]
 == Zdjęcia

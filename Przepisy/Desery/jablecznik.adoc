@@ -12,19 +12,15 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* 1 kg mąki (0,70)
+* 1 kostka palmy
+* ½ kg cukru
+* 6 jaj
+* 2 łyżeczki proszku
+* 2 kg jabłek
 
 == Przygotowanie
-1 kg mąki (0,70)
 
-1 kostka palmy
-
-½ kg cukru
-
-6 jaj
-
-2 łyżeczki proszku
-
-2 kg jabłek
 
 [.recipe-gallery]
 == Zdjęcia

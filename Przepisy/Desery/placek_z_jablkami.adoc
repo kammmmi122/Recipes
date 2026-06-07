@@ -12,21 +12,16 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* mąka — 0,15
+* cukier — 0,20
+* m. ziemn — 0,20
+* palma — 0,25
+* proszek — 1 łyż.
+* c. waniliowy — 1
+* jabłka — 0,30
 
 == Przygotowanie
-mąka — 0,15
 
-cukier — 0,20
-
-m. ziemn — 0,20
-
-palma — 0,25
-
-proszek — 1 łyż.
-
-c. waniliowy — 1
-
-jabłka — 0,30
 
 [.recipe-gallery]
 == Zdjęcia

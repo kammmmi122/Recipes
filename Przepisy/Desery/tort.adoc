@@ -14,13 +14,19 @@ Brak zdjęcia przepisu 🍲
 == Składniki
 
 == Przygotowanie
-10 jaj
+=== Biszkopt
+* 10 jaj
+* 125 dag cukru
+* 250 dag mączki ziemniaczanej (w tym 2 łyżki mączki)
+* 2 łyżki proszku do pieczenia
 
-125 dag cukru
-
-250 dag mączki ziemn (w tym 2 łyżki mą[ki])
-
-2 łyż. prosz do piecz
+=== Krem
+* 1 budyń żółty (na ¾ l mleka)
+* ½ l mleka
+* 125 dag cukru
+* 1 kostka masła
+* 1 kostka palmy
+* kakao, cytryna
 
 [.recipe-gallery]
 == Zdjęcia

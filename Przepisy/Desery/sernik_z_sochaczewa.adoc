@@ -12,17 +12,24 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-1 kg twarogu
-1 kostka masła i palma
-2 ugotowane ziemniaki
-3 łyżki mączki ziemniacz. (czubate)
-2 łyżki cukru
-8 jaj
-bakalie
-olejek
+* 1 kg twarogu
+* 1 kostka masła i palma
+* 2 ugotowane ziemniaki
+* 3 łyżki mączki ziemniaczanej (czubate)
+* 2 łyżki cukru
+* 8 jaj
+* bakalie
+* olejek
+
+=== Spód
+* 2 jajka
+* mąka
+* cukier
+* szczypta proszku do pieczenia
 
 == Przygotowanie
 
+Piec 50 minut.
 
 [.recipe-gallery]
 == Zdjęcia

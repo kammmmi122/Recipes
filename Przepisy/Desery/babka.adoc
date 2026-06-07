@@ -12,12 +12,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-* 6 jaj
-* 1 kostka palmy
-* 30 dag cukru
-* 2 łyżeczka proszku
-* 20 dag mączki ziemniaczanej
-* 20 dag mąki
+* 3 jaja
+* 1 szklanka cukru
+* 1 cukier waniliowy
+* 1 1/2 szklanki mąki
+* 1 szklanka oleju
+* 2 łyżki proszku
+* 1 łyżka octu
+
 == Przygotowanie
 
 
