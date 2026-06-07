@@ -98,14 +98,12 @@ document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.querySelector('#search');
   const allButton = tabs.find(t => t.dataset.filter === 'all');
   
-  // Tworzymy globalny komunikat o braku wyników i wstrzykujemy go pod kontrolery filtrowania
   const noResultsMessage = document.createElement('div');
   noResultsMessage.className = 'no-results-message';
   noResultsMessage.textContent = 'Brak przepisów spełniających warunki.';
   document.querySelector('.header-controls').after(noResultsMessage);
   noResultsMessage.style.display = 'none';
 
-  // POPRAWKA 1: Pobieramy absolutnie wszystkie karty na stronie, niezależnie w jakiej sekcji się znajdują
   function getCards() {
     return Array.from(document.querySelectorAll('.card'));
   }
@@ -126,20 +124,14 @@ document.addEventListener("DOMContentLoaded", function () {
       const emojiText = ((card.dataset.emoji || '').trim() || (card.querySelector('.card-emoji')?.textContent || '')).toLowerCase();
       const searchableText = `${title} ${category} ${emojiText}`;
 
-      // Czy tekst pasuje do wyszukiwarki
       const matchesSearch = q === '' || searchableText.includes(q);
-      
-      // POPRAWKA 2: Zmieniono z .some na .every, aby zaznaczenie np. "Wege" i "Ostro" 
-      // pokazywało dania, które spełniają OBA te warunki na raz.
       const matchesFilters = activeFilters.length === 0 || activeFilters.every(filter => emojiText.includes(filter));
 
       card.style.display = matchesSearch && matchesFilters ? '' : 'none';
     });
 
-    // POPRAWKA 3: Ukrywanie/pokazywanie całych sekcji (np. nagłówków kategorii), jeśli są puste
     const grids = document.querySelectorAll('.cards-grid');
     grids.forEach(grid => {
-      // Szukamy najbliższego wspólnego kontenera dla danej sekcji przepisów (np. <section> lub <div>)
       const section = grid.closest('section') || grid.parentElement;
       const hasVisibleCards = grid.querySelectorAll('.card:not([style*="display: none"])').length > 0;
       
@@ -148,7 +140,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    // Kontrola komunikatu o całkowitym braku wyników na stronie
     if (noResultsMessage) {
       const visibleCardCount = getCards().filter(card => card.style.display !== 'none').length;
       noResultsMessage.style.display = visibleCardCount === 0 ? '' : 'none';
