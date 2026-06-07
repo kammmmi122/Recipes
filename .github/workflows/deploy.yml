@@ -2,11 +2,9 @@ name: Deploy static content to Pages
 
 on:
   workflow_run:
-    workflows: ["Build asciidoc"] # Musi idealnie pasować do 'name' z pierwszego pliku
+    workflows: ["Build asciidoc"]
     types:
       - completed
-    branches:
-      - main
 
 permissions:
   contents: read
@@ -24,18 +22,18 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
-    # Uruchom tylko wtedy, gdy poprzedni workflow zakończył się sukcesem
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    # Uruchom tylko wtedy, gdy poprzedni workflow zakończył się sukcesem ORAZ był to branch main
+    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main' }}
 
     steps:
-      # Krok 1: Pobranie artefaktu z konkretnego, zakończonego właśnie workflow
+      # Krok 1: Pobranie artefaktu
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
           name: page
           path: ./public
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          run-id: ${{ github.event.workflow_run.id }} # To wskazuje GitHubowi właściwą paczkę
+          run-id: ${{ github.event.workflow_run.id }}
 
       # Krok 2: Konfiguracja środowiska GitHub Pages
       - name: Setup Pages
