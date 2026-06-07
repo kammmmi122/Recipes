@@ -4,33 +4,40 @@ on:
   push:
     branches:
       - main
+    # Opcjonalnie: uruchamiaj tylko, gdy zmieniają się przepisy lub skrypty
+    paths:
+      - 'Przepisy/**'
+      - 'scripts/**'
+      - '*.adoc'
   pull_request:
+    branches:
+      - main
 
 concurrency:
-  group: ${{ github.ref }}-${{ github.workflow }}
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
+permissions:
+  contents: read
 
 jobs:
   build:
-    name: ascii doc
+    name: AsciiDoc Build
     runs-on: self-hosted
 
     steps:
-      # Git Checkout
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          lfs: "true"
+          lfs: true
 
-      - name: Change permissions
-        run: chmod 755 ./scripts/build.sh
+      - name: Build AsciiDoc
+        run: |
+          chmod +x ./scripts/build.sh
+          ./scripts/build.sh
 
-      - name: Build
-        run: ./scripts/build.sh
-
-      - name: Publish
+      - name: Publish Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: page
@@ -38,20 +45,6 @@ jobs:
             *.html
             *.jpg
             static/*
-            Przepisy/*.jpg
-            Przepisy/*.html
-            Przepisy/Przetwory/*.jpg
-            Przepisy/Przetwory/*.html
-            Przepisy/Desery/*.jpg
-            Przepisy/Desery/*.html
-            Przepisy/Dania_glowne/*.jpg
-            Przepisy/Dania_glowne/*.html
-            Przepisy/Zupy/*.jpg
-            Przepisy/Zupy/*.html
-            Przepisy/Przystawki/*.jpg
-            Przepisy/Przystawki/*.html
-            Przepisy/Makarony/*.jpg
-            Przepisy/Makarony/*.html
-            Przepisy/Salatki/*.jpg
-            Przepisy/Salatki/*.html
+            Przepisy/**/*.html
+            Przepisy/**/*.jpg
           if-no-files-found: error
