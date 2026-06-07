@@ -1,0 +1,36 @@
+= Karkówka po koreańsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny  
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/karkowka-po-koreansku[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 1 kg karkówki wieprzowej
+* sól i pieprz
+* 2 ząbki czosnku
+* 4 łyżki sosu sojowego
+* 4 łyżki sosu chilli (słodko-pikantny)
+* 2 łyżeczki oleju sezamowego
+* 2 łyżki ketchupu
+* 2 łyżki octu ryżowego
+* 2 łyżki miodu
+
+== Przygotowanie
+Mięso pokroić na nieduże kawałki (ok. 3 - 4 cm), włożyć do dużego naczynia, doprawić zmielonym pieprzem, startym czosnkiem oraz niewielką ilością soli. Dodać pozostałe składniki: sos sojowy, sos chili, olej sezamowy, ketchup, ocet ryżowy oraz miód. Dokładnie wymieszać i obtoczyć karkówkę w powstałej marynacie. Jeśli mamy czas - zostawić na około 2 godziny do zamarynowania (lub na cały dzień w lodówce).
+
+Piekarnik nagrzać do 190 stopni C. Mięso wraz z całą marynatą włożyć do naczynia żaroodpornego i rozłożyć po całej powierzchni, tak, aby powstała 1 warstwa mięsa. Przykryć formę szczelnie pokrywą lub folią aluminiową i wstawić do piekarnika. Piec przez 1,5 godziny. Następnie zdjąć folię, przemieszać mięso i piec przez ok. 30 minut, w międzyczasie 2 - 3 razy polewać mięso sosem z pieczeni.
+
+Podawać np. z ryżem oraz surówką z kapusty.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
