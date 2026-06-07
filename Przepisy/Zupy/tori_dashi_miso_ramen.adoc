@@ -2,8 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260416_185530.jpg[]
 
 [.recipe-details]
 * 👥 liczba porcji: 4
@@ -46,5 +45,6 @@ Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaro
 
 [.gallery-grid]
 --
-// Tutaj pojawią się zdjęcia
+image::20260414_194950.jpg[]
+image::20260416_185530.jpg[]
 --

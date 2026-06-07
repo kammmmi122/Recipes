@@ -2,8 +2,7 @@
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260606_201355.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
@@ -42,4 +41,4 @@ Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszo
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+image::20260606_201355.jpg[]
