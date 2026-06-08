@@ -1,0 +1,35 @@
+= Gofry 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+=== Składniki do rozpuszczenia:
+* ½ kostki tłuszczu
+* 2 łyżki wody
+* ½ szklanki cukru
+(Dopisane z boku: rozpuścić na gazie)
+
+=== Pozostałe składniki:
+* 2 jaja
+* 1 łyżeczka proszku (do pieczenia)
+* 1 cukier waniliowy
+* ½ szklanki mleka
+* 3 szklanki mąki lub na połowę z kartoflanką (czyli 1,5 szklanki mąki pszennej i 1,5 szklanki mąki ziemniaczanej)
+
+== Przygotowanie
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

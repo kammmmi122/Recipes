@@ -1,4 +1,4 @@
-= Farsz: 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Babka 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,19 +12,15 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* 6 jaj
+* 1 kostka palmy
+* 30 dag cukru
+* 2 łyżeczka proszku
+* 20 dag mączki ziemniaczanej
+* 20 dag mąki
 
 == Przygotowanie
-1 kg maku | 250 dag
 
-bakalie
-
-1 szkl miodu | ¼ szklanka
-
-½ kostka tłuszczu | ⅛ kostka
-
-4 jaja | 1 jajo
-
-c. puder
 
 [.recipe-gallery]
 == Zdjęcia

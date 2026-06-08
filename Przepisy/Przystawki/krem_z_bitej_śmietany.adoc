@@ -1,4 +1,4 @@
-= Spód: 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krem z bitej śmietany🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,17 +12,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* 3 kubki kremówki
+* 3 łyżeczki cukru pudru
+* 3 łyżeczki żelatyny
 
 == Przygotowanie
-2 jaja
-
-mąka } tyle ile jaj
-
-cukier } tyle ile jaj
-
-szczypta proszku do piecz.
-
-Piec 50 minut
+Ubić, dodać puder + żelatyna.
 
 [.recipe-gallery]
 == Zdjęcia

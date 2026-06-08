@@ -1,0 +1,34 @@
+= Sałata na zimę 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg pomidorów czerwonych
+* 1 kg pomidorów zielonych
+* 1 kg cebuli
+* 1 kg kapusty świeżej
+* 7-8 szt marchwi
+* 1 kg ogórków świeżych
+* 1 duża papryka
+* ¾ l octu
+* ½ l wody
+* 0,8 kg cukru
+* ziele angielskie, sól, pieprz, papryka, liść laurowy, olej
+
+== Przygotowanie
+Warzywa poszatkować, dodać pozostałe składniki i gotować ok. 15 min. Potem przełożyć do słoików i pasteryzować ok. 15 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

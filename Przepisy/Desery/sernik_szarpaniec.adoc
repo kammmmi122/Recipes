@@ -1,0 +1,43 @@
+= Sernik szarpaniec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+=== Ciasto:
+* 1 kostka palmy
+* 1 szklanka cukru
+* 2 łyżki kakao
+* 3 żółtka
+* 3 szklanka mąki
+* proszek do pieczenia
+
+=== Masa serowa:
+* 1 kg twarogu
+* 1 ½ szklanka cukru
+* 4 żółtka
+* piana z 7 białek
+* 1 łyżka mąki ziemniaczanej
+* 1 kostka palmy
+* rodzynki
+
+== Przygotowanie
+
+Zrobić kulę i włożyć na 1 dzień do lodówki. ½ część kuli potrzeć na tarce na dół, ½ na wierzch.
+
+Wszystko razem wymieszać (dobrze) i wylać na blachę uprzednio wysypaną pierwszą częścią ciasta. Na to dać drugą część ciasta. Piec w temp ~200 st. C.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
