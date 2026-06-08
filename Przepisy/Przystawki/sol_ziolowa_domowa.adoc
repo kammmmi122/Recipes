@@ -1,4 +1,4 @@
-= Sól ziołowa domowa (Notatka/Przepis) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sól ziołowa domowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,15 +12,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* 0,5 kg soli kamiennej gruboziarnistej
+* po 2-3 łyżki suszonych ziół: majeranek, tymianek, bazylia, oregano, cząber, lubczyk, suszona natka pietruszki
+* 1 łyżka mielonego pieprzu
+* 1 łyżka suszonego czosnku (w granulkach)
 
 == Przygotowanie
-0,5 kg soli kamiennej gruboziarnistej
-
-po 2-3 łyżki suszonych ziół: majeranek, tymianek, bazylia, oregano, cząber, lubczyk, suszona natka pietruszki
-
-1 łyżka mielonego pieprzu
-
-1 łyżka suszonego czosnku (w granulkach)
 
 Wszystkie składniki dokładnie wymieszać w suchej misce. Przełożyć do szczelnych słoiczków. Używać do mięs, pomidorów i twarogu.
 

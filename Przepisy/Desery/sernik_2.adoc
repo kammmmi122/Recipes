@@ -1,4 +1,4 @@
-= Sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sernik 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -22,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 
 == Przygotowanie
 
+Przygotowanie sernika rozpoczynamy od zmielenia twarogu przynajmniej dwukrotnie, aby masa była idealnie gładka, oraz od rozpuszczenia i całkowitego ostudzenia kostki „Palmy”. Tradycyjnie do tej ilości sera oddzielamy żółtka od białek z około 6–8 jajek i w dużej misce ucieramy same żółtka z cukrem na puszysty, jasny kogel-mogel. Do utartych żółtek stopniowo, partiami dodajemy zmielony twaróg, cały czas delikatnie miksując, po czym wlewamy ostudzony płynny tłuszcz oraz kilka kropel olejku migdałowego. Następnie do masy wsypujemy suchy, żółty budyń oraz kaszę manną, które zapewnią odpowiednią zwartą strukturę sernika, a na koniec dorzucamy sparzone i odsączone rodzynki, dokładnie mieszając całość łyżką. W osobnym naczyniu ubijamy pozostałe białka na sztywną pianę i bardzo delikatnie, za pomocą szpatułki, łączymy ją z masą serową, wykonując powolne ruchy od dołu do góry. Gotową, puszystą masę wylewamy do formy wyłożonej papierem do pieczenia (lub spodem z kruchych ciasteczek) i pieczemy w piekarniku nagrzanym do 170-180°C przez około 60-70 minut, a po upieczeniu studzimy sernik przy lekko uchylonych drzwiach piekarnika, aby nie opadł.
 
 [.recipe-gallery]
 == Zdjęcia
