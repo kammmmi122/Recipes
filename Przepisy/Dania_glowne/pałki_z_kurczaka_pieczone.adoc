@@ -12,7 +12,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 * 🕒 czas przygotowania: 50 minut
 * 🕒 czas gotowania: 50 minut
 * 👥 4 porcje
-* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
+* 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki

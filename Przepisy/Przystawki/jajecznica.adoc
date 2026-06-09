@@ -12,7 +12,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 * 🕒 czas przygotowania: 15 minut
 * 🕒 czas gotowania: 15 minut
 * 👥 2-3 porcje
-* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
+* 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
