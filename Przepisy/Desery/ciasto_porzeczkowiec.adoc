@@ -15,7 +15,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 3/4 szklanki oleju roślinnego
+* ¾ szklanki oleju roślinnego
 * ½ szklanki wody
 * 1 szklanka cukru
 * 3 łyżki kakao
@@ -27,7 +27,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 * 200 g masła
 * ½ szklanki cukru pudru
 * 300 g dżemu porzeczkowego
-* ok. 2/3 szklanki nasączenia*
+* ok. ⅔ szklanki nasączenia*
 * 500 ml śmietanki do deserów 36% lub 30% (b. zimna)
 * 3 łyżki cukru pudru
 * 1 śmietan-fix

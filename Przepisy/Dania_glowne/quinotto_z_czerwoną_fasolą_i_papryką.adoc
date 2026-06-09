@@ -16,7 +16,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* komosa ryżowa - niecałe 2/3 szklanki (120 g)
+* komosa ryżowa - niecałe ⅔ szklanki (120 g)
 * fasola czerwona konserwowa - 1 puszka (260 g)
 * papryka żółta - ½ sztuki (70 g)
 * papryka zielona - ½ sztuki (70 g)
