@@ -4,6 +4,9 @@
 [.recipe-hero]
 image::20260216_222222.jpg[]
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina + czas pieczenia
 * 🕒 czas pieczenia: 40-50 minut

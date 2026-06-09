@@ -429,3 +429,41 @@ body {
     gap: 16px;
   }
 }
+
+
+/* ==========================================================================
+   PRZYCISK POWROTU NA STRONĘ GŁÓWNĄ
+   ========================================================================== */
+
+.back-to-home-wrapper {
+  margin: 10px 0 20px 0;
+  display: flex;
+}
+
+.back-to-home-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  background: var(--card-bg);
+  border: var(--border-subtle);
+  border-radius: 999px; /* Zaokrąglony kształt (jak filtry na głównej) */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+  transition: 
+    background 0.2s ease, 
+    color 0.2s ease, 
+    box-shadow 0.2s ease, 
+    border-color 0.2s ease;
+}
+
+.back-to-home-btn:hover {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
+  text-decoration: none;
+}

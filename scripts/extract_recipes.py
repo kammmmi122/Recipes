@@ -215,6 +215,10 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write('[.card-image-placeholder]\n')
             f.write('Brak zdjęcia przepisu 🍲\n\n')
 
+            # --- DODANO: Przycisk powrotu na stronę główną ---
+            f.write('[.back-to-home-wrapper]\n')
+            f.write('link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]\n\n')
+
             # 3. Szczegóły - klasa i lista bez pustej linii!
             f.write('[.recipe-details]\n')
             f.write('* 🕒 czas przygotowania: nie podano\n')

@@ -4,6 +4,9 @@
 [.recipe-hero]
 image::20240617_154401.jpg[]
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godziny
 * 🕒 czas gotowania: 5 godziny
