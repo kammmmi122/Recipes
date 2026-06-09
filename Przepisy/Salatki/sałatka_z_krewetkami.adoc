@@ -17,8 +17,8 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * 200 g oczyszczonych krewetek
-* 1/2 opakowania miksu sałat
-* 1/2 opakowania rukoli
+* ½ opakowania miksu sałat
+* ½ opakowania rukoli
 * 250 g pomidorków koktajlowych
 * 2 ząbki czosnku
 * 1 papryczka chili

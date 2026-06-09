@@ -1,0 +1,50 @@
+= Kurczak Generała Tso 🐔 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/kurczak-generala-tso[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 500 g udźca kurczaka (300 g samego mięsa bez skóry i kości)
+* 3 łyżki mąki ziemniaczanej
+* olej do smażenia
+* ¼ łyżeczki chili w płatkach lub 2 suszone papryczki chili
+* ½ łyżki startego imbiru
+* 2 ząbki czosnku
+* 2 łyżki sosu sojowego
+* 1 łyżka miodu
+* 1 łyżka octu ryżowego
+* 2 łyżki wody
+* 1 łyżka koncentratu pomidorowego
+* 100 g (1 torebka) ryżu np. jaśminowego
+* szczypiorek
+* ugotowane brokuły
+
+== Przygotowanie
+Usunąć skórę z udźca kurczaka, obkroić mięso od kości i pokroić je w kostkę. Gotowe udźce bez kości i skóry wystarczy pokroić.
+
+Ugotować ryż w osolonej wodzie, następnie wyjąć i odłożyć na talerz. W tej samej wodzie można ugotować różyczki brokuła.
+
+W miseczce wymieszać składniki sosu, odstawić.
+
+Rozgrzać wok lub głęboką większą patelnię, wlać olej na grubość ok. 2 cm. Gdy tłuszcz będzie gorący doprawić mięso solą, pieprzem i obtoczyć w mące ziemniaczanej.
+
+Kłaść stopniowo na rozgrzany tłuszcz i smażyć na dużym ogniu w sumie przez około 8 minut, aż mięso będzie dobrze wysmażone i lekko zrumienione. W międzyczasie 2 - 3 razy przewrócić je na inną stronę.
+
+Odlać większość tłuszczu pozostawiając ok. 2 łyżek. Dodać papryczki chili lub płatki, wlać sos, wymieszać i zagotować. Po chwili odstawić z ognia i wyłożyć na ugotowany ryż, posypać szczypiorkiem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

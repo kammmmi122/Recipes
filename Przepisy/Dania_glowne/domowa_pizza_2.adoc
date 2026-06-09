@@ -17,7 +17,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 == Składniki
 * 25 g świeżych drożdży (lub 7 g instant)
 * 150 ml ciepłej wody
-* 1/2 łyżeczki cukru
+* ½ łyżeczki cukru
 * 250 g mąki pszennej
 * 1 łyżeczka soli
 * 1 łyżka oliwy

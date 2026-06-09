@@ -18,7 +18,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 == Składniki
 * tortille kukurydziane rozm. 18 cm
 * 1 czerwona cebula lub biała ze szczypiorem
-* 1/2 puszki czarnej fasoli
+* ½ puszki czarnej fasoli
 * 200 g pieczarek
 * ser cheddar
 * 1 łyżka masła klarowanego

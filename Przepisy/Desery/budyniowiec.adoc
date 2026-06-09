@@ -15,7 +15,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 2 budynie na 1/2 l śmietanki
+* 2 budynie na ½ l śmietanki
 * 1 puszka brzoskwiń
 * 2 żółte galaretki
 * 1 kostka Kasi
@@ -26,7 +26,7 @@ Do soku dopełnić do 1 l wody.
 
 Ugotować budyń z cukrem, dodać 2 galaretki, rozmieszać, później 1 kostka Kasi i dobrze wymieszać.
 
-Na biszkopt położyć 1/2 budyniu, potem poukładać brzoskwinie i zalać resztę budyniu, położyć drugą część biszkoptu i posypać cukrem pudrem.
+Na biszkopt położyć ½ budyniu, potem poukładać brzoskwinie i zalać resztę budyniu, położyć drugą część biszkoptu i posypać cukrem pudrem.
 
 [.recipe-gallery]
 == Zdjęcia

@@ -1,0 +1,55 @@
+= Kaczka z pomarańczami 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 2-3 porcje
+* 🔗  https://picantecooking.com/pl/recipe/kaczka-z-pomaranczami-sanard-lorange[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 1 kaczka
+* 1 pomarańcza, podzielić na cząstki
+
+=== Do nacierania:
+* Skórka z 1 pomarańczy, zetrzeć
+* 1 łyżeczka 1 cukru
+* 1,5 łyżeczki soli
+* 1 łyżeczka zmielonego czarnego pieprzu
+
+=== Na sos:
+* 3 stołowe łyżki cukru
+* 3 stołowe łyżki czerwonego octu winnego
+* 200 ml bulionu z kurczaka lub kaczki
+* 150 ml słodkiego czerwonego wina
+* 50 ml likieru pomarańczowego lub brandy
+* 2 łyżeczki mąki ziemniaczanej
+* 2 stołowe łyżki wody
+* 2 pomarańcze, podzielić na cząstki
+
+== Przygotowanie
+1) W małym naczyniu wymieszać wszystkie składniki do nacierania.
+2) Mieszanką natrzeć kaczkę ze wszystkich stron.
+3) Położyć kaczkę piersiami do dołu w żaroodpornym naczyniu z pokrywką. 
+Do tego celu najlepiej nadaje się brytfanna. Nakryć naczynie pokrywką (lub zawinąć w folię, jeśli nie ma naczynia z pokrywką) i umieścić w chłodnym miejscu na noc. (Jeśli się bardzo spieszycie, to można zacząć piec natychmiast po natarciu i rozgrzaniu piekarnika)
+4) W dniu zapiekania wnieść kaczkę do kuchni na 1 godzinę przed przygotowaniem, żeby mięso doszło do temperatury pokojowej.
+5) Rozgrzać piekarnik do temperatury 160°C
+6) Nie odkrywając brytfanny wstawić kaczkę do rozgrzanego piekarnika. Piec do gotowości około 1,5 -2 godziny, obracając kaczkę co 30 minut, do momentu, aż mięso nie zmięknie.
+7) Wyjąć kaczkę z piekarnika i przełożyć w czyste żaroodporne naczynie, najlepiej z rusztem. Odstawić na 30 minut odpocząć.
+8) W międzyczasie przygotować sos. W brytfannę po kaczce wlać wino, likier, sok pozostały po segmentacji pomarańczy i bulion. Odparować połowę płynu na średnim ogniu, zeskrobując z dna wszystko to, co przykleiło się podczas pieczenia.
+9) Dodać cząstki z 2 pomarańczy i mąkę ziemniaczaną wymieszaną z niewielką ilością wody. Doprowadzić do wrzenia i zdjąć z ognia. Spróbować na smak. Doprawić solą i cukrem, jeśli to konieczne i odstawić na bok.
+10) Piekarnik rozgrzać do temperatury 230°C. Ponownie wstawić kaczkę do rozgrzanego piekarnika. Kaczkę dobrze podrumienić przez około 15-18 minut. Wyjąć z piekarnika i podawać z sosem, który można ponownie podgrzać w razie potrzeby. Przed podaniem obłożyć kaczkę świeżymi kawałkami pomarańczy.
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

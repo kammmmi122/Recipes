@@ -221,12 +221,12 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
 
             # 3. Szczegóły - klasa i lista bez pustej linii!
             f.write('[.recipe-details]\n')
-            f.write('* 🕒 czas przygotowania: nie podano\n')
+            f.write('* 🕒 czas przygotowania: 3 godziny\n')
             if potions_text:
                 clean_portions = potions_text.replace("*", "").strip()
                 f.write(f'* 👥 {clean_portions}\n')
             else:
-                f.write('* 👥 2-3 porcje\n')
+                f.write('* 👥 4 porcje\n')
             f.write(f'* 🔗 {link}[link do źródła przepisu]\n\n')
 
             # 4. Kolumny - Składniki i Przygotowanie jako nagłówki pod jedną klasą
@@ -239,7 +239,8 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write('== Przygotowanie\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
-
+            f.write('\n')
+            
             # 5. Galeria zdjęć na samym dole
             f.write('[.recipe-gallery]\n')
             f.write('== Zdjęcia\n\n')

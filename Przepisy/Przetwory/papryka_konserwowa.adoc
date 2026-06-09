@@ -18,7 +18,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 * papryka
 === Zalewa:
 * 3/4 szklanki octu 10%
-* 1/2 łyżki soli
+* ½ łyżki soli
 * 4 szklanki wody
 * 5 łyżek cukru
 * 2 łyżki oleju

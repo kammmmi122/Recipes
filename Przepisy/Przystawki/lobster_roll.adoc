@@ -1,0 +1,44 @@
+= Lobster roll 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 👥 6 porcji
+* 🔗 https://madameedith.com/przepis/kanapka-homarem-lobster-roll/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 200-250 g ugotowanego mięsa z homara (z 2 małych homarów po ok. 350 g każdy)
+* 1 czubata łyżka masła
+* 4-6 podłużnych bułek
+* 3 laski selera naciowego
+* 1 nieduża marchewka
+* kilka liści sałaty rzymskiej
+* 2-3 łyżeczki majonezu
+* sól i pieprz
+* sok z połowy cytryny
+* natka pietruszki
+
+== Przygotowanie
+
+Homara rozmrażamy, gotujemy i obieramy wg wskazówek z wpisu: Jak gotować homara? 
+Mięso kroimy na mniejsze kawałki.
+Masło roztapiamy w rondelku i palimy. Polewamy mięso homara palonym masłem.
+Marchewkę ścieramy na tarce, laski selera i sałatę po dokładnym umyciu kroimy w drobne kawałki.
+Do miski wrzucamy startą marchewkę, posiekaną sałatę i selera oraz majonez. Doprawiamy do smaku solą, pieprzem i sokiem z cytryny.
+Mieszamy.
+Bułki przecinamy od góry. Rozchylamy, ubijamy w środku. Nakładamy po łyżce sałatki, na wierzchu układamy kawałki homara.
+Kanapki z homarem możemy posypać natką pietruszki, lekko oprószyć pieprzem i polać kilkoma kroplami soku z cytryny.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

@@ -1,0 +1,60 @@
+= Kurczak po koreańsku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/kurczak-po-koreansku[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 500 g udźca kurczaka (300 g samego mięsa bez skóry i kości)
+* 3 łyżki skrobi ziemniaczanej
+* 1 roztrzepane jajko
+* 3 łyżki mąki pszennej + po 1 łyżeczce słodkiej papryki i suszonego czosnku
+* olej do smażenia (np. kokosowy)
+* 2 łyżki oleju sezamowego
+* 2 ząbki czosnku
+* 2 łyżki sosu sojowego
+* 2 łyżki słodkiego sosu chilli
+* 1 łyżka octu ryżowego
+* 3 łyżki ketchupu
+* 2 łyżki miodu
+* 1 łyżka cukru
+* 100 g (1 torebka) ryżu
+* biały sezam
+* szczypiorek
+
+== Przygotowanie
+Usunąć skórę z udźca kurczaka, obkroić mięso od kości i pokroić je w kostkę. Gotowe udźce bez kości i skóry wystarczy pokroić. Mięso doprawić solą i pieprzem.
+
+Przygotować dodatki: ugotować ryż i uprażyć sezam na suchej patelni.
+
+Do jednego talerza wsypać mąkę ziemniaczaną, do drugiego wbić jajko i roztrzepać je. Do trzeciego wsypać mąkę pszenną, dodać paprykę, czosnek, sól i pieprz, wymieszać.
+
+W miseczce wymieszać składniki sosu, odstawić.
+
+Rozgrzać wok lub głęboką większą patelnię, wlać olej na grubość ok. 2 cm.
+
+Kawałki kurczaka najpierw obtoczyć w mące ziemniaczanej, następnie w roztrzepanym jajku, na koniec w mące pszennej z przyprawami.
+
+Kłaść stopniowo na rozgrzany tłuszcz i smażyć na dużym ogniu w sumie przez około 8 minut, aż mięso będzie dobrze wysmażone i lekko zrumienione. W międzyczasie 2 - 3 razy przewrócić je na inną stronę. Wyjąć łyżką cedzakową i ułożyć na ręcznikach papierowych.
+
+Wylać resztę tłuszczu z patelni. Wlać składniki sosu, wymieszać i zagotować.
+
+Dodać obsmażone kawałki kurczaka i smażyć razem przez ok. 2 minuty, w międzyczasie od czasu do czasu zamieszać.
+
+Podawać na ugotowanym ryżu, posypać sezamem i szczypiorkiem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

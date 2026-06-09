@@ -1,0 +1,41 @@
+= Wieprzowina z kurczakiem w sosie adobo 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 2 godziny
+* 👥 2-3 porcje
+* 🔗  https://www.magazynkuchenny.com/wieprzowina-z-kurczakiem-w-sosie-adobo/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* ½ kg surowego boczku, ze skórą
+* 600 g kawałków kurczaka (najlepiej pałki i biodra)
+* ¼ szklanki (60 ml) octu spirytusowego 10%
+* ¼ szklanki (60 ml) sosu sojowego
+* 6 dużych ząbków czosnku, posiekanych
+* ½ łyżeczki ziaren czarnego pieprzu, pokruszonych
+* 2-3 liście laurowe
+* olej do smażenia
+* ok. 1 litr wody
+* opcjonalnie: sól
+
+== Przygotowanie
+
+Boczek pokrój w duże kawałki i włóż do miski razem z kurczakiem. Ocet oraz sos sojowy wymieszaj z czosnkiem, pieprzem i liśćmi laurowymi. Marynatą zalej mięso i odstaw przynajmniej na godzinę. Obróć raz lub dwa w trakcie marynowania.
+
+Wyjmij mięso z marynaty, osusz je. Marynatę zachowaj. Na dużej patelni rozgrzej niewielką ilość oleju i zrumień najpierw boczek, ze wszystkich stron, następnie kurczaka. Przełóż do garnka o grubym dnie, zalej odłożoną marynatą i dolej tyle wody, by lekko zakryła mięso. Patelnię zalej niewielką ilością wody, zagotuj ją i zamieszaj, żeby rozpuścić, to co przywarło w trakcie smażenia. Dodaj do garnka z mięsem. Gotuj na bardzo małym ogniu, pod przykryciem.  Gdy kawałki kurczaka się ugotują, wyjmij je (po około 20 minutach) i odłóż na bok. Boczek gotuj dalej, już bez przykrycia, ale dalej na bardzo małym ogniu, aż zrobi się bardzo miękki, a większość płynu odparuje, około 1½ godziny. Zamieszaj od czasu do czasu. Gdy zostanie mniej więcej ¼ sosu, dodaj z powrotem kurczaka i chwilę pogotuj, by się podgrzał. Sprawdź, czy sosu nie trzeba dosolić.
+
+Podawaj z ryżem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

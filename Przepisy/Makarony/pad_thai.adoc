@@ -1,0 +1,54 @@
+= Pad thai 🐔 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 2 porcje
+* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/pad_thai/przepis.html [link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 100 g makaronu ryżowego (wstążki 3-5 mm)
+* 2 łyżki oleju roślinnego (np. kokosowego)
+* 3 ząbki czosnku
+* opcjonalnie: 1 łyżeczka suszonych krewetek
+* 10 krewetek (obranych) lub 1 pierś kurczaka pokrojona w kosteczkę lub 100 g tofu
+* 2 jajka
+* 1 szklanka kiełków fasoli mung
+* 2 dymki lub 1 pęczek szczypiorku (biała i jasnozielona część)
+* 2 łyżki posiekanych prażonych orzeszków ziemnych
+* opcjonalnie: świeża kolendra, płatki chili, limonka
+* 4 łyżki sosu rybnego
+* 1 łyżka soku z limonki
+* 2 łyżki pasty tamaryndowej*
+* 2 łyżki cukru
+* 1 łyżka sosu sriracha (lub ½ łyżki płatków chili)
+* 2 łyżki wody
+
+== Przygotowanie
+Zagotować wodę w garnku, dodać makaron ryżowy i gotować przez ok. 4 minuty. Odcedzić na sitku i przepłukać zimną wodą.
+
+Dokładnie wymieszać wszystkie składniki sosu w miseczce.
+
+W woku lub na dużej patelni z nieprzywierającym dnem podgrzać olej. Dodać starty czosnek, po chwili suszone krewetki, podsmażyć ok. 1 minutę.
+
+Dodać krewetki (lub kurczaka lub tofu) i smażyć ok. 2-3 minuty. Wbić jajka i podsmażyć wszystko przez ok. 1 minutę delikatnie mieszając.
+
+Dodać makaron i smażyć mieszając ok. 4 minuty (mniej więcej w połowie tego czasu wlać sos).
+
+Na koniec dodać kiełki i posiekaną dymkę (można zachować część do dekoracji) i jeszcze raz wszystko wymieszać.
+
+Posypać posiekanymi orzeszkami ziemnymi i zachowaną częścią kiełków oraz dymki. Można dodatkowo skropić limonką oraz posypać listkami kolendry i płatkami chili.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

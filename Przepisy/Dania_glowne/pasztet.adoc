@@ -14,13 +14,13 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 1/2 kg surowego boczku lub podgardla
+* ½ kg surowego boczku lub podgardla
 * 1 kg wieprzowiny (np. łopatka, karczek, szynka, biodrówka)
 * 1 kg wołowiny (bez kości, np. antrykot, udziec)
 * 3 średnie cebule
-* 1/2 szklanki wody
-* przyprawy: 2 łyżeczki soli, 2 listki laurowe, 4 szt. ziela angielskiego, 1 łyżeczka zmielonego pieprzu i 1/2 łyżeczki gałki muszkatołowej
-* 1/2 podłużnej bułki np. paryskiej
+* ½ szklanki wody
+* przyprawy: 2 łyżeczki soli, 2 listki laurowe, 4 szt. ziela angielskiego, 1 łyżeczka zmielonego pieprzu i ½ łyżeczki gałki muszkatołowej
+* ½ podłużnej bułki np. paryskiej
 * 5 dkg wątróbki drobiowej (opcjonalnie)
 * 5 jajek
 * smalec do wysmarowania formy
