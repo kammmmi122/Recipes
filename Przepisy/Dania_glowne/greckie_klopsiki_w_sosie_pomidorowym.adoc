@@ -11,7 +11,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
 * 👥 2-3 porcje
-* 🔗 https://polikala.com/index.php/2022/1½2/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
+* 🔗 https://polikala.com/index.php/2022/11/22/keftedakia-kefetedes-greckie-klopsiki-pelne-smaku/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
