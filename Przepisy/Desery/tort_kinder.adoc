@@ -4,6 +4,9 @@
 [.recipe-hero]
 image::20260530_165936.jpg[]
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: 1,5 godziny
 * 🕒 czas chłodzenia: minimum 6 godzin (najlepiej cała noc)

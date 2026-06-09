@@ -5,6 +5,9 @@
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas gotowania: około 12 godzin
 * 👥 4 porcji

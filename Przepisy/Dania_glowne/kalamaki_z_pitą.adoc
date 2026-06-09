@@ -4,11 +4,14 @@
 [.recipe-hero]
 image::20250725_180813.jpg[]
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
 * 👥 4 porcje
-* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
+* 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki

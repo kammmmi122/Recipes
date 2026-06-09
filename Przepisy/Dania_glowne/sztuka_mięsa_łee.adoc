@@ -5,10 +5,13 @@
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: nie podano
 * 👥 4 porcje
-* 🔗 https://www.kwestiasmaku.com[link do źródła przepisu]
+* 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki

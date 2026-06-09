@@ -4,6 +4,9 @@
 [.recipe-hero]
 image::20251230_232424.jpg[]
 
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
 [.recipe-details]
 * 🕒 czas przygotowania: nie podano
 * 👥 2-3 porcje
