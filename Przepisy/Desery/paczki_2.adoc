@@ -1,4 +1,4 @@
-= Pączki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pączki 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -27,6 +27,11 @@ Brak zdjęcia przepisu 🍲
 
 == Przygotowanie
 
+W ciepłym (ale nie gorącym) mleku rozpuścić drożdże z dodatkiem 3 łyżek cukru oraz kilku łyżek mąki. Odstawić rozczyn w ciepłe miejsce na około 10-15 minut, aż zacznie mocno pracować i pienić się. W międzyczasie roztopić pół kostki tłuszczu (oraz opcjonalnie 20 dag masła, jeśli stanowi część bazy tłuszczowej) i odstawić do przestygnięcia. W dużej misce utrzeć 4 całe jajka oraz 3 żółtka z cukrem pudrem na puszystą, jasną masę.
+
+Do miski z puszystą masą jajeczną przesiać pozostałą mąkę (łącznie 6,5 szklanki), dodać szczyptę soli, startą skórkę z cytryny oraz wyrośnięty rozczyn drożdżowy. Zacząć wyrabiać ciasto ręcznie lub mikserem z hakiem. W trakcie wyrabiania stopniowo wlewać przestudzony, roztopiony tłuszcz. Ciasto gnieść energicznie przez około 10-15 minut, aż stanie się gładkie, elastyczne i zacznie łatwo odklejać się od dłoni lub ścianek miski. Gotowe ciasto przykryć ściereczką i odstawić w ciepłe miejsce na około godzinę do podwojenia objętości.
+
+Wyrośnięte ciasto przełożyć na oprószoną mąką stolnicę, krótko zagnieść i formować równe kulki (można je nadziać ulubioną konfiturą przed smażeniem lub szprycować po usmażeniu). Uformowane pączki ułożyć na ściereczce, przykryć i pozostawić do ponownego wyrośnięcia na około 20-25 minut. Smażyć w głębokim, rozgrzanym tłuszczu na średnim ogniu z obu stron na złocisty kolor. Po usmażeniu odsączyć na papierowym ręczniku i udekorować lukrem lub cukrem pudrem.
 
 [.recipe-gallery]
 == Zdjęcia
