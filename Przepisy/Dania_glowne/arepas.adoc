@@ -1,4 +1,4 @@
-= Arepas 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Arepas 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
