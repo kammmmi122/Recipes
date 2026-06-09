@@ -1,0 +1,31 @@
+= Makaron ze szpinakiem i anchois 🐟  +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 350g makaronu pióra
+* 600g szpinaku świeżego lub mroz.
+* 1 ząbek czosnku
+* 2 anchois
+* 100 ml oliwy
+* sól
+* pieprz
+
+== Przygotowanie
+
+Makaron pióra ugotować al dente w osolonej wodzie, a następnie odcedzić. Na dużej patelni rozgrzać oliwę, dodać drobno posiekany ząbek czosnku oraz fileciki anchois, smażąc je na małym ogniu, aż rybki całkowicie się rozpadną. Następnie na patelnię wrzucić świeży lub rozmrożony szpinak, doprawić solą oraz pieprzem i całość smażyć przez około 5 minut, regularnie mieszając. Do gotowego sosu szpinakowego dorzucić ugotowany makaron, dokładnie wymieszać, aby dobrze oblepił rurki, i chwilę razem podgrzewać przed podaniem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

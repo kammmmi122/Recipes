@@ -1,0 +1,30 @@
+= Faworki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 450 g mąki pszennej
+* 5 żółtek
+* 1 łyżka spirytusu
+* 3/4 szklanki śmietany 18%
+* szczypta soli
+* olej do smażenia
+
+== Przygotowanie
+
+Mąkę, żółtka, szczyptę soli, spirytus oraz śmietanę umieścić w misce i połączyć, a następnie energicznie wyrobić na jednolite, elastyczne ciasto (warto je dodatkowo mocno pobić wałkiem, aby wtłoczyć jak najwięcej powietrza). Gotowe ciasto zawinąć w folię i odłożyć na 30 minut do lodówki. Po schłodzeniu ciasto bardzo cienko rozwałkować, pokroić na paski, w środku każdego paska zrobić nacięcie i przewinąć przez nie jeden koniec, po czym smażyć faworki na mocno rozgrzanym oleju z obu stron na złoty kolor.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

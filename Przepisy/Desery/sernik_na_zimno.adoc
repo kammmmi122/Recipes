@@ -1,0 +1,45 @@
+= Sernik na zimno 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+image::20240430_144110.jpg[]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 5 godzin
+* 👥 2-3 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/sernik-na-zimno[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 1 galaretka truskawkowa
+* 600 g truskawek
+* 1 mała paczka (ok. 100 g) biszkoptów
+* 1/2 szklanki mleka
+* 2 łyżki żelatyny (spożywczej, uniwersalnej)
+* 1 kg twarogu sernikowego (zmielonego, z wiaderka)
+* 150 g śmietanki 30% lub 36%
+* 1 op. cukru wanilinowego
+* 3/4 szklanki cukru pudru
+
+== Przygotowanie
+Przygotować galaretkę zgodnie z instrukcją na opakowaniu odejmując 50 ml wody. Po przygotowaniu przelać galaretkę do czystej miski w celu szybszego ostudzenia i odstawić w chłodne miejsce, np. do lodówki.
+
+Truskawki opłukać i dokładnie osuszyć, oderwać szypułki.
+
+Na dno tortownicy o średnicy 24 cm położyć papier do pieczenia, zapiąć obręcz wypuszczając papier na zewnątrz. Na spodzie poukładać biszkopty.
+
+Mleko zagotować, odstawić z ognia, wsypać żelatynę i mieszając rozpuścić.
+
+Do większej miski włożyć twaróg sernikowy, dodać śmietankę, cukier puder, cukier wanilinowy i wymieszać łyżką.
+
+Do jeszcze ciepłej i płynnej żelatyny dodać 1 - 2 łyżki masy serowej i wymieszać rózgą. Dodać kolejne 2 - 3 łyżki masy serowej i znów wymieszać rózgą. Powtórzyć jeszcze z kilkoma łyżkami masy serowej, następnie przełożyć całość do pozostałego sera w misce i wymieszać rózgą na jednolitą masę.
+
+Dodać 2/3 ilości pokrojonych na połówki truskawek, delikatnie wymieszać łyżką i wyłożyć na spód z biszkoptów, wyrównać powierzchnię i wstawić do lodówki na ok. pół godziny. W tym czasie galaretka wystudzi się a sernik lekko stężeje.
+
+Wyjąć sernik z lodówki i powciskać w niego resztę truskawek pokrojonych na połówki. Łyżką wylewać galaretkę i wstawić do lodówki do całkowitego stężenia.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+image::20240430_144110.jpg[]

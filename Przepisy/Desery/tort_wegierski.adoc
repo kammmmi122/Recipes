@@ -1,0 +1,42 @@
+= Tort węgierski 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 6 jaj
+* 20 dag cukru
+* 4 jaja
+* 3/4 szklanki. cukru
+* 2 galaretki (różne)
+* 4-5 łyżek kakao
+* 2 kostka. tłuszczu
+* 3 czubate łyżki żelatyny
+* 1/2 kostka. masła
+* 1 szklanki. cukru pudru
+* 2 łyżki wody
+* 3 łyżki kakao
+
+== Przygotowanie
+=== Biszkopt kakaowy:
+Sześć jaj ubić z 20 dag cukru na parze, a następnie ostudzić. Do puszystej masy jajecznej dodać płaską łyżkę mąki, półtorej łyżki kakao oraz 20 dag mączki ziemniaczanej, całość delikatnie wymieszać, przelać do formy i upiec.
+
+==== Masa:
+Galaretki rozpuścić, ostudzić, odstawić do stężenia, a następnie pokroić w kostkę. Orzechy zalać wrzącą wodą, zaparzyć i posiekać. Żelatynę namoczyć w zimnej wodzie, po czym lekko podgrzać do rozpuszczenia. Cztery białka ubić z trzema czwartymi szklanki cukru na sztywną pianę, dodając pod koniec cztery żółtka. Dwie kostki tłuszczu utrzeć na puch, po czym dodawać po trochu przygotowaną masę jajeczną, cztery do pięciu łyżek kakao, namoczone w spirytusie wiśnie oraz rodzynki, pokrojoną w kostkę galaretkę, odrobinę pozostałego ze swobodnego moczenia owoców spirytusu, posiekane orzechy i płynną, ogrzaną żelatynę. Wszystko dokładnie wymieszać, połączyć z odsączonym kompotem z agrestu i przełożyć przygotowaną masą przekrojony wcześniej biszkopt.
+
+=== Polewa:
+Pół kostki masła, szklankę cukru pudru, dwie łyżeczki wody oraz trzy łyżeczki kakao umieścić w rondelku, zagotować do połączenia składników, ostudzić i oblać wierzch gotowego tortu.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

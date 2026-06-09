@@ -1,0 +1,34 @@
+= 3 bit 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 7 p. herbatników
+* 2 budynie śmietankowe na 1/2 l
+* 2 łyżki cukru
+* 1 cukru waniliowego
+* 2 śnieżki
+* 1 puszka mleka wysokosłodzonego krówki
+* 1 kostka masła
+* 1/2 l mleka z 2 budyniami i 2 łyżki cukru, ostudzony budyń rozetrzeć masłem, ugotować mleko w puszce 2,5 godz.
+* 1/2 l mleka
+* duża śmietana 18% kwaśna
+
+== Przygotowanie
+
+Zamkniętą puszkę mleka słodzonego gotować w garnku z wodą przez dwie i pół godziny, aby powstał karmel, a następnie całkowicie ostudzić. Dwa budynie śmietankowe ugotować w połowie litra mleka z dodatkiem dwóch łyżek cukru, po czym odstawić do wystudzenia i zimny budyń zmiksować na gładką masę z kostką miękkiego masła. Dużą kwaśną śmietanę 18% ubić z dwoma śnieżkami i cukrem waniliowym na sztywny krem. Na dnie formy ułożyć pierwszą warstwę herbatników, rozprowadzić na nich masę budyniową, przykryć drugą warstwą herbatników, wyłożyć ostudzony karmel z puszki, ułożyć trzecią warstwę herbatników i pokryć ją ubitą śmietaną ze śnieżkami. Na koniec wierzch całości udekorować polewą czekoladową i wstawić ciasto do lodówki, aby herbatniki zmiękły.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

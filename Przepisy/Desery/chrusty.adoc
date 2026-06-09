@@ -1,0 +1,33 @@
+= Chrusty 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 3 jaja
+* 1 kubek śmietany
+* 1 kg mąki
+* 1/2 kostka margaryny
+* 1 łyżka octu
+* 1 łyżka oleju
+* pr do piecz (mały)
+* sól - x
+* soda - x
+
+== Przygotowanie
+
+Mąkę wymieszać na stolnicy z proszkiem do pieczenia, sodą oraz szczyptą soli, a następnie posiekać z miękką margaryną. Dodać jajka, śmietanę, ocet oraz łyżkę oleju i zagnieść jednolite, elastyczne ciasto, które warto mocno pobić wałkiem w celu napowietrzenia. Ciasto rozwałkować bardzo cienko, pokroić na podłużne paski, naciąć każdy w środku i przewinąć jeden koniec przez otwór. Smażyć chrusty na mocno rozgrzanym, głębokim tłuszczu z obu stron na złoty kolor, po czym odsączyć na papierowym ręczniku.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

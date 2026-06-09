@@ -1,0 +1,33 @@
+= Kurczak kuchnia indyjska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* cebula, ananas, jabłka (pokroić w kostkę, usmażyć na oliwie)
+* ryż jaśm + usmażyć + tymianek
+* liść laurowy, curry
+* zalać wodą + kostka rosoł
+* zagotować i do pieca dodać odrobinę masła + rodzynki (namoczone)
+* filet z kurczaka pokroić cienko + sól + papryka ostra
+* usmażyć na oleju
+* olej bez panierki
+* na tym tłuszczu cebula, ananas, jabłka, curry, papryka * ostra, śmietana + kurczak
+
+== Przygotowanie
+
+Ryż jaśminowy krótko obsmażyć na patelni z dodatkiem tymianku, liścia laurowego oraz curry, po czym zalać wodą z kostką rosołową, zagotować, dodać odrobinę masła oraz namoczone wcześniej rodzynki i wstawić do piekarnika, aby dogotował się do miękkości. Cienko pokrojony filet z kurczaka oprószyć solą oraz ostrą papryką i usmażyć na oleju bez panierki, a następnie zdjąć z patelni. Na tym samym tłuszczu usmażyć pokrojoną w kostkę cebulę, ananas oraz jabłka, doprawić curry i ostrą papryką, a na koniec zalać śmietaną, wrzucić podsmażonego kurczaka i całość razem poddusić, podając gotowe mięso z sosem w towarzystwie przygotowanego ryżu.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

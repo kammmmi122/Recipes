@@ -1,0 +1,28 @@
+= Kotlety z indyka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* mąka
+* jajka
+* płatki kukurydz. - zgnieść ręką
+* bazylia podarta
+
+== Przygotowanie
+
+Mięso z piersi indyka pokroić na porcje, delikatnie rozbić tłuczkiem, a następnie oprószyć z obu stron solą, pieprzem oraz podartymi listkami świeżej bazylii. Przygotować trzy głębokie talerze do panierowania: do pierwszego wsypać mąkę, w drugim roztrzepać jajka, a w trzecim umieścić płatki kukurydziane rozgniecione wcześniej dłonią na mniejsze kawałki. Każdy kotlet obtaczać kolejno w mące, maczać w roztrzepanym jajku, a na koniec dokładnie oblepić chrupiącymi płatkami kukurydzianymi. Tak przygotowane kotlety smażyć na rozgrzanym oleju na średnim ogniu przez kilka minut z każdej strony, aż panierka będzie złocista i chrupiąca, a mięso w środku idealnie soczyste i usmażone.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,33 @@
+= Sałatka meksykańska 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 puszka groszku
+* 1 puszka kukurydzy
+* 1 puszka fasoli czerwonej (fasolę przepłukać ciepłą wodą)
+* 1 puszka tuńczyka w sosie własnym
+* 1 słoik cebuli srebrnej marynowanej
+* 1 słoik majonezu
+* sól
+* cukier
+* pieprz do smaku
+
+== Przygotowanie
+
+Groszek, kukurydzę, tuńczyka oraz cebulę srebrną dokładnie odsączyć na sicie z zalewy. Czerwoną fasolę przełożyć na sitko, dokładnie przepłukać ciepłą wodą i również dobrze odsączyć. Odsączone warzywa oraz rozdrobnionego tuńczyka przełożyć do jednej dużej miski. Cebulki marynowane można opcjonalnie pokroić na połówki lub dodać w całości. Do składników dodać majonez, a następnie całość delikatnie wymieszać. Na koniec doprawić sałatkę do smaku solą, odrobiną cukru oraz pieprzem. Przed podaniem schłodzić w lodówce, aby smaki się połączyły.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

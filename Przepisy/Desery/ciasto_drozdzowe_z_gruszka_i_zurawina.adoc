@@ -1,0 +1,37 @@
+= Ciasto drożdżowe z gruszką i żurawiną 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 350 dag mąki pszennej
+* 7 g suchych drożdży 1 op
+* 70 ml mleka ciepłego
+* 60 g cukru
+* 3 jaja
+* 100 g masła stopionego
+* 70 g czekolady pokruszonej
+* 2 gruszki (obrane pokrojone)
+* 2 łyżki rozt. masła (na posmarowanie przed włożeniem do pieca)
+* sól x
+* łyżeczka soku z cyt.
+* garść żurawiny suszonej
+* cukier puder z cyn. do posypania
+
+== Przygotowanie
+
+Suche drożdże wymieszać w miseczce z ciepłym mlekiem oraz połową łyżeczki cukru, po czym odstawić na około 10 minut do wyrośnięcia. Do dużej miski wsypać mąkę, dodać szczyptę soli, przygotowany rozczyn, pozostały cukier roztrzepany z jajkami oraz stopione, przestudzone masło. Wszystkie składniki dokładnie połączyć i wyrabiać ciasto, aż stanie się gładkie i elastyczne, a następnie przykryć miskę ściereczką i odstawić w ciepłe miejsce na 60 minut do wyrośnięcia. Gotowe ciasto przełożyć do formy, na jego wierzchu ułożyć pokrojone gruszki skropione sokiem z cytryny, posypać pokruszoną czekoladą oraz żurawiną, delikatnie wciskając dodatki w masę. Przed włożeniem do pieca całość posmarować dwiema łyżkami roztopionego masła, upiec na złoty kolor, a po ostudzeniu posypać cukrem pudrem wymieszanym z cynamonem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

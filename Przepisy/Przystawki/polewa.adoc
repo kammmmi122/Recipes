@@ -1,0 +1,28 @@
+= Polewa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 łyżki palmy
+* 2 łyżki mleka
+* ½ szklanki cukru
+* 2 łyżki kakao
+
+== Przygotowanie
+
+Przygotowanie polewy rozpoczynamy od umieszczenia w małym rondelku dwóch łyżek tłuszczu „Palma”, dwóch łyżek mleka oraz pół szklanki cukru. Całość podgrzewamy na małym ogniu, często mieszając, aż tłuszcz całkowicie się rozpuści, a cukier dobrze połączy z płynem. Gdy masa zacznie się delikatnie gotować, zdejmujemy rondelek z ognia, wsypujemy dwie łyżki przesianego kakao i energicznie mieszamy łyżką lub trzepaczką, aż powstanie gładka, lśniąca emulsja bez grudek. Tak przygotowaną, ciepłą polewę odstawiamy na kilka minut do lekkiego przestudzenia i zgęstnienia, po czym od razu dekorujemy nią upieczone ciasta lub babki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,34 @@
+= Rogale 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+* mąka: 0,85 | 0,42
+* cukier: 0,08 | 0,04
+* palma: 0,10 | 0,05
+* jaja: 3 | 1 ½
+* drożdże: 0,05 | 2,5 dag
+* mleko: 1 ½ | ¾
+* marmolada
+* cukier
+* c. waniliowy
+
+== Przygotowanie
+
+Prace rozpoczynamy od przygotowania rozczynu drożdżowego, rozcierając w miseczce świeże drożdże z łyżeczką cukru, odrobiną mąki oraz częścią ciepłego (ale nie gorącego) mleka, a następnie odstawiamy go w ciepłe miejsce do wyrośnięcia. W międzyczasie rozpuszczamy w rondelku kostkę „Palmy” i studzimy ją, a jaja ucieramy z pozostałym cukrem i cukrem waniliowym na puszystą masę. Do dużej miski przesiewamy mąkę, dodajemy wyrośnięty rozczyn, ubite jajka oraz resztę letniego mleka, po czym przystępujemy do wyrabiania ciasta, dolewając pod koniec płynny, przestudzony tłuszcz. Elastyczne, gładkie ciasto przykrywamy ściereczką i odstawiamy w ciepłe miejsce do podwojenia objętości. Gdy wyrośnie, dzielimy je na mniejsze części, każdą rozwałkowujemy na kształt koła i kroimy promieniście na trójkąty. U podstawy każdego trójkąta nakładamy porcję marmolady, po czym zwijamy je w kierunku wierzchołka i delikatnie zaginamy brzegi, formując kształt rogali. Gotowe rogale układamy na blisze wyłożonej papierem do pieczenia, pozwalamy im podrosnąć przez około piętnaście minut, a następnie wstawiamy do piekarnika nagrzanego do 180°C i pieczemy przez około 15-20 minut, aż ładnie się zrumienią.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

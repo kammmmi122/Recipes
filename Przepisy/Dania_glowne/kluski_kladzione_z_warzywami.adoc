@@ -1,0 +1,39 @@
+= Kluski kładzione z warzywami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1/2 cebula
+* słupki marchewki
+* słup por
+* cukinia
+* sól
+* zioła prowansalskie
+* oregano
+* masło + oliwa 10 minut
+
+=== Ciasto kładzione
+
+* mąka (20 dag) + jaja (3) + woda + sól
+* Woda + sól
+
+== Przygotowanie
+
+W misce przygotować ciasto na kluski kładzione: połączyć mąkę, jajka, szczyptę soli oraz odrobinę wody. Całość energicznie wymieszać łyżką na gładkie, dość gęste ciasto, które powoli spływa z łyżki. W dużym garnku zagotować wodę z solą. Za pomocą łyżki zamaczanej we wrzątku kłaść małe porcje ciasta bezpośrednio na gotującą się wodę. Gdy kluski wypłyną na powierzchnię, gotować je jeszcze przez około 1–2 minuty, po czym odcedzić na sitku.
+
+Cebulę pokroić w piórka, a marchewkę, pora i cukinię w równe słupki. Na dużej patelni rozgrzać masło z dodatkiem oliwy, wrzucić przygotowane warzywa, doprawić solą, ziołami prowansalskimi oraz oregano, a następnie smażyć całość przez około 10 minut, aż warzywa lekko zmiękną, ale pozostaną chrupkie. Na koniec na patelnię z warzywami wrzucić ugotowane kluski kładzione. Całość dokładnie wymieszać i podsmażyć razem jeszcze przez chwilę, aby smaki idealnie się połączyły.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

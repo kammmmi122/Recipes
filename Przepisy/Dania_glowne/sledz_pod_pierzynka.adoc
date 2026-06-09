@@ -1,0 +1,31 @@
+= Śledź pod pierzynką 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg ziemniaków }
+* 3 marchewki } ugotować
+* 3 buraki } potrzeć
+* 3 jajka
+* cebula x 2 pokrojona, osolić
+* 1/2 kg śledzi w oleju (pokroić w paseczki)
+* majonez 1/2 l
+
+== Przygotowanie
+
+Ziemniaki, marchewki oraz buraki ugotować w mundurkach do miękkości, ostudzić, obrać i zetrzeć na tarce o grubych oczkach do osobnych naczyń. Jajka ugotować na twardo, ostudzić, obrać i drobno posiekać lub zetrzeć. Cebule pokroić w drobną kostkę, delikatnie oprószyć solą i odstawić na kilka minut, aby zmiękła. Śledzie odsączyć z oleju i pokroić w paski. W przezroczystej, głębokiej misce układać sałatkę warstwowo, zaczynając od połowy ugotowanych ziemniaków na spodzie. Każdą kolejną warstwę układać według schematu: połowa ziemniaków, cienka warstwa majonezu, posolona cebula, odrobina pieprzu, pokrojone śledzie, starta marchewka, kolejna porcja majonezu, pieprz, starte buraki, majonez, pieprz, druga połowa ziemniaków oraz drobno posiekane jajka na sam wierzch. Całość wykończyć ostatnią warstwą majonezu, udekorować wedle uznania i wstawić do lodówki na kilka godzin do schłodzenia.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

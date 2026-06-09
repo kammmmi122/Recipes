@@ -1,0 +1,41 @@
+= Sernik 3 (od Ewy gotuje) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1/2 kg mąki
+* 5 dag kakao
+* 1 łyżka proszku do pieczenia
+* 2 całe jajka
+* 2 żółtka
+* 2 łyżki kwaśnej śmietany
+* 1 kostka masła
+* 20 dag c. pudru
+* 1 łyżka cukru waniliowego
+* 1 kg twarogu (2x zmielony)
+(utrzeć mikserem)
+
+=== Masa serowa:
+* masło
+* jaja
+* mąka kartoflanka
+* skórka pomarańczowa
+
+== Przygotowanie
+
+Z mąki, kakao, proszku do pieczenia, dwóch całych jajek, dwóch żółtek, kwaśnej śmietany, kostki masła, cukru pudru oraz cukru waniliowego zagnieść jednolite, ciemne ciasto i podzielić je na dwie części. W osobnej misce przygotować masę serową, ucierając mikserem dwukrotnie zmielony twaróg z dodatkiem masła, jajek, mąki kartoflanej oraz skórki pomarańczowej na gładki, puszysty krem. Pierwszą połowę ciemnego ciasta rozłożyć na dnie formy, wyłożyć na nią przygotowaną masę serową, a na wierzch wyłożyć drugą część ciasta (można je rozwałkować lub zetrzeć na tarce). Całość wstawić do rozgrzanego piekarnika i piec do całkowitego stężenia masy.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

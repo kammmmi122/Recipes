@@ -1,0 +1,31 @@
+= Pleśniak 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 3 szklanka mąki
+* 1 ½ szklanka cukru (w tym 1 szk do białek)
+* 5 jaj
+* 1 kostka palmy
+* 1 łyżeczka proszku
+* kakao
+* ½ kg jabłek lub śliwek
+
+== Przygotowanie
+
+Na stolnicę przesiewamy trzy szklanki mąki wymieszanej z łyżeczką proszku do pieczenia, dodajemy posiekaną na mniejsze kawałki zimną „Palmę” i szybko rozcieramy tłuszcz z mąką w palcach. Oddzielamy żółtka od białek, po czym do powstałej maślanej kruszonki dodajemy same żółtka oraz pół szklanki cukru, sprawnie zagniatając jednolite i elastyczne ciasto. Gotowe ciasto dzielimy na trzy równe części – do jednej z nich dodajemy kakao i dokładnie je zagniatamy, aby uzyskać ciemny kolor, po czym wszystkie trzy kawałki (dwa jasne i jeden ciemny) zawijamy w folię i chowamy do zamrażalnika do stężenia. W międzyczasie przygotowujemy owoce, obierając i krojąc w plasterki jabłka lub drylując śliwki, a z pozostałych pięciu białek i jednej szklanki cukru ubijamy w osobnym naczyniu sztywną, lśniącą pianę bezową. Pierwszą jasną część schłodzonego ciasta ścieramy na tarce o grubych oczkach na dno wyłożonej papierem formy, układamy na niej przygotowane owoce, na które ścieramy ciemne ciasto z dodatkiem kakao. Na warstwę kakaową równomiernie wykładamy ubitą pianę z białek, a na sam wierzch ścieramy ostatnią, jasną część ciasta. Tak przygotowanego pleśniaka wstawiamy do piekarnika nagrzanego do 180°C i pieczemy przez około 45-50 minut, aż góra ładnie się zrumieni, a beza będzie chrupka.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

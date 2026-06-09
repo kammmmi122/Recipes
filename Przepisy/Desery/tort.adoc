@@ -1,0 +1,41 @@
+= Tort 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+=== Biszkopt
+* 10 jaj
+* 125 dag cukru
+* 250 dag mączki ziemniaczanej (w tym 2 łyżki mączki)
+* 2 łyżki proszku do pieczenia
+
+=== Krem
+* 1 budyń żółty (na ¾ l mleka)
+* ½ l mleka
+* 125 dag cukru
+* 1 kostka masła
+* 1 kostka palmy
+* kakao, cytryna
+
+== Przygotowanie
+
+Przygotowanie tortu rozpoczynamy od upieczenia biszkoptu, w tym celu oddzielamy żółtka od białek i ubijamy białka na sztywną pianę, pod koniec stopniowo dodając cukier. Do lśniącej masy białkowej dodajemy po jednym żółtku, delikatnie miksując na najniższych obrotach, a następnie partiami przesiewamy mączkę ziemniaczaną wymieszaną z proszkiem do pieczenia, całość ostrożnie łącząc szpatułką. Ciasto przelewamy do tortownicy i pieczemy w 180°C przez około 35-40 minut do suchego patyczka, a po wystudzeniu kroimy na trzy równe blaty. W międzyczasie przygotowujemy bazę pod krem, gotując budyń żółty w pół litra mleka z dodatkiem cukru (zgodnie z przepisem uzyskamy bardziej gęstą konsystencję) i odstawiamy go do całkowitego ostudzenia. Miękkie masło oraz kostkę „Palmy” ucieramy razem na puszystą, jasną masę, do której następnie dodajemy po łyżce zimny budyń, nieustannie miksując. Gotowy krem maślano-budyniowy dzielimy na części, doprawiając jedną ciemnym kakao, a drugą sokiem z cytryny dla przełamania smaku. Na koniec blaty biszkoptowe nasączamy wodą z cytryną, przekładamy przygotowanymi kremami i dekorujemy cały tort z wierzchu oraz po bokach, po czym chowamy do lodówki do schłodzenia.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

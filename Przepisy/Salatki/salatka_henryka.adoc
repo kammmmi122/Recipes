@@ -1,0 +1,31 @@
+= Sałatka Henryka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 piersi [z kurczaka] - usmażyć
+* 30 dag pieczarek - usmażyć
+* 3 cebule - usmażyć
+* 2 ogórki kiszone (na koniec)
+* 20 dag boczku wędzonego
+* 1 papryka
+* ketchup, przecier
+
+== Przygotowanie
+
+Piersi z kurczaka oczyścić, pokroić w kostkę, usmażyć na patelni na złoty kolor i przełożyć do dużej miski. Pieczarki pokroić w plasterki, cebulę w kostkę lub piórka, a następnie osobno (lub kolejno) podsmażyć na patelni, aż zmiękną i lekko się zrumienią, po czym dodać do mięsa. Boczek wędzony oraz świeżą paprykę pokroić w kostkę i również krótko podsmażyć, a następnie dorzucić do pozostałych składników. Na sam koniec do miski dodać pokrojone w kostkę ogórki kiszone. Całość wymieszać z ketchupem oraz przecierem pomidorowym do uzyskania pożądanej konsystencji i smaku. Sałatkę można podawać zarówno na ciepło, jak i na zimno po schłodzeniu.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

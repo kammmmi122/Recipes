@@ -1,0 +1,37 @@
+= Gofry 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+=== Składniki do rozpuszczenia:
+* ½ kostki tłuszczu
+* 2 łyżki wody
+* ½ szklanki cukru
+(Dopisane z boku: rozpuścić na gazie)
+
+=== Pozostałe składniki:
+* 2 jaja
+* 1 łyżeczka proszku (do pieczenia)
+* 1 cukier waniliowy
+* ½ szklanki mleka
+* 3 szklanki mąki lub na połowę z kartoflanką (czyli 1,5 szklanki mąki pszennej i 1,5 szklanki mąki ziemniaczanej)
+
+== Przygotowanie
+
+W małym rondelku na gazie umieszczamy pół kostki tłuszczu, dwie łyżki wody oraz pół szklanki cukru, a następnie podgrzewamy całość do całkowitego rozpuszczenia i połączenia składników, po czym odstawiamy płyn do przestudzenia. W międzyczasie oddzielamy żółtka od białek i w dużej misce miksujemy same żółtka z mlekiem, cukrem waniliowym, mąką pszenną, mąką ziemniaczaną oraz proszkiem do pieczenia. Do powstałej, dość gęstej masy powoli dolewamy przestudzony płyn z rondelka, nieustannie mieszając do uzyskania gładkiego ciasta. W osobnym naczyniu ubijamy białka na sztywną pianę, po czym delikatnie, przy użyciu łopatki, łączymy ją z przygotowanym wcześniej ciastem, co zapewni gofrom wyjątkową puszystość. Gotową masę nakładamy porcjami na mocno rozgrzaną gofrownicę i pieczemy na złocisty kolor przez kilka minut, a upieczone gofry studzimy na kratce, aby zachowały swoją chrupkość.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

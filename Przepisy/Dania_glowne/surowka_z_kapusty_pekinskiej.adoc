@@ -1,0 +1,27 @@
+= Surówka z kapusty pekińskiej 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 kapusty pekińskie
+* 2 pomidory świeże
+* 2 ogórki świeże
+* 1 pęczek rzodkiewek
+
+== Przygotowanie
+Kapustę pekińską poszatkować. Pomidory, ogórki pokroić w półplastry. Całość wymieszać z majonezem. Majonez, pieprz.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

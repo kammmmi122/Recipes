@@ -1,0 +1,31 @@
+= Biała domowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg wieprzowiny
+* 2 g pectosoli - [zostawić na] 48 godz, zmielić na grubym sitku
+* pieprz
+* majeranek
+* kardamon
+* sól - x
+* czosnek
+
+== Przygotowanie
+
+Wieprzowinę oczyścić, pokroić w kostkę i dokładnie wymieszać z 2 g pektosoli. Mięso przełożyć do naczynia, przykryć i odstawić do lodówki na 48 godzin, aby się zapeklowało. Po tym czasie mięso zmielić w maszynce na grubym sitku. Do zmielonego mięsa dodać przeciśnięty przez praskę czosnek oraz przyprawy: pieprz, dużą ilość majeranku, szczyptę kardamonu oraz sól do smaku (jeśli sama pektosól nie wystarczy). Całość bardzo dokładnie wyrobić dłońmi, stopniowo dodając odrobinę zimnej wody, aż mięso nabierze odpowiedniej kleistości. Przygotowaną masą nadziewać ściśle oczyszczone jelita wieprzowe, formując kiełbaski. Tak przygotowaną białą kiełbasę można parzyć w gorącej (ale nie wrzącej) wodzie przez około 20 minut lub upiec.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

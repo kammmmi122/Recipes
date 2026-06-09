@@ -1,0 +1,31 @@
+= Placek Izy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 30 dag maku
+* 1 ½ szklanka cukru
+* 9 jaj
+* 1 kostka palmy
+* 1 łyżeczka proszku
+* 9 łyżek kaszy mannej
+* bakalie
+* ½ kg musu jabłkowego
+
+== Przygotowanie
+Mak zalać wrzątkiem, odstawić do napęcznienia, a następnie dokładnie odsączyć i dwukrotnie zmielić w maszynce. Margarynę "Palma" roztopić i ostudzić. Białka oddzielić od żółtek. W dużej misce utrzeć żółtka z cukrem oraz roztopioną margaryną na puszystą masę. Następnie dodać proszek do pieczenia, kaszę manną, mus jabłkowy oraz ulubione bakalie, po czym wszystko dokładnie wymieszać. Do tak przygotowanej bazy dodać zmielony mak i ponownie połączyć składniki. W osobnej, czystej misce ubić białka na sztywną pianę. Na sam koniec delikatnie, za pomocą szpatułki, wmieszać ubitą pianę z białek do masy makowo-jabłkowej. Ciasto przelać do formy wyłożonej papierem do pieczenia i piec w piekarniku nagrzanym do 180°C przez około 45–50 minut (do suchego patyczka).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,30 @@
+= Babka 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 6 jaj
+* 1 kostka palmy
+* 30 dag cukru
+* 2 łyżeczka proszku
+* 20 dag mączki ziemniaczanej
+* 20 dag mąki
+
+== Przygotowanie
+
+Przygotowanie babki rozpoczynamy od rozpuszczenia kostki „Palmy”, którą następnie odstawiamy do całkowitego ostudzenia. W międzyczasie oddzielamy żółtka od białek i ucieramy je z cukrem na puszystą, jasną masę. Do tak przygotowanej bazy stopniowo dodajemy przesianą mąkę pszenną, mączkę ziemniaczaną oraz proszek do pieczenia, na zmianę z przestudzonym, płynnym tłuszczem, cały czas delikatnie miksując lub mieszając składniki. W osobnej misce ubijamy białka na sztywną pianę, po czym delikatnie, za pomocą łopatki, łączymy ją z masą, wykonując powolne ruchy, aby ciasto zachowało swoją puszystość. Gotowe ciasto przelewamy do formy na babkę, uprzednio wysmarowanej tłuszczem i obsypanej bułką tartą. Całość pieczemy w piekarniku nagrzanym do 180°C przez około 45-50 minut, aż do uzyskania suchego patyczka.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

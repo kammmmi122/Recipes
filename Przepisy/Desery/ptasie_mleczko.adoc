@@ -1,0 +1,27 @@
+= Ptasie mleczko 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* biszkopt
+* 2 śnieżka + 2 galaretka
+* 1 galaretka
+
+== Przygotowanie
+
+Dwie galaretki rozpuścić w mniejszej ilości wrzątku niż zwykle i odstawić do ostudzenia, zachowując ich płynną konsystencję. Na dnie formy ułożyć gotowy lub upieczony wcześniej biszkopt. Dwie śnieżki ubić na sztywną pianę, a następnie, cały czas miksując na mniejszych obrotach, wlać cienkim strumieniem zimne, płynne galaretki. Puszystą masę natychmiast wylać na przygotowany biszkopt i wstawić do lodówki do stężenia. Ostatnią galaretkę rozpuścić w gorącej wodzie, ostudzić i kiedy zacznie delikatnie tężeć, wylać na wierzch pianki, po czym całe ciasto ponownie schłodzić.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

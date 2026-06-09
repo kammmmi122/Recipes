@@ -1,0 +1,32 @@
+= Babeczki z truskawkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 1/2 szklanki. krupczatki
+* 120 g masła lub marg
+* 1/4 szklanki. pudru
+* 2 żółtka
+* 250 g serka mascarpone
+* 4 łyżki c. pudru
+* 300 dag truskawek
+* sól - x
+
+== Przygotowanie
+
+Z mąki krupczatki, zimnego masła lub margaryny, jednej czwartej szklanki cukru pudru, szczypty soli oraz dwóch żółtek szybko zagnieść kruche ciasto, schłodzić je w lodówce, a następnie wylepić nim foremki do babeczek i upiec w rozgrzanym piekarniku na złoty kolor. Serek mascarpone zmiksować z czterema łyżkami cukru pudru na gładki, gęsty krem. Ostudzone spody babeczek napełnić przygotowanym kremem z mascarpone, a na wierzchu ułożyć umyte i pokrojone świeże truskawki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

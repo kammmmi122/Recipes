@@ -1,0 +1,35 @@
+= Ketchup 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+* 3 kg pomidorów rozgotować i przetrzeć
+* 0,5 kg cebuli ugotować i zmielić
+* 0,5 kg jabłek ugotować i zmielić
+
+Wszystko razem połączyć i smażyć ok. 1-2 godz. Następnie dodać:
+
+* 1,5 szklanki cukru
+* 0,5 szklanki octu
+* 1 łyżka soli
+* przyprawy: pieprz mielony, papryka ostra, papryka słodka, goździki mielone (do smaku).
+
+== Przygotowanie
+
+Gotować jeszcze 15 min. Gorący nakładać w słoiki i pasteryzować 10-15 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

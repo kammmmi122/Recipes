@@ -1,0 +1,30 @@
+= Rafaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+* 5 jaj (na biszkopt)
+* 1/2 l śmietany kremówki
+* 2 śnieżki
+* biała czekolada
+* 2 paczki wiórków kokosowych
+* opcjonalnie: rodzynki, 2 galaretki
+
+== Przygotowanie
+Z pięciu jaj upiec biszkopt i odstawić do całkowitego ostudzenia. Białą czekoladę rozpuścić w kąpieli wodnej na parze, a następnie odstawić, aby ostygła, zachowując płynną konsystencję. Śmietanę kremówkę ubić na sztywno, powoli dodając obie śnieżki i cały czas miksując. Do ubitej masy powoli wlać ostudzoną czekoladę, a na koniec wmieszać wiórki kokosowe. Tak przygotowaną masę wyłożyć równomiernie na zimny biszkopt. W wersji klasycznej wierzch ciasta posypać dodatkowymi wiórkami kokosowymi, a w wersji owocowej można rozsypać na masie rodzynki i zalać całość dwoma tężejącymi galaretkami.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

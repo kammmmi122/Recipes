@@ -1,0 +1,28 @@
+= Biszkopt 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 3 jajka
+* 1 szklanki cukru
+* 2 płaskie łyż proszku
+* 2 łyżki mąki tortowej + do pełnej szklanki kartoflankę
+
+== Przygotowanie
+
+Białka oddzielić od żółtek i ubić ze szklanką cukru na sztywną, lśniącą pianę. Następnie, cały czas delikatnie miksując na mniejszych obrotach, dodawać po jednym żółtku. Na koniec do puszystej masy jajecznej wsypać proszek do pieczenia oraz obie mąki (tortową połączoną z kartoflanką do pełnej szklanki) i całość ostrożnie wymieszać łopatką do połączenia składników. Przelać ciasto do formy i piec w rozgrzanym piekarniku do suchego patyczka.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,34 @@
+= Ciasto orzechowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 300 g mąki
+* 1,5 łyżeczki proszku
+* 3 łyżki kakao
+* 150 g masła
+* 165 g cukru (naj. brązowego)
+* 170 ml mleka
+* 2 jaja
+* 100 g posiekanych orzechów
+* 125 g posiekanej gorzkiej czekolady
+* szczypta soli
+
+== Przygotowanie
+
+Do dużej miski przesiać mąkę, proszek, sól i kakao oraz orzechy i czekoladę. Masło roztopić, rozpuścić w nim cukier - ostudzić. W małej misce zmieszać jajka z mlekiem. Do suchych składników dodać mleko z jajkami, masło z cukrem - połączyć, ale nie mieszać za długo. Ciasto ma być grudkowate. Nakładać do m. formy do 3/4 obj. Piec przez 15-18 min w temp. 200°. Upieczone zostawić w formie przez 5 min, a potem wyjąć i ostudzić
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

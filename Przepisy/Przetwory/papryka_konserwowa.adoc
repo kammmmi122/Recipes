@@ -1,0 +1,33 @@
+= Papryka konserwowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* papryka
+=== Zalewa:
+* 3/4 szklanki octu 10%
+* 1/2 łyżki soli
+* 4 szklanki wody
+* 5 łyżek cukru
+* 2 łyżki oleju
+
+== Przygotowanie
+Paprykę wydrążyć, pokroić na części, sparzyć wrzątkiem. Poukładać w słoikach.
+
+=== Zalewa
+Do ułożonej w słoikach papryki włożyć gorczycę, ziele angielskie, liść laurowy i zalać zalewą. Pasteryzować ok. 15 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

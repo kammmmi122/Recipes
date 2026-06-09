@@ -1,0 +1,27 @@
+= Sos do pizzy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* olej, czosnek
+* masło, bazylia - powyższe udusić.
+* pomidory z puszki - zagotować, zredukować wodę.
+
+== Przygotowanie
+
+W rondelku rozgrzać niewielką ilość oleju oraz odrobinę masła, dodać przeciśnięty przez praskę lub drobno posiekany czosnek oraz świeżą bazylię, a następnie całość delikatnie poddusić na małym ogniu, uważając, by czosnek się nie przypalił. Do tak przygotowanej bazy wlać pomidory z puszki (można je wcześniej rozdrobnić). Sos doprowadzić do wrzenia, zmniejszyć ogień i gotować na wolnym ogniu przez dłuższy czas, regularnie mieszając, aż woda całkowicie odparuje, a sos mocno zgęstnieje i nabierze odpowiedniej konsystencji. Przed nałożeniem na pizzę sos dokładnie ostudzić.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

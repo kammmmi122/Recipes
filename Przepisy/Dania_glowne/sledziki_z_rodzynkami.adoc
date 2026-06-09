@@ -1,0 +1,33 @@
+= Śledziki z rodzynkami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg śledzi
+* 1 p. rodzynek (25 dag)
+* 4 duże cebule
+* 2 łyżki cukru
+* 2 łyżki octu
+* 1/2 kg pieczarek
+* przecier pomidorowy
+* ketchup
+* 3/4 szklanki. oleju
+
+== Przygotowanie
+
+Śledzie dokładnie wymoczyć w zimnej wodzie, aby pozbyć się nadmiaru soli, po czym osuszyć i pokroić na mniejsze kawałki. Cebule pokroić w kostkę lub półplasterki, a pieczarki w plasterki. Na patelni rozgrzać część oleju, zeszklić cebulę, a następnie dodać pieczarki i całość smażyć do miękkości. Do podsmażonych warzyw wsypać rodzynki, dodać cukier, ocet, przecier pomidorowy oraz ketchup wedle uznania, a także pozostały olej. Całość dokładnie wymieszać i dusić na małym ogniu przez kilka minut, aż smaki się połączą, po czym odstawić do całkowitego ostudzenia. W głębokim naczyniu lub słoikach układać na zmianę warstwy pokrojonych śledzi oraz zimnego sosu pomidorowo-grzybowego z rodzynkami, a przed podaniem schłodzić w lodówce, najlepiej przez całą noc.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,33 @@
+= Sos do mięsa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1/2 szklanki. majonezu
+* 1/2 szklanki. jogurtu naturalnego
+* 2 łyżki octu winnego
+* 1 łyżeczka musztardy
+* 1 łyżeczka sosu sojowego
+* 2 łyżki oliwy
+* 2 łyżki miodu
+* 4 ząbki czosnku
+* sól, pieprz, koperek
+
+== Przygotowanie
+
+W miseczce dokładnie wymieszać majonez z jogurtem naturalnym na gładką, jednolitą masę. Dodać ocet winny, musztardę, sos sojowy, oliwę oraz płynny miód, po czym ponownie całość energicznie wymieszać. Ząbki czosnku obrać, przepuścić przez praskę i dodać do bazy sosu wraz z drobno posiekanym, świeżym koperkiem. Na koniec doprawić sos do smaku solą oraz świeżo mielonym pieprzem. Gotowy sos wstawić do lodówki na minimum 15-30 minut przed podaniem, aby wszystkie smaki idealnie się przegryzły. Doskonale komponuje się zarówno z mięsami na ciepło, jak i na zimno.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

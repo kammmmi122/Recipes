@@ -1,0 +1,41 @@
+= Serniko - makowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 30 dag mąki
+* 1 jajko
+* 20 dag palmy
+* 10 dag cukru
+* 1 cukier waniliowy
+* 25 dag mielonego maku
+* 1 jajo
+* 5 łyżek cukru
+* 1 c. waniliowy
+* 3/4 szklanki. mleka
+* 1 kg tłustego twarogu
+* 4 jaja
+* 1 budyń waniliowy
+* 10 dag rodzynek
+* 10 dag cukru
+* 4-5 łyżek soku z cyt.
+* szczypta proszku
+* szczypta soli
+
+== Przygotowanie
+Z mąki, szczypty proszku do pieczenia, posiekanej palmy, cukru, cukru waniliowego, jajka oraz szczypty soli szybko zagnieść jednolite ciasto i włożyć je na 30 minut do zamrażalnika. Mielony mak wymieszać z pięcioma łyżkami cukru, cukrem waniliowym oraz jajkiem, a następnie zalać wrzącym mlekiem i dokładnie połączyć. W osobnej misce zmiksować tłusty twaróg z cukrem, budyniem waniliowym, sokiem z cytryny, rodzynkami oraz czterema żółtkami, a na koniec delikatnie wmieszać ubitą z pozostałych czterech białek sztywną pianę. Schłodzonym ciastem wylepić dno formy, wyłożyć na nie masę makową, następnie rozprowadzić masę twarogową i piec w piekarniku nagrzanym do 175 °C przez 1 godzinę.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

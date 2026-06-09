@@ -1,0 +1,34 @@
+= Ciasto z wiśniami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 ks. Kasi
+* 10 łyżek mąki
+* 9 łyżek cukru
+* 2 łyżeczki proszku do pieczenia
+* 1 łyżka kakao
+* 450 ml mleka
+* 1 p. budyniu waniliowego na 0,5l mleka
+* 1 sł. wiśni wydrylowanych
+* 3 jajka
+
+== Przygotowanie
+
+1/2 Kasi utrzeć z 6 łyżkami cukru, mąkę wymieszać z proszkiem do pieczenia i dodać do utartego tłuszczu z cukrem oraz 2 łyżki mleka, potem połowę ciasta wyłożyć na wysmarowaną blachę, następnie do reszty ciasta dodać 1 łyżkę kakao i wymieszać oraz wyłożyć na pierwszą część ciasta i na koniec wyłożyć na ciemną część ciasta wiśnie, wstawić do piekarnika i piec 35 minut.
+3 łyżki cukru, budyń waniliowy oraz 6 łyżek mleka wymieszać, resztę mleka zagotować i wlać wyrobiony budyń. Jak budyń ostygnie to do połowy Kasi dodawać małym porcjami budyń. Tak wyrobiony krem wyłożyć na ostudzone ciasto i wstawić na 2 godz. do lodówki, później można posmarować ciasto polewą lub roztopioną czekoladą gorzką lub mleczną.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,34 @@
+= Muffiny (Pasteis de Belém) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 235 ml mleka
+* 25 g skrobi kukurydzianej
+* 0,5 laski wanilii
+* 200 g białego cukru
+* 6 żółtek
+* 1 opakowanie (ok. 500 g) mrożonego ciasta francuskiego, rozmrożonego
+
+== Przygotowanie
+
+Rozgrzać piekarnik do 190°C. Lekko natłuścić 12 foremek na muffinki i wyłożyć ich dno oraz boki ciastem francuskim.
+
+W rondelku wymieszać mleko, skrobię kukurydzianą, cukier oraz wanilię. Gotować na małym ogniu, cały czas mieszając, aż masa zgęstnieje. Żółtka umieścić w średniej misce. Powoli, cały czas energicznie mieszając trzepaczką, wlać około pół szklanki gorącej masy mlecznej do żółtek, aby je zahartować. Następnie stopniowo przelać tak przygotowaną masę z żółtkami z powrotem do garnka z pozostałym mlekiem, nieustannie mieszając. Gotować na wolnym ogniu, stale mieszając, przez około 5 minut lub do momentu, aż krem mocno zgęstnieje. Na koniec wyjąć laskę wanilii.
+
+Przygotowane foremki z ciastem francuskim napełnić kremem i piec w nagrzanym piekarniku przez około 20 minut, aż brzegi ciasta będą złocisto-brązowe, a wierzch kremu lekko przypieczony.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

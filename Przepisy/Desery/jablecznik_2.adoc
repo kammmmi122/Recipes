@@ -1,0 +1,31 @@
+= Jabłecznik 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 4 żółtka
+* 1 kostka tłuszczu
+* 1 szklanka cukru
+* 9 łyżek mąki
+* 1 łyżek proszku do pieczenia
+* 3/4 do lodówki
+* 1/4 do zamroż
+* 4 białka z 1/2 szklanki. cukru ubić położyć na jabłka i zetrzeć 1/4 ciasta
+
+== Przygotowanie
+Z mąki, proszku do pieczenia, cukru, tłuszczu oraz żółtek zagnieść jednolite ciasto. Podzielić je na dwie części: trzy czwarte schować do lodówki, a jedną czwartą włożyć do zamrażalnika. Większą część ciasta rozwałkować, wyłożyć nią dno formy i ułożyć na niej przygotowane wcześniej jabłka. Białka ubić z połową szklanki cukru na sztywną pianę, wyłożyć ją równomiernie na warstwę jabłek, a na wierzch zetrzeć na tarce zamrożoną mniejszą część ciasta. Piec w rozgrzanym piekarniku do zrumienienia.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
