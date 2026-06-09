@@ -15,9 +15,9 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 1 1/2 szklanki. krupczatki
+* 1 ½ szklanki. krupczatki
 * 120 g masła lub marg
-* 1/4 szklanki. pudru
+* ¼ szklanki. pudru
 * 2 żółtka
 * 250 g serka mascarpone
 * 4 łyżki c. pudru

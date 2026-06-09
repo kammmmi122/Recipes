@@ -15,7 +15,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 1/2 kg mąki
+* ½ kg mąki
 * 5 dag kakao
 * 1 łyżka proszku do pieczenia
 * 2 całe jajka

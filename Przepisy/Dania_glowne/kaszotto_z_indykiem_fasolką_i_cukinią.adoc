@@ -17,13 +17,13 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * 3 łyżki oliwy extra vergine
-* 1/3 szklanki kaszy pęczak
+* ⅓ szklanki kaszy pęczak
 * 1 cebula
 * 1 łyżeczka suszonego oregano
 * 200 g piersi indyka
 * 4 łyżki sosu sojowego
 * 60 ml białego wina
-* 1 i 1/2 szklanki bulionu lub rosołu
+* 1 i ½ szklanki bulionu lub rosołu
 * 200 g zielonej fasolki szparagowej
 * 1 mała cukinia
 * 4 łyżki posiekanego szczypiorku

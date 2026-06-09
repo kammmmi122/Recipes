@@ -16,7 +16,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 1/4 lub 1/3 główki sałaty lodowej
+* ¼ lub ⅓ główki sałaty lodowej
 * garstka roszponki
 * 5 kawałków suszonych pomidorów w zalewie
 * 4 łyżki pestek dyni

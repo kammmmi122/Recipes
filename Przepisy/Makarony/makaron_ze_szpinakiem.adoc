@@ -17,13 +17,13 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * 150 g makaronu np. świderki, fusilli, penne
-* 1/2 cebuli
+* ½ cebuli
 * 2 ząbki czosnku
 * 1 łyżka oliwy
-* 1/2 łyżki masła
+* ½ łyżki masła
 * 150 g szpinaku
-* 1/3 szklanki śmietanki 30%
-* 1/3 szklanki tartego parmezanu
+* ⅓ szklanki śmietanki 30%
+* ⅓ szklanki tartego parmezanu
 
 == Przygotowanie
 Makaron ugotować al dente w osolonej wodzie. Szpinak opłukać i odcedzić.
@@ -34,7 +34,7 @@ Dodać szpinak i mieszając podgrzewać przez ok. 1 minutę aż zwiędnie.
 
 Wlać śmietankę, doprawić świeżo zmielonym pieprzem i solą, całość zagotować. Dodać odcedzony makaron i wymieszać.
 
-Połączyć z 1/3 ilości sera, resztę wykorzystać do posypania makaronu.
+Połączyć z ⅓ ilości sera, resztę wykorzystać do posypania makaronu.
 
 [.recipe-gallery]
 == Zdjęcia

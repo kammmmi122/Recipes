@@ -16,7 +16,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * 3 szklanki. mąki
-* 1/2 szklanki. cukru pudru
+* ½ szklanki. cukru pudru
 * 1 kostka (20 dag) masła
 * 1 łyżeczka pr. do pieczenia
 * 3 żółtka

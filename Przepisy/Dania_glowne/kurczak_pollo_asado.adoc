@@ -1,0 +1,60 @@
+= Kurczak pollo asado 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://www.mojemaleczarowanie.pl/2025/04/kurczak-pollo-asado-kurczak-po.html[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 1 łyżka pasty z achiote - meksykańska  pasta
+* ok. 50 ml oliwy z oliwek
+* sok z 1 limonki
+* sok z 2 pomarańczy - potrzebne jest ok. ¼ szklanki soku
+* 1 mała cebula lub 1 łyżeczka cebuli w proszku
+* 2 - 3 ząbki czosnku
+* 1 łyżeczka mielonej kolendry
+* 1 łyżeczka kuminu
+* 1 łyżeczka suszonego oregano
+* 1 łyżka wędzonej papryki
+* ½ łyżeczki ostrej papryczki chipotle
+* pieprz czarny mielony
+* sól morska ok. 1 łyżeczki
+* Ziarna i makarony
+
+=== Zamiast pasty achiote można użyć mieszanki:
+* 2 łyżki papryki niewędzonej
+* 1 łyżka białego octu
+* 1 łyżeczka suszonego oregano
+* 1 łyżeczka czosnku w proszku
+* ½ łyżeczki mielonego kminu
+* ¼ łyżeczki czarnego pieprzu
+* ¼ łyżeczki cynamonu
+* 1/8 łyżeczki goździków
+
+== Przygotowanie
+
+Wszystkie składniki na marynatę wymieszałam.
+Kurczaka przekroiłam wzdłuż kręgosłupa i rozpłaszczyłam tak jak na zdjęciach.
+Włożyłam mięso do miski i natarłam ją marynatą.
+Teraz trzeba zostawić mięso do zamarynowania na minimum 4 godziny a najlepiej na 24 godziny.
+Wstawiłam mięso do lodówki.
+Przed grillowaniem wyjęłam 30 minut wcześniej z lodówki aby się ocieplił.
+I teraz tak: nagrzałam piekarnik do 200 C z opcją grzania góra/dół, ułożyłam kurczaka na kratce skórką do dołu i wstawiłam blachę do piekarnika na ok. 30 minut.
+Potem przewróciłam kurczaka skórką do góry i piekłam jeszcze 45 minut.
+Na końcu przełączyłam opcje w piekarniku na super grilla i zrumieniłam skórkę przez 10 minut.
+Kurczaka podałam z salsą ananasową z poprzedniego przepisu, polecam
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

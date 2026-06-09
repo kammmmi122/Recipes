@@ -1,0 +1,47 @@
+= Kaczka po pekińsku 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://houseofasia.pl/przepis/kaczka-po-pekinsku/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 100 ml Sosu do kaczki po pekińsku House of Asia
+* 150 g Warzyw do woka House of Asia
+* 1 łyżeczka Przyprawy Pięć smaków House of Asia
+* 2 łyżeczki Sezamu białego House of Asia
+* 2 piersi z kaczki
+* 1 marchewka pokrojona w cienkie słupki
+* 100 g zielonego ogórka pokrojonego w cienkie słupki
+* ½ czerwonej cebuli pokrojonej w cienkie półplastry
+* 2 łyżki posiekanej dymki
+* Kilka listków kolendry
+* Sól, pieprz
+
+=== Ciasto na placki mandaryńskie:
+* 2 łyżki Oleju sezamowego House of Asia
+* 150 g mąki pszennej
+* 125 ml wody w temperaturze 75-85ᵒC
+
+== Przygotowanie
+
+Piersi oczyść z błon i natnij delikatnie w kratkę, tak aby nie poprzecinać mięsa. Oprósz solą i pieprzem, ułóż na suchej, zimnej patelni skórą do dołu i zacznij wytapiać tłuszcz na średnim ogniu przez 7-8 minut, skóra powinno stać się rumiana. Po tym czasie przewróć mięso na drugą stronę i obsmaż je z drugiej strony. Kaczkę przełóż na talerz i posmaruj obficie sosem. Wstaw do piekarnika nagrzanego do 180ᵒC na 6 minut. Wyjmij i odstaw na około 6 minut.
+Przygotuj placki. Wymieszaj ze sobą wszystkie składniki ciasta i zagnieć tak, aby było gładkie i nie kleiło się do rąk. Zawiń w folię spożywczą i odstaw na 45 minut. Po tym czasie podziel ciasto na 8 równych kawałków i uformuj z nich kulkę. Następnie rozwałkuj je na cienkie około 3 mm placuszki. Usmaż na patelni wysmarowanej oliwą.
+Warzywa do woka przełóż na sitko i dobrze odciśnij wodę. Rozgrzej wok i podsmaż je przez 2-3 minuty. Dodaj łyżkę sosu do kaczki po pekińsku i przypraw przyprawą.
+Kaczkę pokrój w plastry.
+Gotowe placki posmaruj sosem, następnie ułóż wszystkie warzywa, plastry kaczki. Posyp świeżą dymką oraz sezamem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

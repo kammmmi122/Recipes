@@ -1,0 +1,44 @@
+= Szarpana wieprzowina 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 10 godzin
+* 👥 2-3 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/pulled-pork[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 2 kg łopatki wieprzowej
+* 1 łyżka oliwy
+* 2 cebule
+* 5 ząbków czosnku
+* 100 ml soku pomarańczowego
+* opcjonalnie - 2 łyżki sosu worcestershire
+* 3 łyżeczki soli
+* 1 łyżeczka brązowego cukru
+* 2 łyżeczki mielonej słodkiej papryki
+* 2 łyżeczki suszonego oregano
+* 1 łyżeczka mielonego kuminu
+* ½ łyżeczka mielonej ostrej papryki
+
+== Przygotowanie
+Cebulę obrać i pokroić na grubsze plastry, czosnek obrać i rozgnieść nożem. Cebulę i czosnek ułożyć na dnie naczynia do zapiekania (lub wolnowaru). Wlać sok pomarańczowy oraz opcjonalnie sos worcesthershire
+
+Mięso wysmarować oliwą i natrzeć mieszanką przypraw. Włożyć do garnka (położyć na cebuli i czosnku).
+
+Przykryć i piec: w piekarniku: 6 godzin w 150 stopniach C albo w wolnowarze 7 godzin (ust. High) lub 9 godzin (ust. Low).
+
+Po wyjęciu mięsa rozdzielić je dwoma widelcami na cienkie włókna, można dodać kawałki cebuli z pieczeni i kilka łyżek sosu z pieczeni. Świetnie pasuje też dodany na koniec do mięsa i wymieszany sos bbq (podana ilość x4).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

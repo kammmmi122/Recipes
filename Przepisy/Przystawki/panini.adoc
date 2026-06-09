@@ -1,0 +1,57 @@
+= Panini 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 30 minut
+* 👥 2 porcje
+* 🔗 https://aniagotuje.pl/przepis/panini[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 2 bułki do panini - polecam żytnią ciabattę
+* 4 plasterki ulubionej szynki - około 12 g
+* 4 plasterki ulubionego sera żółtego - około 16 g
+* około 10 g czarnych oliwek - najlepiej kalamata
+* kawałek czerwonej cebuli - około 20 g
+* kilka listków świeżej bazylii lub rukoli
+* pół średniego pomidora - około 60 g
+* 3 połówki suszonych pomidorów z oleju - około 40 g
+* 4 łyżki oliwy z pierwszego tłoczenia
+* garść listków bazylii - około 30 g
+* spora garść sałaty rukoli - około 50 g
+* 2 łyżki oliwy z pierwszego tłoczenia
+* 3 łyżki soku z cytryny lub z limonki
+* po szczypcie soli i pieprzu
+
+== Przygotowanie
+
+Obie bułki przekrój na pół, równolegle do deski, tak samo jak szykuje się kanapki dla dzieci do szkoły😀. Każdą połówkę wysmaruj od środka zieloną pastą. Aby zrobić pastę do Panini wystarczy umieścić wszystkie składniki pasty w jednym naczyniu (około 40 gramów suszonych pomidorów z oleju; około 30 gramów świeżych listków bazylii; 4 łyżki ulubionej oliwy) i utrzeć na grubszą pastę (nie trzeba idealnie na gładko). Polecam użyć do tego tradycyjnej metody i utrzeć składniki w moździerzu. Jeśli nie masz moździerza to sięgnij np. po ręczny blender lub użyj robota kuchennego z rozdrabniaczem.
+
+Resztę składników wykładaj już tylko na spód obu bułek. Zacznij od jednego plasterka żółtego sera (u mnie szerokie, wiec przekrojone wzdłuż na pół). Kolejno wyłóż również po kilka plasterków świeżego pomidora oraz odrobinę (lub więcej jeśli lubisz) czerwonej cebuli pokrojonej w cienkie piórka lub w krążki.
+
+Porada: Ser żółty w pasterkach można zastąpić mozzarellą w kostce, którą kroisz w pasterki lub ścierasz na tarce. Cebulę czerwoną możną śmiało zastąpić cebulą cukrową, ostrzejszą cebulą czosnkową lub zwykłą.
+
+Dalej rozłóż również po dwa plasterki szynki (u mnie drobiowa) oraz czarne oliwki (u mnie kalamata, z których wyjęłam wcześniej pestki). Oliwki przekrój na pół lub pokrój je w plasterki.
+
+Na oliwki wyłóż resztę żółtego sera. Obie kanapki ponownie zamknij/złącz.
+
+Lekko spłaszcz dłonią każdą kanapkę Panini, a następnie umieść na dolnej płycie nagrzanego opiekacza. Następnie ostrożnie zamknij opiekacz. U mnie był to grill elektryczny, więc tylko opuściłam powoli górną płytę grzewczą. W trakcie podgrzewania Panini zdążyłam jeszcze zrobić szybką sałatkę do kanapek.
+
+Sałatę rukolę polałam dwiema łyżkami oliwy i skropiłam trzema łyżkami soku z cytryny. Całość oprószyłam jeszcze solą i pierzem, a następnie wymieszałam. Lubię mocno kwaśną sałatę do Panini. Jeśli więc wolisz wersję delikatniejszą, to wlej tylko jedną łyżkę soku. Cytrynę można zamienić na limonkę.
+
+Po kilku minutach można sprawdzić, czy Panini jest już ładnie zarumienione, a ser zaczyna się ciągnąć. Każdą kanapkę przekrój po skosie na pół i podawaj z sałatką z rukoli.
+
+Smacznego.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

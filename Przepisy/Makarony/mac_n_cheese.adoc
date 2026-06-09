@@ -1,0 +1,45 @@
+= Mac n cheese 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://aniagotuje.pl/przepis/mac-and-cheese[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 250 g makaronu typu kolanka - 2 pełne szklanki (waga przed ugotowaniem)
+* 250 ml mleka pełnotłustego - 1 szklanka
+* 200 g sera cheddar (można wymieszać z parmezanem)
+* 2 łyżki prawdziwego masła - do 35 g
+* 2 łyżki mąki pszennej np. uniwersalnej - do 30 g
+* spora szczypta pieprzu
+
+== Przygotowanie
+
+Ugotuj 250 gramów suchego makaronu. Ja wybrałam makaron pszenny "kolanka", ale możesz też sięgnąć po makaron w kształcie muszelek, po świderki, czy farralle. Do garnka wlej wodę i zagotuj. Na ugotowanie 250 gramów suchego makaronu potrzebujesz 2,5 litra wody. Wodę posól dopiero, gdy zacznie się gotować. Do wrzątku wsyp łyżeczkę soli. W garnku umieść makaron i gotuj al dente. W trakcie gotowania zamieszaj makaron. Ugotowany makaron przełóż na durszlak i od razu z powrotem do garnka lub do miski. Makaron ma być lekko mokry. Tym razem wyszło mi około 567 gramów ugotowanego makaronu.
+
+Przygotuj większą i głębszą patelnię. Zacznij ją nagrzewać na średniej mocy palnika i umieść na niej dwie łyżki masła. Gdy już masło zrobi się płynne zmniejsz moc palnika i dodaj dwie łyżki mąki - łyżka po łyżce, ciągle mieszając zawartość rondelka. Pamiętaj o małej mocy palnika. Łyżką drewnianą rozetrzyj ewentualne grudki z mąki. Gdy masa będzie już gładka wlej całe mleko (jedna szklanka najlepiej lekko ciepłego mleka). Zwiększ moc palnika. Cały czas mieszaj sos. Sos należy mieszać tak długo, aż lekko zgęstnieje. Może to potrwać nawet pięć minut. Pamiętaj, by nie przerywać mieszania.
+
+Do sosu dodaj 200 gramów startego na tarce sera cheddar (u mnie mieszanka sera cheddar i sera Mimolette). Dalej mieszaj sos drewnianą łyżką, aż ser roztopi się i połączy z sosem (do pięciu minut na małej mocy palnika). Pod koniec dodaj też sporą szczyptę pieprzu.
+
+Na patelnię z sosem wyłóż ugotowany wcześniej makaron. Całość dokładnie wymieszaj i od razu podawaj. Jeśli sos wyszedł Ci za gęsty lub lubisz, gdy jest go więcej, to dolej trochę mleka.
+
+Mac and cheese możesz podawać od razu po zrobieniu, bez żadnych dodatków. Dla urozmaicenia polecam od czasu do czasu przygotować macaroni cheese np. ze szczypiorkiem, kawałkami podsmażonego osobno boczku, czy też z bułką tartą smażoną na maśle (jak do kalafiora z bułką tartą).
+
+To danie, które można śmiało podgrzewać na drugi dzień. Wystarczy umieścić całość na patelni i ustawić niską moc palnika. Można dodać odrobinę mleka i podgrzewać makaron w sosie serowym, aż sos uzyska idealną strukturę.
+
+Aby mac and cheese podać z piekarnika, danie należy umieścić w naczyniu żaroodpornym i zapiekać w piekarniku nagrzanym do 180 stopni (pieczenie góra/dół) przez 10-15 minut. Aby macaroni cheese miał chrupiący wierzch, całość przed umieszczeniem w piecu posyp tartym serem lub mieszanką bułki tartej i tartego sera (cheddar lub parmezan).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

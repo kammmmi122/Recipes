@@ -1,0 +1,46 @@
+= Chana masala +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://www.warzywizm.pl/chana-masala-czyli-ciecierzyca-w-przyprawach/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 200g ryżu
+* 1 duży słoik ciecierzycy (400g ciecierzycy po odsączeniu z zalewy, niecałe 2,5 szklanki ugotowanej ciecierzycy)
+* 1 puszka krojonych pomidorów (400g)
+* 1 niewielka cebula albo ½ dużej cebuli
+* 2 ząbki czosnku (1 łyżka czosnku po starciu na tarce)
+* 3-4 cm kawałek imbiru (1 łyżka imbiru po starciu na tarce)
+* 1 łyżeczka kuminu (kminu rzymskiego)
+* 1 łyżeczka kolendry (mielonej albo w ziarenkach starej w moździerzu)
+* 1 łyżeczka przyprawy garam masala (można zastąpić: ⅓ łyżeczki kuminu oraz po szczypcie: cynamonu, kardamonu, gałki muszkatołowej, pieprzu)
+* ¾ łyżeczki kurkumy
+* ¼-¾ łyżeczki chili/ostrej papryki proszku
+* 1 łyżka cukru trzcinowego/kokosowego/syropu z agawy lub klonowego albo białego cukru
+* ¾ łyżeczki soli
+* ½ łyżeczki pieprzu
+* 3 łyżki oleju do smażenia (u mnie rzepakowy)
+* 75-100ml wody (⅓-½ szklanki)
+
+== Przygotowanie
+
+Cebulę kroimy w drobną kosteczkę, imbir i czosnek obieramy i ścieramy na drobnych oczkach tarki.
+Na patelni na średnim ogniu (u mnie szóstka w 9-stopniowej skali) rozgrzewamy 3 łyżki oleju. Wrzucamy cebulę i zmniejszamy ogień (u mnie piątka). Smażymy 5 minut mieszając, do zeszklenia cebuli.
+Do cebuli czosnek i imbir, mieszamy i smażymy 2-3 minuty. Następnie dodajemy przyprawy: kumin, kolendrę, garam masala, chili i kurkumę. Mieszamy przez 2 minuty pilnując, aby przyprawy się nie spaliły, można obniżyć nieco gaz palnika (do czwórki).
+Na patelnię dodajemy ciecierzycę, pomidory krojone z puszki, wodę oraz łyżkę cukru. Gotujemy pod przykryciem na małym ogniu (trójka-czwórka) przez 15 minut (w międzyczasie gotujemy ryż), a następnie zdejmujemy pokrywkę i gotujemy jeszcze 5-7 minut. Doprawiamy solą i pieprzem i podajemy z ryżem, limonką i ew. świeżymi listkami kolendry.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

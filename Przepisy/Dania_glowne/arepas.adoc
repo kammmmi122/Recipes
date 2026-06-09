@@ -1,4 +1,4 @@
-= Arepas 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Arepas 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -39,7 +39,7 @@ Odstaw ciasto na 5 minut, aby mąka w pełni się nawodniła. Podziel je na 6 r�
 
 Rozgrzej żeliwną patelnię lub patelnię z grubym dnem na średnim ogniu. Smaż arepas przez 7-8 minut z każdej strony, aż uzyskają złoty kolor i lekko się spulchnią. Po usmażeniu zawiń je w czysty ręcznik kuchenny na 2-3 minuty.
 
-Przed podaniem przetnij każdą arepę w około 3/4 wysokości, tworząc kieszonkę na nadzienie. Możesz włożyć do środka kurczaka, fasolę, awokado, ser, kolendrę i limonkę.
+Przed podaniem przetnij każdą arepę w około ¾ wysokości, tworząc kieszonkę na nadzienie. Możesz włożyć do środka kurczaka, fasolę, awokado, ser, kolendrę i limonkę.
 
 [.recipe-gallery]
 == Zdjęcia

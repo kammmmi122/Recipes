@@ -16,7 +16,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * 500 g ugotowanego mięsa z rosołu
-* ugotowane warzywa z zupy (1 marchewka, 1/2 pietruszki)
+* ugotowane warzywa z zupy (1 marchewka, ½ pietruszki)
 * 300 g pieczarek
 * 1 duża cebula
 * 1 łyżka masła

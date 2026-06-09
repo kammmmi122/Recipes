@@ -1,0 +1,55 @@
+= Sernik nowojorski 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://www.kwestiasmaku.com/desery/serniki/sernik_nowojorski/przepis.html[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 300 g ciastek maślanych (np. petit beurre)
+* 50 g masła
+* 1,25 kg tłustego zmielonego sera (cream cheese)
+* 6 jajek
+* 5 żółtek
+* 250 g cukru
+* 3 łyżeczki naturalnego ekstraktu z wanilii
+* sok z ½ cytryny
+* 500 ml kwaśnej gęstej śmietany 18%
+* 50 g cukru pudru
+* 4 łyżki kakao
+* 2 łyżeczki cynamonu
+* opcjonalnie - świeże kwiaty
+
+== Przygotowanie
+Na dno formy z odpinaną obręczą o średnicy 25 - 26 cm położyć arkusz papieru do pieczenia, zapiąć obręcz wypuszczając papier na zewnątrz.
+
+Ciasteczka dokładnie pokruszyć i wymieszać z roztopionym masłem. Masą wyłożyć dno przygotowanej tortownicy, mocno uklepać i wstawić do lodówki.
+
+Na dolną półkę piekarnika włożyć blachę do pieczenia i napełnić ją do ⅔ gorącą wodą. Metalową kratkę pod sernik ustawić w środku piekarnika. Piekarnik nagrzać do 180 stopni C (góra i dół bez termoobiegu).
+
+Do misy miksera włożyć ser, dodać jajka, żółtka, cukier, wanilię i sok z cytryny. Zmiksować na gładką masę (około 2 minuty miksowania).
+
+Masę wylać na przygotowany spód. Wstawić do piekarnika i piec przez 70 minut. Studzić przez 10 minut w piekarniku, następnie uchylić drzwiczki i studzić kolejne 10 minut. Stopniowo otwierając piekarnik całkowicie wystudzić sernik.
+
+Piekarnik nastawić ponownie na 180 stopni C. Do misy miksera włożyć śmietanę, dodać cukier puder i ubić mikserem na gładki krem (około 3 minuty miksowania).
+
+Śmietanę wyłożyć na sernik i wstawić do piekarnika na 10 minut. Wyjąć i całkowicie ostudzić. Po całkowitym ostudzeniu zdjąć obręcz.
+
+Wstawić do lodówki bez przykrycia na kilka godzin, a najlepiej na całą noc.
+
+Przed podaniem sernik posypać kakao wymieszanym z cynamonem. Można udekorować kwiatami.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

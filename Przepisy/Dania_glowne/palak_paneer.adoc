@@ -1,0 +1,61 @@
+= Palak paneer 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: nie podano
+* 👥 2-3 porcje
+* 🔗  https://aniagotuje.pl/przepis/palak-paneer[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 500 g szpinaku - najlepiej mrożony w liściach lub ew. siekany
+* 400 g sera indyjskiego Paneer
+* 4 ząbki czosnku - około 20 g
+* 1 mała cebula - do 120 g
+* kawałek papryczki chili lub pół łyżeczki suszonego
+* 1 płaska łyżka świeżego, tartego imbiru
+* 3 łyżki oleju roślinnego do smażenia
+* 2 łyżki prawdziwego masła - do 40 g
+* 1-2 łyżki śmietanki kremówki 30 % lub śmietanki 18 % do sosów
+* przyprawy: 1 płaska łyżeczka soli; 1 płaska łyżeczka garam masala; ⅓ płaskiej łyżeczki kminu; ¼ płaskiej łyżeczki pieprzu
+* ewentualne dodatki: 200 g pomidorków koktajlowych; świeża kolendra; cukier
+* do podania do wyboru: ryż; chlebki: naan, roti, chapati lub paratha
+
+== Przygotowanie
+
+W sezonie umyj i osusz 500 gramów świeżego szpinaku (bez ogonków). Poza sezonem wybierz szpinak mrożony w liściach lub ewentualnie siekany. W ostateczności może być też szpinak rozdrobniony, który po rozmrożeniu będzie pewnie tak rzadki, że wystarczy go podgrzać już bez dodawania wody.
+
+Mrożony szpinak umieść w garnku i ustaw niską moc palnika. Wlej niecałe pół szklanki wody i czekaj, aż szpinak zacznie się rozmrażać, a potem się zagotuje. Co parę minut mieszaj w garnku. Gotuj go tak łącznie około 5 minut. Szpinak powinien pozostać wilgotny.
+
+Ugotowany, miękki szpinak przełóż do naczynia i lekko przestudzony zmiksuj w malakserze lub przy pomocy ręcznego blendera. Podczas miksowania zdecyduj, czy wolisz bardzo gładko zmielony szpinak, czy tak jak ja, gęstszy i mniej rozdrobniony.
+
+Nagrzej większą patelnię z gdybym dnem. Wlej 3 łyżki oleju roślinnego do smażenia. 400 gramów sera indyjskiego Paneer pokrój w kostkę na jeden kęs i umieść na nagrzanym tłuszczu. Podsmażaj go chwilę na rumiano, a następnie tylko zdejmij ser na osobną miskę (bez tłuszczu).
+
+Na patelnię po serze (z nagrzanym olejem) wyłóż obraną i bardzo drobno posiekaną cebulę. Podsmażaj ją 3-4 minuty na średniej mocy palnika. Kolejno dodaj też obrane i przepuszczone przez praskę (lub ubite w moździerzu) ząbki czosnku. Dodaj również: kawałek siekanej papryczki chili lub pół płaskiej łyżeczki chili suszonego; płaską łyżkę świeżego, tartego imbiru lub płaską łyżeczkę imbiru suszonego; płaską łyżeczkę przyprawy garam masala; ⅓ płaskiej łyżeczki kminu i ¼ płaskiej łyżeczki pieprzu. Całość wymieszaj i smaż na niskiej mocy palnika przez dwie minuty.
+
+Porada: Uważaj przy dodawaniu chili do dania. Moc użytego chili w proszku bywa bardzo różna. Lepiej jest dać go mniej i w razie potrzeby dołożyć pod sam koniec szykowania sosu. Jeśli masz, to daj chili Kashmiri.
+
+Na patelnię wyłóż cały rozdrobniony szpinak. W razie potrzeby wlej więcej wody lub też siekane pomidorki (bez skórki), które nadadzą wilgotności i słodyczy. Wymieszaj sos i duś (pod przykryciem) około 10 minut - mała moc palnika.
+
+Na koniec dodaj około 40 gramów masła (może być też klarowane o wadze 30 g) oraz podsmażony wcześniej ser i łyżkę lub dwie śmietanki kremówki 30 %. Wymieszaj Palak paneer i ponownie zagotuj. Sprawdź smak dania i w razie potrzeby dopraw. Zazwyczaj dodaję jeszcze nieco soli, pieprzu i szczyptę cukru. Aby sos nie był za gęsty wlewam ewentualnie przetarte pomidory bez skórki.
+
+Nałóż porcję na talerz. Dodaj łyżkę kwaśnej śmietany lub słodkiej śmietanki oraz świeżą kolendrę (jeśli lubisz). Do Palak Paneer warto także dodać wyciśnięty kawałek cytryny, który podkreśli smak i doda świeżości.
+
+Danie Palak Paneer można podawać na wiele sposobów. Mój ulubiony to Palak Paneer z białym basmati lub ryżem brązowym, który wchłonie bogaty sos i przyniesie równowagę do pikantnych smaków. Z chlebkami jest równie pyszny. Naan, roti, chapati lub paratha to tradycyjne indyjskie chlebki, które świetnie komponują się z Palak Paneer, pozwalając na maczanie i nabieranie sosu. Palak Paneer można podać obok innych potraw, takich jak dal, warzywa, jogurt Raita..
+
+Uważaj, gdy podgrzewasz Palak Paneer aby zachować teksturę sera i nie sprawić, że szpinak stanie się gorzki. Możesz to zrobić w mikrofalówce na małej mocy, sprawdzając co kilka sekund, aby nie "przegrzać" sera. Lepiej jest jednak podgrzewać to danie na patelni, na niewielkiej ilości tłuszczu (ghee lub masło klarowane) na średnim ogniu, ciągle mieszając, aż będzie gorące.
+
+Palak Paneer po przestudzeniu przechowuj w lodówce, w hermetycznie zamkniętym pojemniku, aby uniknąć absorpcji zapachów z lodówki - do 3-4 dni. Można też zamrozić Palak Paneer (do 2 miesięcy, w pojemnikach lub woreczkach), ale warto zauważyć, że tekstura sera paneer może nieco się zmienić po rozmrożeniu. Przed podgrzewaniem, Palak Paneer należy rozmrozić w lodówce.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

@@ -1,0 +1,42 @@
+= Confit z kaczki 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 2-3 porcje
+* 🔗  https://www.kwestiasmaku.com/kuchnia_polska/kaczka/confit_z_kaczki/przepis.html[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* kacze udka/nóżki
+* sól
+* gęsi lub kaczy tłuszcz
+* czosnek
+* tymianek (świeży lub suszony)
+* liść laurowy
+
+== Przygotowanie
+Udka z każdej strony natrzeć solą. Włożyć do plastikowego woreczka, zamknąć i zostawić na 24 godziny w lodówce. Po wyjęciu z lodówki mięso dokładnie osuszyć papierowymi ręcznikami i włożyć do garnka z grubym dnem (skórą do dołu) razem z dodatkami. Wlać tłuszcz - najlepiej w takiej ilości aby przykrył całkowicie mięso, ale dobre efekty uzyskamy nawet jeśli tłuszczu będzie już do połowy wysokości udek.
+
+Gotować pod przykryciem na minimalnym gazie przez ok. 2 i ½ do 3 godzin - aż mięso będzie odpadało od kości (co jakiś czas upewnić się, że nie przywiera); jeśli tłuszczu jest mniej udka w połowie czasu przewrócić na drugą stronę.
+
+Wyjąć udka, tłuszcz zlać (przez sitko) i wykorzystać do ich przechowywania. Udka całkowicie zanurzone w tłuszczu bardzo długo zachowają świeżość. Tradycyjnie confit z kaczki powinno po ugotowaniu najpierw "leżakować" minimum kilka dni w tłuszczu w lodówce, ale udka są oczywiście smaczne i gotowe do spożycia także od razu.
+
+Piekarnik nagrzać do 120 stopni C. Ostrą końcówką nożna podziurkować skórę na udkach. Z każdej strony doprawić je solą i pieprzem, oprószyć tymiankiem i obłożyć plasterkami obranego i cienko pokrojonego czosnku.
+
+Ułożyć skórką do dołu w żaroodpornym naczyniu, tak aby leżały pojedynczą warstwą ale ciasno obok siebie, najlepiej aby naczynie czy blaszka była dopasowana do takiej ilości udek aby wypełniały ją całą. Na dno naczynia wlać ½ szklanki wody lub wina. Przykryć szczelnie pokrywą lub folią aluminiową i wstawić do piekarnika. Piec przez 2 godziny. Następnie przewrócić na drugą stronę (skórką do góry), ponownie przykryć i piec przez następne 2 godziny.
+
+Tłuszcz wytopiony z kaczki, przelany przez sitko do słoika, będzie się składał z warstwy żółtego tłuszczu na wierzchu i soków z wodą poniżej. Zebrany tłuszcz można zachować do smażenia ziemniaków lub do przygotowania confit metodą tradycyjną (przepis powyżej).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

@@ -15,12 +15,12 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-columns]
 == Składniki
-* 1/2 kg twarogu
-* 1/2 kg mąki
-* 1/2 szklanki. cukru
+* ½ kg twarogu
+* ½ kg mąki
+* ½ szklanki. cukru
 * 4 żółtka
 * 1 łyżecz sody oczysz
-* 1/2 łyżki śmietany
+* ½ łyżki śmietany
 * 200 g śmietanki 12%
 * 50-100 g jogurtu greckiego
 

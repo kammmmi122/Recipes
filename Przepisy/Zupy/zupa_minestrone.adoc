@@ -1,0 +1,54 @@
+= Zupa minestrone 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.back-to-home-wrapper]
+link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
+* 🔗  https://www.kwestiasmaku.com/przepis/zupa-minestrone[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 2 łyżki oliwy extra vergine
+* 1 cebula
+* 2 łodygi selera naciowego
+* 2 średnie marchewki
+* 3 ząbki czosnku
+* 1 pomidor
+* 100 ml passaty pomidorowej
+* 1 puszka białej fasoli
+* 1 litr bulionu jarzynowego
+* 100 g fasolki szparagowej
+* 1 liść laurowy, 2 ziela angielskie
+* po szczypcie oregano i tymianku
+* 50 g drobnego makaronu
+* świeża bazylia lub natka
+* płatki chili
+* tarty parmezan lub żółta mozzarella
+
+== Przygotowanie
+Do garnka z grubym dnem wlać oliwę, dodać pokrojoną w kosteczkę cebulę, posiekanego selera oraz obraną i pokrojoną na cienkie plasterki marchewkę. Podsmażyć składniki, co chwilę mieszając, przez około 5 - 7 minut.
+
+Dodać przeciśnięty przez praskę czosnek oraz obranego i pokrojonego w kosteczkę pomidora. Podsmażać co chwilę mieszając przez ok. 2 minuty.
+
+Dodać passatę pomidorową oraz fasolkę z puszki wraz z zalewą, a następnie wlać gorący bulion. Zagotować i sprawdzić czy nie potrzeba dodać soli.
+
+Odciąć końcówki fasolki szparagowej, pokroić na kawałki i dodać do zupy.
+
+Doprawić świeżo zmielonym pieprzem, dodać liść laurowy, ziele angielskie, oregano i tymianek. Przykryć i gotować przez ok. 10 minut.
+
+Następnie dodać makaron i gotować przez kolejne ok. 10 minut, aż makaron będzie miękki.
+
+Dodać posiekaną natkę lub bazylię. Podawać z tartym parmezanem lub mozzarellą oraz płatkami chili do smaku.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]

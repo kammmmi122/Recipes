@@ -17,7 +17,7 @@ link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 [.recipe-columns]
 == Składniki
 * mintaj - 1 filet bez skóry (300 g)
-* cukinia - 1/3 sztuki (100 g)
+* cukinia - ⅓ sztuki (100 g)
 * marchewki - 2 sztuki (90 g)
 * jajka kurze - 2 sztuki (110 g)
 * mąka kukurydziana - 10 łyżek (100 g)
