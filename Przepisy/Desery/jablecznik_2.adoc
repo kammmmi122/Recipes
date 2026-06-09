@@ -1,0 +1,31 @@
+= Jabłecznik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 4 żółtka
+* 1 kostka tłuszczu
+* 1 szk cukru
+* 9 łyżek mąki
+* 1 łyż proszku do piecz
+* 3/4 do lodówki
+* 1/4 do zamroż
+* 4 białka z 1/2 szklanki. cukru ubić położyć na jabłka i zetrzeć 1/4 ciasta
+
+== Przygotowanie
+(zagnieść ciasto)
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

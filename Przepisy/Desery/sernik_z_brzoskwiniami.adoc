@@ -1,0 +1,47 @@
+= Sernik z brzoskwiniami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 3 szklanki mąki
+* 1 kostka palmy
+* 3 łyżki cukru
+* 3 łyżeczki proszku
+* 5 żółtek
+* 75 dag twarogu
+* 1 jajo
+* 1 budyń śmiet.
+* 1 szklanka cukru
+* 1/2 kostka. palmy
+* 1 p. brzoskwinie lub jabłka
+* 5 - starte ciasto
+* 4 - piana
+* 3 - pokrojone brzoskwinie
+* 2 - masa serowa
+* 1 - ciasto 1/2 część
+
+== Przygotowanie
+(zagnieść ciasto, podzielić na 2 części, zamrozić)
+
+Masa serowa:
+
+(razem wymieszać)
+
+Piana z 5 białek + 1/2 szklanki. pudru na sztywno.
+
+Piec ok. 50 minut, 200 °C.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,30 @@
+= Biała domowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg wieprzowiny
+* 2 g pectosoli - [zostawić na] 48 godz, zmielić na grubym sitku
+* pieprz
+* majeranek
+* kardamon
+* sól - x
+* czosnek
+
+== Przygotowanie
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

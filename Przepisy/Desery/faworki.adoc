@@ -1,0 +1,33 @@
+= Faworki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 450 g mąki pszennej
+* 5 żółtek
+* 1 łyżka spirytusu
+* 3/4 szklanki śmietany 18%
+* szczypta soli
+* olej do smażenia
+
+== Przygotowanie
+
+
+mąka + żółtka + sól + spir + śmiet
+
+Po wyrobieniu na 30 minut do lodówki
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

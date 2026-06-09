@@ -1,0 +1,29 @@
+= Rafaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+Upiec biszkopt z 5 jaj 1/2 l śmietany kremówki 2 śnieżki na mleko
+
+biała czekol. (rozpuścić, ostudzić na parze)
+
+wiórki kokosowe 2 paczki
+
+Śmietanę ubić, dodać po woli obie śnieżki i dalej ubijać, dodać rozpuszczoną czekoladę i na koniec wiórki. Gotową masę wyłożyć na biszkopt. Można posypać rodzynkami i zalać galaretką (2 paczki). Jak bez galaretki, to posypać wiórkami.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

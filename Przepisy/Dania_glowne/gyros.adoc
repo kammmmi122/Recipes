@@ -1,0 +1,37 @@
+= Gyros 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+pierś z kurczaka (przyprawa do gyrosa usmażyć w całości)
+
+kukurydza
+
+posmarować (majonez + ketchup + czosnek)
+
+ogórek (plastry, konserwowy)
+
+cebula w piórka (zeszklona na oleju)
+
+ketchup + majonez + czosnek
+
+kapusta pekińska + sos włoski (suchy)
+
+ketchup + majonez + czosnek
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

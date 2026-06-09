@@ -1,0 +1,43 @@
+= Ryba z brzoskwiniami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 4 cebule (zeszklić)
+* 3 łyżki ketchupu
+
+== Przygotowanie
+filet z ryby (usmażyć w mące i jajku)
+
+liść laurowy } dodać przecier, 3 łyżki wody i zagotować
+
+ziele
+
+pieprz + jarzynka do smaku
+
+mały przecier pomidorowy
+
+słoik papryki konserwowej (pokroić w paski i dodać na końcu)
+
+puszka brzoskwini
+
+oraz $\frac{1}{2}$ wody z papryki i brzoskwini
+
+$\frac{1}{2}$ łyżki słodkiej papryki
+
+Wszystko zagotować i położyć na rybę.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

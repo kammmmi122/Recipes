@@ -1,0 +1,33 @@
+= Sałatka meksykańska 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 puszka groszku
+* 1 puszka kukurydzy
+* 1 puszka fasoli czerwonej (fasolę przepłukać ciepłą wodą)
+* 1 puszka tuńczyka w sosie własnym
+* 1 słoik cebuli srebrnej marynowanej
+* 1 słoik majonezu
+* sól
+* cukier
+* pieprz do smaku
+
+== Przygotowanie
+
+Wszystko odsączyć na sicie.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,30 @@
+= Sałatka Henryka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 piersi [z kurczaka] - usmażyć
+* 30 dag pieczarek - usmażyć
+* 3 cebule - usmażyć
+* 2 ogórki kiszone (na koniec)
+* 20 dag boczku wędzonego
+* 1 papryka
+* ketchup, przecier
+
+== Przygotowanie
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

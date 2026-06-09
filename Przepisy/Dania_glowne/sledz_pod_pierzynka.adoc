@@ -1,0 +1,59 @@
+= Śledź pod pierzynką 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg ziemniaków }
+* 3 marchewki } ugotować
+* 3 buraki } potrzeć
+* 3 jajka
+
+== Przygotowanie
+cebula $\times$ 2 pokrojona, osolić
+
+$\frac{1}{2}$ kg śledzi w oleju (pokroić w paseczki)
+
+majonez $\frac{1}{2}$ l
+
+Warstwy:
+
+ziemniaki	spód $\frac{1}{2}$ części
+
+majonez
+
+cebula
+
+pieprz
+
+śledź
+
+marchew
+
+majonez
+
+pieprz
+
+buraki
+
+majonez
+
+pieprz
+
+ziemniaki	$\frac{1}{2}$ części
+
+majonez
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

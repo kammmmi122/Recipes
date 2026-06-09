@@ -1,0 +1,37 @@
+= Makaron penne z rukolą i oliwkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 400g makaronu pióra
+* 5-6 łyżek oliwy
+* 1 czerwona cebula
+* 6 ząbków czosnku
+* 1 gałązka rozmarynu
+* 10-15 czarnych oliwek
+* 250g rukoli
+* sól i pieprz
+* pół cytryny
+
+== Przygotowanie
+
+oliwa + cebula + czosnek + rozmaryn
+
+rukola + oliwki
+
+Dodać makaron i całość podsmażyć 3-4 minuty. Dodać sól + pieprz. Skropić cytryną.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

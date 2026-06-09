@@ -1,0 +1,35 @@
+= Pączki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 10 dag drożdży
+* 4 szklanki. mąki
+* 4 jaja
+* 3 łyżki cukru
+* 1/2 l mleka
+* 1/2 kostka tłuszczu
+* 2 1/2 szklanki. mąki
+* 20 dag masła
+* 3 żółtka
+* 3/4 szk. cukru pudru
+* szczypta soli
+* skórka z cyt.
+
+== Przygotowanie
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

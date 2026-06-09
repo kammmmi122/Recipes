@@ -1,0 +1,48 @@
+= Ciasto palce lizać 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 4 duże jaja lub 5 małych
+* 5 łyżeczek cukru
+* 2 łyżki mąki
+* 2 łyżki kartoflanki
+* 1 płaska łyżeczka proszku
+* 4 białka
+* 2 paczki wiórek kokosowych (1 paczka 100g)
+* 3/4 szklanki cukru
+* 2 paczki cukru waniliowego
+
+== Przygotowanie
+=== Biszkopt:
+
+Białka ubić z cukrem, dodawać po jednym żółtku ciągle ubijając. Do ubitej masy dodać resztę składników. Wymieszać i upiec.
+
+=== Ciasto kokosowe:
+
+Białka ubić z cukrem. Do ubitych białek dodać kokosy, cukier waniliowy. Wymieszać. Blachę wyłożyć pergaminem. Włożyć masę kokosową. Piec w temp. 170-180 °C przez ok. 30 min. Ciasto powinno być zarumienione.
+
+=== Krem 1:
+
+Jeden budyń śmietankowy, 3/4 Kasi. Ugotować budyń + 2 łyżki mąki i pół szklanki cukru. Ostudzić. Utrzeć z Kasią lub z masłem.
+
+=== Krem 2:
+
+Budyń śmietankowy + 2 łyżki mąki ugotować na soku z owoców jak będziemy używać do placka np. brzoskwinie. Utrzeć z masłem jak w przepisie powyżej.
+
+Biszkopt, krem, kokosowe ciasto, polewa
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

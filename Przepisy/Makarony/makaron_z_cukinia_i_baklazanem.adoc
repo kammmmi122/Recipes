@@ -1,0 +1,30 @@
+= Makaron z cukinią i bakłażanem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 350g makaronu muszelki
+* 1 cukinia } ugrillować
+* 1 bakłażan } ugrillować
+* 1 p. bazylii
+* 50g tartego sera / grand padano
+* orzeszki ziemne
+* parmezan
+
+== Przygotowanie
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

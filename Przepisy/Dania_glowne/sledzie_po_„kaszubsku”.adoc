@@ -1,0 +1,34 @@
+= Śledzie po „kaszubsku” 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg śledzi małosolnych (płaty)
+* 1 szklanka oleju
+* 1 słoik przecieru pomidorowego
+* 1 słoik keczupu
+* 4 większe cebule (może być i por do cebuli)
+* 1 łyżka cukru
+* 1 cytryna
+
+== Przygotowanie
+$\frac{1}{2}$ łyżeczki papryki ostrej
+
+ziele angielskie, liść laurowy
+
+Śledzie wymoczyć. W garnku zagotować olej, włożyć pokrojoną cebulę + por i to zeszklić. Wrzucić 3 ziela + 2 listki laurowe + przecier + keczup. Cały czas gotować. Wystudzić, dodać sok z cytryny, dodać paprykę. Do słoika włożyć na przemian śledzie i sos.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

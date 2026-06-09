@@ -1,0 +1,75 @@
+= Ogórki konserwowe i pikle 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 6 kg buraków (zetrzeć na tarce jarzynowej)
+* 7 szt papryki czerwonej słodkiej (w kostkę)
+* 3 papryki ostre (lub 1 łyż. papryki ostrej)
+* 1/2 l 6% octu
+* 1/2 l wody
+* 1 i 1/2 szklanki. cukru
+* 2 łyżki soli (czubate)
+* 7 dużych cebul (pokroić)
+cukier: 1 i 1/2 szklanki
+
+marchew: 3
+
+cebula: 1 gruby
+
+czosnek: 1
+
+chrzan: [kawałek / pasek]
+
+ziele: 3
+
+laurowy: 1
+
+gorczyca: 3 szczypty
+
+Pikle 3/4 l
+
+Zalewa: 4:1
+
+cukier: 1 i 1/2 szklanki.
+
+czosnek: 1 ząbek
+
+cebula: 1 gruby
+
+gorczyca: 3 szczyp.
+
+ziele: 3
+
+liść laur: 1
+
+
+== Przygotowanie
+Ogórki konserwowe 3/4 l
+
+Zalewa: 4 wody i 1 octu
+
+
+
+Buraczki z papryką i cebulą
+
+– powyższe składniki zagotować i gotować przez 5 min.
+
+Przestudzić, wymieszać z burakami.
+
+Gotować 15-20 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

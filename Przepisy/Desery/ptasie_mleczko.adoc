@@ -1,0 +1,28 @@
+= Ptasie mleczko 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 śnieżka + 2 galaretka
+* 1 galaretka
+* 2 kos. twarogu
+* 2 jajka
+* 1 łyżka płaska sody
+* 50 dag mąki
+
+== Przygotowanie
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

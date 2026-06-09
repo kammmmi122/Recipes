@@ -1,0 +1,34 @@
+= Śledziki z rodzynkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg śledzi
+* 1 p. rodzynek (25 dag)
+* 4 duże cebule
+* 2 łyżki cukru
+* 2 łyżki octu
+
+== Przygotowanie
+$\frac{1}{2}$ kg pieczarek
+
+przecier pomidorowy
+
+ketchup
+
+$\frac{3}{4}$ szklanki. oleju
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

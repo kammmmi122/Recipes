@@ -1,0 +1,32 @@
+= Budyniowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 2 budynie na 1/2 l śmietanki
+* 1 puszka brzoskwiń
+* 2 żółte galaretki
+* 1 kostka Kasi
+* 3/4 szklanki. cukru
+
+== Przygotowanie
+Do soku dopełnić do 1 l wody.
+
+Ugotować budyń z cukrem, dodać 2 galaretki, rozmieszać, później 1 kostka Kasi i dobrze wymieszać.
+
+Na biszkopt położyć 1/2 budyniu, potem poukładać brzoskwinie i zalać resztę budyniu, położyć drugą część biszkoptu i posypać cukrem pudrem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

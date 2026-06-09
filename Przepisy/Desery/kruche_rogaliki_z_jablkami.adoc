@@ -1,0 +1,36 @@
+= Kruche rogaliki z jabłkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 3 szklanki. mąki
+* 1/2 szklanki. cukru pudru
+* 1 kostka (20 dag) masła
+* 1 łyżeczka pr. do pieczenia
+* 3 żółtka
+* 2 łyżki śmietany
+* 1 torebka cukru waniliow.
+* 3 jabłka
+* 1 jajko do posmarowania
+* 3 łyżki brąz. cukru do posyp.
+* skórka otarta z cytryny
+* mąka do oprószenia stolnicy
+
+== Przygotowanie
+
+Mąkę przesiej na stolnicę. Dosyp cukier puder, proszek do piecz. oraz cukier waniliowy. Dodaj pokrojone masło i sk. z cytryny. Przesiekaj nożem. Dodaj żółtka i śmietanę. Zagnieć i schłodź. Ciasto rozwałkuj, pokrój na trójkąty i połóż jabłko. R. posmaruj roztrzepanym jajkiem, przykryj pap. do pieczenia, wstaw do p. na 180°C, 20 min.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

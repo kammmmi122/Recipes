@@ -1,0 +1,67 @@
+= Szynka w galarecie na święta 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+szynka
+
+rozmaryn
+
+czosnek gran
+
+liść laurowy
+
+olej
+
+sól
+
+pieprz
+
+marynata 8 godz.
+
+marchew
+
+pietruszka
+
+por
+
+sól peklowa 2 łyż.
+
+kolendra
+
+liść laurowy
+
+ziele angiel.
+
+włożyć do wywaru 2 godz. ostudzić
+
+glazurowanie:
+
+cukier
+
+ocet balsamiczny
+
+wino czerwone
+
+miód
+
+} 10 minut aż zgęstnieją
+
+szynka ostudzona posmarowana glazurą piec jeszcze 2 godz
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

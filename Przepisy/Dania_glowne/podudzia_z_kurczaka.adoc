@@ -1,0 +1,51 @@
+= Podudzia z kurczaka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+
+== Przygotowanie
+marynata:
+
+podudzia bez skóry
+
+olej rzep + pikantna przyprawa do kurczaka + papryka + musztarda delikatesowa
+
+pieczarki
+
+suszone pomidory
+
+czosnek
+
+oliwki zielone
+
+por biała część
+
+cebula
+
+tymianek
+
+} dusić do miękkości
+
+biała fasola
+
+białe wytrawne wino
+
+zielone pietruszki
+
+} 5 minut
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

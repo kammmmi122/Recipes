@@ -1,0 +1,37 @@
+= Oponki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1/2 kg twarogu
+* 1/2 kg mąki
+* 1/2 szklanki. cukru
+* 4 żółtka
+* 1 łyżecz sody oczysz
+* 1/2 łyżki śmietany
+* 200 g śmietanki 12%
+* 50-100 g jogurtu greckiego
+* ser przep przez praskę
+
+== Przygotowanie
+
+mąka + twaróg + cukier + śmiet + jogurt + soda + ocet + żółtka. Zagnieść ciasto.
+
+Rozwałkować na grub 1-1,5 cm
+
+Smażyć na oleju.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

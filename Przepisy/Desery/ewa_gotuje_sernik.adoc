@@ -1,0 +1,40 @@
+= Ewa gotuje sernik 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1/2 kg mąki
+* 5 dag kakao
+* 1 łyżka proszku do pieczenia
+* 2 całe jajka
+* 2 żółtka
+* 2 łyżki kwaśnej śmietany
+* 1 kostka masła
+* 20 dag c. pudru
+* 1 łyżka cukru waniliowego
+* 1 kg twarogu (2x zmielony)
+(utrzeć mikserem)
+
+=== Masa serowa:
+* masło
+* jaja
+* mąka kartoflanka
+*skórka pomarańczowa
+
+== Przygotowanie
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

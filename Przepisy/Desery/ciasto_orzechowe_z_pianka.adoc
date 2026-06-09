@@ -1,0 +1,34 @@
+= Ciasto orzechowe z pianką 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 25 dag orzechów włoskich łuskanych
+* 25 dag cukru pudru
+* 3 żółtka
+* 10 dag masła lub margaryny
+* 10 dag mąki
+* 1 wafel
+* 15 dag cukru pudru
+* 2 białka
+* sok z cytryny lub kwasek cytrynowy
+* wanilia
+
+== Przygotowanie
+
+Orzechy przebierz, zmiel, zostaw kilka połówek na przybranie. Utrzyj masło na puszystą masę, dodaj kolejno żółtka, cukier, zmielone orzechy, mąkę, na koniec sok z cytryny i wanilię. Ułóż wafel na blasze, wyłóż utartą masę i równo rozsmaruj. Ubij pianę, pod koniec dodając cukier, przybierz połówkami orzechów. Wstaw do średnio gorącego piekarnika, piecz około 30 minut.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

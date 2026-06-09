@@ -1,0 +1,43 @@
+= Pieczarki w zalewie pomidorowej 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg pieczarek
+* 3-4 cebule - pokroić w półplasterki
+* 1 l wody
+* 2 płaskie łyżeczki soli
+* 1 płaska łyżeczka wegety
+* 4 łyżeczki cukru
+
+== Przygotowanie
+Pieczarki (nie solić!) opanierować w jajku i bułce, usmażyć.
+
+Zalewa:
+
+$\frac{1}{2}$ szklanki. octu
+
+$\frac{1}{2}$ szklanki. oleju
+
+$\frac{1}{2}$ przecieru (ketchup)
+
+} zagotować dodać cebulę i zalać wrzącą
+
+pieprz, ziele, liść laurowy
+
+} zalewa do pieczarek
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

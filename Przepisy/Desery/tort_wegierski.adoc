@@ -1,0 +1,53 @@
+= Tort węgierski 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 6 jaj
+* 20 dag cukru
+* 4 jaja
+* 3/4 szklanki. cukru
+* 2 galaretki (różne)
+* 4-5 łyżek kakao
+* 2 kostka. tłuszczu
+* 3 czubate łyżki żelatyny
+* 1/2 kostka. masła
+* 1 szklanki. cukru pudru
+* 2 łyżż. wody
+* 3 łyżż. kakao
+
+== Przygotowanie
+=== Biszkopt kakaowy:
+
+(ubić na parze - ostudzić)
+
+Dodać do tego płaską łyżkę mąki, 1,5 łyżki kakao, 20 dag mączki ziemniaczanej. Wszystko razem delikatnie wymieszać. Upiec.
+
+==== Masa:
+
+Wiśnie i rodzynki namoczone w spirytusie
+
+kompot z agrestu
+
+orzechy
+
+Galaretkę rozpuścić, ostudzić i pokroić w kostkę. Orzechy zalać wrzącą wodą, zaparzyć i pokroić. Żelatynę namoczyć w zimnej wodzie. Białka ubić z cukrem na pianę, dodawać [brak słowa] Utrzeć [brak słowa] następnie dodawać po trochu masę jajeczną, kakao, wiśnie, rodzynki, pokrojoną galaretkę, spirytus, orzechy i namoczoną (ogrzaną) żelatynę, wymieszać i przekładać.
+
+=== Polewa:
+
+(zagotować i ostudzić)
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
