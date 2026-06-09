@@ -1,0 +1,31 @@
+= Risotto 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* szalotka pokrojona } usmażyć
+* oliwa z oliwek
+* ryż suszony
+* bulion warzywny, aby pokryć ryż gotować
+* oregano
+* masło
+* parmezan tarty
+
+== Przygotowanie
+
+Na patelni rozgrzać oliwę z oliwek i zeszklić na niej pokrojoną szalotkę. Wsypać suchy ryż i smażyć go przez chwilę, cały czas mieszając, aż ziarenka staną się lekko przezroczyste. Następnie wlać porcję gorącego bulionu warzywnego, tak aby w całości pokrył ryż, dodać oregano i gotować na małym ogniu. W miarę jak ryż będzie wchłaniał płyn, stopniowo dolewać kolejne porcje bulionu, regularnie mieszając, aż ryż stanie się miękki, ale wciąż lekko al dente. Na sam koniec zdjąć patelnię z ognia, dodać zimne masło oraz tarty parmezan, po czym energicznie wymieszać, aby uzyskać kremową konsystencję.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,4 +1,4 @@
-= Kotlety z indyka (rozbić) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sos do sznycla 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,15 +12,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* jogurt natur., ser nat.
+* suszone pomidory
+* liście bazylii
 
 == Przygotowanie
-mąka
 
-jajka
-
-płatki kukurydz. – zgnieść ręką
-
-bazylia podarta
+Powyższe składniki zmiksować.
 
 [.recipe-gallery]
 == Zdjęcia

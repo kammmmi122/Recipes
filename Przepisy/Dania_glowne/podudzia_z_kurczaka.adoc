@@ -1,4 +1,4 @@
-= Podudzia z kurczaka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Podudzia z kurczaka 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -13,36 +13,22 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
+* podudzia bez skóry
+* olej rzep + pikantna przyprawa do kurczaka + papryka + musztarda delikatesowa
+* pieczarki
+* suszone pomidory
+* czosnek
+* oliwki zielone
+* por biała część
+* cebula
+* tymianek
+* biała fasola
+* białe wytrawne wino
+* zielone pietruszki
+
 == Przygotowanie
-marynata:
 
-podudzia bez skóry
-
-olej rzep + pikantna przyprawa do kurczaka + papryka + musztarda delikatesowa
-
-pieczarki
-
-suszone pomidory
-
-czosnek
-
-oliwki zielone
-
-por biała część
-
-cebula
-
-tymianek
-
-} dusić do miękkości
-
-biała fasola
-
-białe wytrawne wino
-
-zielone pietruszki
-
-} 5 minut
+Oczyszczone podudzia z kurczaka bez skóry dokładnie natrzeć marynatą przygotowaną z oleju rzepakowego, pikantnej przyprawy do kurczaka, słodkiej lub ostrej papryki oraz musztardy delikatesowej, po czym odstawić na kilkanaście minut. Na głębokiej patelni lub w gęsiarce mocno obsmażyć mięso ze wszystkich stron na złoty kolor, a następnie zdjąć je na talerz. Na tym samym tłuszczu zeszklić posiekaną cebulę, pokrojoną białą część pora oraz czosnek, po czym dodać pokrojone w ćwiartki pieczarki, paski suszonych pomidorów oraz zielone oliwki. Całość doprawić tymiankiem, podlać białym wytrawnym winem i dusić, aż alkohol lekko odparuje. Następnie z powrotem włożyć podudzia, dodać odsączoną z zalewy białą fasolę i dusić pod przykryciem na małym ogniu przez około 30-40 minut, aż mięso będzie miękkie i soczyste. Przed podaniem danie obficie posypać posiekaną zieloną pietruszką.
 
 [.recipe-gallery]
 == Zdjęcia

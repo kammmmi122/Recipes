@@ -1,0 +1,31 @@
+= Klopsiki w sosie pieczeniowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 1 kg mielonego
+* 1 kg cebuli (usmażyć osobno)
+* 1 kg pieczarek (usmażyć osobno)
+* 1 koncentrat pomidorowy
+* 1 ketchup
+* ziele
+* liść
+
+== Przygotowanie
+
+Z mięsa mielonego uformować małe klopsiki i obsmażyć je na patelni, a następnie przełożyć do większego garnka. Cebulę oraz pieczarki pokroić, usmażyć osobno na patelni i dodać do mięsa. Całość zalać wodą lub bulionem, dodać ziele angielskie oraz liść laurowy i dusić na małym ogniu pod przykryciem. Pod koniec gotowania dodać koncentrat pomidorowy oraz ketchup, dokładnie wymieszać i dusić jeszcze przez chwilę, aż sos odpowiednio zgęstnieje i połączy się ze składnikami.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

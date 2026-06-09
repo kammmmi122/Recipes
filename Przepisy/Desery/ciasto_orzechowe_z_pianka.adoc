@@ -12,16 +12,19 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+=== Ciasto
 * 25 dag orzechów włoskich łuskanych
 * 25 dag cukru pudru
 * 3 żółtka
 * 10 dag masła lub margaryny
 * 10 dag mąki
 * 1 wafel
-* 15 dag cukru pudru
-* 2 białka
 * sok z cytryny lub kwasek cytrynowy
 * wanilia
+
+=== Pianka
+* 15 dag cukru pudru
+* 2 białka
 
 == Przygotowanie
 

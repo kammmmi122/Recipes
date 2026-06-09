@@ -1,4 +1,4 @@
-= Szynka w galarecie na święta 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Szynka w galarecie na święta 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,53 +12,31 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* szynka
+* rozmaryn
+* czosnek gran
+* liść laurowy
+* olej
+* sól
+* pieprz
+* marynata 8 godz.
+* marchew
+* pietruszka
+* por
+* sól peklowa 2 łyż.
+* kolendra
+* liść laurowy
+* ziele angiel.
+
+=== Glazurowanie:
+* cukier
+* ocet balsamiczny
+* wino czerwone
+* miód
 
 == Przygotowanie
-szynka
 
-rozmaryn
-
-czosnek gran
-
-liść laurowy
-
-olej
-
-sól
-
-pieprz
-
-marynata 8 godz.
-
-marchew
-
-pietruszka
-
-por
-
-sól peklowa 2 łyż.
-
-kolendra
-
-liść laurowy
-
-ziele angiel.
-
-włożyć do wywaru 2 godz. ostudzić
-
-glazurowanie:
-
-cukier
-
-ocet balsamiczny
-
-wino czerwone
-
-miód
-
-} 10 minut aż zgęstnieją
-
-szynka ostudzona posmarowana glazurą piec jeszcze 2 godz
+Szynkę natrzeć olejem połączonym z rozmarynem, granulowanym czosnkiem, pokruszonym liściem laurowym, solą oraz pieprzem, a następnie odstawić do zamarynowania w lodówce na minimum 8 godzin. Po tym czasie mięso przełożyć do garnka, zalać wodą, dodać dwie łyżki soli peklowej, marchew, pietruszkę, por, kolendrę, liść laurowy oraz ziele angielskie i ugotować do miękkości, po czym wyjąć i lekko przestudzić (wywar zachować i przecedzić). W małym rondelku zagotować cukier, ocet balsamiczny, czerwone wino oraz miód, aż powstanie gęsty sos – tak przygotowaną glazurą dokładnie posmarować szynkę i krótko zapiec w piekarniku na złoty kolor. Przestudzoną szynkę pokroić w plastry, ułożyć na półmisku wraz z pokrojoną w talarki marchewką z wywaru, zalać przecedzonym i połączonym z żelatyną wywarem z gotowania, a następnie odstawić do lodówki do całkowitego stężenia galarety.
 
 [.recipe-gallery]
 == Zdjęcia

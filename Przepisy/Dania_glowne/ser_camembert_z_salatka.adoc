@@ -12,34 +12,25 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* ser camembert zgrillować (z kwaśnego mleka)
+=== Sałatka
 * 2 pomidory
+* rukola
+* czarne oliwki
+* kapary
+* sos włoski
+
+=== Sos
+* migdały
+* orzechy
+* miód
+* rodzynki
+* sok z limonki
+* skórka pomarańczowa
 
 == Przygotowanie
-Ser camembert zgrillować (z kwaśnego mleka)
 
-Sałatka
-
-rukola
-
-czarne oliwki
-
-kapary
-
-sos włoski
-
-Sos
-
-migdały
-
-orzechy
-
-miód
-
-rodzynki
-
-sok z limonki
-
-skórka pomarańczowa
+W małym rondelku przygotować sos: płynny miód wymieszać z sokiem z limonki oraz startą skórką pomarańczową, dodać rodzynki, posiekane migdały oraz orzechy, po czym całość delikatnie podgrzać na małym ogniu, aby smaki się połączyły, a bakalie lekko zmiękły. Pomidory sparzyć, obrać ze skórki i pokroić w cząstki. W dużej misce wymieszać umytą rukolę, pomidory, czarne oliwki oraz kapary, a następnie całą sałatkę połączyć z przygotowanym wcześniej sosem włoskim. Krążki sera camembert umieścić na rozgrzanym grillu lub patelni grillowej i piec z obu stron przez kilka minut, aż wnętrze sera będzie płynne, a na wierzchu pojawią się złociste paski. Ciepły, zgrillowany ser camembert wyłożyć na talerze obok przygotowanej sałatki i obficie polać słodko-cytrusowym sosem z bakaliami.
 
 [.recipe-gallery]
 == Zdjęcia

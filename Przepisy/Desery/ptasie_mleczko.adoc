@@ -12,14 +12,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* biszkopt
 * 2 śnieżka + 2 galaretka
 * 1 galaretka
-* 2 kos. twarogu
-* 2 jajka
-* 1 łyżka płaska sody
-* 50 dag mąki
 
 == Przygotowanie
+
+Dwie galaretki rozpuścić w mniejszej ilości wrzątku niż zwykle i odstawić do ostudzenia, zachowując ich płynną konsystencję. Na dnie formy ułożyć gotowy lub upieczony wcześniej biszkopt. Dwie śnieżki ubić na sztywną pianę, a następnie, cały czas miksując na mniejszych obrotach, wlać cienkim strumieniem zimne, płynne galaretki. Puszystą masę natychmiast wylać na przygotowany biszkopt i wstawić do lodówki do stężenia. Ostatnią galaretkę rozpuścić w gorącej wodzie, ostudzić i kiedy zacznie delikatnie tężeć, wylać na wierzch pianki, po czym całe ciasto ponownie schłodzić.
 
 [.recipe-gallery]
 == Zdjęcia

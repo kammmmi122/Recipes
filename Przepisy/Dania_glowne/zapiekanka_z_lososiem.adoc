@@ -1,4 +1,4 @@
-= Zapiekanka z łososiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zapiekanka z łososiem 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -15,32 +15,27 @@ Brak zdjęcia przepisu 🍲
 * 250 g sucharów
 * 125 g masła
 * 50 g cebuli prażonej
+* oregano
+* sól
+
+=== Masa serowa
 * 50 dag sera mascarpone x utrzeć
-* 20 dag selera korzeń – ugotować, zmiksować
+* 20 dag selera korzeń - ugotować, zmiksować
 * 2 łyżki chrzanu
 * 3 jaja x
+* pieprz, sól
 * 30 dag pomidorów cherry
+* ocet jabłkowy
+* bazylia
 * 150 g łososia wędzonego
-* 170°C zapiec
 
 == Przygotowanie
-oregano
 
-sól
+Suchary drobno pokruszyć (np. w malakserze lub wałkiem w woreczku), wymieszać z prażoną cebulą, oregano oraz szczyptą soli. Masło rozpuścić, zalać nim przygotowane suchary i dokładnie wymieszać. Otrzymaną masą wylepić spód naczynia żaroodpornego lub formy do zapiekania, wyrównać i lekko docisnąć.
 
-– powyższe składniki zmiksować, wyłożyć na pergamin, zapiec 10 min
+Obrany korzeń selera ugotować do miękkości w lekko osolonej wodzie z dodatkiem odrobiny octu jabłkowego (dzięki temu zachowa jasny kolor), a następnie dokładnie zmiksować na gładkie purée i ostudzić. W dużej misce utrzeć ser mascarpone z jajkami, dodać ostudzony seler, chrzan oraz doprawić do smaku solą, pieprzem i posiekaną bazylią. Całość zmiksować na jednolitą masę.
 
-Masa serowa
-
-pieprz, sól
-
-– wylać na podpieczony spód, 160°C - 30 minut
-
-ocet jabłkowy
-
-bazylia
-
-Posmarować oliwą i octem, posolić
+Wędzonego łososia porwać na mniejsze kawałki, a pomidorki cherry przekroić na połówki. Na przygotowany wcześniej spód z sucharów wyłożyć połowę masy serowej. Rozłożyć na niej kawałki łososia oraz część pomidorków, po czym przykryć resztą masy serowej. Na wierzchu ułożyć pozostałe połówki pomidorków cherry, lekko wciskając je w masę. Całość wstawić do piekarnika nagrzanego do 180°C i zapiekać przez około 35-40 minut, aż masa serowa dobrze się zetnie i lekko zezłoci z wierzchu. Przed krojeniem odstawić na kilka minut, aby zapiekanka lekko przestygła.
 
 [.recipe-gallery]
 == Zdjęcia

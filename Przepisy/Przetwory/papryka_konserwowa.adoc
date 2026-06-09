@@ -12,21 +12,18 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
-* 4 szklanki wody
-* 5 łyżek cukru
-* 2 łyżki oleju
-
+* papryka
 === Zalewa:
 * 3/4 szklanki octu 10%
 * 1/2 łyżki soli
+* 4 szklanki wody
+* 5 łyżek cukru
+* 2 łyżki oleju
 
 == Przygotowanie
 Paprykę wydrążyć, pokroić na części, sparzyć wrzątkiem. Poukładać w słoikach.
 
 === Zalewa
-
-} zagotować, ostudzić
-
 Do ułożonej w słoikach papryki włożyć gorczycę, ziele angielskie, liść laurowy i zalać zalewą. Pasteryzować ok. 15 minut.
 
 [.recipe-gallery]

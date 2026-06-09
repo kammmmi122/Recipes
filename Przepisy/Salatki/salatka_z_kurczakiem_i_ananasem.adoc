@@ -1,0 +1,31 @@
+= Sałatka z kurczakiem i ananasem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:imagesdir: /Recipes/static/images
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas gotowania: 1 godzina
+* 👥 4 porcje
+* 🔗 Przepis z zeszytu mamy
+
+[.recipe-columns]
+== Składniki
+* 5 jaj
+* kukurydza
+* seler konserwowy
+* ananas puszka
+* por
+* pierś z kurczaka (smażona)
+* sól, pieprz, majonez
+
+== Przygotowanie
+
+Jajka ugotować na twardo, ostudzić, obrać i pokroić w kostkę. Usmażoną wcześniej i ostudzoną pierś z kurczaka oraz plastry ananasa z puszki również pokroić w podobnej wielkości kostkę. Por oczyścić, pokroić w cienkie półplasterki (można go opcjonalnie przelać wrzątkiem na sitku, aby stracił ostrość). Kukurydzę oraz seler konserwowy dokładnie odsączyć z zalewy, przy czym seler można dodatkowo lekko posiekać na krótsze kawałki. Wszystkie przygotowane składniki przełożyć do jednej dużej miski, dodać majonez i dokładnie wymieszać. Na koniec doprawić sałatkę do smaku solą oraz świeżo mielonym pieprzem, po czym schłodzić w lodówce przed podaniem.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,4 +1,4 @@
-= Mix warzyw na halibucie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Mix warzyw na halibucie 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,33 +12,20 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+=== Surówka:
+* por
+* marchew
+* cukinia
+* rzodkiewka
+* olej
+* orzechy
+* kolendra
+* zioła prowansalskie
+* buraki
 
 == Przygotowanie
-Surówka:
 
-por } w paski, zalać zimną wodą
-
-marchew
-
-cukinia
-
-rzodkiewka
-
-olej
-
-orzechy
-
-kolendra
-
-zioła prowansalskie
-
-} smażyć 5 minut z warzywami
-
-buraki – na końcu
-
-pomidory z obrać, pokroić, posolić, pieprz, cytryna
-
-halibut, oliwa z oliwek, sól, zioła prowansalskie, smażyć
+Por, marchew, cukinię, rzodkiewkę oraz buraki dokładnie oczyścić, pokroić w cienkie słupki lub zetrzeć na tarce, a następnie wymieszać z olejem, posiekanymi orzechami, świeżą kolendrą oraz ziołami prowansalskimi, tworząc chrupiącą surówkę. Pomidory sparzyć wrzątkiem, obrać ze skórki, pokroić w kostkę i doprawić solą, pieprzem oraz sokiem z cytryny. Filety z halibuta oprószyć solą, pieprzem i ziołami prowansalskimi, po czym usmażyć na patelni na rozgrzanej oliwie z oliwek, aż mięso stanie się rumiane i upieczone w środku. Usmażoną rybę ułożyć na talerzach, pokryć przygotowanymi pomidorami, a obok podać bogaty mix warzyw z surówki.
 
 [.recipe-gallery]
 == Zdjęcia

@@ -1,4 +1,4 @@
-= Gyros 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Gyros 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
@@ -12,23 +12,18 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+* pierś z kurczaka (przyprawa do gyrosa usmażyć w całości)
+* kukurydza
+* posmarować (majonez + ketchup + czosnek)
+* ogórek (plastry, konserwowy)
+* cebula w piórka (zeszklona na oleju)
+* ketchup + majonez + czosnek
+* kapusta pekińska + sos włoski (suchy)
+* ketchup + majonez + czosnek
 
 == Przygotowanie
-pierś z kurczaka (przyprawa do gyrosa usmażyć w całości)
 
-kukurydza
-
-posmarować (majonez + ketchup + czosnek)
-
-ogórek (plastry, konserwowy)
-
-cebula w piórka (zeszklona na oleju)
-
-ketchup + majonez + czosnek
-
-kapusta pekińska + sos włoski (suchy)
-
-ketchup + majonez + czosnek
+Oczyszczoną pierś z kurczaka dokładnie natrzeć przyprawą do gyrosa, usmażyć w całości na patelni z odrobiną oleju, a po ostudzeniu pokroić w kostkę i ułożyć na dnie przezroczystej miski jako pierwszą warstwę. W miseczce przygotować sos, dokładnie mieszając majonez, ketchup oraz przeciśnięty przez praskę czosnek. Częścią sosu posmarować usmażone mięso, po czym wyłożyć odsączoną z zalewy kukurydzę oraz pokrojone w plastry ogórki konserwowe. Cebulę pokroić w piórka, krótko zeszklić na patelni, ostudzić i ułożyć na ogórkach, a następnie pokryć kolejną warstwą sosu czosnkowo-pomidorowego. Kapustę pekińską drobno poszatkować, wymieszać z suchym sosem włoskim i wyłożyć na cebulę, a wierzch sałatki wykończyć pozostałą częścią sosu majonezowo-ketchupowego. Całość schłodzić w lodówce przed podaniem.
 
 [.recipe-gallery]
 == Zdjęcia
