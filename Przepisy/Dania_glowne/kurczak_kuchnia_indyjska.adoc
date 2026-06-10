@@ -1,12 +1,9 @@
-= Kurczak kuchnia indyjska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kurczak kuchnia indyjska 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
-
-[.back-to-home-wrapper]
-link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-details]
 * 🕒 czas gotowania: 1 godzina

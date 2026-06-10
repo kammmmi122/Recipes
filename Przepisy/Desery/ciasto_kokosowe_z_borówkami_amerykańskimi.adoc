@@ -1,11 +1,8 @@
-= Ciasto kokosowe z borówkami amerykańskimi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ciasto kokosowe z borówkami amerykańskimi 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 image::20260216_222222.jpg[]
-
-[.back-to-home-wrapper]
-link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina + czas pieczenia

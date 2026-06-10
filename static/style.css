@@ -35,7 +35,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Kontenery strukturalne Asciidoctor */
 #header,
 #content,
 #footer,
@@ -46,22 +45,100 @@ body {
 }
 
 /* ==========================================================================
-   PAGE HEADER (DOCUMENT TITLE & SWITCH)
+   PAGE HEADER (DOCUMENT TITLE, SWITCH & BACK BUTTON)
    ========================================================================== */
 
 #header > h1,
 #content > h1 {
   display: flex !important;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  justify-content: flex-start;
+  gap: 16px;
   font-size: 2.2rem;
   margin: 24px 0 16px;
+}
+
+#header > h1 .switch,
+#content > h1 .switch {
+  margin-left: auto;
 }
 
 #header .details {
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.back-to-home-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  background: var(--card-bg);
+  border: var(--border-subtle);
+  border-radius: 999px;
+  white-space: nowrap;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+  transition: 
+    background 0.2s ease, 
+    color 0.2s ease, 
+    box-shadow 0.2s ease, 
+    border-color 0.2s ease;
+}
+
+.back-to-home-btn:hover {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
+  text-decoration: none;
+}
+
+/* Toggle switch */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 24px;
+  vertical-align: middle;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider.round {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background-color: #d1d5db;
+  transition: 0.2s;
+  border-radius: 999px;
+}
+
+.slider.round:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.2s;
+  border-radius: 50%;
+}
+
+.switch input:checked + .slider.round {
+  background-color: var(--accent);
+}
+
+.switch input:checked + .slider.round:before {
+  transform: translateX(20px);
 }
 
 /* ==========================================================================
@@ -199,55 +276,10 @@ body {
   text-decoration: underline;
 }
 
-/* Toggle switch */
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 44px;
-  height: 24px;
-  vertical-align: middle;
-}
-
-.switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.slider.round {
-  position: absolute;
-  cursor: pointer;
-  inset: 0;
-  background-color: #d1d5db;
-  transition: 0.2s;
-  border-radius: 999px;
-}
-
-.slider.round:before {
-  position: absolute;
-  content: "";
-  height: 18px;
-  width: 18px;
-  left: 3px;
-  bottom: 3px;
-  background-color: white;
-  transition: 0.2s;
-  border-radius: 50%;
-}
-
-.switch input:checked + .slider.round {
-  background-color: var(--accent);
-}
-
-.switch input:checked + .slider.round:before {
-  transform: translateX(20px);
-}
-
 /* ==========================================================================
-   UKŁAD STRONY PRZEPISU (STRUKTURA ASSETS & GRIDS)
+   RECIPE PAGE LAYOUT (ASSETS & GRIDS)
    ========================================================================== */
 
-/* 1. Hero Banner (Efekt szerokiej panoramy) */
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
@@ -271,7 +303,6 @@ body {
   border-radius: 14px;
 }
 
-/* 2. Pasek szczegółów */
 .recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -303,20 +334,6 @@ body {
   text-decoration: none;
 }
 
-/* 3. UKŁAD DWUKOLUMNOWY */
-@media (min-width: 901px) {
-  .recipe-ingredients,
-  .recipe-preparation {
-    width: 48%;
-    display: inline-block;
-    vertical-align: top;
-  }
-
-  .recipe-ingredients {
-    margin-right: 4%;
-  }
-}
-
 .recipe-column-box h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
@@ -341,7 +358,6 @@ body {
   line-height: 1.6;
 }
 
-/* 4. Galeria Zdjęć (Kafelki o stałych proporcjach) */
 .recipe-gallery {
   clear: both;
   margin-top: 48px;
@@ -370,7 +386,6 @@ body {
   aspect-ratio: auto;
   object-fit: cover;
   object-position: center;
-
   border-radius: var(--radius);
   display: block;
   margin: 0 auto;
@@ -383,8 +398,21 @@ body {
 }
 
 /* ==========================================================================
-   MEDIA QUERIES (RESPONSYWNOŚĆ)
+   MEDIA QUERIES (RESPONSIVENESS)
    ========================================================================== */
+
+@media (min-width: 901px) {
+  .recipe-ingredients,
+  .recipe-preparation {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .recipe-ingredients {
+    margin-right: 4%;
+  }
+}
 
 @media (max-width: 900px) {
   #header > h1,
@@ -393,6 +421,11 @@ body {
     align-items: flex-start;
     gap: 12px;
     font-size: 1.8rem;
+  }
+
+  #header > h1 .switch,
+  #content > h1 .switch {
+    margin-left: 0;
   }
 
   .recipe-ingredients,
@@ -425,45 +458,7 @@ body {
   }
 
   .gallery-grid {
-    grid-template-columns: 1fr; /* Na telefonie pełna szerokość dla kafelka */
+    grid-template-columns: 1fr;
     gap: 16px;
   }
-}
-
-
-/* ==========================================================================
-   PRZYCISK POWROTU NA STRONĘ GŁÓWNĄ
-   ========================================================================== */
-
-.back-to-home-wrapper {
-  margin: 10px 0 20px 0;
-  display: flex;
-}
-
-.back-to-home-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 20px;
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: var(--muted);
-  text-decoration: none;
-  background: var(--card-bg);
-  border: var(--border-subtle);
-  border-radius: 999px; /* Zaokrąglony kształt (jak filtry na głównej) */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
-  transition: 
-    background 0.2s ease, 
-    color 0.2s ease, 
-    box-shadow 0.2s ease, 
-    border-color 0.2s ease;
-}
-
-.back-to-home-btn:hover {
-  background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
-  box-shadow: 0 6px 18px rgba(0, 122, 204, 0.25);
-  text-decoration: none;
 }
