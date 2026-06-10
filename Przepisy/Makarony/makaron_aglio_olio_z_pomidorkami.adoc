@@ -1,11 +1,8 @@
-= Makaron aglio olio z pomidorkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Makaron aglio olio z pomidorkami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 image::20260208_173706.jpg[]
-
-[.back-to-home-wrapper]
-link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 minut

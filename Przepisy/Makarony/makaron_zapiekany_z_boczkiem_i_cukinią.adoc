@@ -1,11 +1,8 @@
-= Makaron zapiekany z boczkiem i cukinią 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Makaron zapiekany z boczkiem i cukinią 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 image::20250118_150205.jpg[]
-
-[.back-to-home-wrapper]
-link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut

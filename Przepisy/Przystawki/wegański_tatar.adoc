@@ -1,11 +1,8 @@
-= Wegański tatar 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Wegański tatar 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
 image::20231119_165036.jpg[]
-
-[.back-to-home-wrapper]
-link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
