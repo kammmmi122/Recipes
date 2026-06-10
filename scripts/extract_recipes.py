@@ -207,17 +207,13 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
             # 1. Tytuł i konfiguracja
-            f.write(f'= {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
+            f.write(f'= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
             f.write(':imagesdir: /Recipes/static/images\n\n')
 
             # 2. Hero - klasa i element bez pustej linii!
             f.write('[.recipe-hero]\n')
             f.write('[.card-image-placeholder]\n')
             f.write('Brak zdjęcia przepisu 🍲\n\n')
-
-            # Przycisk powrotu na stronę główną ---
-            f.write('[.back-to-home-wrapper]\n')
-            f.write('link:../../index.html[← Wróć do przepisów, role="back-to-home-btn"]\n\n')
 
             # 3. Szczegóły - klasa i lista bez pustej linii!
             f.write('[.recipe-details]\n')
