@@ -1,3 +1,4 @@
+[.text-center]
 = Chana masala 🌱
 :imagesdir: /Recipes/static/images
 
