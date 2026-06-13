@@ -1,8 +1,12 @@
-:title-subs: attributes,macros
-:back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++
-:toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
-= {back-btn} Chana masala 🌱 {toggle-switch}
+= Chana masala 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
