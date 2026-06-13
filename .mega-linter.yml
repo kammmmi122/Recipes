@@ -10,11 +10,11 @@ ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
 # 1. Informujemy MegaLintera, aby nie wstrzykiwał swojej domyślnej flagi --config
 ACTION_ZIZMOR_CONFIG_FILE: "LINTER_DEFAULT"
 
-# 2. Tworzymy plik konfiguracyjny zizmora w locie tuż przed uruchomieniem lintera
+# 2. Tworzymy plik w formacie słownika, którego oczekuje MegaLinter
 ACTION_ZIZMOR_PRE_COMMANDS:
-  - |
-    echo -e "rules:\n  unpinned-uses:\n    ignored: true" > .zizmor.yml
+  - command: |
+      echo -e "rules:\n  unpinned-uses:\n    ignored: true" > .zizmor.yml
 
-# 3. Czyścimy argumenty CLI, aby nie generować konfliktów
+# 3. Czyścimy argumenty CLI
 ACTION_ZIZMOR_ARGUMENTS: ""
 ACTION_ZIZMOR_COMMAND_REMOVE_ARGUMENTS: ""
