@@ -6,7 +6,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 2-3 porcje
 * 🔗  https://aniagotuje.pl/przepis/mac-and-cheese[link do źródła przepisu]
 

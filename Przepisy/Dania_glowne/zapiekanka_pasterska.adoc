@@ -6,7 +6,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 6 porcje
 * 🔗 https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
 

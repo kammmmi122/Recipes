@@ -6,7 +6,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/dania_z_grilla/losos_teriyaki/przepis.html[link do źródła przepisu]
 

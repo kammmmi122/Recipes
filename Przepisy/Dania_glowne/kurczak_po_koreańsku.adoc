@@ -6,7 +6,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 2 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/kurczak-po-koreansku[link do źródła przepisu]
 
