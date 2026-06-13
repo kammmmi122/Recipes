@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Makaron ze szpinakiem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Makaron ze szpinakiem 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 150 g makaronu np. świderki, fusilli, penne
 * ½ cebuli
 * 2 ząbki czosnku
@@ -23,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * ⅓ szklanki tartego parmezanu
 
 == Przygotowanie
+
 Makaron ugotować al dente w osolonej wodzie. Szpinak opłukać i odcedzić.
 
 Na patelni na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę (ok. 5 - 7 minut). Doprawić solą, dodać przeciśnięty przez praskę czosnek i smażyć jeszcze przez ok. 2 minuty.

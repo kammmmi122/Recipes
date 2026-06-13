@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Wieprzowina z kurczakiem w sosie adobo 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Wieprzowina z kurczakiem w sosie adobo 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -7,11 +14,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.magazynkuchenny.com/wieprzowina-z-kurczakiem-w-sosie-adobo/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * ½ kg surowego boczku, ze skórą
 * 600 g kawałków kurczaka (najlepiej pałki i biodra)
 * ¼ szklanki (60 ml) octu spirytusowego 10%

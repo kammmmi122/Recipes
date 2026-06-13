@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kopytka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kopytka 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,12 +20,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg ziemniaków
 * 200 g mąki
 * 1 jajko
 * 1 łyżeczka soli
 
 == Przygotowanie
+
 Ziemniaki obrać i ugotować w osolonej wodzie. Odcedzić i od razu rozgnieść praską na idealnie gładkie puree. Przełożyć do miski i całkowicie ostudzić.
 
 Dodać mąkę, jajko oraz szczyptę soli. Połączyć składniki w jednolite ciasto.

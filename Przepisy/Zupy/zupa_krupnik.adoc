@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa krupnik 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa krupnik 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 ćwiartka kurczaka (ok. 500 g) lub skrzydło indyka
 * 2 litry bulionu lub wody
 * 1 cebula
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka posiekanego koperku
 
 == Przygotowanie
+
 Mięso opłukać i włożyć do dużego garnka. Wlać 2 litry bulionu lub wody, zagotować, a następnie zszumować.
 
 Dodać obraną cebulę, ziele angielskie i listek laurowy, doprawić solą.

@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ciasto palce lizać 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ciasto palce lizać 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 duże jaja lub 5 małych
 * 5 łyżeczek cukru
 * 2 łyżki mąki
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 2 paczki cukru waniliowego
 
 == Przygotowanie
+
 === Biszkopt:
 
 Białka ubić z cukrem, dodawać po jednym żółtku ciągle ubijając. Do ubitej masy dodać resztę składników. Wymieszać i upiec.

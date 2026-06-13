@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ryż z warzywami chińskimi i kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ryż z warzywami chińskimi i kurczakiem 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 g ryżu (np. jaśminowego, długoziarnistego)
 * 3 łyżki oleju roślinnego
 * 250 g filetu kurczaka
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 4 łyżki posiekanego szczypiorku
 
 == Przygotowanie
+
 Z wyprzedzeniem ugotować ryż, odcedzić, wysypać na duży talerz i rozłożyć po całej powierzchni, całkowicie go ostudzić i osuszyć, od czasu do czasu przemieszać.
 
 Filet z kurczaka pokroić w kostkę, doprawić solą i pieprzem, następnie dodać 2 łyżeczki sosu sojowego oraz 2 łyżeczki oleju roślinnego a także mąkę ziemniaczaną i wszystko wymieszać.

@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zapiekanka pasterska 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zapiekanka pasterska 🥩
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 6 porcje
 * 🔗 https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 600 g mielonej jagnięciny lub wołowiny
 * 100 g mrożonego groszku
 * 100 g marchewki - może być mrożona
@@ -32,6 +40,7 @@ Brak zdjęcia przepisu 🍲
 * po sporej szczypcie soli i pieprzu
 
 == Przygotowanie
+
 Około 1200 gramów ziemniaków obierz cienko i ugotuj do miękkości w lekko osolonej wodzie.
 
 Nagrzej dużą patelnię z grubym dnem. Wylej 2 łyżki oleju. Na gorący tłuszcz wyłóż obraną i drobno posiekaną cebulę. Podsmażaj ją na średniej mocy palnika przez około 5-7 minut, do zeszklenia i lekkiego zarumienienia.

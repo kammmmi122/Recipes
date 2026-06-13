@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Budyniowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Budyniowiec 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 budynie na ½ l śmietanki
 * 1 puszka brzoskwiń
 * 2 żółte galaretki
@@ -19,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * ¾ szklanki. cukru
 
 == Przygotowanie
+
 Do soku dopełnić do 1 l wody.
 
 Ugotować budyń z cukrem, dodać 2 galaretki, rozmieszać, później 1 kostka Kasi i dobrze wymieszać.

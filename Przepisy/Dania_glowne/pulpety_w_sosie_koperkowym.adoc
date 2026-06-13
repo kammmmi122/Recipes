@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pulpety w sosie koperkowym 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pulpety w sosie koperkowym 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 mała czerstwa bułka (np. kajzerka)
 * mleko lub woda do namoczenia bułki
 * 500 g mięsa mielonego*
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka posiekanego koperku
 
 == Przygotowanie
+
 Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 15 minut. Do większej miski włożyć zmielone mięso, dodać obraną i startą na tarce (o dużych oczkach) cebulę, jajko, sól i pieprz oraz odciśniętą bułkę. Wszystko dobrze wymieszać. Uformować niewielkie kulki, otoczyć je w mące.
 
 Wywar: w szerokim, większym garnku zagotować wodę, dodać obraną i startą na tarce marchewkę oraz pietruszkę, lekko posolić i dodać masło.

@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sernik nowojorski 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sernik nowojorski 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/desery/serniki/sernik_nowojorski/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 300 g ciastek maślanych (np. petit beurre)
 * 50 g masła
 * 1,25 kg tłustego zmielonego sera (cream cheese)
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * opcjonalnie - świeże kwiaty
 
 == Przygotowanie
+
 Na dno formy z odpinaną obręczą o średnicy 25 - 26 cm położyć arkusz papieru do pieczenia, zapiąć obręcz wypuszczając papier na zewnątrz.
 
 Ciasteczka dokładnie pokruszyć i wymieszać z roztopionym masłem. Masą wyłożyć dno przygotowanej tortownicy, mocno uklepać i wstawić do lodówki.

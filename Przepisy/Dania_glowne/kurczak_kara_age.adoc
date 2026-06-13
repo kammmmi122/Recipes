@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kurczak kara-age 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kurczak kara-age 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1,5 kg udka z kurczaka (oczyszczone)
 
 === Marynata do kurczaka
@@ -28,6 +36,7 @@ Brak zdjęcia przepisu 🍲
 * 0,5 łyżeczki sansho pepper 
 
 == Przygotowanie
+
 Łączymy składniki marynaty i osobno panierki. Wkładamy kurczaka w marynatę na kilkanaście minut. Dobrze obtaczamy w panierce i smażymy kilka minut w oleju w temp. 180 st.C.
 
 [.recipe-gallery]

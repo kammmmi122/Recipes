@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Szwedzkie klopsiki 🐖 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Szwedzkie klopsiki 🐖 🥩
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/wieprzowina/szwedzkie_klopsiki/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 1 szklanka dokładnie rozdrobnionego miąższu bułki lub chleba
 * 2 i ⅓ szklanki bulionu wołowego
 * 4 łyżki masła
@@ -32,6 +40,7 @@ Brak zdjęcia przepisu 🍲
 * chrupiące ziemniaczki z pieca
 
 == Przygotowanie
+
 W dużej misce wymieszać okruszki chleba z ⅓ szklanki bulionu. Na dużej patelni roztopić 1 łyżkę masła na średnim ogniu, dodać cebulę i smażyć przez ok. 10 minut na złoty kolor. W razie potrzeby rozdrobnić w melakserze lub zmielić razem z mięsem. Przełożyć do miski z chlebem.
 
 Na patelnię włożyć boczek i obsmażać aż się wytopi i będzie chrupiący, w razie potrzeby dodatkowo rozdrobnić w melakserze lub zmielić razem z mięsem. Przełożyć do miski.

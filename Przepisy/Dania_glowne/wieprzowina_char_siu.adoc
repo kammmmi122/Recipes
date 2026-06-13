@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Wieprzowina Char Siu 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Wieprzowina Char Siu 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg wieprzowiny łopatka, karkówka lub polędwiczka wieprzowa
 * ½ szklanki sosu sojowego
 * ⅓ szklanki sosu hoisin
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 40 ml pozostałej marynaty
 
 == Przygotowanie
+
 Przygotować marynatę. Do miski dodać sos sojowy, sos hoisin, wino Shaoxing, miód, przyprawę 5 smaków. Dodać czosnek przeciśnięty przez praskę i opcjonalnie odrobinę czerwonego barwnika. Całość dobrze wymieszać.
 
 Mięso wieprzowe pokroić prostopadle do włókien na podłużne, wysokie kawałki o szerokości ok. 7 cm. Ja z 1 kg wieprzowiny otrzymuje 5-6 takich kawałków.

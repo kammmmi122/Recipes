@@ -1,8 +1,15 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tantanmen ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tantanmen ramen 🐖
 :imagesdir: /Recipes/static/images
 
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
 [.recipe-hero]
-image::20240617_154401.jpg[]
+image::20260613_171601.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godziny
@@ -12,48 +19,55 @@ image::20240617_154401.jpg[]
 
 [.recipe-columns]
 == Składniki
-* 4 jajka
-* 1 szklanka bulionu (np. dashi lub zwykłego)
-* ¼ szklanki sosu sojowego
-* ¼ szklanki mirinu (lub białego wina + ½ łyżeczki cukru)
-* 6 duże marchewki
+
+=== Bulion
+* 4 L wody
+* 6 duże marchewek
 * 4 pietruszki
 * 1 mały seler
 * 3 cebule
 * 1 mały por
 * 3 łyżki oleju roślinnego dobrej jakości
 * ½ pęczku natki pietruszki
+
+=== Reszta składników do bulionu
 * 2 listki Kombu (glony morskie)
 * 3 cm kawałek imbiru
 * ½ czerwonej papryczki chili lub innej
 * 2-3 gwiazdki anyżu
 * 5 ząbków czosnku, zmiażdżonych
-* 4 L wody
 * 800 ml mleka kokosowego albo innego roślinnego
 * 4 łyżeczki sosu sojowego
+
+=== Tare
 * 16 łyżeczki tahini
 * 8 łyżeczki sosu sojowego
 * 4 łyżeczka oleju chilli lub więcej
 * 4 łyżeczka cukru
+
+=== Mięso
 * 1 opakowanie mielonej wołowiny (ok. 400 g)
 * 2 łyżeczki pasty chilli, imbir i czosnek (zmiksuj 3 cm kawałek imbiru, ½ chilli i 2 ząbki czosnku)
 * 2 łyżeczki oleju chilli do smażenia
 * 2 łyżeczki oleju roślinnego do smażenia
 * 2 łyżeczki sosu sojowego do smaku
-* opcjonalnie szczypta cukru lub innego słodzika.
+* opcjonalnie szczypta cukru lub innego słodzika
+
+=== Pozostałe składniki
 * 16 brązowych pieczarek
+* link:../Przystawki/nitamago.html[4 jajka nitamago, opts=external]
 * 2 łyżeczka sosu sojowego
 * 1 pęczek szczypiorku
-* 4 garści szpinaku.
+* 4 garści szpinaku
+
+=== Do dekoracji
 * Olej chili
 * Prażony sezam
-* Nori.
+* Nori
 
 == Przygotowanie
-Jajka włożyć delikatnie do gotującej się wody i gotować przez ok. 7 - 8 minut. Od razu po ugotowaniu zalać zimną wodą i schłodzić aby przestały się już gotować.
 
-Przygotować zalewę do jajek: zagotować bulion z sosem sojowym i mirinem, odstawić z ognia i ostudzić. Do zalewy włożyć obrane jajka i odstawić na kilkanaście godzin (do lodówki).
-
+=== Bulion
 Warzywa: marchew, seler, pietruszkę dokładnie myjemy, oczyszczamy. Kroimy pod skosem tak, by mogły wypuścić więcej smaku. Cebulę obieramy i kroimy w ćwiartki.
 
 Rozgrzewamy piekarnik do 220 st. C
@@ -68,6 +82,7 @@ Gdy bulion jest gotowy, przecedzamy go przez sito.
 
 W garnku zagotowujemy przygotowany wcześniej bulion, dodajmy mleko roślinne i doprawiamy sosem sojowym.
 
+=== Reszta
 W miseczce mieszamy składniki na tare.
 
 Na patelni podgrzewamy dwa rodzaje oleju i dorzucamy przygotowaną pastę z chilli, imbiru i czosnku. Smażymy przez 1 minutę i dodajemy mielone mięso. Doprawiamy sosem sojowym i cukrem do smaku.
@@ -87,3 +102,4 @@ Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe skł
 
 [.gallery-grid]
 image::20240617_154401.jpg[]
+image::20260613_171601.jpg[]

@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Mielone kalafiorowe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Mielone kalafiorowe 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/mielone-kalafiorowe[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2 ½ szklanki startego kalafiora / ½ kalafiora
 * 1 duża cebula
 * 1 ząbek czosnku
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * sól i czarny pieprz
 
 == Przygotowanie
+
 Piekarnik rozgrzać do 180 stopni, blachę do pieczenia wyłożyć papierem. Kalafiora wraz z łodygą zetrzeć na dużych oczkach tarki, cebulę zetrzeć na dużych oczkach tarki, a czosnek na małych oczkach. Wszystko przełożyć do bardzo dużej miski.
 
 Do startych warzyw dodać pozostałe składniki i wszystko przy pomocy rąk porządnie zagnieść w zwartą masę, w razie potrzeby dolać łyżkę oleju więcej. Na koniec doprawić do smaku.

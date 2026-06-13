@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Jogurt grecki z miodem i orzechami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Jogurt grecki z miodem i orzechami 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20250606_192348.jpg[]
@@ -12,11 +19,13 @@ image::20250606_192348.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 200 ml oleju
 * 2 łyżki miodu
 * garść orzechów
 
 == Przygotowanie
+
 Zmieszaj miód z jogurtem greckim. Posyp całość orzechami
 
 [.recipe-gallery]

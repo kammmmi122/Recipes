@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kurczak po koreańsku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kurczak po koreańsku 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 2 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/kurczak-po-koreansku[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 500 g udźca kurczaka (300 g samego mięsa bez skóry i kości)
 * 3 łyżki skrobi ziemniaczanej
 * 1 roztrzepane jajko
@@ -30,6 +38,7 @@ Brak zdjęcia przepisu 🍲
 * szczypiorek
 
 == Przygotowanie
+
 Usunąć skórę z udźca kurczaka, obkroić mięso od kości i pokroić je w kostkę. Gotowe udźce bez kości i skóry wystarczy pokroić. Mięso doprawić solą i pieprzem.
 
 Przygotować dodatki: ugotować ryż i uprażyć sezam na suchej patelni.

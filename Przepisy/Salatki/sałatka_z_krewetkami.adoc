@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sałatka z krewetkami 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sałatka z krewetkami 🦐
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 200 g oczyszczonych krewetek
 * ½ opakowania miksu sałat
 * ½ opakowania rukoli
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki soku z cytryny
 
 == Przygotowanie
+
 Mrożone krewetki rozmrozić (w temp. pokojowej lub pod strumieniem bieżącej, chłodnej wody). Opłukać i oderwać ogonki, osuszyć.
 
 Jeden ząbek czosnku zetrzeć lub przecisnąć przez praskę, drugi pokroić na cienkie plasterki. Papryczkę chili pokroić ukośnie na cienkie plasterki.

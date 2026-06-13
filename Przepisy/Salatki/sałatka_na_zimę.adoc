@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sałata na zimę 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sałata na zimę 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg pomidorów czerwonych
 * 1 kg pomidorów zielonych
 * 1 kg cebuli
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * ziele angielskie, sól, pieprz, papryka, liść laurowy, olej
 
 == Przygotowanie
+
 Warzywa poszatkować, dodać pozostałe składniki i gotować ok. 15 min. Potem przełożyć do słoików i pasteryzować ok. 15 minut.
 
 [.recipe-gallery]

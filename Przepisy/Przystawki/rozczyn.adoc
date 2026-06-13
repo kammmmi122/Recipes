@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Rozczyn 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Rozczyn 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,12 +20,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 25 g drożdży świeżych
 * 1 łyżka cukru
 * ¼ szklanki letniego mleka
 * 3 łyżki mąki pszennej
 
 == Przygotowanie
+
 Do niedużego garnuszka rozkruszyć drożdże, zasypać cukrem. Zalać letnim mlekiem (nie gorącym! - zbyt wysoka temperatura zabije drożdże). Wymieszać do rozpuszczenia się drożdży.
 
 Dodać mąkę, wymieszać, by nie było grudek.

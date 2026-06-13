@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Placki ziemniaczane 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Placki ziemniaczane 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20260115_185756.jpg[]
@@ -7,11 +14,12 @@ image::20260115_185756.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 30 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/placki-ziemniaczane[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * ½ kg ziemniaków
 * ½ łyżki mąki pszennej
 * ¼ cebuli
@@ -20,6 +28,7 @@ image::20260115_185756.jpg[]
 * olej roślinny do smażenia
 
 == Przygotowanie
+
 Ziemniaki i cebulę obrać i zetrzeć na tarce o małych oczkach bezpośrednio do większej i płaskiej miski. Zostawić je w misce bez mieszania, miskę delikatnie przechylić i odstawić tak na ok. 5 minut.
 
 W międzyczasie odlewać zbierający się sok, delikatnie przytrzymując masę, nadal ich nie mieszać. Na koniec docisnąć dłonią do miski i odlać jeszcze więcej soku. Dodać mąkę, jajko oraz dwie szczypty soli.

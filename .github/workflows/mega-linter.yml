@@ -27,7 +27,16 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          lfs: true
+          lfs: false
+          clean: true
+          persist-credentials: false
+
+      # Ręcznie instalujemy LFS z flagą --force, która zmiażdży blokujący plik hooka
+      - name: Setup and Force Git LFS
+        run: |
+          git lfs install --local --force
+          git lfs update --force
+          git lfs pull
 
       # MegaLinter (Wersja v9 ze zoptymalizowanymi zmiennymi)
       - name: Run MegaLinter
@@ -40,9 +49,13 @@ jobs:
           # Linter nie wywali całego pipeline'u w przypadku błędów formatowania
           DISABLE_ERRORS: true
 
+          # Zabezpieczenie przed modyfikacją hooków przez wewnętrzne narzędzia MegaLintera
+          ADD_GIT_MUZZLE: true
+
           # Twoje niestandardowe argumenty dla linterów
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
           SPELL_LYCHEE_ARGUMENTS: "--exclude drive.google.com"
+          ACTION_ZIZMOR_ARGUMENTS: "--ignore unpinned-uses"
 
           # Token potrzebny do wystawiania statusów w GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

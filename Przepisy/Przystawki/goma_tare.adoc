@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Goma tare 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Goma tare 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 łyżki szczypiorek  (posiekany)
 * 3 łyżki imbir  (posiekany)
 * 8 łyżek cukier
@@ -23,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 5 łyżek sezam czarny  (prażony)
 
 == Przygotowanie
+
 Miksujemy składniki w blenderze oprócz sezamów, które dodajemy na koniec.
 
 [.recipe-gallery]

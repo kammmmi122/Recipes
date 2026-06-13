@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pierś z kaczki 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pierś z kaczki 🦆
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,10 +20,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 piersi kaczki ze skórką (każda po ok. 200 - 250 g)
 * (lub - na szybko - gotowy dżem żurawinowy lub borówkowy)
 
 == Przygotowanie
+
 Mięso ogrzać w temperaturze pokojowej. Piekarnik nagrzać do 200 st. C. Piersi kaczki ponacinać "w kratkę" od strony ze skórą, nie uszkadzając mięsa. Doprawić świeżo zmielonym pieprzem i solą morską. Położyć na zimnej patelni z grubym dnem (np. żeliwnej) skórką do dołu i podgrzewać na umiarkowanym ogniu stopniowo wytapiając skórkę. W sumie potrwa to ok. 12-14 minut. Następnie przewrócić mięso skórką do góry i podsmażyć ok. 2 minuty.
 
 Tak podsmażone piersi wstawić do nagrzanego piekarnika. Jeśli rączka patelni nie może być używana w piekarniku, przekładamy piersi do naczynia żaroodpornego (najlepiej nagrzewanego razem z piekarnikiem), skórką do góry. Piec przez 8 minut. Wyjąć piersi na talerz i odczekać 5 minut przed pokrojeniem.

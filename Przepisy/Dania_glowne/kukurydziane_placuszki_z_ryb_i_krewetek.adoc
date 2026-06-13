@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kukurydziane placuszki z ryb i krewetek 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kukurydziane placuszki z ryb i krewetek 🐟 🦐
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * mintaj - 1 filet bez skóry (300 g)
 * cukinia - ⅓ sztuki (100 g)
 * marchewki - 2 sztuki (90 g)
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * chili lub gochugaru do smaku
 
 == Przygotowanie
+
 Rybę oraz krewetki myjemy i siekamy w drobną kostkę. Umytą cukinię i obrane marchewki ścieramy na tarce na dużych oczkach. Odciskamy z nadmiaru płynu. W misce łączymy jajka z mąką kukurydzianą i przyprawami. Mieszamy z wcześniej przygotowanymi składnikami. Na rozgrzaną, posmarowaną olejem patelnię nakładamy łyżką porcję masy, formując placuszki. Smażymy z obu stron na złoty kolor. Podajemy z lekkim sosem przyrządzonym z podanych składników.
 
 [.recipe-gallery]

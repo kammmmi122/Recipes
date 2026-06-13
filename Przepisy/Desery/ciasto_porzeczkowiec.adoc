@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ciasto porzeczkowiec 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ciasto porzeczkowiec 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240512_215751.jpg[]
@@ -7,11 +14,12 @@ image::20240512_215751.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/ciasto-porzeczkowiec[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * ¾ szklanki oleju roślinnego
 * ½ szklanki wody
 * 1 szklanka cukru
@@ -32,6 +40,7 @@ image::20240512_215751.jpg[]
 *  likieru amaretto lub sangrii lub czerwonego wina słodkiego lub posłodzonego wytrawnego (lub herbaty w wersji bezalkoholowej)
 
 == Przygotowanie
+
 Do garnka wlać olej i wodę, dodać cukier oraz kakao. Wymieszać i zagotować. Przelać do czystego naczynia i całkowicie ostudzić.
 
 Piekarnik nagrzać do 180 stopni C. Przygotować formę do pieczenia o wymiarach ok. 23 cm x 35 cm i w razie potrzeby wyłożyć ją papierem do pieczenia.

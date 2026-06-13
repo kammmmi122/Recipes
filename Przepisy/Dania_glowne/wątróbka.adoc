@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Wątróbka 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Wątróbka 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 500 g wątróbki wieprzowej
 * 2 łyżki mąki ziemniaczanej
 * sól i pieprz do smaku
@@ -20,6 +28,7 @@ Brak zdjęcia przepisu 🍲
 * olej do smażenia
 
 == Przygotowanie
+
 Cebule pokroić w piórka i zeszklić na patelni.
 
 Wątróbkę umyć, pokroić na kawałki, obtoczyć w mące ziemniaczanej.

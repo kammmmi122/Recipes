@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa kurkowa z makaronem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa kurkowa z makaronem 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 30 dag świeże kurki
 * 2 cebula
 * 1 ząbek czosnek
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 1 szczypta sól morska i pieprz czarny do smaku
 
 == Przygotowanie
+
 Kurki dokładnie oczyszczamy, większe okazy kroimy w kawałki, mniejsze pozostawiamy w całości.
 
 Cebule kroimy w drobną kostkę, oprószamy solą, podduszamy na maśle z dodatkiem liścia laurowego i ziela angielskiego.

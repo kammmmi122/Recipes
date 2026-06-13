@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa pieczarkowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa pieczarkowa 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1,7 l wywaru drobiowego
 * 3 małe marchewki
 * 1 pietruszka
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz
 
 == Przygotowanie
+
 Do wywaru dodaj pokrojone warzywa: marchew, pietruszkę i seler. Gotuj na małym ogniu około 15, aż warzywa zmiękną.
 
 W tym czasie na maśle, podsmaż cebulę pokrojoną w kostkę. Kiedy się delikatnie zrumieni, dodaj pieczarki pokrojone w półplasterki. Smaż aż cała woda odparuje, a pieczarki się zrumienią.

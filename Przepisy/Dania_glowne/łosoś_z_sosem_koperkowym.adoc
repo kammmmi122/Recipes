@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Łosoś z sosem koperkowym 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Łosoś z sosem koperkowym 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 350 g filetu z łososia
 * 1 łyżka sosu sojowego
 * 1 łyżka soku z cytryny
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * ziemniaki np. młode
 
 == Przygotowanie
+
 Filet łososia przekroić na 2 porcje, położyć na desce skórką do dołu i przeciągając nożem między skórką a mięsem odciąć skórę pozostawiając ją na desce. Filety opłukać i włożyć do głębokiego talerza, doprawić solą, pieprzem, skropić sosem sojowym, sokiem z cytryny, olejem roślinnym i syropem klonowym lub miodem. Wymieszać, przewrócić na drugą stronę i zostawić do zamarynowania na minimum 1 godzinę.
 
 Piekarnik nagrzać do 250 stopni C, łososia ułożyć w żaroodpornym naczyniu, polać resztą marynaty i piec przez 15 minut.

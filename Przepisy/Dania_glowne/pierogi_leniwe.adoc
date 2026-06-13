@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pierogi leniwe 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pierogi leniwe 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240719_200043.jpg[]
@@ -7,11 +14,12 @@ image::20240719_200043.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 10 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/kluski-leniwe[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 500 g twarogu półtłustego
 * 2 średnie jajka
 * trochę ponad pół szklanki mąki pszennej - 100 g
@@ -22,6 +30,7 @@ image::20240719_200043.jpg[]
 * 2 łyżki cukru waniliowego
 
 == Przygotowanie
+
 Pierogi leniwe robi się super szybko. Zacznij od zmielenia twarogu. Możesz użyć twaróg półtłusty lub tłusty w kostce, typu krajanka (w bloczkach) lub też w "trójkącie" pakowany w papier. Twaróg można zmielić w maszynce lub też przepuścić przez ręczną praskę.
 
 Do miski ze zmielonym twarogiem dodaj dwie łyżki bardzo miękkiego lub roztopionego i przestudzonego masła. Oddziel białka od żółtek. Żółtka dodaj do miski z twarogiem, zaś białka umieść w czystej i suchej misce, szklanej lub metalowej.

@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Krewetki w panko 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krewetki w panko 🦐
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * krewetki 6 sztuki (oczyszczone i delikatnie rozbite)
 * jajko 1 sztuka (roztrzepane)
 * shichimi togarashi 1 łyżeczka
@@ -22,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 
 
 == Przygotowanie
+
 Shichimi togarashi mieszamy z jajkiem. Krewetki obtaczamy w mące ryżowej, jajku i obtaczamy w panierce panko. Smażymy w oleju w temp. 170 st.C, aż będą rumiane, odsączamy.
 
 [.recipe-gallery]

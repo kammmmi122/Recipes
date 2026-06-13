@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Hiszpańska zupa z ciecierzycy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Hiszpańska zupa z ciecierzycy 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ciecierzyca konserwowa - 1 duży słoik (400 g)
 * cebula - 1 sztuka (100 g)
 * papryka zielona - 1 sztuka (140 g)
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * kolendra świeża lub natka pietruszki - 1 niewielki pęczek (30 g)
 
 == Przygotowanie
+
 Ciecierzycę płuczemy i odsączamy. W garnku nma oliwie szklimy pokrojoną w dużą kostkę cebulę. Dodajemy przeciśnięty prze praskę czosnek., drobno posiekane chili, kmin rzymski i kolendrę mieloną, smażymy około 2 minut. Do garnka wrzucamy pokrojone w centymetrową kostkę paprykę, seler naciowy i batat. Smażymy 5 minut, co jakiś czas mieszając. Dodajemy pomidory, wlewamy bulion lub wodę i doprowadzamy do wrzenia. Wsypujemy komosę ryżową oraz papryki słodką i wędzoną. Gotujemy około 20 minut. Po tym czasie dodajemy ciecierzycę. Zupę doprawiamy sokiem z limonki, solą i pieprzem. Nalewamy do miseczek i posypujemy posiekaną zieleniną.
 
 [.recipe-gallery]

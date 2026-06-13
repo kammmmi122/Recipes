@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pita 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pita 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20251123_183549.jpg[]
@@ -7,11 +14,12 @@ image::20251123_183549.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
 * 🕒 czas gotowania: 2 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/pita[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2,5 szklanki mąki pszennej tortowej - 400 g
 * 5 gramów drożdży suszonych lub 15 gramów drożdży świeżych
 * 1 niecała szklanka lekko ciepłej wody - 220 ml
@@ -19,6 +27,7 @@ image::20251123_183549.jpg[]
 * 1 płaska łyżeczka soli
 
 == Przygotowanie
+
 Umieść razem wszystkie składniki i wyrób je na elastyczne i jednolite ciasto. Miskę z ciastem przykryj ściereczką bawełnianą lub folią przezroczystą. Odstaw do wyrastania na godzinę lub nawet 90 minut.
 
 Wyrośnięte ciasto na chlebki pita przełóż na blat obsypany lekko mąką. Ciasto wyrabiaj chwilę a następnie podziel na sześć równych kawałków. Każdy kawałek uformuj w dłoniach na kształt kuli.

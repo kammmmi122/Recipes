@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Fasolka po bretońsku 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Fasolka po bretońsku 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/zielony_srodek/fasolka/fasolka_po_bretonsku/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 400 g suchej fasolki "Piękny Jaś" lub 2 puszki fasolki
 * 250 g boczku (parzonego lub wędzonego)
 * 250 g kiełbasy
@@ -22,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * przyprawy: 3 ziela angielskie, liść laurowy, 2 płaskie łyżki suszonego majeranku
 
 == Przygotowanie
+
 Suchą fasolę wsypać do garnka, zalać zimną wodą (ok. 10 cm ponad poziom fasolki) i odstawić na noc do namoczenia.
 
 Następnego dnia odcedzić, wlać 1 litr świeżej wody, dodać 1 łyżeczkę soli, ziele angielskie i liść laurowy i gotować pod przykryciem przez około 1 i ½ godziny do miękkości.

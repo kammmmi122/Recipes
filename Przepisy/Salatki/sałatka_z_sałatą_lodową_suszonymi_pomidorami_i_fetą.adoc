@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sałatka z sałatą lodową, suszonymi pomidorami i fetą 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sałatka z sałatą lodową, suszonymi pomidorami i fetą 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ¼ lub ⅓ główki sałaty lodowej
 * garstka roszponki
 * 5 kawałków suszonych pomidorów w zalewie
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * sól i pieprz
 
 == Przygotowanie
+
 Sałatę opłukać i osuszyć, pokroić w kostkę, włożyć do salaterek razem z opłukaną roszponką. Doprawić solą i pieprzem.
 
 Pomidory suszone wyjąć z zalewy i pokroić na cienkie paseczki, fetę pokroić w kosteczkę, chili oraz białe i jasnozielone części dymki na cienkie plasterki, wszystko dodać do sałatki.

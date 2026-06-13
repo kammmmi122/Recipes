@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Naleśniki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Naleśniki 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 szklanki mąki
 * 1 szklanka mleka
 * 1 szklanka wody
@@ -20,6 +28,7 @@ Brak zdjęcia przepisu 🍲
 * sól - x
 
 == Przygotowanie
+
 Wszystkie składniki umieścić w jednej misce i dokładnie zmiksować na gładkie ciasto bez grudek. Patelnię mocno rozgrzać (nie trzeba jej dodatkowo natłuszczać, ponieważ olej jest już w cieście). Wylewać cienkie porcje ciasta, rozprowadzając je równomiernie po dnie, i smażyć naleśniki z obu stron na złoty kolor.
 [.recipe-gallery]
 == Zdjęcia

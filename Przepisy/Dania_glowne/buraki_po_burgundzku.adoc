@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Buraki po burgundzku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Buraki po burgundzku 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 6 szalotek
 * 500 g małych pieczarek
 * 2 marchewki
@@ -30,6 +38,7 @@ Brak zdjęcia przepisu 🍲
 * oliwa
 
 == Przygotowanie
+
 Szalotki obrać, ale nie kroić. Po kolei nadziewać każdą z nich na widelec i opalać nad palnikiem gazowym przez kilka minut, dopóki nie będzie mocno przypalona. Opalone szalotki odłożyć na bok.
 
 Pieczarki pokroić na ćwiartki, te najmniejsze wystarczy przekroić na pół. Na dnie dużego garnka z bardzo grubym dnem rozgrzać kilka łyżek oliwy i dodać pokrojone pieczarki, poddusić przez chwilę i dodać opalone szalotki pokrojone w bardzo grube plastry.

@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa serkowa z klopsami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa serkowa z klopsami 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 kostki rosołowe
 * 1 l wody
 * 300 g serka topionego
@@ -30,6 +38,7 @@ Brak zdjęcia przepisu 🍲
 * 1 cebula
 
 == Przygotowanie
+
 Cebulę i czosnek obierz oraz drobno posiekaj. Szczypiorek posiekaj.
 
 W garnku o grubym dnie rozgrzej oliwę i zeszklij cebulę. Dodaj czosnek i całość podsmaż przez ok. 5 minut.

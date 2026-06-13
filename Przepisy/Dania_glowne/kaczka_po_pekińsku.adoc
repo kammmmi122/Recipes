@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kaczka po pekińsku 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kaczka po pekińsku 🦆
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗  https://houseofasia.pl/przepis/kaczka-po-pekinsku/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 100 ml Sosu do kaczki po pekińsku House of Asia
 * 150 g Warzyw do woka House of Asia
 * 1 łyżeczka Przyprawy Pięć smaków House of Asia

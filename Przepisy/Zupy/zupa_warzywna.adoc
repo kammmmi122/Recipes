@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa warzywna 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa warzywna 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 mieszanki mieszanki wiosennej
 * 500 g kiełbasy
 * 500 g ziemniaków
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * koperek lub natka pietruszki lub bazylia
 
 == Przygotowanie
+
 W szerokim większym garnku na maśle i oliwie zeszklić pokrojoną w kosteczkę cebulę. Dodać mieszankę wiosenną i mieszając podsmażać przez ok. 3 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać przez ok. 3 minuty co chwilę mieszając.

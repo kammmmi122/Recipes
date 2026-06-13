@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Roladki tortilowe 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Roladki tortilowe 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 3 placki z tortilli pszennej
 * 200 g serka kremowego serka typu Philadelphia
 * 250 g szynki w plasterkach - 9 plasterków
@@ -23,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * mały pęczek szczypiorku
 
 == Przygotowanie
+
 Placki wysmaruj dość grubo kremowym serkiem typu Philadelphia.
 
 Na każdy placek wyłóż też odrobinę siekanego szczypiorku. Możesz też użyć koperku lub natki pietruszki.

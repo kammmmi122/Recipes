@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ziemniaki faszerowane 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ziemniaki faszerowane 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 ziemniaki
 * 3 łyżki oleju rzepakowego
 * trochę soli i pieprzu do smaku
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * 1 ząbek czosnku
 
 == Przygotowanie
+
 Rozgrzej piekarnik do 200°C. Spore ziemniaki podobnej wielkości umyj dokładnie i osusz. Nie obieraj.
 
 Przy pomocy ostrego noża natnij ziemniaki w poprzek w odstępach ok. 0,5 centymetrowych, ale nie do końca ziemniaka.

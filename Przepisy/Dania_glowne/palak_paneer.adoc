@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Palak paneer 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Palak paneer 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗  https://aniagotuje.pl/przepis/palak-paneer[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 500 g szpinaku - najlepiej mrożony w liściach lub ew. siekany
 * 400 g sera indyjskiego Paneer
 * 4 ząbki czosnku - około 20 g

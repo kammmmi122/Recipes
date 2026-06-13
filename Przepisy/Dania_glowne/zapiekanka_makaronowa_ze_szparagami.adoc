@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zapiekanka makaronowa ze szparagami 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zapiekanka makaronowa ze szparagami 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 szklanki makaronu kokardki
 * 1 pęczek (500 g) szparagów
 * 100 g wędzonego łososia
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 50 g tartego parmezanu lub grana padano
 
 == Przygotowanie
+
 Piekarnik nagrzać do 190 stopni C.
 
 Zagotować osoloną wodę w dużym garnku. Wrzucić makaron i gotować al dente (wg. instrukcji na opakowaniu). Na ostatnią minutę gotowania makaronu dodać do niego szparagi: należy je wcześniej opłukać, odłamać twarde końce (same złamią się w odpowiednim miejscu), pokroić na desce na kawałki.

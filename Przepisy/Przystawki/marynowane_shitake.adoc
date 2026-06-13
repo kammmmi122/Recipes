@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Marynowane shitake 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Marynowane shitake 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,15 kg grzyby shitake  (pokrojone w paski)
 * 0,5 kubka sos sojowy jasny 
 * 0,5 kubka ocet ryżowy
@@ -21,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki imbir (pokrojony w plastry)
 
 == Przygotowanie
+
 Wszystkie składniki z wyjątkiem grzybów mieszamy. Marynatę zagotowujemy i redukujemy. Następnie dodajemy do niej grzyby i odstawiamy do wystygnięcia.
 
 [.recipe-gallery]

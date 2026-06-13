@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tort Raffaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tort Raffaello 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240530_115153.jpg[]
@@ -7,11 +14,12 @@ image::20240530_115153.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
 * 🕒 czas gotowania: 3 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://wszystkiegoslodkiego.pl/przepisy/torty/tort-raffaello[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 6 jajek
 * 200 g cukru
 * 50 ml wody
@@ -36,6 +44,7 @@ image::20240530_115153.jpg[]
 * 3 łyżki płatków migdałów
 
 == Przygotowanie
+
 Formę o średnicy 24 cm wyłóż papierem do pieczenia (samo dno). Piekarnik nagrzej do temperatury 170°C.
 
 Mąkę przesiej do miski razem z proszkiem do pieczenia, wymieszaj dokładnie.

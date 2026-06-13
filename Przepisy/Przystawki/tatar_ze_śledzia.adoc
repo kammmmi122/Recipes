@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tatar ze śledzia 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tatar ze śledzia 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20231216_212653.jpg[]
@@ -12,6 +19,7 @@ image::20231216_212653.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 2 filety śledziowe (np. w oleju lub marynowane w occie lub wypłukanych z soli)
 * 2 łyżeczki posiekanej natki
 * świeżo zmielony czarny pieprz
@@ -24,6 +32,7 @@ image::20231216_212653.jpg[]
 * olej lniany
 
 == Przygotowanie
+
 Filety marynowane w occie dokładnie osuszyć papierowym ręcznikiem, filety w oleju po prostu odsączyć i wyjąć na deskę. Każde śledzie spróbować i ocenić czy nie są za słone.
 
 Śledzie drobniutko posiekać razem z natką pietruszki, dodać świeżo zmielony pieprz, musztardę, sok z cytryny i cukier i wszystko razem wymieszać siekając.

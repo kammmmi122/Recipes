@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Szarpana wieprzowina 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Szarpana wieprzowina 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -7,11 +14,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 godzin
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/pulled-pork[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2 kg łopatki wieprzowej
 * 1 łyżka oliwy
 * 2 cebule
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * ½ łyżeczka mielonej ostrej papryki
 
 == Przygotowanie
+
 Cebulę obrać i pokroić na grubsze plastry, czosnek obrać i rozgnieść nożem. Cebulę i czosnek ułożyć na dnie naczynia do zapiekania (lub wolnowaru). Wlać sok pomarańczowy oraz opcjonalnie sos worcesthershire
 
 Mięso wysmarować oliwą i natrzeć mieszanką przypraw. Włożyć do garnka (położyć na cebuli i czosnku).

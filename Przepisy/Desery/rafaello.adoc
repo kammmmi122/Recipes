@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Rafaello 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Rafaello 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -21,6 +28,7 @@ Brak zdjęcia przepisu 🍲
 * opcjonalnie: rodzynki, 2 galaretki
 
 == Przygotowanie
+
 Z pięciu jaj upiec biszkopt i odstawić do całkowitego ostudzenia. Białą czekoladę rozpuścić w kąpieli wodnej na parze, a następnie odstawić, aby ostygła, zachowując płynną konsystencję. Śmietanę kremówkę ubić na sztywno, powoli dodając obie śnieżki i cały czas miksując. Do ubitej masy powoli wlać ostudzoną czekoladę, a na koniec wmieszać wiórki kokosowe. Tak przygotowaną masę wyłożyć równomiernie na zimny biszkopt. W wersji klasycznej wierzch ciasta posypać dodatkowymi wiórkami kokosowymi, a w wersji owocowej można rozsypać na masie rodzynki i zalać całość dwoma tężejącymi galaretkami.
 
 [.recipe-gallery]

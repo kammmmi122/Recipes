@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * miks sałat lub roszponka
 * 10 suszonych pomidorów
 * 50 g orzechów włoskich
@@ -22,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * pieprz i sól
 
 == Przygotowanie
+
 Sałatę umyć. Pokroić suszone pomidory, orzechy i ser camembert. Zmieszać sałatę, pomidory, orzechy, pestki dyni, sól i pieprz. Pokroić oliwą.
 
 [.recipe-gallery]

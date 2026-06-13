@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Cannelloni 🥩 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Cannelloni 🥩
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 18 rurek cannelloni, około 200 g
 * 3 łyżki oliwy extra vergine
 * 1 cebula
@@ -33,6 +41,7 @@ Brak zdjęcia przepisu 🍲
 * ½ szklanki tartego parmezanu
 
 == Przygotowanie
+
 Sos boloński: na oliwie, w większym garnku, zeszklić na umiarkowanym ogniu drobno posiekaną cebulę i czosnek, dodać posiekany w drobną kosteczkę seler naciowy oraz startą na drobnej tarce marchewkę. Obsmażyć, następnie przesunąć warzywa na bok i w wolne miejsce włożyć pokrojony w kosteczkę boczek. Zrumienić co jakiś czas mieszając, na koniec wymieszać z warzywami.
 
 Przesunąć wszystko na bok garnka i partiami wkładać mięso: włożyć ⅓ część mięsa i dokładnie obsmażyć mieszając co chwilę, aż zmieni kolor z czerwonego na brązowy. Następnie wymieszać z warzywami i boczkiem, przesunąć na bok, powtórzyć z resztą mięsa.

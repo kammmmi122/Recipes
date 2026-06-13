@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Krem z bitej śmietany🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krem z bitej śmietany🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,11 +19,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 kubki kremówki
 * 3 łyżeczki cukru pudru
 * 3 łyżeczki żelatyny
 
 == Przygotowanie
+
 Żelatynę rozpuścić w niewielkiej ilości gorącej wody i odstawić do przestudzenia. Dobrze schłodzoną śmietankę kremówkę ubić mikserem na sztywną pianę, a pod koniec ubijania dodać cukier puder. Do płynnej, ale ostudzonej żelatyny dodać łyżkę ubitej śmietany, wymieszać, a następnie cały czas miksując, wlać cienkim strumieniem do reszty kremu i dokładnie połączyć.
 
 [.recipe-gallery]

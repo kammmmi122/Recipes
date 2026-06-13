@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pęczotto z burakami i kozim serem 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pęczotto z burakami i kozim serem 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * wino białe - 100 ml
 * bulion warzywny - 700 ml
 * cebula - 1 szt.
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * natka pietruszki - 2 łyżki
 
 == Przygotowanie
+
 Umyte buraki w skórkach układamy na blasze wyłożonej papierem do pieczenia. Pieczemy ok. 40-60 minut (do miękkości) w piekarniku rozgrzanym do 180°C. Studzimy i obieramy.
 
 Cebulę pokrojoną w kostkę smażymy na oliwie na rozgrzanej patelni. Gdy się zeszkli, dodajemy czosnek pokrojony w plasterki. Smażymy ok. 3 minuty.

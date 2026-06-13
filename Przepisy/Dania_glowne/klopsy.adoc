@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Klopsy 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Klopsy 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240822_190210.jpg[]
@@ -12,6 +19,7 @@ image::20240822_190210.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 400 g mięsa mielonego wieprzowego
 * 1 jajko
 * bułka tarta
@@ -25,6 +33,7 @@ image::20240822_190210.jpg[]
 * szczypta natki pietruszki
 
 == Przygotowanie
+
 Mięso mielone w temperaturze pokojowej przenieść do miski. Dodać pieprz, sól, pokrojoną w kostkę cebulę, jajko i łyżkę bułki tartej. uformować klopsy. Opanierować w bułce tartej. Usmażyć klopsy na rozgrzanym oleju.
 
 Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, śmietanę i natkę pietruszki. Całość wymieszać.

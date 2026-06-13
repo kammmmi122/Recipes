@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa z cukinii 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa z cukinii 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 500 ml bulionu warzywnego lub drobiowego
 * 2 cukinie - 800 g
 * mała cebula cukrowa
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * łyżeczka ziół prowansalskich
 
 == Przygotowanie
+
 Do zupy z cukinii odlewam przygotowuję 500 ml bulionu.
 
 Cukinie myję i odcinam same końce. Obierz cebulę oraz ząbki czosnku.

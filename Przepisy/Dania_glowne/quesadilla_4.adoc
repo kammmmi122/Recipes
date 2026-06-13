@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Quesadilla 4 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Quesadilla 4 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * tortille kukurydziane rozm. 18 cm
 * 1 czerwona cebula lub biała ze szczypiorem
 * ½ puszki czarnej fasoli
@@ -22,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * salsa pomidorowa
 
 == Przygotowanie
+
 Przygotowanie quesadilli rozpoczynamy od podsmażenia pieczarek. Najpierw je obieramy i tniemy na plasterki. Następnie rozgrzewamy na patelni łyżkę masła klarowanego (można również użyć zwykłego) i wrzucamy pokrojone pieczarki. Smażymy na bardzo mocno rozgrzanej patelni. Od czasu do czasu mieszamy, ale pozwalamy, żeby pieczarki lekko się nawet przyprażyły.
 
 Zdejmujemy pieczarki z patelni i pozostawiamy do ostygnięcia.

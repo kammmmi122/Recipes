@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Domowa pizza 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Domowa pizza 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20250822_173944.jpg[]
@@ -12,6 +19,7 @@ image::20250822_173944.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 1 łyżka (12g) suchych drożdży (drożdży instant) lub 25 g świeżych drożdży
 * 1,5 szklanki letniej wody
 * 3,5 szklanki mąki pszennej
@@ -19,6 +27,7 @@ image::20250822_173944.jpg[]
 * 1,5 łyżeczki soli
 
 == Przygotowanie
+
 Mąkę przesiać, wymieszać z suchymi drożdżami (ze świeżych drożdży należy najpierw zrobić rozczyn). Dodać pozostałe składniki i wyrobić gładkie, elastyczne ciasto. Ciasto na pizzę można wyrabiać ręcznie, można też mikserem z hakiem do ciasta drożdżowego (mikserem zajmie to około 15 minut).
 
 Z ciasta uformować kulę, umieścić w naczyniu, przykryć folią spożywczą i postawić w ciepłe miejsce do podwojenia objętości na około 1 - 1,5 godziny.

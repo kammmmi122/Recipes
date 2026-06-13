@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Schab nadziewany mozzarellą i pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Schab nadziewany mozzarellą i pieczarkami 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz
 
 == Przygotowanie
+
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.

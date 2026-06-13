@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pierniczki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pierniczki 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20231218_213240.jpg[]
@@ -7,11 +14,12 @@ image::20231218_213240.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 30 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
+
 * 500 g mąki
 * 150 g masła
 * 150 g drobnego cukru
@@ -23,6 +31,7 @@ image::20231218_213240.jpg[]
 * 20-30 g przyprawy korzennej
 
 == Przygotowanie
+
 W rondelku umieść 150 gramów prawdziwego masła. Wlej również 200 gramów dobrej jakości płynnego miodu. Wsyp łyżeczkę kakao oraz całą przyprawę korzenną. Rondelek umieść na palniku i ustaw małą moc. Całość podgrzewaj kilka minut do całkowitego roztopienia się masła. Słodki krem wymieszaj dokładnie. Jeśli składniki się zagotują, to nic nie szkodzi. Rondelek ze słodkim, korzennym płynem odstaw na bok do przestudzenia.
 
 Kwaśną śmietanę 18% wymieszaj z dwiema łyżeczkami sody oczyszczonej. Śmietanę możesz zamienić na gęsty i kremowy jogurt naturalny.

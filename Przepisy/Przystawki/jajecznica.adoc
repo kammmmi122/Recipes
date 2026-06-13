@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Jajecznica 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Jajecznica 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 15 minut
 * 🕒 czas gotowania: 15 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
+
 * 2 jajka
 * szczypta soli
 * szczypta pieprzu
@@ -21,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * masło
 
 == Przygotowanie
+
 Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymieszać. Na patelni roztopic masło, wlać jajka i czekać. Od czasu do czasu poruszać drewnianą łyżką, aby rozdzielić na kawałku. Wyłączyć ogień gy białko stanie się białe.
 
 [.recipe-gallery]

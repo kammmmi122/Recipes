@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Guacamole 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Guacamole 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 3 większe dojrzałe awokado - 650 g
 * 4 łyżki dobrej jakości oliwy
 * 6 łyżek soku z limonki lub cytryny
@@ -23,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * przyprawy: pół łyżeczki soli i spora szczypta świeżo mielonego pieprzu
 
 == Przygotowanie
+
 Aby zrobić guacamole wybierz zdrowe i dojrzałe awokado. U mnie były to dwie sztuki awokado Hass i jedno zwykłe, zielone awokado o łącznej wadze około 650 gramów. Dojrzałe awokado umyj i natnij po całości, aż do pestki. Rozdziel na dwie połówki. Usuń pestkę a miąższ wyjmij przy pomocy łyżki lub też najpierw delikatnie zdejmij palcami twardą skórkę. Połówki awokado ugniataj kawałek po kawałku przy pomocy widelca.
 
 Tak naprawdę z miąższem możesz postąpić dowolnie, zatem awokado w formie bardziej jednolitej też jest super. Ostatecznie wyszło mi 450 gramów gotowej pasty. Moje awokado były dość duże, więc bardzo możliwe, że u Ciebie potrzebne będą aż cztery sztuki.

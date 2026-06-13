@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zuppa di pesce 🐟 🦐 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zuppa di pesce 🐟 🦐
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 łyżki oliwy extra vergine
 * 1 ząbek czosnku
 * pół pęczka natki pietruszki
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * bagietka
 
 == Przygotowanie
+
 Do szerokiego większego garnka wlać oliwę, dodać obrany i pokrojony na cienkie plasterki czosnek, posiekaną w kosteczkę papryczkę chili i smażyć na małym ogniu przez około 3 minuty co chwilę mieszając.
 
 Pomidory sparzyć, obrać ze skórki i pokroić w kosteczkę. Dodać do garnka i na większym ogniu gotować przez ok. 5 minut co chwilę mieszając.

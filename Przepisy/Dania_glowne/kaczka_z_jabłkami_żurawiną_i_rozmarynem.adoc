@@ -1,9 +1,15 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kaczka z jabłkami, żurawiną i rozmarynem 🦆 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kaczka z jabłkami, żurawiną i rozmarynem 🦆
 :imagesdir: /Recipes/static/images
 
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260608_190230.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
@@ -13,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 kacze udka
 * świeży rozmaryn
 * 2 ząbki czosnku
@@ -23,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka masła + 1 łyżeczka miodu
 
 == Przygotowanie
+
 Udka wyjąć wcześniej z lodówki. Doprawić solą i pieprzem, dodać obrany i przepołowiony czosnek oraz kilka kawałków gałązek rozmarynu. Ułożyć skórką do góry w naczyniu lub formie do pieczenia, szczelnie przykryć pokrywą lub folią aluminiową i piec przez 90 minut w 180 stopniach C.
 
 Pod koniec pieczenia zacząć przygotowywać jabłka: przekroić na połówki, obrać, wydrążyć nasiona i ponacinać nożem od wypukłej strony. Posypać cynamonem.
@@ -34,3 +42,4 @@ Zdjąć przykrycie z formy, zlać tłuszcz (można go wykorzystać do smażenia 
 
 [.gallery-grid]
 // Tutaj pojawią się zdjęcia
+image::20260608_190230.jpg[]

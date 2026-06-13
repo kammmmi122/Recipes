@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Pączki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Pączki 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg mąki 
 * 0,20 palmy
 * 8 jaj 
@@ -21,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * ½ l mleka
 
 == Przygotowanie
+
 Prace zaczynamy od przygotowania rozczynu, rozcierając w miseczce świeże drożdże z odrobiną cukru, ciepłego mleka i mąki, a następnie odstawiamy go w ciepłe miejsce do wyrośnięcia. W międzyczasie rozpuszczamy i studzimy „Palmę”, a żółtka (oraz opcjonalnie dwa całe jajka z pozostałych ośmiu dla lepszej struktury) ucieramy na parze z odrobiną cukru na puszysty kogel-mogel. Do dużej miski przesiewamy resztę mąki, wlewamy wyrośnięty rozczyn, ubite jajka oraz resztę letniego mleka, po czym wyrabiamy ciasto, dodając pod koniec partiami roztopiony tłuszcz oraz kieliszek spirytusu, który zapobiegnie nadmiernemu wchłanianiu tłuszczu podczas smażenia. Gładkie i elastyczne ciasto odstawiamy pod przykryciem do podwojenia objętości, a gdy wyrośnie, wałkujemy je na grubość około dwóch centymetrów, wykrawamy szklanką krążki, nadziewamy je marmoladą, dokładnie zlepiamy w kulki i pozostawiamy na stolnicy do ponownego wyrośnięcia. Gotowe, wyrośnięte pączki smażymy partiami na dobrze rozgrzanym głębokim tłuszczu z obu stron na ciemnozłoty kolor, po czym odsączamy je na papierowym ręczniku i dekorujemy wedle uznania cukrem pudrem lub lukrem.
 
 [.recipe-gallery]

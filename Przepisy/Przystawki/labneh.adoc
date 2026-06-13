@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Labneh 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Labneh 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -7,15 +14,17 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 12 godzin
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/labneh[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 650 g jogurtu greckiego
 * szczypta soli morskiej
 
 == Przygotowanie
+
 Wymieszać jogurt z solą morską. Umieścić go na sitku zawieszonym na garnku lub misce i wyłożonym gazą (2 - 3 warstwy). Związać supełek tworząc sakiewkę i lekko zacisnąć.
 
 Zawiesić nad miską, tak aby serwatka swobodnie do niej ściekała i zostawić na całą noc lub ok. 12 godzin.

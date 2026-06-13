@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ratatuj 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ratatuj 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 cukinie (u mnie zielona i żółta)
 * 2 małe bakłażany lub jeden większy
 * 2 duże pomidory
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * po ½ łyżeczki soli, pieprzu, słodkiej papryki, bazylii, oregano
 
 == Przygotowanie
+
 Warzywa umyć, osuszyć i pokroić w bardzo cienkie plasterki (najłatwiej jest użyć tarki do jarzyn). Plastry bakłażana posolić i odstawić na około 30 minut, po tym czasie je opłukać i osuszyć papierowym ręcznikiem.
 
 Passatę pomidorową wlać do miseczki, dodać olej z ryżu o smaku czosnku SoRiso, przyprawy i wymieszać.

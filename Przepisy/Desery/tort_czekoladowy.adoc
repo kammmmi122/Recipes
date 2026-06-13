@@ -1,16 +1,24 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tort czekoladowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tort czekoladowy 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240511_114709.jpg[]
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
-* 👥 2-3 porcje
+* 🕒 czas przygotowania: 1 godzina
+* 👥 4 porcje
 * 🔗 https://ilovebake.pl/przepis/tort-czekoladowy[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2 jajka (rozmiar L) o temp. pokojowej
 * 1 szklanka cukru
 * 1 szklanka maślanki o temp. pokojowej
@@ -30,6 +38,7 @@ image::20240511_114709.jpg[]
 * 80 g gorzkiej czekolady
 
 == Przygotowanie
+
 Dzień wcześniej śmietankę mocno podgrzewamy, następnie dodajemy kawałki czekolady i dokładnie mieszamy do rozpuszczenia. Studzimy, przykrywamy folią i wkładamy do lodówki na całą noc.
 
 Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast boki smarujemy lekko masłem i oprószamy bułką tartą lub kaszką manną. Jajka mieszamy z cukrem, maślanką oraz olejem. Do miseczki przesiewamy mąkę, sodę, proszek do pieczenia oraz kakao. Wlewamy mokre składniki, dodajemy sól i delikatnie mieszamy trzepaczką. Na koniec wlewamy gorący napar z kakao i mieszamy do połączenia. Wylewamy ciasto do formy i pieczemy w temp. 175ºC przez ok. 50 - 65 minut do tzw. suchego patyczka. Po upieczeniu studzimy i przekrawamy na trzy części.

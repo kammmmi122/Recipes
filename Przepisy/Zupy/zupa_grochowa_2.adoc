@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa grochowa 2 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa grochowa 2 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 l wody
 * 2 ziemniaki
 * 60 g marchewki
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 1 pęczek natki pietruszki
 
 == Przygotowanie
+
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
 Zdejmuję łyżką cedzakową pianę, która zebrała się po zagotowaniu grochu i gotuję.

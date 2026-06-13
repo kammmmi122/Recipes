@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kaszotto z indykiem, fasolką i cukinią 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kaszotto z indykiem, fasolką i cukinią 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 łyżki oliwy extra vergine
 * ⅓ szklanki kaszy pęczak
 * 1 cebula
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 4 łyżki posiekanego szczypiorku
 
 == Przygotowanie
+
 Na dużą patelnię wsypać kaszę, dodać łyżkę oliwy i chwilę podsmażyć. Cebulę pokroić w kosteczkę, dodać na patelnię i zeszklić mieszając od czasu do czasu przez ok. 5 minut. W międzyczasie dodać suszone oregano.
 
 Przesunąć składniki na bok patelni, w wolne miejsce wlać 2 łyżki oliwy, włożyć zmielone mięso (lub rozdrobnione w melakserze lub drobno posiekane na desce). Polać sosem sojowym i obsmażać przez ok. 7 minut mieszając od czasu do czasu. W międzyczasie składniki z boku patelni 1 - 2 razy przemieszać.

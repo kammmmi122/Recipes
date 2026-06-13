@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sernik z brzoskwiniami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sernik z brzoskwiniami 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -12,6 +19,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 szklanki mąki
 * 1 kostka palmy
 * 3 łyżki cukru
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 1 p. brzoskwinie lub jabłka
 
 == Przygotowanie
+
 Z mąki, jednej kostki palmy, trzech łyżek cukru, proszku do pieczenia oraz pięciu żółtek zagnieść jednolite ciasto, podzielić je na dwie równe części i włożyć do zamrażalnika. W osobnej misce przygotować masę serową, mieszając ze sobą na gładką masę twaróg, jedno jajko, budyń śmietankowy, szklankę cukru oraz pół kostki roztopionej i ostudzonej palmy. Pięć pozostałych białek ubić z połową szklanki cukru pudru na sztywną pianę. Formę do pieczenia wyłożyć pierwszą częścią zamrożonego ciasta (rozwałkowaną lub startą na tarce), na nią wyłożyć przygotowaną masę serową, następnie ułożyć pokrojone w kostkę brzoskwinie, pokryć całość ubitą pianą z białek, a na sam wierzch zetrzeć drugą część ciasta. Piec w piekarniku rozgrzanym do 200 °C przez około 50 minut.
 
 [.recipe-gallery]

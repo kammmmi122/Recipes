@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa krem z groszku z grzankami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa krem z groszku z grzankami 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 32 minut
 * 🕒 czas gotowania: 32 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 800 g mrożony zielony groszek
 * 2 cebula duża
 * 2 łyżek oliwa z czosnkiem
@@ -28,6 +36,7 @@ Brak zdjęcia przepisu 🍲
 * trochę kiełki do dekoracji
 
 == Przygotowanie
+
 Cebulę kroimy w piórka lub kostkę (zostanie zmiksowana z zupą).
 
 W garnku rozgrzewamy olej z czosnkiem i ziołami i wrzucamy pokrojoną cebulę. Szklimy ją na złoty kolor.

@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Łatwe kimchi 🌱 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Łatwe kimchi 🌱 🔥
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/kimchi-czyli-koreanska-kiszona-kapusta[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 5 łyżek soli morskiej
 * 2 - 3 litry wody
 * 1 kg kapusty pekińskiej
@@ -31,6 +39,7 @@ Brak zdjęcia przepisu 🍲
 * ½ marchewki, pocięta w cienkie paseczki
 
 == Przygotowanie
+
 Kapustę przekroić wzdłuż na cztery części, następnie każdą ćwiartkę pokroić na małe kawałki. Tak przygotowaną kapustę przełożyć do dużej miski, zalać wodą z solą, docisnąć talerzykiem obciążonym słoikiem i odstawić na 60 minut.
 
 W międzyczasie zagotować wodę z mąką ryżową oraz cukrem i gotować przez 1 -2 minuty do czasu, aż zmieni się w gęsty, ryżowy kleik. Wtedy zdjąć z ognia i odstawić do przestudzenia.

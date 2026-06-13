@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tortille 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tortille 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20250809_202330.jpg[]
@@ -12,6 +19,7 @@ image::20250809_202330.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 1 piersi z kurczaka
 * 1 łyżeczka przyprawy złocisty kurczak
 * 4 tortile
@@ -27,6 +35,7 @@ image::20250809_202330.jpg[]
 * pieprz i sól
 
 == Przygotowanie
+
 Pokroić mięso z kurczaka na kawałki. Dodać przyprawy i wymieszać. Usmażyć mięso na patelni.
 
 Stworzyć sos poprzez zmieszanie śmietany, sól, pieprz, czosnek i koperek.

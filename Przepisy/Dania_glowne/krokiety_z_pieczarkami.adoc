@@ -1,17 +1,25 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Krokiety z pieczarkami 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krokiety z pieczarkami 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: nie podano
+* 🕒 czas przygotowania: 1 godzina
 * 👥 4 porcje
 * 🔗 https://www.doradcasmaku.pl/przepis-krokiety-z-pieczarkami-i-kielbaska-pieczone-w-piekarniku364765[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * jajko 2 sztuki
 * mąka pszenna 250 gram
 * mleko 1 szklanka
@@ -28,6 +36,7 @@ Brak zdjęcia przepisu 🍲
 * bułka tarta klasyczna Prymat 5 łyżek
 
 == Przygotowanie
+
 Posiekaną cebulę i kiełbaskę podsmażyć na łyżce oleju aż cebulka lekko zmięknie.
 
 Obrane pieczarki pokroić niezbyt drobno.dodawać partiami na patelnię z cebulką.

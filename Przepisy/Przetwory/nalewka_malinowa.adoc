@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Nalewka malinowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Nalewka malinowa 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,16 +15,18 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 30 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/nalewka-z-malin[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg świeżych malin
 * 1000 ml wódki 40 lub 45 %
 * 400 g zwykłego cukru
 
 == Przygotowanie
+
 Zbierz lub kup kilogram ładnych i dojrzałym malin. W razie potrzeby zdejmij je z szypułek, oczyść i przebierz z zepsutych, czy uszkodzonych sztuk. Maliny delikatnie przepłucz pod prysznicem z zimnej, bieżącej wody.
 
 Cały kilogram gotowych malin przełóż do dużego i czystego słoja. Ja używam uniwersalnego słoja, w którym szykuję większość nalewek. To słój o pojemności 3,8 l.

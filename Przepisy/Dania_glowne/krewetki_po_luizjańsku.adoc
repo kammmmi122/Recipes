@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Krewetki po luizjańsku 🦐 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krewetki po luizjańsku 🦐 🔥
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ok. 375 g krewetek
 * 1 łyżka oleju roślinnego
 * 1 mała cebulka
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * do podania: bagietka, natka pietruszki
 
 == Przygotowanie
+
 Krewetki rozmrozić jeśli były zamrożone i oczyścić jeśli jest potrzeba.
 
 Na większej patelni na łyżce oleju zeszklić pokrojoną w kosteczkę cebulę. Dodać przeciśnięty przez praskę czosnek i podsmażać przez ok. pół minuty.

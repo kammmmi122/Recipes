@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Dorsz w sosie curry 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Dorsz w sosie curry 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 400 g filetów dorsza
 * 1 łyżka czerwonej pasty curry
 * 1 łyżka oleju kokosowego
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 200 g ryżu
 
 == Przygotowanie
+
 Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
 
 Rozgrzać wok lub dużą patelnię i na oleju kokosowym obsmażyć z dwóch stron rybę, odłożyć na talerz.

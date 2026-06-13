@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kurczak z porami 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kurczak z porami 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 duży por
 * 30 g masła + 2 łyżki do podsmażenia kurczaka
 * 1 łyżeczka suszonego tymianku
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka śmietanki kremówki
 
 == Przygotowanie
+
 Odciąć zielone części porów, pozostawić białą i jasno zieloną część. Przekroić wzdłuż na 4 części i dokładnie opłukać. Pokroić w poprzek na pół centymetrowe kawałki.
 
 Roztopić masło na większej patelni lub w garnku, dodać pory, posolić, dodać połowę tymianku i smażyć na umiarkowanym ogniu przez 5 minut od czasu do czasu mieszając. Przykryć i dusić przez kolejne 10 minut lub do czasu aż pory całkowicie zmiękną (będą szkliste), w międzyczasie 1 - 2 razy przemieszać.

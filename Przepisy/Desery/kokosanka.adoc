@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Kokosanka 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Kokosanka 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20231209_214411.jpg[]
@@ -7,11 +14,12 @@ image::20231209_214411.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
+
 * 1 kostka Kasi
 * ¾ szklanki wody
 * 1 szklanka cukru
@@ -26,6 +34,7 @@ image::20231209_214411.jpg[]
 * 200 g wiórków kokosowych
 
 == Przygotowanie
+
 Zagotować Kasię, wodę, cukier i kakao. Ostudzić powstały płyn.
 
 Po ostudzeniu dodawać kolejno 6 żółtek i ucierać mikserem do całkowitego połączenia. Do utartej masy dodać mąkę, proszek do pieczenia, dżem, rodzynki. Wszystkie składniki utrzeć.

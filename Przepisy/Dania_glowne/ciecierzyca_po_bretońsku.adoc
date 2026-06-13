@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ciecierzyca po bretońsku 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Ciecierzyca po bretońsku 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
 * 🕒 czas gotowania: 25 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 1 cebula czerwona
 * 4 liście laurowe
 * 2 ziarna ziela angielskiego
@@ -33,6 +41,7 @@ Brak zdjęcia przepisu 🍲
 * sól i czarny pieprz
 
 == Przygotowanie
+
 Cebulę pokroić w kostkę. Na dnie garnka rozgrzać olej, dodać cebulę oraz liście laurowe, ziele angielskie i ziarna pieprzu. Smażyć przez 2 - 3 minuty do czasu, aż cebula będzie złota.
 
 Wtedy dodać ciecierzycę, dokładnie wymieszać i dodać wszystkie pozostałe przyprawy. Smażyć minutę po czym dodać pozostałe składniki.

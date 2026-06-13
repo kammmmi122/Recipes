@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sałatka gyros 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sałatka gyros 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 pojedyncze filety kurczaka
 * 2 łyżki stołowe przyprawy gyros/kebab
 * 1 średnia czerwona cebula
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * ⅓ szklanki gęstej śmietany lub jogurtu greckiego (opcjonalnie)
 
 == Przygotowanie
+
 Filety opłukać, osuszyć, oczyścić z błonek i kostek. Pokroić na małe paseczki lub w kostkę. Wymieszać z przyprawą gyros/kebab i odłożyć na ok. ½ godziny lub dłużej jeśli mamy czas.
 
 W międzyczasie przygotować warzywa. Czerwoną cebulę obrać, przekroić na 4 części, następnie na plasterki, oprószyć solą.

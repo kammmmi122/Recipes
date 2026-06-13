@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Dziwne Łukaszkowe danie 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Dziwne Łukaszkowe danie 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 piersi z kurczaka
 * sól i pieprz
 * 1 łyżeczka papryki słodkiej
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * 50 g tartej mozzarelli
 
 == Przygotowanie
+
 Piersi z kurczaka naciąć na środku tworząc dziurę. Oprószyć przyprawami. Wypełnić dziurę kulką folii aluminiowej owiniętą  papierem do pieczenia. Zesmażyć tak przygotowanie piersi na patelni przez 4-5 minut
 
 Zesmażyć pocięty w kostkę boczek. Przygotować farsz, mieszając wszystkie składniki razem.

@@ -1,12 +1,19 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Makowiec🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Makowiec🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240329_212500.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 4 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 przepis od mamy z książki Kasi
 
 [.recipe-columns]

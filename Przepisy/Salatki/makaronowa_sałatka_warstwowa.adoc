@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Makaronowa sałatka warstwowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Makaronowa sałatka warstwowa 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 g makaronu świderki
 * 8 kawałków suszonych pomidorów z oleju
 * 125 g opakowanie mini mozzarelli
@@ -24,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * listki bazylii z 1 doniczki
 
 == Przygotowanie
+
 Makaron ugotować w osolonej wodzie, odcedzić, włożyć na dno szklanej salaterki. Dodać posiekane suszone pomidory, następnie odcedzone kulki mozzarelli i oliwki.
 
 Pomidorki koktajlowe pokroić na połówki, włożyć do miski, dodać suszone oregano, sól i pieprz oraz oliwę, wymieszać i całość wyłożyć na wierzch sałatki.

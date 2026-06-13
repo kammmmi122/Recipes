@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tonkotsu Ramen 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tonkotsu Ramen 🐖
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -14,6 +21,7 @@ Brak zdjęcia przepisu 🍲
 == Składniki
 
 == Wywar wieprzowy (składniki)
+
 * 0,5 kg golonka wieprzowa
 * 0,5 kg boczek wieprzowy
 * 0,1 kg cebuli
@@ -23,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 3 litry woda 
 
 == Dodatki
+
 * chashu (plastry wieprzowiny)
 * marynowane shitake
 * kimchi tare (opcjonalnie)

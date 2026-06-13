@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Paella z kurczakiem 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Paella z kurczakiem 🐔
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 300 g ryżu (do paelli lub risotto, arborio)
 * 1 niewielka cebula
 * 2 łyżki oleju
@@ -29,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * natka pietruszki
 
 == Przygotowanie
+
 Cebulę obieram, kroję w małą kostkę i podsmażam na łyżce oleju na głębokiej, dużej patelni do zeszklenia. Paprykę myję, przekrawam, usuwam gniazda nasienne i kroję w dużą kostkę. Umytą i osuszoną pierś kurczaka kroję również w większą kostkę.
 
 Do zeszklonej cebuli wsypuję ryż, smażę przez 1 - 2 minuty. Następnie zalewam gorącym bulionem, dodaję pokrojoną paprykę i ew. szafran, zmniejszam ogień do minimum, przykrywam pokrywką i duszę przez 12 minuty. W tym czasie nie zaglądam do ryżu i nie mieszam go.

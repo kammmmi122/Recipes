@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Łosoś pieczony w pergaminie 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Łosoś pieczony w pergaminie 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -25,6 +32,7 @@ Brak zdjęcia przepisu 🍲
 * ulubione zioła (do sałatki)
 
 == Przygotowanie
+
 Filety z łososia oprószyć solą oraz pieprzem, ułożyć na arkuszach pergaminu, a na każdym kawałku ryby położyć plastry czosnku, krążki cytryny oraz gałązki lubczyku. Całość skropić oliwą z oliwek, szczelnie zawinąć w papierowe sakiewki i piec w rozgrzanym piekarniku przez około 15 minut. W międzyczasie ugotować kaszę jaglaną, ostudzić ją i wymieszać z pokrojonymi w kostkę pomidorami oraz papryką. Sałatkę doprawić oliwą, solą, pieprzem oraz ulubionymi ziołami, a następnie podawać jako dodatek do upieczonego, soczystego łososia.
 [.recipe-gallery]
 == Zdjęcia

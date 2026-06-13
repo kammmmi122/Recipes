@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Leczo wegetariańskie 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Leczo wegetariańskie 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240429_172456.jpg[]
@@ -12,6 +19,7 @@ image::20240429_172456.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 1 ząbek czosnku
 * 1 cebula
 * ⅓ papryczki chili
@@ -27,6 +35,7 @@ image::20240429_172456.jpg[]
 * około ½ łyżeczki soli morskiej i świeżo zmielony pieprz
 
 == Przygotowanie
+
 Czosnek obrać i pokroić w drobną kosteczkę. Cebulę pokroić w kostkę.
 
 Na dużą wysoką patelnię lub do dużego garnka wlać 1 łyżkę oliwy, włożyć czosnek i podgrzewać przez kilkanaście sekund, dodać cebulę oraz papryczkę chili w całości. Smażyć przez około 5 minut na umiarkowanym ogniu co chwilę mieszając aż cebula się zeszkli.

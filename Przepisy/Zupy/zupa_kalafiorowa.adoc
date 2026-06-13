@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa kalafiorowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa kalafiorowa 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 łyżki oliwy
 * 1 łyżka masła
 * 1 cebula
@@ -25,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 200 g gęstej śmietany z kubka 18%
 
 == Przygotowanie
+
 Na oliwie i maśle zeszklić pokrojoną w kosteczkę cebulę, dodać obraną i pokrojoną na cienkie plasterki marchewkę i smażyć co chwilę mieszając przez 2 minuty.
 
 Dodać obrane i pokrojone w kosteczkę ziemniaki i znów podsmażać je przez ok. 5 - 7 minut, od czasu do czasu mieszając. Doprawić solą oraz pieprzem.

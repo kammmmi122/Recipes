@@ -1,16 +1,24 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sernik na zimno 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sernik na zimno 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240430_144110.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godzin
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/sernik-na-zimno[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 1 galaretka truskawkowa
 * 600 g truskawek
 * 1 mała paczka (ok. 100 g) biszkoptów
@@ -22,6 +30,7 @@ image::20240430_144110.jpg[]
 * ¾ szklanki cukru pudru
 
 == Przygotowanie
+
 Przygotować galaretkę zgodnie z instrukcją na opakowaniu odejmując 50 ml wody. Po przygotowaniu przelać galaretkę do czystej miski w celu szybszego ostudzenia i odstawić w chłodne miejsce, np. do lodówki.
 
 Truskawki opłukać i dokładnie osuszyć, oderwać szypułki.

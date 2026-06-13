@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tortille placki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tortille placki 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20250713_174140.jpg[]
@@ -7,17 +14,19 @@ image::20250713_174140.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
 * 🕒 czas gotowania: 25 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/tortille[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2 szklanki mąki pszennej
 * ½ łyżeczki soli
 * 3 łyżki smalcu lub oleju kokosowego lub masła
 * ⅔ szklanki wrzącej wody
 
 == Przygotowanie
+
 Do miski wsypać mąkę, dodać sól i smalec lub olej kokosowy. Dodawać stopniowo wrzącą wodę (wlewać ją bezpośrednio na tłuszcz) i mieszać składniki widelcem. Połączyć je i uformować kulę. Wyrabiać przez ok. 3 minuty aż ciasto będzie gładkie. Zawinąć w folię spożywczą i odstawić na 1 godzinę w temp. pokojowej.
 
 Ciasto podzielić na 10 lub 16 równych części i uformować kulki, odstawić na minimum 10 minut, maksymalnie na 1 i ½ godziny, przykryć aby nie obeschły.

@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Krokiety z kapustą i grzybami 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Krokiety z kapustą i grzybami 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 40 g suszonych grzybów
 * 500 g kapusty kiszonej
 * 1 mała marchewka
@@ -33,6 +41,7 @@ Brak zdjęcia przepisu 🍲
 * barszcz wigilijny lub barszcz czerwony
 
 == Przygotowanie
+
 Grzyby wypłukać w chłodnej wodzie, włożyć do rondelka, zalać 2 szklankami wody i odstawić do namoczenia na całą noc lub na kilka godzin.
 
 Wylać wodę z moczenia grzybów, wlać świeżą w ilości 1 szklanki, posolić i gotować przez ok. 20 minut. Odcedzić zachowując oddzielnie wywar i grzyby. Grzyby drobno posiekać na desce.

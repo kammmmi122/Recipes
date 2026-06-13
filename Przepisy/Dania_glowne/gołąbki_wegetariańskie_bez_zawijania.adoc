@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Gołąbki wegetariańskie bez zawijania 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Gołąbki wegetariańskie bez zawijania 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 200 g kleistego ryżu (waga przed ugotowaniem, użyłam tajskiego)
 * 100 g czerwonej soczewicy
 * 100 g masła
@@ -32,6 +40,7 @@ Brak zdjęcia przepisu 🍲
 * pęczek koperku
 
 == Przygotowanie
+
 Ryż gotujemy wraz z czerwoną soczewicą przez 12 minut w podwójnej ilości osolonej wody (przykładowo na 1 szklankę suchych składników odmierzamy 2 szklanki wody). Ryżu i soczewicy nie przepłukujemy wcześniej na sitku! To ważne, by nie wypłukać z nich skrobi. Ryż powinien być raczej odmiany kleistej, niż typowo sypki (jak np. indyjski basmati). Użyłam ryżu tajskiego. Ryż oraz soczewica po ugotowaniu powinny się kleić, by skleić gołąbki.
 
 Warzywa myjemy i obieramy, siekamy bardzo drobno w kosteczkę.

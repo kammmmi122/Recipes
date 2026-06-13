@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Wegeburgerki 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Wegeburgerki 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/najlepsze-wegeburgery-na-swiecie[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 2 szklanki startej marchewki
 * 1 ½ szklanki ugotowanej kaszy jaglanej / ¾ suchej kaszy jaglanej
 * ½ szklanki prażonego słonecznika
@@ -37,6 +45,7 @@ Brak zdjęcia przepisu 🍲
 * odrobina musztardy
 
 == Przygotowanie
+
 Wszystkie składniki wrzucamy do dużej miski i mieszamy rękami, aż do uzyskania klejącej masy. Jeżeli masa nie klei się wystarczająco, wystarczy dodać jeszcze więcej oleju i mąki.
 
 Lepimy kotlety i układamy je na blasze wyłożonej papierem do pieczenia. Pieczemy 30 minut w temperaturze 200 stopni, w połowie czasu pieczenia (albo po upływie 20 minut) delikatnie obracając kotlety na drugą stronę.

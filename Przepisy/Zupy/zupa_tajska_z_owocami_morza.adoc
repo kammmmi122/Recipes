@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Zupa tajska z owocami morza 🦐 🐟 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Zupa tajska z owocami morza 🦐 🐟
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 łyżeczki oleju roślinnego
 * 2 łyżeczki czerwonej pasty curry
 * 1 łyżeczka tartego imbiru
@@ -27,6 +35,7 @@ Brak zdjęcia przepisu 🍲
 * ryż jaśminowy, kolendra
 
 == Przygotowanie
+
 Rybę i owoce morza rozmrozić jeśli były zamrożone.
 
 W garnku podgrzać olej, dodać pastę curry i smażyć ją przez około 1 - 2 minuty (garnek można przykryć aby nie pryskało).

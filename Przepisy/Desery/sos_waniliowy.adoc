@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Sos waniliowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Sos waniliowy 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -13,6 +20,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
@@ -20,6 +28,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki Pasty waniliowej z wanilii Bourbon z Madagaskaru z ziarenkami wanilii 50 g Dr. Oetkera
 
 == Przygotowanie
+
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.

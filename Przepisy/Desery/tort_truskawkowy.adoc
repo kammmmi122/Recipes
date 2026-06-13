@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tort truskawkowy 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tort truskawkowy 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 image::20240427_105458.jpg[]
@@ -7,11 +14,12 @@ image::20240427_105458.jpg[]
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
 * 🕒 czas gotowania: 45 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 6 jajek, osobno żółtka i białka
 * 170g mąki (użyłam tortowej)
 * 1 łyżeczka proszku do pieczenia
@@ -35,6 +43,7 @@ image::20240427_105458.jpg[]
 * ½ opakowania galaretki truskawkowej (w proszku)
 
 == Przygotowanie
+
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.
 
 W drugiej misce żółtka utrzeć z resztą cukru na jasną, kremową masę. Dodać aromaty, wymieszać.

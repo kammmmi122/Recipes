@@ -1,5 +1,12 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Tarta bananowa 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= Tarta bananowa 🌱
 :imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
 
 [.recipe-hero]
 [.card-image-placeholder]
@@ -8,11 +15,12 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
 * 🕒 czas gotowania: 45 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
 * 350 g ciastek typu Oreo (lub Neo)
 * 75 g masła
 * 1 budyń waniliowy lub śmietankowy
@@ -26,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 25 g gorzkiej czekolady
 
 == Przygotowanie
+
 Ugotować budyń według przepisu. Odstawić z ognia i przełożyć do miski (tylko nie metalowej). Dokładnie ostudzić, wstawić do lodówki.
 
 Całe ciasteczka dokładnie pokruszyć na proszek (najlepiej użyć do tego celu pojemnika blendera - rozdrabniacza, można też utłuc tłuczkiem w misce lub w woreczku). Ciasteczka dokładnie połączyć z roztopionym masłem, wyłożyć do tortownicy i wyłożyć nimi spód oraz około 2 - 3 cm boków tortownicy (średnica około 24 cm), mocno uklepać łyżką, docisnąć. Wstawić do lodówki.
