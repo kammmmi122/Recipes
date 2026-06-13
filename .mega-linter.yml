@@ -7,17 +7,11 @@ SPELL_CSPELL_PRE_COMMANDS:
     cwd: "root"
 ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
   - GITHUB_TOKEN
-# 1. Zmuszamy MegaLintera, by odpalał zizmora z głównego katalogu projektu
-ACTION_ZIZMOR_CLI_LINT_MODE: "project"
+# 1. Przekazujemy pełną konfigurację jako zmienną środowiskową.
+# Zizmor (jako narzędzie w Rust) potrafi ją odczytać bezpośrednio z pamięci.
+ZIZMOR_CONFIG: '{"rules": {"unpinned-uses": {"ignored": true}}}'
 
-# 2. Informujemy MegaLintera, aby nie wstrzykiwał swojej domyślnej flagi --config
+# 2. Resetujemy problematyczne mapowania plików MegaLintera
 ACTION_ZIZMOR_CONFIG_FILE: "LINTER_DEFAULT"
-
-# 3. Dynamicznie tworzymy konfigurację wyciszającą regułę
-ACTION_ZIZMOR_PRE_COMMANDS:
-  - command: |
-      echo -e "rules:\n  unpinned-uses:\n    ignored: true" > .zizmor.yml
-
-# 4. Czyścimy argumenty CLI
 ACTION_ZIZMOR_ARGUMENTS: ""
-ACTION_ZIZMOR_COMMAND_REMOVE_ARGUMENTS: ""
+ACTION_ZIZMOR_COMMAND_REMOVE_ARGUMENTS: "--config /github/workspace/zizmor.yml"
