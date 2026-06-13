@@ -230,12 +230,12 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write('== Składniki\n')
             for ing in ingredients_lines:
                 f.write(f'* {ing}\n')
-            f.write('\n')
+            f.write('\n')  # Nowa linia po sekcji składników
 
             f.write('== Przygotowanie\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
-            f.write('\n')
+            f.write('\n')  # Nowa linia po sekcji przygotowania
             
             # 5. Galeria zdjęć na samym dole
             f.write('[.recipe-gallery]\n')
