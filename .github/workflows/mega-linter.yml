@@ -27,8 +27,9 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          lfs: false # KLUCZOWA ZMIANA: Wyłączamy automatyczne LFS w checkout
+          lfs: false
           clean: true
+          persist-credentials: false
 
       # Ręcznie instalujemy LFS z flagą --force, która zmiażdży blokujący plik hooka
       - name: Setup and Force Git LFS
