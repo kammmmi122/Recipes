@@ -201,52 +201,58 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
         ingredients_text = get_recipe_ingredients(link)
         recipe_text = get_recipe_text(link)
         potions_text = get_number_of_portions(link)
-        
+
         ingredients_lines = [l.strip()[2:].strip() for l in ingredients_text.splitlines() if l.strip().startswith("*")]
         steps_lines = [l.strip() for l in recipe_text.splitlines() if l.strip()]
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            # 1. Tytuł i konfiguracja (Wydzielone elementy HTML jako atrybuty)
-            f.write(f':back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++\n')
-            f.write(f':toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
-            f.write(f'= {{back-btn}} {cap_title} {{toggle-switch}}\n')
-            f.write(':imagesdir: /Recipes/static/images\n\n')
+            # 1. Nowy nagłówek i konfiguracja
+            f.write("[.text-center]\n")
+            f.write(f"= {cap_title}\n")
+            f.write(":imagesdir: /Recipes/static/images\n\n")
+
+            f.write("++++\n")
+            f.write('<div class="recipe-header-actions">\n')
+            f.write('    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>\n')
+            f.write('    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>\n')
+            f.write("</div>\n")
+            f.write("++++\n\n")
 
             # 2. Hero
-            f.write('[.recipe-hero]\n')
-            f.write('[.card-image-placeholder]\n')
-            f.write('Brak zdjęcia przepisu 🍲\n\n')
+            f.write("[.recipe-hero]\n")
+            f.write("[.card-image-placeholder]\n")
+            f.write("Brak zdjęcia przepisu 🍲\n\n")
 
             # 3. Szczegóły
-            f.write('[.recipe-details]\n')
-            f.write('* 🕒 czas przygotowania: 3 godziny\n')
+            f.write("[.recipe-details]\n")
+            f.write("* 🕒 czas przygotowania: 3 godziny\n")
             if potions_text:
                 clean_portions = potions_text.replace("*", "").strip()
-                f.write(f'* 👥 {clean_portions}\n')
+                f.write(f"* 👥 {clean_portions}\n")
             else:
-                f.write('* 👥 4 porcje\n')
-            f.write(f'* 🔗 {link}[link do źródła przepisu]\n\n')
+                f.write("* 👥 4 porcje\n")
+            f.write(f"* 🔗 {link}[link do źródła przepisu]\n\n")
 
             # 4. Kolumny - Składniki i Przygotowanie
-            f.write('[.recipe-columns]\n')
+            f.write("[.recipe-columns]\n")
 
             # Sekcja: Składniki
-            f.write('== Składniki\n\n')
+            f.write("== Składniki\n\n")
             for ing in ingredients_lines:
-                f.write(f'* {ing}\n')
-            f.write('\n')
+                f.write(f"* {ing}\n")
+            f.write("\n")
 
             # Sekcja: Przygotowanie
-            f.write('== Przygotowanie\n\n')
+            f.write("== Przygotowanie\n\n")
             for step in steps_lines:
-                f.write(f'{step}\n\n')
-            f.write('\n')
+                f.write(f"{step}\n\n")
+            f.write("\n")
 
             # 5. Galeria zdjęć na samym dole
-            f.write('[.recipe-gallery]\n')
-            f.write('== Zdjęcia\n\n')
-            f.write('[.gallery-grid]\n')
-            f.write('// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]\n')
+            f.write("[.recipe-gallery]\n")
+            f.write("== Zdjęcia\n\n")
+            f.write("[.gallery-grid]\n")
+            f.write("// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]\n")
 
             print(file, "created")
 
