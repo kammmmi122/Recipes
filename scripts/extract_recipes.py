@@ -207,7 +207,6 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
             # 1. Nowy nagłówek i konfiguracja
-            f.write("[.text-center]\n")
             f.write(f"= {cap_title}\n")
             f.write(":imagesdir: /Recipes/static/images\n\n")
 
