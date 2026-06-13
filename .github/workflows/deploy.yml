@@ -1,11 +1,10 @@
 name: Deploy static content to Pages
 
-# zizmor: ignore[dangerous-triggers]
 on:
   workflow_run:
     workflows: ["Build asciidoc"]
     types:
-      - completed
+      - completed # zizmor: ignore[dangerous-triggers]
 
 permissions:
   contents: read
