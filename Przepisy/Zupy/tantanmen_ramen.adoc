@@ -48,7 +48,7 @@ image::20260613_171601.jpg[]
 
 === Pozostałe składniki
 * 16 brązowych pieczarek
-* link:../Przystawki/nitamago.html[4 jajka nitamago]
+* link:../Przystawki/nitamago.html[4 jajka nitamago, opts=external]
 * 2 łyżeczka sosu sojowego
 * 1 pęczek szczypiorku
 * 4 garści szpinaku

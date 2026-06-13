@@ -41,7 +41,7 @@ def find_unused_images():
             continue
             
         try:
-            # Otwieramy plik z kodowaniem utf-8 (ignorujać ewentualne błędy dekodowania)
+            # Otwieramy plik z kodowaniem utf-8 (ignorując ewentualne błędy dekodowania)
             content = adoc_file.read_text(encoding="utf-8", errors="ignore")
             
             # Sprawdzamy, które z wciąż nieużywanych obrazów znajdują się w treści pliku
