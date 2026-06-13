@@ -206,8 +206,10 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
         steps_lines = [l.strip() for l in recipe_text.splitlines() if l.strip()]
 
         with open(f"Przepisy/{file}.adoc", "w", encoding="utf8") as f:
-            # 1. Tytuł i konfiguracja
-            f.write(f'= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
+            # 1. Tytuł i konfiguracja (Wydzielone elementy HTML jako atrybuty)
+            f.write(f':back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++\n')
+            f.write(f':toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
+            f.write(f'= {{back-btn}} {cap_title} {{toggle-switch}}\n')
             f.write(':imagesdir: /Recipes/static/images\n\n')
 
             # 2. Hero
