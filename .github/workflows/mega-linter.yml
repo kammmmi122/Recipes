@@ -28,6 +28,11 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+          clean: true # Czyści środowisko przed pobraniem kodu
+
+      # Wymuszenie odświeżenia hooków Git LFS na maszynie self-hosted
+      - name: Force Git LFS Hook Update
+        run: git lfs update --force
 
       # MegaLinter (Wersja v9 ze zoptymalizowanymi zmiennymi)
       - name: Run MegaLinter
@@ -39,6 +44,9 @@ jobs:
 
           # Linter nie wywali całego pipeline'u w przypadku błędów formatowania
           DISABLE_ERRORS: true
+
+          # Zabezpieczenie przed modyfikacją hooków przez wewnętrzne narzędzia MegaLintera
+          ADD_GIT_MUZZLE: true
 
           # Twoje niestandardowe argumenty dla linterów
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
