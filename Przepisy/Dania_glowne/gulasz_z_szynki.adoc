@@ -1,4 +1,6 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Gulasz z szynki 🐖 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++
+:toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= {back-btn} Gulasz z szynki 🐖 {toggle-switch}
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]

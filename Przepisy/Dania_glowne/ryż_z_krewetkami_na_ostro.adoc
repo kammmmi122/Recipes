@@ -1,4 +1,6 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Ryż z krewetkami na ostro 🦐 🔥 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++
+:toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= {back-btn} Ryż z krewetkami na ostro 🦐 🔥 {toggle-switch}
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]

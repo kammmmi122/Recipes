@@ -1,4 +1,6 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Roladki z kurczaka z serem i papryką pieczone w boczku 🐔 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++
+:toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= {back-btn} Roladki z kurczaka z serem i papryką pieczone w boczku 🐔 {toggle-switch}
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]

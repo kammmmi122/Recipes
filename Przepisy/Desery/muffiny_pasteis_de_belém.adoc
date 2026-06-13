@@ -1,4 +1,6 @@
-= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ Muffiny (Pasteis de Belém) 🌱 +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+:back-btn: +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++
+:toggle-switch: +++<label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++
+= {back-btn} Muffiny (Pasteis de Belém) 🌱 {toggle-switch}
 :imagesdir: /Recipes/static/images
 
 [.recipe-hero]
