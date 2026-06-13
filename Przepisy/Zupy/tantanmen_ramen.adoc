@@ -13,11 +13,6 @@ image::20260613_171601.jpg[]
 [.recipe-columns]
 == Składniki
 
-
-* 1 szklanka bulionu (np. dashi lub zwykłego)
-* ¼ szklanki sosu sojowego
-* ¼ szklanki mirinu (lub białego wina + ½ łyżeczki cukru)
-
 === Bulion
 * 4 L wody
 * 6 duże marchewek
