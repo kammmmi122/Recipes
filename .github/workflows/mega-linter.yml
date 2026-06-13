@@ -55,7 +55,7 @@ jobs:
           # Twoje niestandardowe argumenty dla linterów
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
           SPELL_LYCHEE_ARGUMENTS: "--exclude drive.google.com"
-          REPOSITORY_ZIZMOR_ARGUMENTS: "--ignore unpinned-uses"
+          ACTION_ZIZMOR_ARGUMENTS: "--ignore unpinned-uses"
 
           # Token potrzebny do wystawiania statusów w GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
