@@ -47,4 +47,4 @@ Wstawić do nagrzanego piekarnika i piec przez 15 minut.
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

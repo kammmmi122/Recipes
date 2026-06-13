@@ -49,4 +49,4 @@ Gotowe placki posmaruj sosem, następnie ułóż wszystkie warzywa, plastry kacz
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

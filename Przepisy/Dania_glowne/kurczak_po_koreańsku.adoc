@@ -63,4 +63,4 @@ Podawać na ugotowanym ryżu, posypać sezamem i szczypiorkiem.
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

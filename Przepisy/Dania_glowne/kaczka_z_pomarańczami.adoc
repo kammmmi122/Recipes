@@ -58,4 +58,4 @@ Do tego celu najlepiej nadaje się brytfanna. Nakryć naczynie pokrywką (lub za
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

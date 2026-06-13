@@ -45,4 +45,4 @@ Tłuszcz wytopiony z kaczki, przelany przez sitko do słoika, będzie się skła
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

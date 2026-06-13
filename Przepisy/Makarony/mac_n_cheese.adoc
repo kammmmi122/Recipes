@@ -47,4 +47,4 @@ Aby mac and cheese podać z piekarnika, danie należy umieścić w naczyniu żar
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

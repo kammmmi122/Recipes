@@ -24,7 +24,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           fetch-depth: 0
           lfs: false
@@ -40,7 +40,7 @@ jobs:
 
       # MegaLinter (Wersja v9 ze zoptymalizowanymi zmiennymi)
       - name: Run MegaLinter
-        uses: oxsecurity/megalinter/flavors/documentation@v9.5.0
+        uses: oxsecurity/megalinter/flavors/documentation@0e3ce9b9c8c10effb9b269509cc47ca17cae31c7 # v9.5.0
         id: ml
         env:
           # Pełne skanowanie tylko na push do main, na PR tylko zmienione pliki
@@ -55,7 +55,6 @@ jobs:
           # Twoje niestandardowe argumenty dla linterów
           REPOSITORY_CHECKOV_ARGUMENTS: "--skip-check CKV2_GHA_1"
           SPELL_LYCHEE_ARGUMENTS: "--exclude drive.google.com"
-          ACTION_ZIZMOR_ARGUMENTS: "--ignore unpinned-uses"
 
           # Token potrzebny do wystawiania statusów w GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

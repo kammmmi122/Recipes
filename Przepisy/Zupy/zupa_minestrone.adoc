@@ -57,4 +57,4 @@ Dodać posiekaną natkę lub bazylię. Podawać z tartym parmezanem lub mozzarel
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

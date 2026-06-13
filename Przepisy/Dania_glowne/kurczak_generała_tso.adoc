@@ -53,4 +53,4 @@ Odlać większość tłuszczu pozostawiając ok. 2 łyżek. Dodać papryczki chi
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia
