@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 30 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://fajnyogrod.pl/kuchnia/nalewki-domowe/nalewka-cytrynowa-najlepsze-przepisy-na-cytrynowke-na-spirytusie-i-na-wodce/[link do źródła przepisu]
 
 [.recipe-columns]

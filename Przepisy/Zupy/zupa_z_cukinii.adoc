@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/zupa-z-cukinii[link do źródła przepisu]
 
 [.recipe-columns]

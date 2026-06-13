@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 4 godziny
 * 🕒 czas gotowania: 4 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/flaki[link do źródła przepisu]
 
 [.recipe-columns]

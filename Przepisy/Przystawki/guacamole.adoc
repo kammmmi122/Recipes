@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
 * 🕒 czas gotowania: 20 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/guacamole[link do źródła przepisu]
 
 [.recipe-columns]

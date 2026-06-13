@@ -7,7 +7,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_z_miesem/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]

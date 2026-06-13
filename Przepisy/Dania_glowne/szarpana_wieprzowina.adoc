@@ -7,7 +7,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 godzin
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/przepis/pulled-pork[link do źródła przepisu]
 
 [.recipe-columns]

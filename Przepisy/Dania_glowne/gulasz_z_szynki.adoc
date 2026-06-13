@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 🕒 czas gotowania: 1 godzina
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/gulasz-wieprzowy[link do źródła przepisu]
 
 [.recipe-columns]

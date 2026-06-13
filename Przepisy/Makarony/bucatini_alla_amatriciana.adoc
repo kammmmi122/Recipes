@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
 * 🕒 czas gotowania: 25 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.chilliczosnekioliwa.pl/2022/01/bucatini-all-amatriciana.html[link do źródła przepisu]
 
 [.recipe-columns]

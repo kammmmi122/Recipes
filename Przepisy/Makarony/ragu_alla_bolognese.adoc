@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
 * 🕒 czas gotowania: 3 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://madameedith.com/przepis/ragu-bolognese[link do źródła przepisu]
 
 [.recipe-columns]

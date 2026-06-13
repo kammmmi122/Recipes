@@ -7,7 +7,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗  https://www.kwestiasmaku.com/kuchnia_polska/kaczka/confit_z_kaczki/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]

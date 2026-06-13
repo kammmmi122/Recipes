@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 7 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://aniagotuje.pl/przepis/makaron-z-brokulami[link do źródła przepisu]
 
 [.recipe-columns]

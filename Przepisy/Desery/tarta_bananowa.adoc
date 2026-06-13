@@ -8,7 +8,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
 * 🕒 czas gotowania: 45 minut
-* 👥 2-3 porcje
+* 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/desery/tarty/tarta_bananowa/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
