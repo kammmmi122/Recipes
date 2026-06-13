@@ -32,6 +32,12 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+          # Ta opcja czyści katalog przed pobraniem kodu, usuwając potencjalne blokady
+          clean: true
+
+      # Ten krok automatycznie uciszy problem z hookami Git LFS na maszynie self-hosted
+      - name: Force Git LFS Hook Update
+        run: git lfs update --force
 
       - name: Build AsciiDoc
         run: ./scripts/build.sh
