@@ -280,6 +280,14 @@ body {
    RECIPE PAGE LAYOUT (ASSETS & GRIDS)
    ========================================================================== */
 
+.recipe-header-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
