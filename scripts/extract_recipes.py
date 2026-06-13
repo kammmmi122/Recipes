@@ -210,12 +210,12 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write(f'= +++<a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>+++ {cap_title} +++ <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>+++\n')
             f.write(':imagesdir: /Recipes/static/images\n\n')
 
-            # 2. Hero - klasa i element bez pustej linii!
+            # 2. Hero
             f.write('[.recipe-hero]\n')
             f.write('[.card-image-placeholder]\n')
             f.write('Brak zdjęcia przepisu 🍲\n\n')
 
-            # 3. Szczegóły - klasa i lista bez pustej linii!
+            # 3. Szczegóły
             f.write('[.recipe-details]\n')
             f.write('* 🕒 czas przygotowania: 3 godziny\n')
             if potions_text:
@@ -225,18 +225,21 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
                 f.write('* 👥 4 porcje\n')
             f.write(f'* 🔗 {link}[link do źródła przepisu]\n\n')
 
-            # 4. Kolumny - Składniki i Przygotowanie jako nagłówki pod jedną klasą
+            # 4. Kolumny - Składniki i Przygotowanie
             f.write('[.recipe-columns]\n')
-            f.write('== Składniki\n')
+
+            # Sekcja: Składniki
+            f.write('== Składniki\n\n')
             for ing in ingredients_lines:
                 f.write(f'* {ing}\n')
-            f.write('\n')  # Nowa linia po sekcji składników
+            f.write('\n')
 
-            f.write('== Przygotowanie\n')
+            # Sekcja: Przygotowanie
+            f.write('== Przygotowanie\n\n')
             for step in steps_lines:
                 f.write(f'{step}\n\n')
-            f.write('\n')  # Nowa linia po sekcji przygotowania
-            
+            f.write('\n')
+
             # 5. Galeria zdjęć na samym dole
             f.write('[.recipe-gallery]\n')
             f.write('== Zdjęcia\n\n')
