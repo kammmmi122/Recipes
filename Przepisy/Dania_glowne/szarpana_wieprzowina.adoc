@@ -47,4 +47,4 @@ Po wyjęciu mięsa rozdzielić je dwoma widelcami na cienkie włókna, można do
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

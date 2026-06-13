@@ -42,4 +42,4 @@ Podawać np. z ryżem oraz surówką z kapusty.
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

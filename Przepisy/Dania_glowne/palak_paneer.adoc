@@ -63,4 +63,4 @@ Palak Paneer po przestudzeniu przechowuj w lodówce, w hermetycznie zamkniętym 
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

@@ -35,4 +35,4 @@ Po tym czasie rozwiązać supełek i wyłożyć gotowy twarożek do miski lub na
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

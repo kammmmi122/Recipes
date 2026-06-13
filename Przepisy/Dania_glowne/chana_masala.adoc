@@ -48,4 +48,4 @@ Na patelnię dodajemy ciecierzycę, pomidory krojone z puszki, wodę oraz łyżk
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

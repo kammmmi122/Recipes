@@ -57,4 +57,4 @@ Posypać posiekanymi orzeszkami ziemnymi i zachowaną częścią kiełków oraz 
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia

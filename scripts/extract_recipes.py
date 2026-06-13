@@ -251,7 +251,7 @@ def create_recipe_file(list_of_links, list_of_files, capitalize_case_name):
             f.write("[.recipe-gallery]\n")
             f.write("== Zdjęcia\n\n")
             f.write("[.gallery-grid]\n")
-            f.write("// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]\n")
+            f.write("// Tutaj pojawią się zdjęcia\n")
 
             print(file, "created")
 

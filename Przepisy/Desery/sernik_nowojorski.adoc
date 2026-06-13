@@ -58,4 +58,4 @@ Przed podaniem sernik posypać kakao wymieszanym z cynamonem. Można udekorować
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia, np. image::foto.jpg[]
+// Tutaj pojawią się zdjęcia
