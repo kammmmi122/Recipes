@@ -7,13 +7,3 @@ SPELL_CSPELL_PRE_COMMANDS:
     cwd: "root"
 ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
   - GITHUB_TOKEN
-# 1. Przekazujemy konfigurację bezpośrednio do pamięci procesu
-ZIZMOR_CONFIG: '{"rules": {"unpinned-uses": {"ignored": true}}}'
-
-# 2. Usuwamy flagę --config, która powodowała pierwotny błąd dublowania argumentów
-ACTION_ZIZMOR_COMMAND_REMOVE_ARGUMENTS: "--config /github/workspace/zizmor.yml"
-
-# 3. Przywracamy domyślny tryb działania (MegaLinter sam przekaże pliki jako <INPUT>)
-ACTION_ZIZMOR_CLI_LINT_MODE: "list_of_files"
-ACTION_ZIZMOR_CONFIG_FILE: "LINTER_DEFAULT"
-ACTION_ZIZMOR_ARGUMENTS: ""
