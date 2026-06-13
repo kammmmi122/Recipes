@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 7 p. herbatników
 * 2 budynie śmietankowe na ½ l
 * 2 łyżki cukru

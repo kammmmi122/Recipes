@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 placki z tortilli pszennej
 * 200 g serka kremowego serka typu Philadelphia
 * 250 g szynki w plasterkach - 9 plasterków
@@ -23,6 +24,7 @@ Brak zdjęcia przepisu 🍲
 * mały pęczek szczypiorku
 
 == Przygotowanie
+
 Placki wysmaruj dość grubo kremowym serkiem typu Philadelphia.
 
 Na każdy placek wyłóż też odrobinę siekanego szczypiorku. Możesz też użyć koperku lub natki pietruszki.

@@ -12,6 +12,7 @@ image::20250725_180813.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 4 pity
 * 4 souvlaki
 * 2 pomidory
@@ -22,6 +23,7 @@ image::20250725_180813.jpg[]
 * szczypta chili
 
 == Przygotowanie
+
 Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawiń.
 
 [.recipe-gallery]

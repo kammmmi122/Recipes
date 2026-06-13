@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ½ szklanki. majonezu
 * ½ szklanki. jogurtu naturalnego
 * 2 łyżki octu winnego

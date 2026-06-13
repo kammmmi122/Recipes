@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 500 ml bulionu warzywnego lub drobiowego
 * 2 cukinie - 800 g
 * mała cebula cukrowa
@@ -26,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * łyżeczka ziół prowansalskich
 
 == Przygotowanie
+
 Do zupy z cukinii odlewam przygotowuję 500 ml bulionu.
 
 Cukinie myję i odcinam same końce. Obierz cebulę oraz ząbki czosnku.

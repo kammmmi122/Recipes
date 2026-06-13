@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 łyżka pasty z achiote - meksykańska  pasta
 * ok. 50 ml oliwy z oliwek
 * sok z 1 limonki

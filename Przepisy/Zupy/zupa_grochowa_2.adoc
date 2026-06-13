@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 l wody
 * 2 ziemniaki
 * 60 g marchewki
@@ -29,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 1 pęczek natki pietruszki
 
 == Przygotowanie
+
 Groch płuczę na sicie, zalewam 2 l wody i zagotowuję.
 
 Zdejmuję łyżką cedzakową pianę, która zebrała się po zagotowaniu grochu i gotuję.

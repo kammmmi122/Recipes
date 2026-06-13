@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 żółtka
 * 1 kostka tłuszczu
 * 1 szklanka cukru
@@ -22,6 +23,7 @@ Brak zdjęcia przepisu 🍲
 * 4 białka z ½ szklanki. cukru ubić położyć na jabłka i zetrzeć ¼ ciasta
 
 == Przygotowanie
+
 Z mąki, proszku do pieczenia, cukru, tłuszczu oraz żółtek zagnieść jednolite ciasto. Podzielić je na dwie części: trzy czwarte schować do lodówki, a jedną czwartą włożyć do zamrażalnika. Większą część ciasta rozwałkować, wyłożyć nią dno formy i ułożyć na niej przygotowane wcześniej jabłka. Białka ubić z połową szklanki cukru na sztywną pianę, wyłożyć ją równomiernie na warstwę jabłek, a na wierzch zetrzeć na tarce zamrożoną mniejszą część ciasta. Piec w rozgrzanym piekarniku do zrumienienia.
 
 [.recipe-gallery]

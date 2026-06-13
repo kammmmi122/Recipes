@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 6 jaj
 * 1 kostka palmy
 * 30 dag cukru

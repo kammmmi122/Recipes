@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 jaja
 * 1 kubek śmietany
 * 1 kg mąki

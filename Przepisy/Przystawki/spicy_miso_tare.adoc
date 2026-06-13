@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 łyżka chili płatki 
 * 4 łyżki mirin
 * 1 ząbek czosnek
@@ -25,6 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 5 łyżek tare sojowe
 
 == Przygotowanie
+
 Miksujemy wszystkie składniki.
 
 [.recipe-gallery]

@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 350 g soczewicy czerwonej / 2 szklanki
 * 2 ½ szklanki wody
 * 1 ½łyżeczki kurkumy
@@ -28,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * sól
 
 == Przygotowanie
+
 Soczewicę dokładnie opłukać. Następnie przełożyć do garnka, dodać odmierzoną wodę oraz kurkumą i gotować pod przykryciem na niedużym ogniu do momentu, aż soczewica będzie lekko miękka, czyli około 10 minut.
 
 Po upływie tego czasu cebulę pokroić w drobną kostkę, a na patelni mocno rozgrzać kilka łyżek oleju. Na olej wrzucić kumin, gorczycę, kozieradkę, chili oraz cebulę i smażyć przez 3 minuty, do momentu aż będzie przezroczysta i zacznie się lekko złocić. Następnie dodać liście curry, smażyć ostatnią minutę, a gorący olej wraz z przyprawami wlać do soczewicy.

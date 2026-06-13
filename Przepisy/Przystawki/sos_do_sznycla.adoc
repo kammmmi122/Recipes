@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * jogurt natur., ser nat.
 * suszone pomidory
 * liście bazylii

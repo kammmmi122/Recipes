@@ -12,6 +12,7 @@ image::20240427_105458.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 6 jajek, osobno żółtka i białka
 * 170g mąki (użyłam tortowej)
 * 1 łyżeczka proszku do pieczenia
@@ -35,6 +36,7 @@ image::20240427_105458.jpg[]
 * ½ opakowania galaretki truskawkowej (w proszku)
 
 == Przygotowanie
+
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.
 
 W drugiej misce żółtka utrzeć z resztą cukru na jasną, kremową masę. Dodać aromaty, wymieszać.

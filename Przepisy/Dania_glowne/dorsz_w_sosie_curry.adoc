@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 400 g filetów dorsza
 * 1 łyżka czerwonej pasty curry
 * 1 łyżka oleju kokosowego
@@ -25,6 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 200 g ryżu
 
 == Przygotowanie
+
 Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
 
 Rozgrzać wok lub dużą patelnię i na oleju kokosowym obsmażyć z dwóch stron rybę, odłożyć na talerz.

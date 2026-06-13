@@ -12,11 +12,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * sos sojowy 0,1 litra
 * mirin 0,1 litra
 * cukier 4 łyżki
 
 == Przygotowanie
+
 Mieszamy składniki i gotujemy na małym ogniu, aż sos delikatnie się zredukuje i studzimy.
 
 [.recipe-gallery]

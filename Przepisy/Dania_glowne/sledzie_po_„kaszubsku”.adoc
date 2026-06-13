@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg śledzi małosolnych (płaty)
 * 1 szklanka oleju
 * 1 słoik przecieru pomidorowego

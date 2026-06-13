@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 jaja
 * 1 szklanka cukru
 * 1 cukier waniliowy

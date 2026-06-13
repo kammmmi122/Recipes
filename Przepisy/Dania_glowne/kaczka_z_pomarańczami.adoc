@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kaczka
 * 1 pomarańcza, podzielić na cząstki
 
@@ -32,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * 2 pomarańcze, podzielić na cząstki
 
 == Przygotowanie
+
 1) W małym naczyniu wymieszać wszystkie składniki do nacierania.
 2) Mieszanką natrzeć kaczkę ze wszystkich stron.
 3) Położyć kaczkę piersiami do dołu w żaroodpornym naczyniu z pokrywką. 

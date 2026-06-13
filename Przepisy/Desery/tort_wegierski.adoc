@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 6 jaj
 * 20 dag cukru
 * 4 jaja
@@ -26,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * 3 łyżki kakao
 
 == Przygotowanie
+
 === Biszkopt kakaowy:
 Sześć jaj ubić z 20 dag cukru na parze, a następnie ostudzić. Do puszystej masy jajecznej dodać płaską łyżkę mąki, półtorej łyżki kakao oraz 20 dag mączki ziemniaczanej, całość delikatnie wymieszać, przelać do formy i upiec.
 

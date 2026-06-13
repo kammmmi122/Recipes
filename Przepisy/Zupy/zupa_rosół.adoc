@@ -13,12 +13,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kurczak o wadze około 2 kg
 * 3 litry wody
 * 2 włoszczyzny:
 * przyprawy: 1 łyżka soli morskiej, 3 ziarenka ziela angielskiego, 1 liść laurowy, 4 całe ziarenka pieprzu
 
 == Przygotowanie
+
 Jeśli mamy całego kurczaka należy go pokroić na części - odciąć szyję, skrzydełka, uda. Korpus pozostawić razem z piersiami.
 
 Wszystkie części opłukać, następnie włożyć do dużego garnka i zalać zimną wodą. Posolić i zagotować na średnim ogniu.

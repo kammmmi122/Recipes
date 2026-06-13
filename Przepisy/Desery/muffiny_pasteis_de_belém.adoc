@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 235 ml mleka
 * 25 g skrobi kukurydzianej
 * 0,5 laski wanilii

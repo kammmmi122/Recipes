@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg twarogu
 * 1 kostka masła i palma
 * 2 ugotowane ziemniaki

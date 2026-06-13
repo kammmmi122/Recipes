@@ -13,10 +13,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg skrzydełek
 * 2 WINIARY POMYSŁ NA… soczyste skrzydełka z miodem
 
 == Przygotowanie
+
 Umyj dokładnie skrzydełka. W opakowaniu Pomysł na... znajdziesz woreczek i zapinkę. Umieść skrzydełka w woreczku, dodaj zawartość opakowania i zamknij zapinką.
 
 Delikatnie obracając woreczek, równomiernie rozprowadź przyprawę na skrzydełkach.

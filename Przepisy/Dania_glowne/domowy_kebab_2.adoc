@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * mąka pszenna typ 650 - 500 g
 * ciepła woda - 190 ml
 * jogurt naturalny - 100 g

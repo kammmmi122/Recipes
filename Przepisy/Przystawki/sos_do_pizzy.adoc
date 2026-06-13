@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * olej, czosnek
 * masło, bazylia - powyższe udusić.
 * pomidory z puszki - zagotować, zredukować wodę.

@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * masło 5 łyżek
 * 0,1 kg biała cebuli
 * imbir 2 łyżki
@@ -30,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * olej chili 2 łyżeczki
 
 == Przygotowanie
+
 Podsmażamy cebulę, czosnek i imbir na maśle. Dodajemy curry, mąkę, garam masalę i podsmażamy kilka minut. Dodajemy resztę składników i miksujemy.
 
 [.recipe-gallery]

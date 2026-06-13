@@ -12,12 +12,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1,3 kg piersi
 * 2 pory
 * 6 łyżek majonezu
 * 6 plastrów sera
 
 == Przygotowanie
+
 Piersi pokroić płasko, posolić, przyprawa do kurczaka po węgiersku, majeranek, wymieszać, pozostawić na parę godzin. Naczynie żaroodporne wysmarować tłuszczem. Ułożyć ½ mięsa, posmarować 3 łyżki majonezu, rozsypać 1 cz. pora, potem 2 warstwa, na górę żółty ser. Piec 1 godz w temp 180°C.
 
 [.recipe-gallery]

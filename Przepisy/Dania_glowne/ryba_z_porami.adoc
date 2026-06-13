@@ -12,6 +12,7 @@ image::20250213_222316.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 600 g filetów ryby (np. mintaj, dorsz, halibut)
 * 1 por
 * ⅓ łyżeczki nasion kopru włoskiego
@@ -21,6 +22,7 @@ image::20250213_222316.jpg[]
 * 5 łyżek śmietanki 30%
 
 == Przygotowanie
+
 Rybę pokroić na porcje i umieścić w naczyniu żaroodpornym. Doprawić solą, pieprzem, posypać nasionami kopru włoskiego i wysmarować oliwą.
 
 Piekarnik nagrzać do 200 stopni C.

@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,5 kubka pędy bambusa
 * 2 kubki woda 
 * 0,5 kubka teriyaki 
@@ -20,6 +21,7 @@ Brak zdjęcia przepisu 🍲
 * 0,5 kubka katsuobushi
 
 == Przygotowanie
+
 Wodę mieszamy z teriyaki, mirinem i wodą. Dodajemy pędy bambusa, katsuobushi i gotujemy około 20 minut. Pozostawiamy do ostygnięcia, przekładamy do pojemnika i chłodzimy około 10 godzin.
 
 [.recipe-gallery]

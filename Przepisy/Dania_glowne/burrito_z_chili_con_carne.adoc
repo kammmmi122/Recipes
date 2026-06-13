@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -30,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 4 tortille
 
 == Przygotowanie
+
 Na dużej patelni, na oliwie zeszklić pokrojoną w kosteczkę cebulę, dodać starty czosnek, chili, kmin rzymski, oregano i mieszając smażyć przez 1 minutę. Stopniowo dodawać zmieloną wołowinę i zmielony lub drobno posiekany boczek, mieszając zrumieniać z każdej strony.
 
 Dodać pomidory, wymieszać i doprawić cukrem, pieprzem oraz szczyptą soli.

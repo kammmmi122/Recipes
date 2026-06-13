@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 ks. Kasi
 * 10 łyżek mąki
 * 9 łyżek cukru

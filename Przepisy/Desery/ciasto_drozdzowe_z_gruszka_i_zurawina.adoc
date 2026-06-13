@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 350 dag mąki pszennej
 * 7 g suchych drożdży 1 op
 * 70 ml mleka ciepłego

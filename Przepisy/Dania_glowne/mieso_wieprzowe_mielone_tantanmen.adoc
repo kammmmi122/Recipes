@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,4 kg mielona wieprzowina
 * olej sezamowy 1 łyżka
 * czosnek 3 ząbki (drobno posiekane)
@@ -28,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * biały pieprz 1 łyżeczka
 
 == Przygotowanie
+
 Rozgrzewamy delikatnie olej sezamowy, dodajemy pastę doubanjiang i mieszamy. Dodajemy wieprzowinę, rozdrabniamy i smażymy kilka minut, aż mięso się zrumieni i wytopi lekko tłuszcz. Dodajemy sos sojowy, mirin, sake, cukier i miso. Mieszamy dokładnie. Wlewamy wodę, żeby mięso lekko się "zlepiło" i sos zgęstniał. Doprawiamy płatkami chili i białym pieprzem, smażymy jeszcze kilka minut.
 
 [.recipe-gallery]

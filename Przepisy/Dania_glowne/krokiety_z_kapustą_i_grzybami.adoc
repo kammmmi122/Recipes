@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 40 g suszonych grzybów
 * 500 g kapusty kiszonej
 * 1 mała marchewka
@@ -33,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * barszcz wigilijny lub barszcz czerwony
 
 == Przygotowanie
+
 Grzyby wypłukać w chłodnej wodzie, włożyć do rondelka, zalać 2 szklankami wody i odstawić do namoczenia na całą noc lub na kilka godzin.
 
 Wylać wodę z moczenia grzybów, wlać świeżą w ilości 1 szklanki, posolić i gotować przez ok. 20 minut. Odcedzić zachowując oddzielnie wywar i grzyby. Grzyby drobno posiekać na desce.

@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 ćwiartki z kurczaka
 * 2 łyżeczka czerwonej papryki
 * 1 łyżeczki ostrej papryki
@@ -20,6 +21,7 @@ Brak zdjęcia przepisu 🍲
 * olej
 
 == Przygotowanie
+
 Nastawić piekarni na 180 stopni C. Mięso włożyć do worka do pieczenia. Do mięsa dodać przyprawy i 1 łyżkę oleju. Piec przez 45 minut.
 
 [.recipe-gallery]

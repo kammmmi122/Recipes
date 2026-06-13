@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * pierś z kurczaka (przyprawa do gyrosa usmażyć w całości)
 * kukurydza
 * posmarować (majonez + ketchup + czosnek)

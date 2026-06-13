@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 ½ kg mąki
 * 4 jaja
 * 2 szk. mleka

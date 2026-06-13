@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 szklanki makaronu kokardki
 * 1 pęczek (500 g) szparagów
 * 100 g wędzonego łososia
@@ -25,6 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 50 g tartego parmezanu lub grana padano
 
 == Przygotowanie
+
 Piekarnik nagrzać do 190 stopni C.
 
 Zagotować osoloną wodę w dużym garnku. Wrzucić makaron i gotować al dente (wg. instrukcji na opakowaniu). Na ostatnią minutę gotowania makaronu dodać do niego szparagi: należy je wcześniej opłukać, odłamać twarde końce (same złamią się w odpowiednim miejscu), pokroić na desce na kawałki.

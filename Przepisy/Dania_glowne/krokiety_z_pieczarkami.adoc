@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * jajko 2 sztuki
 * mąka pszenna 250 gram
 * mleko 1 szklanka
@@ -28,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * bułka tarta klasyczna Prymat 5 łyżek
 
 == Przygotowanie
+
 Posiekaną cebulę i kiełbaskę podsmażyć na łyżce oleju aż cebulka lekko zmięknie.
 
 Obrane pieczarki pokroić niezbyt drobno.dodawać partiami na patelnię z cebulką.

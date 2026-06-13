@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 łyżki szczypiorek  (posiekany)
 * 3 łyżki imbir  (posiekany)
 * 8 łyżek cukier
@@ -23,6 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 5 łyżek sezam czarny  (prażony)
 
 == Przygotowanie
+
 Miksujemy składniki w blenderze oprócz sezamów, które dodajemy na koniec.
 
 [.recipe-gallery]

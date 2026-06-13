@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg mąki (0,70)
 * 1 kostka palmy
 * ½ kg cukru

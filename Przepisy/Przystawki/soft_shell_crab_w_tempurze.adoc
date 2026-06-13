@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,1 kg mąka pszenna
 * 0,1 kg mąka ryżowa
 * 0,5 łyżeczki soda 
@@ -21,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 8 sztuk kraby 
 
 == Przygotowanie
+
 Mieszamy mąki, wodę, wódkę i sól i chłodzimy ciasto. Kraby suszymy bardzo dokładnie, przekładamy na ręcznik papierowy i pozostawiamy na kilkanaście minut. Smażymy kraba w temp. 190 st.C około 2 minuty.
 
 [.recipe-gallery]

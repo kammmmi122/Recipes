@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg śledzi
 * 1 p. rodzynek (25 dag)
 * 4 duże cebule

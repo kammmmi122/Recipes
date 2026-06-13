@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 szklanki. mąki
 * ½ szklanki. cukru pudru
 * 1 kostka (20 dag) masła

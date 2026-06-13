@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * papryka
 === Zalewa:
 * ¾ szklanki octu 10%
@@ -21,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki oleju
 
 == Przygotowanie
+
 Paprykę wydrążyć, pokroić na części, sparzyć wrzątkiem. Poukładać w słoikach.
 
 === Zalewa

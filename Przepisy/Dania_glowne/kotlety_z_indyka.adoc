@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * mąka
 * jajka
 * płatki kukurydz. - zgnieść ręką

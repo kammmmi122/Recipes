@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 cebule (zeszklić)
 * 3 łyżki ketchupu
 * filet z ryby (usmażyć w mące i jajku)

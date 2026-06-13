@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 ml Sosu do kaczki po pekińsku House of Asia
 * 150 g Warzyw do woka House of Asia
 * 1 łyżeczka Przyprawy Pięć smaków House of Asia

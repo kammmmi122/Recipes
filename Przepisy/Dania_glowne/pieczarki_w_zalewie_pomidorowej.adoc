@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg pieczarek
 * 3-4 cebule - pokroić w półplasterki
 * 1 l wody

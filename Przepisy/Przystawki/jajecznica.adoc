@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 jajka
 * szczypta soli
 * szczypta pieprzu
@@ -21,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 * masło
 
 == Przygotowanie
+
 Wybić jajka, dodać sól, pieprz, wodę i pokrojony szczypiorek. Wszystko wymieszać. Na patelni roztopic masło, wlać jajka i czekać. Od czasu do czasu poruszać drewnianą łyżką, aby rozdzielić na kawałku. Wyłączyć ogień gy białko stanie się białe.
 
 [.recipe-gallery]

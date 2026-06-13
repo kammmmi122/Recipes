@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * pieprz biały - 1 szczypta
 * cebula - 1 szt.
 * cukier - 1 szczypta
@@ -30,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * ryż jaśminowy - 200 g
 
 == Przygotowanie
+
 Piersi kurczaka kroimy w paski o szerokości 0,5 cm. Doprawiamy solą i pieprzem. Smażymy na rozgrzanym oleju na złoty kolor.
 
 Pieczarki kroimy w ćwiartki i podsmażamy na rozgrzanym maśle. Dodajemy drobno posiekaną cebulę i czosnek. Na tej samej patelni podgrzewamy pastę curry. Dodajemy mleczko kokosowe i odrobinę wody. Redukujemy, aż sos zgęstnieje.

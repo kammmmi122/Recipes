@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 10 dag drożdży
 * 4 szklanki. mąki
 * 4 jaja

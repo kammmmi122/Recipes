@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 ząbki czosnek 
 * 0,5 kubka olej 
 * 0,2 kubka szczypiorek (posiekany)
@@ -20,6 +21,7 @@ Brak zdjęcia przepisu 🍲
 * 6 łyżek olej sezamowy 
 
 == Przygotowanie
+
 Olej gotujemy z czosnkiem, szczypiorkiem i imbirem tak długo, aż będą chrupiące. Dodajemy płatki chili i olej sezamowy, mieszamy i odstawiamy do ostygnięcia.
 
 [.recipe-gallery]

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 szklanka mąki
 * 1 ½ szklanka cukru (w tym 1 szk do białek)
 * 5 jaj

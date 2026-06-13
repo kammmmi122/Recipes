@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ¼ lub ⅓ główki sałaty lodowej
 * garstka roszponki
 * 5 kawałków suszonych pomidorów w zalewie
@@ -26,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * sól i pieprz
 
 == Przygotowanie
+
 Sałatę opłukać i osuszyć, pokroić w kostkę, włożyć do salaterek razem z opłukaną roszponką. Doprawić solą i pieprzem.
 
 Pomidory suszone wyjąć z zalewy i pokroić na cienkie paseczki, fetę pokroić w kosteczkę, chili oraz białe i jasnozielone części dymki na cienkie plasterki, wszystko dodać do sałatki.

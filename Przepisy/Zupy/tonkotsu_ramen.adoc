@@ -14,6 +14,7 @@ Brak zdjęcia przepisu 🍲
 == Składniki
 
 == Wywar wieprzowy (składniki)
+
 * 0,5 kg golonka wieprzowa
 * 0,5 kg boczek wieprzowy
 * 0,1 kg cebuli
@@ -23,6 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 3 litry woda 
 
 == Dodatki
+
 * chashu (plastry wieprzowiny)
 * marynowane shitake
 * kimchi tare (opcjonalnie)

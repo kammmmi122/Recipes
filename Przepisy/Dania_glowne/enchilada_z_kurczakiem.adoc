@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 5 dużych tortilli
 * 100 g ryżu długoziarnistego
 * 500 g filetu z piersi kurczaka
@@ -36,6 +37,7 @@ Brak zdjęcia przepisu 🍲
 * przyprawy: 1 łyżeczka suszonego oregano, ½ łyżeczki kuminu, szczypta ostrej papryki, szczypta cukru, sól, pieprz
 
 == Przygotowanie
+
 Nastawić do ugotowania ryż. Kurczaka pokroić na 2 cm paski. Doprawić go solą, pieprzem oraz mieszanką przypraw i nasmarować 2 łyżkami oleju roślinnego.
 
 Rozgrzać patelnię z grubym dnem. Gdy będzie gorąca wlać łyżkę oleju, włożyć kurczaka i obsmażyć go z każdej strony, przez ok. 5 minut. Zdjąć z patelni i odłożyć na bok.

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg ziemniaków }
 * 3 marchewki } ugotować
 * 3 buraki } potrzeć

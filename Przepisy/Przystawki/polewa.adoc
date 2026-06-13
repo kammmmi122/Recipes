@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 łyżki palmy
 * 2 łyżki mleka
 * ½ szklanki cukru

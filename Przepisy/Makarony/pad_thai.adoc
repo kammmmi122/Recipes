@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 g makaronu ryżowego (wstążki 3-5 mm)
 * 2 łyżki oleju roślinnego (np. kokosowego)
 * 3 ząbki czosnku
@@ -30,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki wody
 
 == Przygotowanie
+
 Zagotować wodę w garnku, dodać makaron ryżowy i gotować przez ok. 4 minuty. Odcedzić na sitku i przepłukać zimną wodą.
 
 Dokładnie wymieszać wszystkie składniki sosu w miseczce.

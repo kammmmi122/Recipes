@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,1 litra olej 
 * 2 sztuki arkusze nori 
 

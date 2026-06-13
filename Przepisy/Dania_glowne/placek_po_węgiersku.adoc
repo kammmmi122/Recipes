@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg łopatki wieprzowej lub szynki
 * 100 g parzonego lub gotowanego boczku
 * 1 duża cebula
@@ -39,6 +40,7 @@ Brak zdjęcia przepisu 🍲
 * do podania: śmietana i natka pietruszki
 
 == Przygotowanie
+
 Gulasz węgierski:
 
 Mięso pokroić w kostkę ok. 1,5 cm. Boczek pokroić w małą kostkę. Cebulę obrać i pokroić w kosteczkę. Marchewkę obrać i pokroić na plasterki. Paprykę pokroić w kostkę.

@@ -12,6 +12,7 @@ image::20240505_163520.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 2 piersi z kurczaka
 * 2 śmietany
 * 2 kawałki mozarelli
@@ -21,6 +22,7 @@ image::20240505_163520.jpg[]
 * ryż
 
 == Przygotowanie
+
 Pierś kurczaka pokroić w kostkę. Doprawić, solą, pieprzem i suszonym czosnkiem. Usmażyć na patelni.
 
 W misce zmieszać śmietanę, pokrojona w kostkę mozzarellę, sól, pierz, czosnek. Do kurczaka na patelni dodać powstały sos i gotować na małym ogniu aż do roztopienia sera.

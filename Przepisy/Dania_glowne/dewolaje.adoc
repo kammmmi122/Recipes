@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * pierś z kurczaka 1 kg
 * pieczarki 250 g
 * cebula 1 szt
@@ -24,6 +25,7 @@ Brak zdjęcia przepisu 🍲
 * Sól, pieprz, majeranek
 
 == Przygotowanie
+
 Piersi z kurczaka oczyścić,rozbić.Pieczarki oczyścić, pokroić w plasterki.
 
 Podsmażyć na 2 łyżkach masła razem z cebulką. Doprawić. Piersi przyprawić.

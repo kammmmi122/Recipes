@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg schabu
 * ½ kg pieczarek
 * 1 cebula
@@ -24,6 +25,7 @@ Brak zdjęcia przepisu 🍲
 * sól, pieprz
 
 == Przygotowanie
+
 Mięso kroję w plastry, rozbijam, doprawiam solą oraz pieprzem.
 
 Cebulę, czosnek obieram, drobno kroję i smażę na rozgrzanym oleju.

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,5 litra sos sojowy 
 * 2 łyżki cukier 
 * 0,1 litra mirin 

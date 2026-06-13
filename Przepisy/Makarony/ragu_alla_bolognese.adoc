@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * oliwa z oliwek
 * 1 średnia cebula
 * 1 średnia marchewka
@@ -29,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * odrobina posiekanej natki pietruszki i/lub bazylii
 
 == Przygotowanie
+
 Cebulę, marchewkę myjemy i kroimy w drobną kostkę.
 
 W żeliwnym garnku rozgrzewamy kilka łyżek oliwy. Wrzucamy warzywa, podsmażamy ok. 10 minut.

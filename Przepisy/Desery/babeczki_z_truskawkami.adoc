@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 ½ szklanki. krupczatki
 * 120 g masła lub marg
 * ¼ szklanki. pudru

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 8 jaj
 * 2 szklanki. cukru
 * 16 łyżek przegotowanej zimnej wody (małe)
@@ -24,6 +25,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki kakao
 
 == Przygotowanie
+
 === Ciasto:
 
 Jaja ubić z cukrem, dodać mąkę, proszek, wodę, oliwę. Podzielić ciasto na dwie części - do jednej dodać 2 łyżki kakao. Piec ok. 45 min.

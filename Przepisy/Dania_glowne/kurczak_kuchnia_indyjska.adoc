@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * cebula, ananas, jabłka (pokroić w kostkę, usmażyć na oliwie)
 * ryż jaśm + usmażyć + tymianek
 * liść laurowy, curry

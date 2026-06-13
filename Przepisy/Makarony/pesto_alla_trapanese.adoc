@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * pomidorki koktajlowe 250-300 gram
 * czosnek 1-2 ząbki
 * parmigiano Reggiano 30-50 gram
@@ -26,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * woda z gotowania makaronu
 
 == Przygotowanie
+
 Przede wszystkim pesto alla trapanese jest niezwykle proste i pyszne zarazem.
 
 Po pierwsze włóż składniki do blendera ❗ oczywiście bez makaronu ? i zblenduj.

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 puszka groszku
 * 1 puszka kukurydzy
 * 1 puszka fasoli czerwonej (fasolę przepłukać ciepłą wodą)

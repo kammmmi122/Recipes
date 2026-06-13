@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 mała polędwiczka wieprzowa
 * 1 łyżka mąki ziemniaczanej
 * 1 mango
@@ -28,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki cukru (np. trzcinowego)
 
 == Przygotowanie
+
 Odciąć białą błonę na zewnętrznej stronie polędwiczki. Mięso przekroić wzdłuż na pół, następnie w poprzek włókien na jak najcieńsze plasterki. Doprawić solą i pieprzem, obtoczyć w mące ziemniaczanej.
 
 Nastawić ryż na gotowanie. Mango obrać i pokroić w słupki. Paprykę pokroić w paski, cebulę obrać i pokroić w piórka.

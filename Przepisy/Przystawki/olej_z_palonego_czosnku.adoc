@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 10 ząbków czosnek (obrany i posiekany)
 * 0,15 litra olej 
 * 50 ml olej sezamowy

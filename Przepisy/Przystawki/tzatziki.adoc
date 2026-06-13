@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg odsączonego jogurtu greckiego
 * 1 duży szklarniowy ogórek
 * 3 ząbki czosnku
@@ -21,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 * sól
 
 == Przygotowanie
+
 Czosnek obierz i zetrzyj na tarce, wrzuć do dużej miski i posól.
 
 Dodaj jogurt, ocet i oliwę, następnie dokładnie wymieszaj i odstaw.

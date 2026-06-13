@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 350g makaronu pióra
 * 600g szpinaku świeżego lub mroz.
 * 1 ząbek czosnku

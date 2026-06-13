@@ -12,6 +12,7 @@ image::20230701_175706.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 4 bułki hamburgerowe lub zwykłe
 * 400 g mięsa mielonego wołowego
 * sól i pieprz
@@ -23,6 +24,7 @@ image::20230701_175706.jpg[]
 * 2 łyżki keczupu
 
 == Przygotowanie
+
 Mięso mielone wrzucamy do dużej miski. Dodajemy sól i pieprz. Formujemy podłużne kotlety burgerowe. Na rozgrzanej patelni kładziemy burgery do smażenia. Obrabiamy z każdej strony przez 2 minuty. Na jednej ze stron roztapiamy ser.
 
 Bułki grilluję w piekarniku lub opiekaczu, następnie każdą przecinam i smaruję obydwie połówki sosem

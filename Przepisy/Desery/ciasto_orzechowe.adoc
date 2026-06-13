@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 300 g mąki
 * 1,5 łyżeczki proszku
 * 3 łyżki kakao

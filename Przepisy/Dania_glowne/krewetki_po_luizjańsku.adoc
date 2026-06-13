@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ok. 375 g krewetek
 * 1 łyżka oleju roślinnego
 * 1 mała cebulka
@@ -27,6 +28,7 @@ Brak zdjęcia przepisu 🍲
 * do podania: bagietka, natka pietruszki
 
 == Przygotowanie
+
 Krewetki rozmrozić jeśli były zamrożone i oczyścić jeśli jest potrzeba.
 
 Na większej patelni na łyżce oleju zeszklić pokrojoną w kosteczkę cebulę. Dodać przeciśnięty przez praskę czosnek i podsmażać przez ok. pół minuty.

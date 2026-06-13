@@ -12,6 +12,7 @@ image::20240429_172456.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 1 ząbek czosnku
 * 1 cebula
 * ⅓ papryczki chili
@@ -27,6 +28,7 @@ image::20240429_172456.jpg[]
 * około ½ łyżeczki soli morskiej i świeżo zmielony pieprz
 
 == Przygotowanie
+
 Czosnek obrać i pokroić w drobną kosteczkę. Cebulę pokroić w kostkę.
 
 Na dużą wysoką patelnię lub do dużego garnka wlać 1 łyżkę oliwy, włożyć czosnek i podgrzewać przez kilkanaście sekund, dodać cebulę oraz papryczkę chili w całości. Smażyć przez około 5 minut na umiarkowanym ogniu co chwilę mieszając aż cebula się zeszkli.

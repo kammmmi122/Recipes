@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 5 łyżek kimchi 
 * 1 ząbek czosnek 
 * 5 łyżek sos sojowy 
@@ -23,6 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki mirin 
 
 == Przygotowanie
+
 Miksujemy razem wszystkie składniki.
 
 [.recipe-gallery]

@@ -12,12 +12,14 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 kapusty pekińskie
 * 2 pomidory świeże
 * 2 ogórki świeże
 * 1 pęczek rzodkiewek
 
 == Przygotowanie
+
 Kapustę pekińską poszatkować. Pomidory, ogórki pokroić w półplastry. Całość wymieszać z majonezem. Majonez, pieprz.
 
 [.recipe-gallery]

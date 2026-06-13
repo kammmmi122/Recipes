@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * mąka — 0,75
 * jaja — 4
 * cukier — 0,40

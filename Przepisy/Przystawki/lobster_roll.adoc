@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 200-250 g ugotowanego mięsa z homara (z 2 małych homarów po ok. 350 g każdy)
 * 1 czubata łyżka masła
 * 4-6 podłużnych bułek

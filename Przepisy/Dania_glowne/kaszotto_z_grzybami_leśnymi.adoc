@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 500 g grzybów leśnych, świeżych lub mrożonych
 * po 2 łyżki masła i oleju
 * 2 szalotki (można zastąpić zwykłą cebulą)
@@ -22,6 +23,7 @@ Brak zdjęcia przepisu 🍲
 * sól, świeżo mielony pieprz
 
 == Przygotowanie
+
 Świeże grzyby oczyść i opłucz, a mrożone wyłóż na sito, aby się rozmroziły. Następnie duże pokrój w mniejsze kawałki, małe mogą pozostać w całości.
 
 Szalotkę obierz, pokrój w kostkę i oprósz solą.

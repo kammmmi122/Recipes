@@ -12,6 +12,7 @@ image::20260606_201355.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 2 pomarańcze
 * 400 g filetu z piersi kurczaka (np. polędwiczki)
 * 50 g rukoli
@@ -23,6 +24,7 @@ image::20260606_201355.jpg[]
 * 1 łyżka musztardy dijon
 
 == Przygotowanie
+
 Pomarańcze obrać ze skórek a następnie wyfiletować (ostrym nożem wykroić cząstki miąższu pomiędzy błonkami). Z resztek pomarańczy wycisnąć sok i zachować go do sosu (około 4 - 5 łyżek).
 
 Do soku z pomarańczy dodać resztę składników sosu, czyli: oliwę, miód i musztardę, następnie doprawić solą oraz pieprzem.

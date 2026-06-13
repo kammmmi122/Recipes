@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 250 g makaronu typu kolanka - 2 pełne szklanki (waga przed ugotowaniem)
 * 250 ml mleka pełnotłustego - 1 szklanka
 * 200 g sera cheddar (można wymieszać z parmezanem)

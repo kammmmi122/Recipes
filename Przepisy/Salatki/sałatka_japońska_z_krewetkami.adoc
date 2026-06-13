@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 5 krewetek
 * garść mieszanej sałaty z rukolą
 * ½ dojrzałego awokado
@@ -24,6 +25,7 @@ Brak zdjęcia przepisu 🍲
 * szczypiorek
 
 == Przygotowanie
+
 Krewetki ugotować na parze. Marchewkę, kalarepkę i ogórka obrać i pokroić w słupki. Awokado przekroić na pół, obrać i pokroić na plasterki.
 
 Na talerzach ułożyć posiekaną sałatę, dodać awokado, marchewkę, ogórka oraz krewetki.

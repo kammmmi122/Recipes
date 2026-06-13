@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,4 kg kaczka pierś
 * 0,1 kg cukier trzcinowy
 * 4 łyżki cukier biały 
@@ -23,6 +24,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka skrobia kukurydziana
 
 == Przygotowanie
+
 Wszystkie składniki sosu łączymy razem i gotujemy na wolnym ogniu kilkanaście minut. Kaczkę smażymy od strony skóry aż będzie rumiana, z drugiej strony około minuty, smarujemy kaczkę sosem i pieczemy w temp. 180 st.C około 15 minut.
 
 [.recipe-gallery]

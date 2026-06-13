@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 300 g filetu z kurczaka
 * 2 łyżki oliwy
 * 1 cebula
@@ -29,6 +30,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka płatków chili
 
 == Przygotowanie
+
 Kurczaka pokroić na wąskie paski dł. ok. 2 cm. Doprawić solą, pieprzem oraz wszystkimi przyprawami. Polać łyżką oleju roślinnego i dokładnie wymieszać, odstawić.
 
 Cebulę pokroić w piórka, paprykę - podobnie jak kurczaka - na wąskie paski dł. ok. 2 cm. Doprawić solą i zeszklić na patelni na łyżce oleju, odłożyć na talerz.

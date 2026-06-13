@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ½ kg twarogu
 * ½ kg mąki
 * ½ szklanki. cukru

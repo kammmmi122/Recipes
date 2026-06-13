@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * biszkopt
 * 2 śnieżka + 2 galaretka
 * 1 galaretka

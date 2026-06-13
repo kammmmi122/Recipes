@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * mąka — 0,15
 * cukier — 0,20
 * m. ziemn — 0,20

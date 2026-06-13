@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 750 g strąków fasoli
 * 200 g surowej szynki
 * 750 g kartofli

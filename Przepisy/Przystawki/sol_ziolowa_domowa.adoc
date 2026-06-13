@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 0,5 kg soli kamiennej gruboziarnistej
 * po 2-3 łyżki suszonych ziół: majeranek, tymianek, bazylia, oregano, cząber, lubczyk, suszona natka pietruszki
 * 1 łyżka mielonego pieprzu

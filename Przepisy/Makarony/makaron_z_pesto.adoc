@@ -12,6 +12,7 @@ image::20241007_174207.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 300 g makaronu
 * 1 doniczka bazylii (3 garści)
 * 1 mały ząbek czosnku
@@ -22,6 +23,7 @@ image::20241007_174207.jpg[]
 * sól, pieprz
 
 == Przygotowanie
+
 Rozgrzej patelnię, wrzuć na nią orzeszki piniowe i podpraż je przez kilka minut, aż delikatnie się zarumienią.
 
 Przełóż orzeszki do wysokiego naczynia, dodaj do nich oliwę z oliwek, bazylię, parmezan, czosnek, sok z cytryny oraz odrobinę soli i pieprzu.

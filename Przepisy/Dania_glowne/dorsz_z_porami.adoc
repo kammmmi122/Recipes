@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 400 g filetu (polędwiczki) z dorsza
 * 2 łyżeczki mąki
 * 1 por
@@ -25,6 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżki posiekanego szczypiorku
 
 == Przygotowanie
+
 Dorsza rozmrozić jeśli był mrożony i osuszyć. Doprawić solą i pieprzem, obtoczyć w mące.
 
 Odkroić zielone liście pora. Białą i jasnozieloną część przekroić wzdłuż na pół i dokładnie opłukać. Pokroić na cienkie plasterki.

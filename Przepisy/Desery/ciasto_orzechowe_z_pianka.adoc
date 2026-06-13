@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 === Ciasto
 * 25 dag orzechów włoskich łuskanych
 * 25 dag cukru pudru

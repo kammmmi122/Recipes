@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 350g makaronu muszelki
 * 1 cukinia } ugrillować
 * 1 bakłażan } ugrillować

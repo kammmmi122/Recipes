@@ -12,10 +12,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 650 g jogurtu greckiego
 * szczypta soli morskiej
 
 == Przygotowanie
+
 Wymieszać jogurt z solą morską. Umieścić go na sitku zawieszonym na garnku lub misce i wyłożonym gazą (2 - 3 warstwy). Związać supełek tworząc sakiewkę i lekko zacisnąć.
 
 Zawiesić nad miską, tak aby serwatka swobodnie do niej ściekała i zostawić na całą noc lub ok. 12 godzin.

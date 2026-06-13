@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 5 szklanki wody } Gotować 20 min
 * 1 szklanki octu
 * cukier - x

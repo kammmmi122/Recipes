@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 3 jajka
 * 1 szklanki cukru
 * 2 płaskie łyż proszku

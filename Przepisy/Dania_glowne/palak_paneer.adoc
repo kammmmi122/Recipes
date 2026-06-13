@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 500 g szpinaku - najlepiej mrożony w liściach lub ew. siekany
 * 400 g sera indyjskiego Paneer
 * 4 ząbki czosnku - około 20 g

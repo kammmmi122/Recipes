@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 5 jajek
 * 1 puszka kukurydzy
 * 1 puszka krojonego ananasa
@@ -21,6 +22,7 @@ Brak zdjęcia przepisu 🍲
 * ⅔ szklanki majonezu + ⅓ szklanki gęstej śmietany lub jogurtu greckiego
 
 == Przygotowanie
+
 Jajka ugotować na twardo, obrać i posiekać na desce. Na sitku odcedzić kolejno kukurydzę, potem ananasa.
 
 Na dnie salaterki o średnicy ok. 20 cm ułożyć selera, potem kukurydzę, startą na tarce o dużych oczkach lub pokrojoną w kosteczkę lub paseczki szynkę.

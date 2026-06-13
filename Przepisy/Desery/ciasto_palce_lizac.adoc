@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 4 duże jaja lub 5 małych
 * 5 łyżeczek cukru
 * 2 łyżki mąki
@@ -25,6 +26,7 @@ Brak zdjęcia przepisu 🍲
 * 2 paczki cukru waniliowego
 
 == Przygotowanie
+
 === Biszkopt:
 
 Białka ubić z cukrem, dodawać po jednym żółtku ciągle ubijając. Do ubitej masy dodać resztę składników. Wymieszać i upiec.

@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * ½ kg surowego boczku, ze skórą
 * 600 g kawałków kurczaka (najlepiej pałki i biodra)
 * ¼ szklanki (60 ml) octu spirytusowego 10%

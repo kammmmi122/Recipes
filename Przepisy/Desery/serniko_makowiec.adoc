@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 30 dag mąki
 * 1 jajko
 * 20 dag palmy
@@ -32,6 +33,7 @@ Brak zdjęcia przepisu 🍲
 * szczypta soli
 
 == Przygotowanie
+
 Z mąki, szczypty proszku do pieczenia, posiekanej palmy, cukru, cukru waniliowego, jajka oraz szczypty soli szybko zagnieść jednolite ciasto i włożyć je na 30 minut do zamrażalnika. Mielony mak wymieszać z pięcioma łyżkami cukru, cukrem waniliowym oraz jajkiem, a następnie zalać wrzącym mlekiem i dokładnie połączyć. W osobnej misce zmiksować tłusty twaróg z cukrem, budyniem waniliowym, sokiem z cytryny, rodzynkami oraz czterema żółtkami, a na koniec delikatnie wmieszać ubitą z pozostałych czterech białek sztywną pianę. Schłodzonym ciastem wylepić dno formy, wyłożyć na nie masę makową, następnie rozprowadzić masę twarogową i piec w piekarniku nagrzanym do 175 °C przez 1 godzinę.
 
 [.recipe-gallery]

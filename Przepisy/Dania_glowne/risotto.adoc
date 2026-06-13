@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * szalotka pokrojona } usmażyć
 * oliwa z oliwek
 * ryż suszony

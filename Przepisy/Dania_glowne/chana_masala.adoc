@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 200g ryżu
 * 1 duży słoik ciecierzycy (400g ciecierzycy po odsączeniu z zalewy, niecałe 2,5 szklanki ugotowanej ciecierzycy)
 * 1 puszka krojonych pomidorów (400g)

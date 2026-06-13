@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 250 g sucharów
 * 125 g masła
 * 50 g cebuli prażonej

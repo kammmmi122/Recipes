@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 100 ml mleka
 * 100 ml śmietanki 36% tł.
 * 50 g cukru
@@ -20,6 +21,7 @@ Brak zdjęcia przepisu 🍲
 * 2 łyżeczki Pasty waniliowej z wanilii Bourbon z Madagaskaru z ziarenkami wanilii 50 g Dr. Oetkera
 
 == Przygotowanie
+
 Żółtka utrzyj razem z cukrem na gładką, puszystą masę, na wysokich obrotach miksera.
 
 Śmietankę, mleko i pastę waniliową wlej do niewielkiego rondelka i zagotuj.

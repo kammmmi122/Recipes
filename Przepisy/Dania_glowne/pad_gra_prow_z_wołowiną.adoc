@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 250 g ryżu jaśminowego
 * 4 łyżki oleju (użyłam rzepakowego)
 * 400 g polędwicy wołowej
@@ -28,6 +29,7 @@ Brak zdjęcia przepisu 🍲
 * pęczek kolendry
 
 == Przygotowanie
+
 Ryż gotujemy w podwójnej objętości osolonej wody.
 
 Wołowinę drobno siekamy na cienkie i drobne paseczki - "wiórki". Mieszamy ze skrobią, która potem nieco zagęści nam sos.

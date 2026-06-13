@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 kg łopatki wieprzowej
 * 1 łyżka oliwy
 * 2 cebule
@@ -26,6 +27,7 @@ Brak zdjęcia przepisu 🍲
 * ½ łyżeczka mielonej ostrej papryki
 
 == Przygotowanie
+
 Cebulę obrać i pokroić na grubsze plastry, czosnek obrać i rozgnieść nożem. Cebulę i czosnek ułożyć na dnie naczynia do zapiekania (lub wolnowaru). Wlać sok pomarańczowy oraz opcjonalnie sos worcesthershire
 
 Mięso wysmarować oliwą i natrzeć mieszanką przypraw. Włożyć do garnka (położyć na cebuli i czosnku).

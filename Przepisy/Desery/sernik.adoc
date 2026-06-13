@@ -11,6 +11,7 @@ image::20231006_223932.jpg[]
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg sera tłustego, gęstego
 * 150 g drobnego cukru
 * 10 - 12 g cukru z wanilią
@@ -24,6 +25,7 @@ image::20231006_223932.jpg[]
 * szczypta soli
 
 == Przygotowanie
+
 Zaczynam od przygotowania ciasta kruchego.
 
 Wszystkie składniki przekładam do minimalaksera.

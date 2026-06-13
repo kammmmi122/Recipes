@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 2 piersi [z kurczaka] - usmażyć
 * 30 dag pieczarek - usmażyć
 * 3 cebule - usmażyć

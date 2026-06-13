@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 450 g mąki pszennej
 * 5 żółtek
 * 1 łyżka spirytusu

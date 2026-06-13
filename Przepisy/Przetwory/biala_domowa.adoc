@@ -12,6 +12,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 kg wieprzowiny
 * 2 g pectosoli - [zostawić na] 48 godz, zmielić na grubym sitku
 * pieprz

@@ -13,6 +13,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-columns]
 == Składniki
+
 * 1 opakowanie rukoli (100 g)
 * 60 g orzechów włoskich lub pekan
 * 1 owoc granatu
@@ -24,6 +25,7 @@ Brak zdjęcia przepisu 🍲
 * sól i świeżo zmielony czarny pieprz
 
 == Przygotowanie
+
 Rukolę opłukać na sitku, odcedzić, osuszyć i wyłożyć na talerz.
 
 Pomarańcze obrać i wyfiletować (ostrym nożem wykroić cząstki miąższy pomiędzy błonkami).
