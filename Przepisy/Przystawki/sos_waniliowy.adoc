@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 4 porcje
 * 🔗 https://www.oetker.pl/przepisy/r/sos-waniliowy[link do źródła przepisu]
 

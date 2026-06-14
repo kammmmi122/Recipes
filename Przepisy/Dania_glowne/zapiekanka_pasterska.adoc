@@ -13,13 +13,14 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas przygotowania: 1,5 godziny
 * 👥 6 porcje
 * 🔗 https://aniagotuje.pl/przepis/zapiekanka-pasterska[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
 
+=== Mięso mielone z warzywami
 * 600 g mielonej jagnięciny lub wołowiny
 * 100 g mrożonego groszku
 * 100 g marchewki - może być mrożona
@@ -33,6 +34,8 @@ Brak zdjęcia przepisu 🍲
 * 100 ml wody
 * kostka wołowa
 * 150 ml czerwonego wina
+
+=== Puree ziemniaczane
 * około 1200 g ziemniaków - waga przed obraniem
 * 100 g masła - pół klasycznej kostki
 * 50 ml mleka - około 1/5 szklanki

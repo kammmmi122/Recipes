@@ -13,9 +13,8 @@ image::20250725_180813.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 4 porcje
-* 🔗 Przepis własny
+* 🔗 Przepis własny - inspirowane grecką restauracją Souvlaki Kostas
 
 [.recipe-columns]
 == Składniki

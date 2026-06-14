@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
-* 🕒 czas gotowania: 25 minut
 * 👥 2 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/noodle-z-krewetkami-po-koreansku[link do źródła przepisu]
 

@@ -13,9 +13,10 @@ image::20231218_213240.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
+* 🕒 czas leżakowania ciasta: minimum 10 godzin
+* 🕒 czas pieczenia: 30 minut
 * 👥 4 porcje
-* 🔗 Przepis własny
+* 🔗 Zajęcia babci Basi
 
 [.recipe-columns]
 == Składniki

@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
 * 👥 4 porcje
 * 🔗 https://www.doradcasmaku.pl/przepis-zupa-klopsowa-z-koperkiem-i-ziemniakami-310942[link do źródła przepisu]
 

@@ -14,7 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 👥 4 porcje
+* 👥 6-8 porcji
 * 🔗 https://www.jadlonomia.com/przepisy/burak-z-burgundii[link do źródła przepisu]
 
 [.recipe-columns]

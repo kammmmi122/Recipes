@@ -13,7 +13,6 @@ image::20260606_201355.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 2 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/salatka-z-kurczakiem-pomarancza-i-suszonymi-pomidorami[link do źródła przepisu]
 
@@ -25,6 +24,9 @@ image::20260606_201355.jpg[]
 * 50 g rukoli
 * 50 g orzechów włoskich
 * 6 kawałków suszonych pomidorów
+
+=== Sos
+
 * 4 łyżki soku z pomarańczy
 * 2 łyżki oliwy
 * 2 łyżki miodu

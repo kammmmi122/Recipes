@@ -15,7 +15,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
 * 🕒 czas gotowania: 7 minut
-* 👥 4 porcje
+* 👥 1 kg szarych klusek
 * 🔗 https://aniagotuje.pl/przepis/szare-kluski[link do źródła przepisu]
 
 [.recipe-columns]

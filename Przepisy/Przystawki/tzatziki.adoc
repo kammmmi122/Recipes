@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
-* 👥 4 porcje
+* 👥 8 porcji
 * 🔗 https://polikala.com/index.php/2020/05/14/tzatziki-grecki-sos-z-ogorkiem/[link do źródła przepisu]
 
 [.recipe-columns]

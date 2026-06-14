@@ -13,7 +13,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas przygotowania: 1,5 godziny
 * 👥 4 porcje
 * 🔗 Przepis własny
 

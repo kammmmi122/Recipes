@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
-* 👥 4 porcje
+* 👥 20 porcji
 * 🔗 https://www.kwestiasmaku.com/desery/ciasta/czekoladowe_brownie/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]

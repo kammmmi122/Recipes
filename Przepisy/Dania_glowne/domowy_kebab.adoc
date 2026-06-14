@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://kuron.com.pl/artykuly/przepisy/dania-glowne/domowy-kebab[link do źródła przepisu]
 
@@ -32,6 +31,7 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżeczka soli
 * ½ łyżeczki czarnego mielonego pieprzu
 * sos czosnkowy (mi najbardziej pasuje Roleski)
+=== Warzywa:
 * ćwiartka białej kapusty np. młodej
 * 2 dojrzałe pomidory
 * 1 zielony długi ogórek

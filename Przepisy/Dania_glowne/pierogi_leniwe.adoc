@@ -13,8 +13,9 @@ image::20240719_200043.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 10 minut
-* 👥 4 porcje
+* 🕒 czas gotowania klusek łącznie: 10 minut
+* 🕒 czas szykowania sosu: 10 minut
+* 👥 50 klusek
 * 🔗 https://aniagotuje.pl/przepis/kluski-leniwe[link do źródła przepisu]
 
 [.recipe-columns]
@@ -25,6 +26,7 @@ image::20240719_200043.jpg[]
 * trochę ponad pół szklanki mąki pszennej - 100 g
 * 2 łyżki masła
 * pół płaskiej łyżeczki soli
+=== Sos waniliowy
 * ⅓ szklanki śmietanki 30 %
 * 2 łyżki masła
 * 2 łyżki cukru waniliowego

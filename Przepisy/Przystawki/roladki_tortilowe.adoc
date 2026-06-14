@@ -14,8 +14,8 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
-* 👥 4 porcje
+* 🕒 czas chłodzenia: 10 minut
+* 👥 24 roladki
 * 🔗 https://aniagotuje.pl/przepis/tortilla-z-serem-i-z-szynka[link do źródła przepisu]
 
 [.recipe-columns]

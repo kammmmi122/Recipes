@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
-* 🕒 czas gotowania: 3 godziny
-* 👥 4 porcje
+* 👥 6 - 8 porcji
 * 🔗 https://www.kwestiasmaku.com/pasta/lasagne_bolognese/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]

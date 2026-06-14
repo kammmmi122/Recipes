@@ -14,8 +14,9 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
-* 👥 4 porcje
+* 🕒 czas wyrastania ciasta łącznie: 1 godzina 30 minut
+* 🕒 czas pieczenia bułeczek: 20 minut
+* 👥 8 bułeczek
 * 🔗 https://aniagotuje.pl/przepis/buleczki-czosnkowe[link do źródła przepisu]
 
 [.recipe-columns]

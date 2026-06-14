@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
-* 🕒 czas gotowania: 2 godziny
 * 👥 3 porcje
 * 🔗 https://kuchnialidla.pl/baozi-azjatyckie-buleczki-z-wieprzowina[link do źródła przepisu]
 

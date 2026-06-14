@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/zupa-grochowa-z-ziemniakami-i-kielbasa[link do źródła przepisu]
 

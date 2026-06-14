@@ -13,13 +13,14 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas przygotowania: 2,5 godziny
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/kaczka/kaczka_duszona_w_soku_pomaranczowym/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
 
+* 1 kaczka o wadze ok. 2-2.5 kg, sprawiona, poporcjowana na kawałki lub same udka
 * 1 łyżka oliwy
 * 4 ząbki czosnku
 * 50 g imbiru

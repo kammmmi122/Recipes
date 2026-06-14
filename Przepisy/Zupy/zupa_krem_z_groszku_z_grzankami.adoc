@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 32 minut
-* 🕒 czas gotowania: 32 minut
-* 👥 4 porcje
+* 👥 5 porcji
 * 🔗 https://zakochanewzupach.pl/zupa-krem-z-zielonego-groszku-czyli-zielono-mi[link do źródła przepisu]
 
 [.recipe-columns]

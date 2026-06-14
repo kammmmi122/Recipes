@@ -13,12 +13,14 @@ image::20231209_214411.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
+* 🕒 czas pieczenia: 50 minut
 * 👥 4 porcje
-* 🔗 Przepis własny
+* 🔗 Zeszyt mamy
 
 [.recipe-columns]
 == Składniki
+
+=== Ciasto:
 
 * 1 kostka Kasi
 * ¾ szklanki wody
@@ -29,6 +31,9 @@ image::20231209_214411.jpg[]
 * 2 płaskie łyżeczki proszku do pieczenia
 * 3 łyżki dżemu
 * rodzynki
+
+=== Masa kokosowa:
+
 * 6 białek
 * ¾ szklanki cukru
 * 200 g wiórków kokosowych

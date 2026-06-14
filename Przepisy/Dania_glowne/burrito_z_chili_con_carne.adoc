@@ -14,13 +14,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/dania_dla_dwojga/chili_con_carne/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
 
+=== Na chili:
 * 1 łyżka oliwy
 * 1 cebula
 * 2 ząbki czosnku
@@ -34,6 +34,7 @@ Brak zdjęcia przepisu 🍲
 * 200 g czerwonej fasoli (ugotowanej)
 * kostka buliony wołowego
 * 100 g boczku
+=== Na burito:
 * 8 plastrów ser cheddar
 * 4 tortille
 

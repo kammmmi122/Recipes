@@ -13,12 +13,13 @@ image::20240427_105458.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
-* 👥 4 porcje
+* 👥 20 porcji
 * 🔗 https://malacukierenka.pl/tort-truskawkowy.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
+=== Biszkopt:
 
 * 6 jajek, osobno żółtka i białka
 * 170g mąki (użyłam tortowej)
@@ -26,8 +27,14 @@ image::20240427_105458.jpg[]
 * 170g cukru
 * ⅓ łyżeczki aromatu śmietankowego (polecam Dr.Oetkera)
 * 2-3 krople aromatu waniliowego
+
+=== Do nasączania:
+
 * 150g truskawek, umytych i obranych
 * 8-10 łyżek wody
+
+=== Środek:
+
 * 400g schłodzonej śmietanki kremówki 30% lub 36%
 * 250g serka mascarpone
 * 600-700g truskawek, umytych i obranych
@@ -35,6 +42,9 @@ image::20240427_105458.jpg[]
 * 2-3 krople aromatu śmietankowego
 * 1 łyżeczka cukru wanilinowego
 * 5-7 łyżek cukru pudru (dosładzamy do własnego gustu, ja dodałam 5 bardziej kopiastych łyżek cukru pudru)
+
+=== Wykończenie:
+
 * 250g schłodzonej śmietanki kremówki 30% lub 36%
 * 250g serka mascarpone
 * około 700-900g truskawek (to już zależy od tego, jak go ozdobimy, na koronę zużyjemy około 700g)
@@ -43,6 +53,8 @@ image::20240427_105458.jpg[]
 * ½ opakowania galaretki truskawkowej (w proszku)
 
 == Przygotowanie
+
+=== Biszkopt:
 
 Białka ubić na sztywno i ciągle mieszając, dodać stopniowo połowę cukru. Miksować, aż masa będzie gęsta i lśniąca.
 
@@ -60,6 +72,8 @@ Jeden krążek ciasta włożyć z powrotem do tortownicy (zamknąć obręcz).
 
 Zmiksować na mus 150g truskawek, dodać około 8-10 łyżek wody, wymieszać. Ciasto w tortownicy nasączyć około 5-6 łyżkami truskawkowego musu.
 
+=== Środek:
+
 Żelatynę wsypać do rondelka i zalać około ⅓ szklanki zimnej wody, odstawić, aby napęczniała.
 
 Zmiksować na mus 200g truskawek, resztę pokroić na kawałeczki.
@@ -71,6 +85,8 @@ Serek przełożyć do miski i rozmieszać go łyżką. Dodać stopniowo mus z tr
 Żelatynę w rondelku podgrzać, cały czas mieszając, aż się rozpuści (nastąpi to bardzo szybko). Dodać ją stopniowo do serka, cały czas mieszając. Następnie dodać śmietanę, wymieszać łyżką. Na końcu dodać pokrojone truskawki, wymieszać.
 
 Połowę kremu przełożyć do na ciasto w torownicy, wyrównać. Przykryć drugim krążkiem ciasta i nasączyć go jak poprzedni. Na wierzch wyłożyć resztę kremu, wyrównać. Ostatni krążek ciasta nasączyć musem truskawkowym z wodą i stroną, na którą nakładaliśmy mus położyć na krem. Ciasto wstawić na parę godzin do lodówki, aż stężeje (najlepiej zostawić na całą noc i wykończyć na drugi dzień).
+
+=== Wykończenie: 
 
 Galaretkę rozpuścić w około ¼ szklanki gorącej wody.
 

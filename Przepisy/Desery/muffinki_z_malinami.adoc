@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
-* 👥 4 porcje
+* 👥 12 muffinek
 * 🔗 Przepis własny
 
 [.recipe-columns]

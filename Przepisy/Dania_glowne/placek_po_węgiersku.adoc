@@ -13,12 +13,14 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
-* 👥 1 porcja
+* 🕒 czas przygotowania: 2,5 godziny
+* 👥 1 placek, 6 - 8 porcji gulaszu
 * 🔗 https://www.kwestiasmaku.com/przepis/placek-po-wegiersku[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
+=== Gulasz węgierski:
 
 * 1 kg łopatki wieprzowej lub szynki
 * 100 g parzonego lub gotowanego boczku
@@ -38,6 +40,9 @@ Brak zdjęcia przepisu 🍲
 * 200 g pieczarek
 * 2 łyżki masła
 * 2 łyżki mąki
+
+=== Placek:
+
 * ½ kg ziemniaków
 * ½ łyżki mąki pszennej
 * ¼ cebuli

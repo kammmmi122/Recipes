@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 90 minut
-* 🕒 czas gotowania: 90 minut
 * 👥 6 porcje
 * 🔗 https://kuchnia.wp.pl/roladki-schabowe-z-pieczarkami-i-mozzarella-6831350896240769c[link do źródła przepisu]
 

@@ -14,8 +14,8 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
-* 👥 4 porcje
+* 🕒 czas pieczenia: 30 minut
+* 👥 10 burgerów
 * 🔗 https://www.jadlonomia.com/przepisy/najlepsze-wegeburgery-na-swiecie[link do źródła przepisu]
 
 [.recipe-columns]
@@ -35,6 +35,9 @@ Brak zdjęcia przepisu 🍲
 * łyżeczka suszonego imbiru albo 3 cm świeżego korzenia startego drobno na tarce
 * ¼ łyżeczki chili
 * sól i czarny pieprz
+
+=== Burgery:
+
 * 5 bułek, hamburgerowych lub zwykłych
 * spora czerwona cebula
 * spory pomidor

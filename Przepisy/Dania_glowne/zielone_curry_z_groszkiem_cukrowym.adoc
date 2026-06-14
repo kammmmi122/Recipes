@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://kuchnialidla.pl/zielone-curry-z-groszkiem-cukrowym[link do źródła przepisu]
 

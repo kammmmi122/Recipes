@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 2 porcje
 * 🔗 https://smakowitedania.com/2018/04/salatka-z-rukola-wedzonym-lososiem-i-mozzarella-film.html[link do źródła przepisu]
 
@@ -26,6 +25,9 @@ Brak zdjęcia przepisu 🍲
 * 1 czerwona papryka
 * 125 g sera mozzarella
 * 125 g wędzonego łososia
+
+=== Sos:
+
 * 3 łyżki oliwy z oliwek
 * 1 łyżka miodu
 * 2 łyżki musztardy

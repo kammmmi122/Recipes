@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
 * 👥 4 porcje
 * 🔗 https://www.doradcasmaku.pl/przepis-risotto-ze-szpinakiem-i-krewetkami-411771[link do źródła przepisu]
 

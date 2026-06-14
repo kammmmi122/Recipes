@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
-* 🕒 czas gotowania: 25 minut
-* 👥 4 porcje
+* 👥 4 - 6  porcji
 * 🔗 https://www.jadlonomia.com/przepisy/ciecierzyca-po-bretonsku[link do źródła przepisu]
 
 [.recipe-columns]

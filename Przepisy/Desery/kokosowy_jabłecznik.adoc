@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
-* 👥 4 porcje
+* 👥 20 porcji
 * 🔗 https://mojewypieki.com/przepis/kokosowy-jablecznik[link do źródła przepisu]
 
 [.recipe-columns]
@@ -27,11 +26,17 @@ Brak zdjęcia przepisu 🍲
 * ½ łyżeczki proszku do pieczenia
 * 2 łyżki cukru pudru
 * 3 żółtka (z dużych jajek)
+
+=== Nadzienie jabłkowe:
+
 * 1,3 kg jabłek, jędrnych i kwaśnych
 * 1 łyżeczka pasty z wanilii lub ziarenka z laski wanilii
 * 2 łyżki cukru
 * sok wyciśnięty z 1 małej cytryny
 * 1,5 łyżki skrobi ziemniaczanej
+
+=== Kokosowa beza:
+
 * 3 białka (z dużych jajek)
 * szczypta soli
 * 150 g drobnego cukru do wypieków

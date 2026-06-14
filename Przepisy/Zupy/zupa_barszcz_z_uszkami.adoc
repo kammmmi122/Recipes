@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
-* 👥 4 porcje
+* 👥 6 porcji
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/wigilia/barszcz_wigilijny_z_uszkami/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
