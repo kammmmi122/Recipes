@@ -13,7 +13,6 @@ image::20241007_174207.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
-* 🕒 czas gotowania: 25 minut
 * 👥 4 porcje
 * 🔗 https://aniastarmach.pl/przepis/makaron-z-pesto[link do źródła przepisu]
 

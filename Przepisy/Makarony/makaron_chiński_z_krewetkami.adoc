@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 4 porcje
 * 🔗 http://blogzapetytem.pl/2018/04/09/makaron-chinski-z-krewetkami-i-warzywami[link do źródła przepisu]
 

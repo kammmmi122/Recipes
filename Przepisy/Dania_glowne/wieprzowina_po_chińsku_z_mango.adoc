@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
 * 👥 2 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/wieprzowina-po-chinsku-z-mango[link do źródła przepisu]
 

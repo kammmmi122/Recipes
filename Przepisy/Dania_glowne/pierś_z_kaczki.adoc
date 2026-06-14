@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 2 porcje
 * 🔗 https://www.kwestiasmaku.com/kuchnia_polska/kaczka/piersi_kaczki_sos_zurawinowy/przepis.html[link do źródła przepisu]
 

@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
-* 🕒 czas gotowania: 35 minut
 * 👥 6 porcje
 * 🔗 Przepis własny
 

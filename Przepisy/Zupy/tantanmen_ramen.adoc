@@ -13,7 +13,6 @@ image::20260613_171601.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godziny
-* 🕒 czas gotowania: 5 godziny
 * 👥 4 porcje
 * 🔗 https://www.gotujzdiego.com/przepisy/tantanmen-ramen[link do źródła przepisu]
 
@@ -22,7 +21,7 @@ image::20260613_171601.jpg[]
 
 === Bulion
 * 4 L wody
-* 6 duże marchewek
+* 6 dużych marchewek
 * 4 pietruszki
 * 1 mały seler
 * 3 cebule
@@ -54,6 +53,7 @@ image::20260613_171601.jpg[]
 * opcjonalnie szczypta cukru lub innego słodzika
 
 === Pozostałe składniki
+* 4 porcje makaronu do ramenu
 * 16 brązowych pieczarek
 * link:../Przystawki/nitamago.html[4 jajka nitamago, opts=external]
 * 2 łyżeczka sosu sojowego
@@ -80,9 +80,10 @@ Wrzucamy anyż do bulionu. Gotujemy bulion na małym ogniu, bez przykrycia, prze
 
 Gdy bulion jest gotowy, przecedzamy go przez sito.
 
+=== Ramen
+
 W garnku zagotowujemy przygotowany wcześniej bulion, dodajmy mleko roślinne i doprawiamy sosem sojowym.
 
-=== Reszta
 W miseczce mieszamy składniki na tare.
 
 Na patelni podgrzewamy dwa rodzaje oleju i dorzucamy przygotowaną pastę z chilli, imbiru i czosnku. Smażymy przez 1 minutę i dodajemy mielone mięso. Doprawiamy sosem sojowym i cukrem do smaku.

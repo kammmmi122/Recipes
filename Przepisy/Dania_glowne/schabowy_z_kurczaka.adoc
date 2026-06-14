@@ -14,12 +14,13 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 50 minut
-* 🕒 czas gotowania: 50 minut
 * 👥 4 porcje
 * 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
+
+=== Kotlety:
 
 * 2 piersi z kurczaka
 * mąka
@@ -27,6 +28,9 @@ Brak zdjęcia przepisu 🍲
 * bułka tarta
 * pieprz i sól
 * olej do smażenia
+
+=== Puree:
+
 * 0,5 kg ziemniaków
 * łyżka masła
 * pieprz i sól

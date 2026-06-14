@@ -20,16 +20,21 @@ image::20240530_115153.jpg[]
 [.recipe-columns]
 == Składniki
 
+=== Biszkopt
 * 6 jajek
 * 200 g cukru
 * 50 ml wody
 * 230 g mąki pszennej
 * 1 łyżeczka proszku do pieczenia
 * 2 łyżeczki cukru waniliowego
+
+=== Przełożenie
 * 400 ml mleka kokosowego lub migdałowego
 * 1 budyń śmietankowy
 * 250 g kajmaku z puszki
 * 1 łyżeczka ekstraktu naturalnego migdałowego
+
+=== Krem
 * 70 g wiórków kokosowych
 * 100 ml likieru malibu
 * 100 ml wody
@@ -37,11 +42,18 @@ image::20240530_115153.jpg[]
 * 500 ml schłodzonej śmietanki 30%
 * 50 g cukru pudru
 * 2 Śmietan fixy Dr. Oetkera
+
+=== Krem maślany (tynk)
 * 400 g miękkiego masła
 * 400 g mleczka skondensowanego słodzonego
+
+=== Poncz
 * 100 ml likieru kokosowego
 * 100 ml wody
+
+=== Do dekoracji
 * 3 łyżki płatków migdałów
+* pralinki Raffaello
 
 == Przygotowanie
 
@@ -69,6 +81,8 @@ Biszkopt wyjmij z formy dopiero po całkowitym wystudzeniu.
 
 Najlepiej przygotuj biszkopt kilka godzin lub dzień wcześniej, łatwiej go wtedy pokroić.
 
+=== Przełożenie
+
 250 ml mleka przelej do garnka i zagotuj. W pozostałej ilości mleka wymieszaj budyń i przelej do gotującego się mleka. Gotuj, cały czas mieszając, aż budyń zgęstnieje.
 
 Ugotowany budyń przykryj folią spożywczą na styk i odstaw do wystudzenia.
@@ -79,6 +93,8 @@ Zmiksuj na jednolitą masę.
 
 Upieczony biszkopt przekrój na 3 blaty. Przełóż na paterę obrotową. Każdy z nich nasącz ponczem i posmaruj połową porcji kremu budyniowego.
 
+=== Krem
+
 Wodę z malibu zagotuj, dodaj wiórki kokosowe. Przykryj i odstaw do całkowitego wchłonięcia płynu (ewentualny nadmiar odciśnij).
 
 Cukier puder wymieszaj z śmietan fixem. Serek umieść w misce, dodaj śmietankę, zmiksuj pod koniec dodając cukier puder z fixem. Na końcu delikatnie wmieszaj wiórki.
@@ -87,7 +103,9 @@ Połowę porcji kremu rozsmaruj na kremie budyniowym.
 
 Drugi blat również nasącz, nałóż krem budyniowy oraz śmietankowy. Przykryj trzecim blatem.
 
-Miękkie masło ubij na jasny, puszysty krem.
+=== Krem maślany (tynk)
+
+Miękkie masło ubij na jasny, puszysty krem. 
 
 Na koniec przelej, cały czas miksując, mleczko skondensowane, ubijaj do połączenia się składników.
 

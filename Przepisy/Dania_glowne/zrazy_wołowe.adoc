@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
-* 🕒 czas gotowania: 2 godziny
-* 👥 4 porcje
+* 👥 6 porcji
 * 🔗 https://kuchnialidla.pl/zwijane-zrazy-wolowe[link do źródła przepisu]
 
 [.recipe-columns]

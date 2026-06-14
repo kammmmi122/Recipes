@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
-* 👥 4 porcje
+* 👥 20 porcji
 * 🔗 https://mojewypieki.com/przepis/wisniowy-paj[link do źródła przepisu]
 
 [.recipe-columns]

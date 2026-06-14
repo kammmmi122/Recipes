@@ -13,8 +13,8 @@ image::20240519_085926.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 15 minut
-* 🕒 czas gotowania: 15 minut
-* 👥 4 porcje
+* 🕒 czas pieczenia: 1 godzina
+* 👥 10 porcji
 * 🔗 https://www.kwestiasmaku.com/przepis/chlebek-bananowy[link do źródła przepisu]
 
 [.recipe-columns]

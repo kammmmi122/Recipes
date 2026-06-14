@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
-* 🕒 czas gotowania: 2 godziny
 * 👥 2 porcje
 * 🔗 https://kuchnialidla.pl/peczotto-z-burakiem-i-kozim-serem[link do źródła przepisu]
 

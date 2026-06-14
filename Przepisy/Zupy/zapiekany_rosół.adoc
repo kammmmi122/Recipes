@@ -13,13 +13,14 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas przygotowania: 2,5 godziny
 * 👥 8 porcje
 * 🔗 https://szefowakuchni.pl/przepis/pieczony-rosol/[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
 
+* ulubione mięso na rosół (u mnie porcja drobiowa: 2 udka z kurczaka, 2 skrzydełka, korpus + 1 podudzie z indyka)
 * cebula
 * 4 marchewki
 * por

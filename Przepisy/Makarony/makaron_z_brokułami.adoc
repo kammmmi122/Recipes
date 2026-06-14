@@ -14,8 +14,9 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 7 minut
-* 👥 4 porcje
+* 🕒  czas gotowania makaronu: 12 minut
+* 🕒  czas gotowania brokułów: 7 minut
+* 👥 około 1330 g dania
 * 🔗 https://aniagotuje.pl/przepis/makaron-z-brokulami[link do źródła przepisu]
 
 [.recipe-columns]

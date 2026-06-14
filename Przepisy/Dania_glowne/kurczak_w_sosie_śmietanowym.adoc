@@ -13,9 +13,8 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
-* 👥 4 porcje
+* 🕒 czas przygotowania: 1 godzina 20 minut
+* 👥 1500 g dania
 * 🔗 https://aniagotuje.pl/przepis/kurczak-w-sosie-smietanowym[link do źródła przepisu]
 
 [.recipe-columns]

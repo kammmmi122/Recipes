@@ -1,4 +1,4 @@
-= Falafel, humus i świeże warzywa 🌱
+= Falafel, humus 🌱
 :imagesdir: /Recipes/static/images
 
 ++++
@@ -13,7 +13,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
+* 🕒 czas przygotowania: noc namaczania + 30 minut
 * 👥 4 porcje
 * 🔗 https://www.jadlonomia.com/przepisy/falafel-idealny[link do źródła przepisu]
 

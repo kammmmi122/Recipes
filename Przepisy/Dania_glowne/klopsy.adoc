@@ -13,12 +13,13 @@ image::20240822_190210.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 50 minut
-* 🕒 czas gotowania: 50 minut
 * 👥 2 porcje
 * 🔗 Przepis własny
 
 [.recipe-columns]
 == Składniki
+
+=== Klopsy:
 
 * 400 g mięsa mielonego wieprzowego
 * 1 jajko
@@ -26,6 +27,9 @@ image::20240822_190210.jpg[]
 * 1 mała cebula
 * pieprz i sól
 * olej do smażenia
+
+=== Puree:
+
 * 0,5 kg ziemniaków
 * łyżka masła
 * pieprz i sól

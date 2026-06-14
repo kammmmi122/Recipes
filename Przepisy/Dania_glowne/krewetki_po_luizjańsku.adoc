@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
-* 👥 3 porcje
+* 👥 2 - 3 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/krewetki-w-sosie-po-luizjansku[link do źródła przepisu]
 
 [.recipe-columns]

@@ -14,12 +14,12 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://policzona-szama.pl/blogs/przepisy/domowy-kebab[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+=== Bułka:
 
 * mąka pszenna typ 650 - 500 g
 * ciepła woda - 190 ml
@@ -29,15 +29,18 @@ Brak zdjęcia przepisu 🍲
 * drożdże świeże - 25 g / drożdże suche - 7-8 g
 * żółtko do posmarowania ciasta
 * sezam do posypania ciasta
+=== Dwie porcje mięsa do kebaba:
 * mięso z piersi indyka - 100 g
 * mięso z uda kurczaka - 50 g (po usunięciu tłuszczu)
 * oliwa - 5 ml
 * przyprawa do kurczaka "Złocisty Kurczak" - 3 g,
 * przyprawa Garam Masala - 3 g
+=== Pięć porcji sosu do kebaba:
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
 * majonez - 50 g
 * czosnek - 1-2 ząbki
+=== Świeże dodatki według uznania:
 * sałata lodowa
 * kapusta czerwona
 * pomidor malinowy
@@ -71,6 +74,7 @@ Odczekaj, aż bułka ostygnie po wyjęciu z piekarnika, zanim zaczniesz ją kroi
 
 Pokrój ją na ćwiartki (jeżeli przygotowujesz mniej niż cztery porcje, pozostałe bułki możesz zamrozić).
 
+=== Mięso:
 Mięso z indyka oraz mięso z kurczaka pokrój na niewielkie paski.
 
 Mięso przełóż do miski, wlej oliwę oraz dodaj przyprawy.
@@ -79,12 +83,15 @@ Dobrze wymieszaj mięso z przyprawami, aby powstała marynata. Pozostaw, aby nab
 
 Mięso przesmaż przy użyciu ceramicznej patelni grillowej bezpośrednio przed składaniem kebaba. Wrzuć mięso na dobrze rozgrzaną patelnię (bez dodatku tłuszczu) i smaż przez 2-3 minuty z każdej strony.
 
+=== Sos:
 Do miseczki dodaj jogurt Skyr, rzadki jogurt naturalny oraz majonez. Wymieszaj.
 
 Przeciśnij przez praskę czosnek i dodaj do sosu.
 
+=== Świeże dodatki:
 Na koniec pokrój świeże warzywa w ilości według uznania.
 
+=== Całość:
 Przekrój bułkę w poprzek, aby powstała kieszonka.
 
 Środek bułki wysmaruj sosem.

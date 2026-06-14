@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
-* 🕒 czas gotowania: 20 minut
 * 👥 2 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/salatka-meksykanska-z-mango-i-awokado[link do źródła przepisu]
 

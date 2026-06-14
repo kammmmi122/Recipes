@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
-* 👥 4 porcje
+* 👥 16 gołąbków
 * 🔗 https://madameedith.com/przepis/golabki-bez-zawijania-wegetarianskie/[link do źródła przepisu]
 
 [.recipe-columns]
@@ -32,6 +31,9 @@ Brak zdjęcia przepisu 🍲
 * 250 g boczniaków
 * 1-2 małe jajka
 * przyprawy: sól, pieprz, majeranek, słodka i ostra papryka (u mnie po ok. 1 łyżeczki każdej)
+
+=== Sos
+
 * 400 ml bulionu warzywnego lub rosołu
 * 1 łyżka masła
 * 1 cebula

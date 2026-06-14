@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
-* 🕒 czas gotowania: 30 minut
-* 👥 4 porcje
+* 👥 2 - 4 porcje
 * 🔗 https://www.kwestiasmaku.com/zielony_srodek/grzyby/sos_grzybowy/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]

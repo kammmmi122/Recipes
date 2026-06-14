@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
-* 🕒 czas gotowania: 35 minut
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/zupa-fasolkowa[link do źródła przepisu]
 

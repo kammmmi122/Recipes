@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://rafalcook.com/2022/06/11/pesto-alla-trapanese[link do źródła przepisu]
 

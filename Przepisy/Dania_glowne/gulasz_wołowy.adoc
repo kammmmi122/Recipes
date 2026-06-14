@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
-* 🕒 czas gotowania: 3 godziny
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/gulasz-wolowy[link do źródła przepisu]
 

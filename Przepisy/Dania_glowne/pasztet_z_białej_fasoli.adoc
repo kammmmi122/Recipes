@@ -14,8 +14,8 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 40 minut
-* 🕒 czas gotowania: 40 minut
-* 👥 4 porcje
+* 🕒 czas pieczenia: 40 minut
+* 👥 10 porcji
 * 🔗 https://www.jadlonomia.com/przepisy/idealny-pasztet-z-bialej-fasoli/[link do źródła przepisu]
 
 [.recipe-columns]

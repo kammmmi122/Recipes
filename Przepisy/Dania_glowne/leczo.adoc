@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://www.kwestiasmaku.com/przepis/leczo[link do źródła przepisu]
 

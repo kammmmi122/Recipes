@@ -13,8 +13,7 @@
 Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
+* 🕒 czas przygotowania: 1 godzina 45 minut
 * 👥 4 porcje
 * 🔗 https://www.winiary.pl/przepisy/ziemniaki-faszerowane-serem-szynka-lub-boczkiem-z-sosem-czosnkowym[link do źródła przepisu]
 

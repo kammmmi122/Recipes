@@ -13,12 +13,13 @@ image::20240820_080313.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
-* 🕒 czas gotowania: 2 godziny
-* 👥 4 porcje
+* 👥 20 porcji
 * 🔗 https://ilovebake.pl/przepis/ciasto-drozdzowe-ze-sliwkami[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
+
+=== Składniki na ciasto drożdżowe:
 
 * 4 szklanki mąki tortowej
 * 25 g suchych lub 50 g drożdży świeżych
@@ -27,9 +28,15 @@ image::20240820_080313.jpg[]
 * 200 g masła lub margaryny
 * 4 jajka
 * ⅓ szklanki oleju
+
+=== Składniki na kruszonkę:
+
 * 150 g mąki tortowej
 * 50 g cukru
 * 125 g masła lub margaryny, zimnej
+
+=== Dodatkowo:
+
 * ok. 1 kg śliwek najlepiej węgierek
 
 == Przygotowanie

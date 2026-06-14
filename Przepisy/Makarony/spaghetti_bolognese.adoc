@@ -13,7 +13,6 @@ image::20260506_195759.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
-* 🕒 czas gotowania: 35 minut
 * 👥 4 porcje
 * 🔗 Przepis własny
 
@@ -30,6 +29,7 @@ image::20260506_195759.jpg[]
 * 1 łyzeczka oregano
 * pieprz
 * sól
+* makaron spaghetti (75 g / porcję)
 * tarty parmezan
 
 == Przygotowanie

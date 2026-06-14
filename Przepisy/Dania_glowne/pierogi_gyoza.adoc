@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://miss-gaijin.pl/gyoza-najlepszy-przepis-na-japonskie-pierozki[link do źródła przepisu]
 
@@ -24,9 +23,17 @@ Brak zdjęcia przepisu 🍲
 * ¼ szklanki wody
 * 1 łyżka oleju roślinnego
 * 1 łyżka oleju sezamowego
+
+=== Ciasto:
+
 * 240 g mąki uniwersalnej
 * ½ łyżeczki soli
 * 120 ml wody
+
+Lub gotowe ciasto na gyozę ze sklepu
+
+=== Farsz:
+
 * 280 g zmielonego mięsa
 * 2-3 duże liście białej kapusty (ok 120g)
 * 15 g zielonej cebulki
@@ -37,6 +44,9 @@ Brak zdjęcia przepisu 🍲
 * 1 łyżka sosu sojowego
 * 1 łyżeczka soli
 * Świeżo zmielony pieprz
+
+=== Sos:
+
 * 2 łyżki octu ryżowego
 * 2 łyżki sosu sojowego
 * 2-3 krople oleju chili - la-yu

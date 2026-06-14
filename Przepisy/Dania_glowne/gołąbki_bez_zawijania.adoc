@@ -14,8 +14,7 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
-* 🕒 czas gotowania: 1 godzina
-* 👥 4 porcje
+* 👥 około 21 gołąbków z sosem
 * 🔗 https://aniagotuje.pl/przepis/golabki-bez-zawijania[link do źródła przepisu]
 
 [.recipe-columns]

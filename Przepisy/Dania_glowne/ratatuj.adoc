@@ -14,7 +14,6 @@ Brak zdjęcia przepisu 🍲
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
-* 🕒 czas gotowania: 45 minut
 * 👥 4 porcje
 * 🔗 https://przepisyjoli.com/2017/08/ratatuj[link do źródła przepisu]
 
@@ -27,6 +26,9 @@ Brak zdjęcia przepisu 🍲
 * 1 duża cebula
 * 1 ząbek czosnku
 * 3 łyżki oleju z ryżu o smaku czosnku SoRiso
+
+=== Sos:
+
 * 500 ml passaty pomidorowej
 * 2 łyżki oleju z ryżu o smaku czosnku SoRiso
 * po ½ łyżeczki soli, pieprzu, słodkiej papryki, bazylii, oregano

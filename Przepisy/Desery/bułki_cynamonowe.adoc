@@ -12,8 +12,9 @@
 image::20240823_130756.jpg[]
 
 [.recipe-details]
-* 🕒 czas przygotowania: 1 godzina
-* 👥 4 porcje
+* 🕒 czas przygotowania: 1 godzina 30 minut
+* 🕒 czas pieczenia: 20 minut
+* 👥 24 bułeczki
 * 🔗 https://aniagotuje.pl/przepis/buleczki-cynamonowe[link do źródła przepisu]
 
 [.recipe-columns]
@@ -28,6 +29,8 @@ image::20240823_130756.jpg[]
 * 3 żółtka jajek dużych lub średnich
 * 80 g masła - trochę mniej niż pół kostki
 * 6 łyżek cukru - około 90 g
+
+=== Nadzienie
 * 60 g miękkiego masła
 * 4 płaskie łyżki cynamonu
 * 8 płaskie łyżki cukru
