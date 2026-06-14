@@ -20,7 +20,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-* Składniki na curry:
+=== Składniki na curry:
 * 1 cebula, pokrojona w kostkę
 * 2 łyżeczki tartego imbiru
 * 1 czubata łyżeczka mielonego kuminu
@@ -36,7 +36,8 @@ Brak zdjęcia przepisu 🍲
 * 1 puszka krojonych pomidorów
 * 1 ½ - 2 szklanki wody
 * sól
-* Składniki na ryż:
+
+=== Składniki na ryż:
 * 2 szklanki ryżu
 * 3 szklanki wody
 * laska cynamonu
