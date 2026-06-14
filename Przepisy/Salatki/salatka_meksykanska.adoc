@@ -1,4 +1,4 @@
-= Sałatka meksykańska 🌱
+= Sałatka meksykańska 🐟
 :imagesdir: /Recipes/static/images
 
 ++++
