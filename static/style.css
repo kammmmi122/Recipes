@@ -308,28 +308,21 @@ body {
   width: 100%;
 }
 
-/* Styl nagłówków dla Składników i Przygotowania */
-.recipe-container h2,
-.recipe-container + .sect1 h2 {
-  border-bottom: var(--border-subtle);
-  padding-bottom: 8px;
-  margin-top: 0;
-  margin-bottom: 20px;
+/* Uniwersalna reguła dla nagłówków sekcji (Składniki, Przygotowanie, Zdjęcia) */
+#content h2, 
+#content .sect1 h2,
+#content .recipe-gallery h2,
+#content [class*="recipe-gallery"] h2 {
+  font-family: Inter, system-ui, sans-serif !important;
   font-size: 1.6rem !important;
-  color: var(--text-main);
-}
-
-/* Specjalny, bezpieczny styl nagłówka dla sekcji "Zdjęcia" */
-.recipe-gallery h2,
-.recipe-gallery.sect1 h2,
-[class*="recipe-gallery"] h2 {
-  font-size: 1.6rem !important;
-  border-bottom: var(--border-subtle) !important;
+  font-weight: 600 !important;
+  color: #ba3925 !important; /* Przywrócenie Twojego oryginalnego koloru nagłówków */
+  border-bottom: 1px solid rgb(15 23 42 / 6%) !important;
   padding-bottom: 8px !important;
   margin-top: 32px !important;
   margin-bottom: 20px !important;
-  color: var(--text-main) !important;
   text-align: left !important;
+  letter-spacing: normal !important;
 }
 
 /* Podsekcje składników (===) */
@@ -390,7 +383,6 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
-  /* Przepis zachowuje naturalny, pionowy układ (full-width) */
   .recipe-container,
   .recipe-container + .sect1,
   .recipe-gallery {
