@@ -306,8 +306,10 @@ body {
   border-radius: 14px;
 }
 
-/* Style nagłówków H2 wewnątrz dwukolumnowego układu przepisów [.recipe-columns] */
-.recipe-columns h2 {
+/* Style nagłówków sekcji wewnątrz dwukolumnowego układu przepisów [.recipe-columns] */
+.recipe-columns h2,
+.recipe-columns .sect1 h2,
+.recipe-columns h3 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
