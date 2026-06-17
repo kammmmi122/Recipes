@@ -54,7 +54,7 @@ body {
 }
 
 .switch input {
-  opacity: 0;
+  opacity: 0%;
   width: 0;
   height: 0;
 }
@@ -322,14 +322,14 @@ body {
 /* Podsekcje składników (dawne h3) */
 .recipe-container .sect2 h3 {
   font-size: 1.15rem;
-  margin: 20px 0 10px 0;
+  margin: 20px 0 10px;
   color: var(--text-main);
 }
 
 /* Listy składników i kroki */
 .recipe-container .ulist ul {
   padding-left: 20px;
-  margin: 0 0 24px 0;
+  margin: 0 0 24px;
 }
 
 .recipe-container .ulist li {
@@ -382,8 +382,7 @@ body {
   #content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 4%;
-    row-gap: 40px;
+    gap: 40px 4%;
     align-items: start;
   }
 
