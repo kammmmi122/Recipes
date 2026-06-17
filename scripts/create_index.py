@@ -110,7 +110,7 @@ def create_index_adoc():
                     f'{category_label}'
                     f'{image_html}'
                     f'<div class="card-content">'
-                    f'<h3 class="card-title">{html.escape(title)}'
+                    f'<h3 class="card-title">{html.escape(title)} '
                     f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>'
                     f'</div>'
                     f'</a>'
