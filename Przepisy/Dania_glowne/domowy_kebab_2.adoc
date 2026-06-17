@@ -20,7 +20,6 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 === Bułka:
-
 * mąka pszenna typ 650 - 500 g
 * ciepła woda - 190 ml
 * jogurt naturalny - 100 g
@@ -29,17 +28,20 @@ Brak zdjęcia przepisu 🍲
 * drożdże świeże - 25 g / drożdże suche - 7-8 g
 * żółtko do posmarowania ciasta
 * sezam do posypania ciasta
+
 === Dwie porcje mięsa do kebaba:
 * mięso z piersi indyka - 100 g
 * mięso z uda kurczaka - 50 g (po usunięciu tłuszczu)
 * oliwa - 5 ml
 * przyprawa do kurczaka "Złocisty Kurczak" - 3 g,
 * przyprawa Garam Masala - 3 g
+
 === Pięć porcji sosu do kebaba:
 * jogurt Skyr - 150 g
 * jogurt naturalny rzadki - 100 g
 * majonez - 50 g
 * czosnek - 1-2 ząbki
+
 === Świeże dodatki według uznania:
 * sałata lodowa
 * kapusta czerwona
