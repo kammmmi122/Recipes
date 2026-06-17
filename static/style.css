@@ -294,21 +294,19 @@ body {
   text-decoration: none;
 }
 
-/* Kontener strukturujący sekcje główne */
-.recipe-container {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  margin-top: 32px;
-}
-
+/* Wymuszenie równego, liniowego układu dla sekcji przepisów */
 .recipe-container.sect1,
 .recipe-container + .sect1,
-.recipe-gallery.sect1 {
-  width: 100%;
+.recipe-gallery.sect1,
+#content .sect1 {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+  clear: both !important;
+  display: block !important;
 }
 
-/* Uniwersalna reguła dla nagłówków sekcji (Składniki, Przygotowanie, Zdjęcia) */
+/* Uniwersalna reguła dla głównych nagłówków H2 (Składniki, Przygotowanie, Zdjęcia) */
 #content h2, 
 #content .sect1 h2,
 #content .recipe-gallery h2,
@@ -316,20 +314,29 @@ body {
   font-family: Inter, system-ui, sans-serif !important;
   font-size: 1.6rem !important;
   font-weight: 600 !important;
-  color: #ba3925 !important; /* Przywrócenie Twojego oryginalnego koloru nagłówków */
+  color: #ba3925 !important;
   border-bottom: 1px solid rgb(15 23 42 / 6%) !important;
   padding-bottom: 8px !important;
   margin-top: 32px !important;
   margin-bottom: 20px !important;
   text-align: left !important;
   letter-spacing: normal !important;
+  display: block !important;
+  width: 100% !important;
 }
 
-/* Podsekcje składników (===) */
+/* POPRAWIONO: Podsekcje składników (=== w Asciidoctor generowane jako h3) */
+#content h3,
+#content .sect2 h3,
 .recipe-container .sect2 h3 {
-  font-size: 1.15rem;
-  margin: 20px 0 10px;
-  color: var(--text-main);
+  font-family: Inter, system-ui, sans-serif !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+  color: var(--text-main) !important; /* Ciemny czytelny kolor, odróżniający się od H2 */
+  margin: 24px 0 12px 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  text-align: left !important;
 }
 
 /* Listy składników i kroki */
