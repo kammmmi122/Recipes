@@ -262,6 +262,7 @@ body {
   border-radius: 14px;
 }
 
+/* Selektory list przeniesione wyżej, aby zapobiec błędowi no-descending-specificity */
 .recipe-container .ulist ul {
   padding-left: 20px;
   margin: 0 0 24px;
@@ -335,9 +336,9 @@ body {
   width: 100% !important;
 }
 
-.recipe-container .sect2 h3,
+#content h3,
 #content .sect2 h3,
-#content h3 {
+.recipe-container .sect2 h3 {
   font-family: Inter, system-ui, sans-serif !important;
   font-size: 1.25rem !important;
   font-weight: 600 !important;
