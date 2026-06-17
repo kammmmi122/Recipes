@@ -308,9 +308,9 @@ body {
   width: 100%;
 }
 
+/* Styl nagłówków dla Składników i Przygotowania */
 .recipe-container h2,
-.recipe-container + .sect1 h2,
-.recipe-gallery > h2 {
+.recipe-container + .sect1 h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
@@ -319,7 +319,20 @@ body {
   color: var(--text-main);
 }
 
-/* Podsekcje składników (dawne h3) */
+/* Specjalny, bezpieczny styl nagłówka dla sekcji "Zdjęcia" */
+.recipe-gallery h2,
+.recipe-gallery.sect1 h2,
+[class*="recipe-gallery"] h2 {
+  font-size: 1.6rem !important;
+  border-bottom: var(--border-subtle) !important;
+  padding-bottom: 8px !important;
+  margin-top: 32px !important;
+  margin-bottom: 20px !important;
+  color: var(--text-main) !important;
+  text-align: left !important;
+}
+
+/* Podsekcje składników (===) */
 .recipe-container .sect2 h3 {
   font-size: 1.15rem;
   margin: 20px 0 10px;
@@ -346,8 +359,6 @@ body {
 .recipe-gallery {
   clear: both;
   margin-top: 48px;
-  border-top: var(--border-subtle);
-  padding-top: 24px;
 }
 
 .gallery-grid {
@@ -379,7 +390,7 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
-  /* Usunięto grid dzielący stronę na kolumny. Układ jest teraz liniowy (full-width) */
+  /* Przepis zachowuje naturalny, pionowy układ (full-width) */
   .recipe-container,
   .recipe-container + .sect1,
   .recipe-gallery {
