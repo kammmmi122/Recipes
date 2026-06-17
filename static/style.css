@@ -96,20 +96,23 @@ body {
 #content > h1 {
   display: flex !important;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center; /* Zmieniono z flex-start na center dla centrowania tytułu */
+  text-align: center;
   gap: 16px;
   font-size: 2.2rem;
-  margin: 24px 0 16px;
+  margin: 24px auto 16px;
+  max-width: max-content;
 }
 
 #header > h1 .switch,
 #content > h1 .switch {
-  margin-left: auto;
+  margin-left: 0 !important; /* Reset marginesu, aby przełącznik nie krzywił środka */
 }
 
 #header .details {
   color: var(--muted);
   font-size: 0.95rem;
+  text-align: center; /* Wyśrodkowanie podtekstu nagłówka */
 }
 
 .back-to-home-btn {
@@ -310,7 +313,8 @@ body {
   border-radius: 14px;
 }
 
-.recipe-column-box h2 {
+/* Style nagłówków H2 wewnątrz dwukolumnowego układu przepisów [.recipe-columns] */
+.recipe-columns h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
@@ -319,12 +323,22 @@ body {
   color: var(--text-main);
 }
 
-/* Uporządkowane selektory list (najpierw ogólne .recipe-ingredients, potem szczegółowe .recipe-details) */
-.recipe-ingredients .ulist ul {
+/* Listy wewnątrz kolumn przepisu (np. Składniki) */
+.recipe-columns .ulist ul {
   padding-left: 20px;
   margin: 0;
 }
 
+.recipe-columns .ulist li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+/* Stare selektory zachowane dla kompatybilności wstecznej */
+.recipe-ingredients .ulist ul {
+  padding-left: 20px;
+  margin: 0;
+}
 .recipe-ingredients .ulist li {
   margin-bottom: 8px;
   line-height: 1.5;
@@ -410,6 +424,18 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
+  /* Obsługa dwukolumnowego układu generowanego przez [.recipe-columns] */
+  .recipe-columns .sect1 {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .recipe-columns .sect1:first-of-type {
+    margin-right: 4%;
+  }
+
+  /* Stare klasy */
   .recipe-ingredients,
   .recipe-preparation {
     width: 48%;
@@ -426,14 +452,16 @@ body {
   #header > h1,
   #content > h1 {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center; /* Zmienione na center dla zachowania spójności na telefonach */
     gap: 12px;
     font-size: 1.8rem;
   }
 
-  #header > h1 .switch,
-  #content > h1 .switch {
-    margin-left: 0;
+  .recipe-columns .sect1 {
+    width: 100% !important;
+    display: block !important;
+    margin-right: 0 !important;
+    margin-bottom: 32px;
   }
 
   .recipe-ingredients,
