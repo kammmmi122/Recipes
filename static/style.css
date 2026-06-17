@@ -172,6 +172,14 @@ body {
   border-color: rgb(0 0 0 / 6%);
 }
 
+.card-main-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .card-category-label {
   position: absolute;
   top: 0;
@@ -282,7 +290,7 @@ body {
   text-decoration: none;
 }
 
-/* Kontener strukturujący dla Składników i Przygotowania */
+/* Kontener strukturyzujący sekcje główne */
 .recipe-container {
   display: flex;
   flex-direction: column;
@@ -291,17 +299,26 @@ body {
 }
 
 .recipe-container.sect1,
-.recipe-container + .sect1 {
+.recipe-container + .sect1,
+.recipe-gallery.sect1 {
   width: 100%;
 }
 
 .recipe-container h2,
-.recipe-container + .sect1 h2 {
+.recipe-container + .sect1 h2,
+.recipe-gallery > h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 1.6rem;
+  color: var(--text-main);
+}
+
+/* Podsekcje składników (dawne h3) */
+.recipe-container .sect2 h3 {
+  font-size: 1.15rem;
+  margin: 20px 0 10px 0;
   color: var(--text-main);
 }
 
@@ -316,7 +333,7 @@ body {
   line-height: 1.5;
 }
 
-.recipe-container .paragraph {
+.recipe-container + .sect1 .paragraph {
   margin-bottom: 16px;
   line-height: 1.6;
 }
@@ -329,15 +346,10 @@ body {
   padding-top: 24px;
 }
 
-.recipe-gallery > h2 {
-  font-size: 1.6rem;
-  margin-bottom: 20px;
-}
-
 .gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
 }
 
 .gallery-grid .imageblock {
@@ -346,13 +358,10 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  max-width: 600px;
   height: auto;
   object-fit: cover;
-  object-position: center;
   border-radius: var(--radius);
   display: block;
-  margin: 0 auto;
   box-shadow: var(--shadow-soft);
   transition: transform 0.2s ease;
 }
@@ -367,25 +376,36 @@ body {
 
 @media (width >= 901px) {
   #content {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Aktywacja dwukolumnowego układu na desktopie dla Składników i Przygotowania */
-  .recipe-container {
-    display: grid !important;
+    display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 4%;
+    column-gap: 4%;
+    row-gap: 40px;
     align-items: start;
   }
 
-  .recipe-container.sect1, 
-  .recipe-container + .sect1 {
-    width: 100% !important;
-    display: block !important;
+  /* Wymuszamy pełną szerokość dla nagłówka i metadanych */
+  #content > h1,
+  .recipe-header-actions,
+  .recipe-hero,
+  .recipe-details {
+    grid-column: span 2;
   }
 
+  /* Blok składników ląduje w lewej kolumnie */
+  .recipe-container {
+    grid-column: 1;
+    margin-top: 0;
+  }
+
+  /* Blok przygotowania ląduje w prawej kolumnie */
   .recipe-container + .sect1 {
+    grid-column: 2;
+    margin-top: 0;
+  }
+
+  /* Galeria zdjęć ląduje w lewej kolumnie - ma dokładnie szerokość składników */
+  .recipe-gallery {
+    grid-column: 1;
     margin-top: 0;
   }
 }
