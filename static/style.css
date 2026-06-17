@@ -44,7 +44,7 @@ body {
   padding: 0 16px;
 }
 
-/* Toggle switch */
+/* Przełącznik (Toggle switch) */
 .switch {
   position: relative;
   display: inline-block;
@@ -89,22 +89,18 @@ body {
 }
 
 /* ==========================================================================
-   PAGE HEADER (DOCUMENT TITLE, SWITCH & BACK BUTTON)
+   PAGE HEADER & NAVIGATION
    ========================================================================== */
 
 #header > h1,
 #content > h1 {
   display: flex !important;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
+  text-align: center;
   gap: 16px;
   font-size: 2.2rem;
   margin: 24px 0 16px;
-}
-
-#header > h1 .switch,
-#content > h1 .switch {
-  margin-left: auto;
 }
 
 #header .details {
@@ -142,50 +138,8 @@ body {
 }
 
 /* ==========================================================================
-   FILTERS & CARDS (MAIN PAGE)
+   CARDS GRID (MAIN PAGE)
    ========================================================================== */
-
-.filters-wrapper {
-  margin: 16px 0 24px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
-}
-
-.filters-label {
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: var(--muted);
-}
-
-.filters-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.filter-pill {
-  border-radius: 999px;
-  border: var(--border-subtle);
-  padding: 6px 12px;
-  font-size: 0.9rem;
-  background: #fff;
-  color: var(--muted);
-  cursor: pointer;
-  transition:
-    background 0.15s ease,
-    color 0.15s ease,
-    box-shadow 0.15s ease,
-    border-color 0.15s ease;
-}
-
-.filter-pill.active {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
-  box-shadow: 0 6px 18px rgb(0 122 204 / 25%);
-}
 
 .cards-wrapper {
   margin: 24px 0 40px;
@@ -216,6 +170,18 @@ body {
   transform: translateY(-3px);
   box-shadow: 0 16px 40px rgb(15 23 42 / 12%);
   border-color: rgb(0 0 0 / 6%);
+}
+
+.card-main-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-main-link * {
+  text-decoration: none !important;
 }
 
 .card-category-label {
@@ -261,23 +227,8 @@ body {
   margin: 0;
 }
 
-.card-link {
-  margin-top: 4px;
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: var(--accent);
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.card-link:hover {
-  text-decoration: underline;
-}
-
 /* ==========================================================================
-   RECIPE PAGE LAYOUT (ASSETS & GRIDS)
+   RECIPE PAGE CONTENT
    ========================================================================== */
 
 .recipe-header-actions {
@@ -287,6 +238,7 @@ body {
   margin-bottom: 20px;
 }
 
+/* Hero Image / Placeholder */
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
@@ -310,26 +262,18 @@ body {
   border-radius: 14px;
 }
 
-.recipe-column-box h2 {
-  border-bottom: var(--border-subtle);
-  padding-bottom: 8px;
-  margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 1.6rem;
-  color: var(--text-main);
-}
-
-/* Uporządkowane selektory list (najpierw ogólne .recipe-ingredients, potem szczegółowe .recipe-details) */
-.recipe-ingredients .ulist ul {
+/* Selektory list przeniesione wyżej, aby zapobiec błędowi no-descending-specificity */
+.recipe-container .ulist ul {
   padding-left: 20px;
-  margin: 0;
+  margin: 0 0 24px;
 }
 
-.recipe-ingredients .ulist li {
+.recipe-container .ulist li {
   margin-bottom: 8px;
   line-height: 1.5;
 }
 
+/* Metadane (Czas, porcje, linki) */
 .recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -361,27 +305,65 @@ body {
   text-decoration: none;
 }
 
-.recipe-preparation .paragraph {
+/* Wymuszenie równego, liniowego układu dla sekcji przepisów */
+.recipe-container.sect1,
+.recipe-container + .sect1,
+.recipe-gallery.sect1,
+#content .sect1 {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+  clear: both !important;
+  display: block !important;
+}
+
+/* Uniwersalna reguła dla głównych nagłówków H2 (Składniki, Przygotowanie, Zdjęcia) */
+#content h2, 
+#content .sect1 h2,
+#content .recipe-gallery h2,
+#content [class*="recipe-gallery"] h2 {
+  font-family: Inter, system-ui, sans-serif !important;
+  font-size: 1.6rem !important;
+  font-weight: 600 !important;
+  color: #ba3925 !important;
+  border-bottom: 1px solid rgb(15 23 42 / 6%) !important;
+  padding-bottom: 8px !important;
+  margin-top: 32px !important;
+  margin-bottom: 20px !important;
+  text-align: left !important;
+  letter-spacing: normal !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+#content h3,
+#content .sect2 h3,
+.recipe-container .sect2 h3 {
+  font-family: Inter, system-ui, sans-serif !important;
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: #ba3925 !important;
+  margin: 28px 0 12px !important;
+  border: none !important;
+  padding: 0 !important;
+  text-align: left !important;
+}
+
+.recipe-container + .sect1 .paragraph {
   margin-bottom: 16px;
   line-height: 1.6;
 }
 
+/* Galeria zdjęć */
 .recipe-gallery {
   clear: both;
   margin-top: 48px;
-  border-top: var(--border-subtle);
-  padding-top: 24px;
-}
-
-.recipe-gallery > h2 {
-  font-size: 1.6rem;
-  margin-bottom: 20px;
 }
 
 .gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
 }
 
 .gallery-grid .imageblock {
@@ -390,13 +372,10 @@ body {
 
 .gallery-grid img {
   width: 100%;
-  max-width: 600px;
-  aspect-ratio: auto;
+  height: auto;
   object-fit: cover;
-  object-position: center;
   border-radius: var(--radius);
   display: block;
-  margin: 0 auto;
   box-shadow: var(--shadow-soft);
   transition: transform 0.2s ease;
 }
@@ -410,15 +389,10 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
-  .recipe-ingredients,
-  .recipe-preparation {
-    width: 48%;
-    display: inline-block;
-    vertical-align: top;
-  }
-
-  .recipe-ingredients {
-    margin-right: 4%;
+  .recipe-container,
+  .recipe-container + .sect1,
+  .recipe-gallery {
+    margin-top: 40px;
   }
 }
 
@@ -426,22 +400,13 @@ body {
   #header > h1,
   #content > h1 {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 12px;
     font-size: 1.8rem;
   }
 
-  #header > h1 .switch,
-  #content > h1 .switch {
-    margin-left: 0;
-  }
-
-  .recipe-ingredients,
-  .recipe-preparation {
-    width: 100% !important;
-    display: block !important;
-    margin-right: 0 !important;
-    margin-bottom: 32px;
+  .recipe-container {
+    gap: 32px;
   }
 
   .recipe-details.ulist ul {
