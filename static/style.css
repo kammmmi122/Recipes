@@ -325,15 +325,15 @@ body {
   width: 100% !important;
 }
 
-/* POPRAWIONO: Podsekcje składników (=== w Asciidoctor generowane jako h3) */
+/* Podsekcje składników (=== w Asciidoctor generowane jako h3) - teraz w rdzawym kolorze */
 #content h3,
 #content .sect2 h3,
 .recipe-container .sect2 h3 {
   font-family: Inter, system-ui, sans-serif !important;
-  font-size: 1.15rem !important;
+  font-size: 1.25rem !important; /* Odrobinę większe, by rdzawy kolor dobrze wyglądał */
   font-weight: 600 !important;
-  color: var(--text-main) !important; /* Ciemny czytelny kolor, odróżniający się od H2 */
-  margin: 24px 0 12px 0 !important;
+  color: #ba3925 !important; /* Przywrócony rdzawy kolor dla H3 */
+  margin: 28px 0 12px 0 !important;
   border: none !important;
   padding: 0 !important;
   text-align: left !important;
