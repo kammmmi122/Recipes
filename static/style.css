@@ -264,19 +264,12 @@ body {
   margin: 0;
 }
 
-.card-link {
-  margin-top: 4px;
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: var(--accent);
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.card-link:hover {
-  text-decoration: underline;
+.card-main-link {
+    text-decoration: none;
+    color: inherit; /* Sprawia, że tekst dziedziczy kolory po rodzicu */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 /* ==========================================================================
