@@ -9,8 +9,7 @@
 ++++
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260616_235513.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -41,4 +40,4 @@ Piec 20 minut w 180 stopniach C.
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+image::20260616_235513.jpg[]
