@@ -96,7 +96,7 @@ body {
 #content > h1 {
   display: flex !important;
   align-items: center;
-  justify-content: center; /* Zmieniono z flex-start na center dla centrowania tytułu */
+  justify-content: flex-center;
   text-align: center;
   gap: 16px;
   font-size: 2.2rem;
@@ -106,13 +106,12 @@ body {
 
 #header > h1 .switch,
 #content > h1 .switch {
-  margin-left: 0 !important; /* Reset marginesu, aby przełącznik nie krzywił środka */
+  margin-left: 0 !important;
 }
 
 #header .details {
   color: var(--muted);
   font-size: 0.95rem;
-  text-align: center; /* Wyśrodkowanie podtekstu nagłówka */
 }
 
 .back-to-home-btn {
@@ -264,14 +263,6 @@ body {
   margin: 0;
 }
 
-.card-main-link {
-    text-decoration: none;
-    color: inherit; /* Sprawia, że tekst dziedziczy kolory po rodzicu */
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-}
-
 /* ==========================================================================
    RECIPE PAGE LAYOUT (ASSETS & GRIDS)
    ========================================================================== */
@@ -306,10 +297,7 @@ body {
   border-radius: 14px;
 }
 
-/* Style nagłówków sekcji wewnątrz dwukolumnowego układu przepisów [.recipe-columns] */
-.recipe-columns h2,
-.recipe-columns .sect1 h2,
-.recipe-columns h3 {
+.recipe-column-box h2 {
   border-bottom: var(--border-subtle);
   padding-bottom: 8px;
   margin-top: 0;
@@ -318,22 +306,12 @@ body {
   color: var(--text-main);
 }
 
-/* Listy wewnątrz kolumn przepisu (np. Składniki) */
-.recipe-columns .ulist ul {
-  padding-left: 20px;
-  margin: 0;
-}
-
-.recipe-columns .ulist li {
-  margin-bottom: 8px;
-  line-height: 1.5;
-}
-
-/* Stare selektory zachowane dla kompatybilności wstecznej */
+/* Uporządkowane selektory list (najpierw ogólne .recipe-ingredients, potem szczegółowe .recipe-details) */
 .recipe-ingredients .ulist ul {
   padding-left: 20px;
   margin: 0;
 }
+
 .recipe-ingredients .ulist li {
   margin-bottom: 8px;
   line-height: 1.5;
@@ -419,18 +397,6 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
-  /* Obsługa dwukolumnowego układu generowanego przez [.recipe-columns] */
-  .recipe-columns .sect1 {
-    width: 48%;
-    display: inline-block;
-    vertical-align: top;
-  }
-
-  .recipe-columns .sect1:first-of-type {
-    margin-right: 4%;
-  }
-
-  /* Stare klasy */
   .recipe-ingredients,
   .recipe-preparation {
     width: 48%;
@@ -447,16 +413,14 @@ body {
   #header > h1,
   #content > h1 {
     flex-direction: column;
-    align-items: center; /* Zmienione na center dla zachowania spójności na telefonach */
+    align-items: center;
     gap: 12px;
     font-size: 1.8rem;
   }
 
-  .recipe-columns .sect1 {
-    width: 100% !important;
-    display: block !important;
-    margin-right: 0 !important;
-    margin-bottom: 32px;
+  #header > h1 .switch,
+  #content > h1 .switch {
+    margin-left: 0;
   }
 
   .recipe-ingredients,
