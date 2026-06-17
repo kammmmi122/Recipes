@@ -44,7 +44,7 @@ body {
   padding: 0 16px;
 }
 
-/* Toggle switch */
+/* Przełącznik (Toggle switch) */
 .switch {
   position: relative;
   display: inline-block;
@@ -54,7 +54,7 @@ body {
 }
 
 .switch input {
-  opacity: 0%;
+  opacity: 0;
   width: 0;
   height: 0;
 }
@@ -89,24 +89,18 @@ body {
 }
 
 /* ==========================================================================
-   PAGE HEADER (DOCUMENT TITLE, SWITCH & BACK BUTTON)
+   PAGE HEADER & NAVIGATION
    ========================================================================== */
 
 #header > h1,
 #content > h1 {
   display: flex !important;
   align-items: center;
-  justify-content: flex-center;
+  justify-content: center;
   text-align: center;
   gap: 16px;
   font-size: 2.2rem;
-  margin: 24px auto 16px;
-  max-width: max-content;
-}
-
-#header > h1 .switch,
-#content > h1 .switch {
-  margin-left: 0 !important;
+  margin: 24px 0 16px;
 }
 
 #header .details {
@@ -144,50 +138,8 @@ body {
 }
 
 /* ==========================================================================
-   FILTERS & CARDS (MAIN PAGE)
+   CARDS GRID (MAIN PAGE)
    ========================================================================== */
-
-.filters-wrapper {
-  margin: 16px 0 24px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
-}
-
-.filters-label {
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: var(--muted);
-}
-
-.filters-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.filter-pill {
-  border-radius: 999px;
-  border: var(--border-subtle);
-  padding: 6px 12px;
-  font-size: 0.9rem;
-  background: #fff;
-  color: var(--muted);
-  cursor: pointer;
-  transition:
-    background 0.15s ease,
-    color 0.15s ease,
-    box-shadow 0.15s ease,
-    border-color 0.15s ease;
-}
-
-.filter-pill.active {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
-  box-shadow: 0 6px 18px rgb(0 122 204 / 25%);
-}
 
 .cards-wrapper {
   margin: 24px 0 40px;
@@ -264,7 +216,7 @@ body {
 }
 
 /* ==========================================================================
-   RECIPE PAGE LAYOUT (ASSETS & GRIDS)
+   RECIPE PAGE CONTENT
    ========================================================================== */
 
 .recipe-header-actions {
@@ -274,6 +226,7 @@ body {
   margin-bottom: 20px;
 }
 
+/* Hero Image / Placeholder */
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
@@ -297,26 +250,7 @@ body {
   border-radius: 14px;
 }
 
-.recipe-column-box h2 {
-  border-bottom: var(--border-subtle);
-  padding-bottom: 8px;
-  margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 1.6rem;
-  color: var(--text-main);
-}
-
-/* Uporządkowane selektory list (najpierw ogólne .recipe-ingredients, potem szczegółowe .recipe-details) */
-.recipe-ingredients .ulist ul {
-  padding-left: 20px;
-  margin: 0;
-}
-
-.recipe-ingredients .ulist li {
-  margin-bottom: 8px;
-  line-height: 1.5;
-}
-
+/* Metadane (Czas, porcje, linki) */
 .recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -348,11 +282,46 @@ body {
   text-decoration: none;
 }
 
-.recipe-preparation .paragraph {
+/* Kontener strukturujący dla Składników i Przygotowania */
+.recipe-container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 32px;
+}
+
+.recipe-container.sect1,
+.recipe-container + .sect1 {
+  width: 100%;
+}
+
+.recipe-container h2,
+.recipe-container + .sect1 h2 {
+  border-bottom: var(--border-subtle);
+  padding-bottom: 8px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+  color: var(--text-main);
+}
+
+/* Listy składników i kroki */
+.recipe-container .ulist ul {
+  padding-left: 20px;
+  margin: 0 0 24px 0;
+}
+
+.recipe-container .ulist li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.recipe-container .paragraph {
   margin-bottom: 16px;
   line-height: 1.6;
 }
 
+/* Galeria zdjęć */
 .recipe-gallery {
   clear: both;
   margin-top: 48px;
@@ -378,7 +347,7 @@ body {
 .gallery-grid img {
   width: 100%;
   max-width: 600px;
-  aspect-ratio: auto;
+  height: auto;
   object-fit: cover;
   object-position: center;
   border-radius: var(--radius);
@@ -397,15 +366,27 @@ body {
    ========================================================================== */
 
 @media (width >= 901px) {
-  .recipe-ingredients,
-  .recipe-preparation {
-    width: 48%;
-    display: inline-block;
-    vertical-align: top;
+  #content {
+    display: flex;
+    flex-direction: column;
   }
 
-  .recipe-ingredients {
-    margin-right: 4%;
+  /* Aktywacja dwukolumnowego układu na desktopie dla Składników i Przygotowania */
+  .recipe-container {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 4%;
+    align-items: start;
+  }
+
+  .recipe-container.sect1, 
+  .recipe-container + .sect1 {
+    width: 100% !important;
+    display: block !important;
+  }
+
+  .recipe-container + .sect1 {
+    margin-top: 0;
   }
 }
 
@@ -418,17 +399,8 @@ body {
     font-size: 1.8rem;
   }
 
-  #header > h1 .switch,
-  #content > h1 .switch {
-    margin-left: 0;
-  }
-
-  .recipe-ingredients,
-  .recipe-preparation {
-    width: 100% !important;
-    display: block !important;
-    margin-right: 0 !important;
-    margin-bottom: 32px;
+  .recipe-container {
+    gap: 32px;
   }
 
   .recipe-details.ulist ul {
