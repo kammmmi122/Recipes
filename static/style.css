@@ -54,7 +54,7 @@ body {
 }
 
 .switch input {
-  opacity: 0;
+  opacity: 0%;
   width: 0;
   height: 0;
 }
@@ -262,6 +262,16 @@ body {
   border-radius: 14px;
 }
 
+.recipe-container .ulist ul {
+  padding-left: 20px;
+  margin: 0 0 24px;
+}
+
+.recipe-container .ulist li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
 /* Metadane (Czas, porcje, linki) */
 .recipe-details.ulist ul {
   display: flex !important;
@@ -325,29 +335,17 @@ body {
   width: 100% !important;
 }
 
-/* Podsekcje składników (=== w Asciidoctor generowane jako h3) - teraz w rdzawym kolorze */
-#content h3,
+.recipe-container .sect2 h3,
 #content .sect2 h3,
-.recipe-container .sect2 h3 {
+#content h3 {
   font-family: Inter, system-ui, sans-serif !important;
-  font-size: 1.25rem !important; /* Odrobinę większe, by rdzawy kolor dobrze wyglądał */
+  font-size: 1.25rem !important;
   font-weight: 600 !important;
-  color: #ba3925 !important; /* Przywrócony rdzawy kolor dla H3 */
-  margin: 28px 0 12px 0 !important;
+  color: #ba3925 !important;
+  margin: 28px 0 12px !important;
   border: none !important;
   padding: 0 !important;
   text-align: left !important;
-}
-
-/* Listy składników i kroki */
-.recipe-container .ulist ul {
-  padding-left: 20px;
-  margin: 0 0 24px;
-}
-
-.recipe-container .ulist li {
-  margin-bottom: 8px;
-  line-height: 1.5;
 }
 
 .recipe-container + .sect1 .paragraph {
