@@ -1,4 +1,4 @@
-= Grzyby marynowane 🌱
+= Grzyby marynowane 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

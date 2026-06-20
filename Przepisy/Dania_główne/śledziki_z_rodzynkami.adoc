@@ -1,4 +1,4 @@
-= Śledziki z rodzynkami 🐟
+= Śledziki z rodzynkami 🐟 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

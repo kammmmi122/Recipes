@@ -1,4 +1,4 @@
-= Zupa grzybowa 2 🌱
+= Zupa grzybowa 2 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

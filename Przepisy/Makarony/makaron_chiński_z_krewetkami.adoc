@@ -1,4 +1,4 @@
-= Makaron chiński z krewetkami 🦐
+= Makaron chiński z krewetkami 🦐 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

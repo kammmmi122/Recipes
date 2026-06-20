@@ -1,4 +1,4 @@
-= Bigos 🐖 🥩
+= Bigos 🐖 🥩 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

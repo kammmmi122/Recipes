@@ -1,4 +1,4 @@
-= Tonkotsu Ramen 🐖
+= Tonkotsu ramen 🐖
 :imagesdir: /Recipes/static/images
 
 ++++
@@ -32,10 +32,10 @@ Brak zdjęcia przepisu 🍲
 
 == Dodatki
 
-* chashu (plastry wieprzowiny)
-* marynowane shitake
-* kimchi tare (opcjonalnie)
-* curry tare
+* link:../Dania_główne/chashu_boczek.html[chashu (plastry wieprzowiny), opts=external]
+* link:../Przystawki/marynowane_shitake.html[marynowane shitake, opts=external]
+* link:../Przystawki/kimchi_tare.html[kimchi tare (opcjonalnie), opts=external]
+* link:../Przystawki/curry_tare.html[curry tare, opts=external]
 * cienki i prosty makaron, aby zbalansować ciężkość bulionu.
 
 == Przygotowanie

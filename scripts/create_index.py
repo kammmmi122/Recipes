@@ -2,14 +2,14 @@ import html
 import os
 import re
 
-symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
+symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥", "🍄‍🟫"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
 
 category_colors = {
-    "Dania glowne": "#ff6b6b",
+    "Dania główne": "#ff6b6b",
     "Makarony": "#ffa94d",
     "Zupy": "#4dabf7",
-    "Salatki": "#69db7c",
+    "Sałatki": "#69db7c",
     "Desery": "#f06595",
     "Przetwory": "#ffd43b",
 }

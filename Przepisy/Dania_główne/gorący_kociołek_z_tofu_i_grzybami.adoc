@@ -1,4 +1,4 @@
-= Gorący kociołek z tofu i grzybami 🐖
+= Gorący kociołek z tofu i grzybami 🐖 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

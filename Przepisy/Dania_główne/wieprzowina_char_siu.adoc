@@ -1,4 +1,4 @@
-= Wieprzowina Char Siu 🐖
+= Wieprzowina char siu 🐖
 :imagesdir: /Recipes/static/images
 
 ++++
