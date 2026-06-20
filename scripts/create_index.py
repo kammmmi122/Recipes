@@ -6,13 +6,14 @@ symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
 
 category_colors = {
-  "Dania glowne": "#ff6b6b",
-  "Makarony": "#ffa94d",
-  "Zupy": "#4dabf7",
-  "Salatki": "#69db7c",
-  "Desery": "#f06595",
-  "Przetwory": "#ffd43b",
-};
+    "Dania glowne": "#ff6b6b",
+    "Makarony": "#ffa94d",
+    "Zupy": "#4dabf7",
+    "Salatki": "#69db7c",
+    "Desery": "#f06595",
+    "Przetwory": "#ffd43b",
+}
+
 
 def in_path(path):
     in_path_var = False
@@ -40,11 +41,30 @@ def find_last_image(recipe_path):
 
     return None
 
+
 def get_value(char):
     if char in polish_alphabet_string:
         return polish_alphabet_string.index(char)
     else:
         return len(polish_alphabet_string)
+
+
+def extract_title_from_adoc(recipe_path, fallback_title):
+    """Wyciąga tytuł z nagłówka H1 (= Tytuł) i usuwa z niego symbole emoji."""
+    try:
+        with open(recipe_path, "r", encoding="utf8") as file:
+            for line in file:
+                # Szukamy linii zaczynającej się od '= '
+                if line.startswith("= "):
+                    raw_title = line.replace("= ", "").strip()
+                    # Usuwamy z tytułu zdefiniowane symbole emoji
+                    for symbol in symbols:
+                        raw_title = raw_title.replace(symbol, "")
+                    # Czyścimy podwójne spacje, jeśli jakieś zostały po usunięciu emoji
+                    return re.sub(r"\s+", " ", raw_title).strip()
+    except Exception:
+        pass
+    return fallback_title
 
 
 def create_index_adoc():
@@ -65,18 +85,25 @@ def create_index_adoc():
         for name in files:
             if name.endswith("adoc") and name != "index.adoc":
 
+                recipe_full_path = os.path.join(path, name)
+
                 # URL
                 path_to_html = os.path.join(
                     path.replace(".\\", ""), name.replace("adoc", "html")
                 ).replace("\\", "/")
 
-                # TITLE
-                title = name.replace("_", " ").capitalize().replace(".adoc", "")
+                # FALLBACK TITLE (z nazwy pliku)
+                fallback_title = (
+                    name.replace("_", " ").capitalize().replace(".adoc", "")
+                )
+
+                # EXTRACT ACTUAL TITLE FROM H1
+                title = extract_title_from_adoc(recipe_full_path, fallback_title)
 
                 # EMOJI TAGS
                 tags = []
                 try:
-                    with open(os.path.join(path, name), "r", encoding="utf8") as recipe_file:
+                    with open(recipe_full_path, "r", encoding="utf8") as recipe_file:
                         recipe_text = recipe_file.read()
                         for symbol in symbols:
                             if symbol in recipe_text:
@@ -86,8 +113,12 @@ def create_index_adoc():
                 emoji_html = " ".join(tags)
 
                 # IMAGE
-                image_path = find_last_image(os.path.join(path, name))
-                full_image_path = os.path.join("/Recipes/static/images/", image_path) if image_path else None
+                image_path = find_last_image(recipe_full_path)
+                full_image_path = (
+                    os.path.join("/Recipes/static/images/", image_path)
+                    if image_path
+                    else None
+                )
                 if full_image_path:
                     image_html = (
                         f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" '
@@ -127,8 +158,8 @@ def create_index_adoc():
                 file.write('<div class="cards-grid">\n')
                 for c in cards:
                     file.write(c + "\n")
-                file.write('</div>\n')
-                file.write('</div>\n')
+                file.write("</div>\n")
+                file.write("</div>\n")
                 file.write("++++\n")
 
 
