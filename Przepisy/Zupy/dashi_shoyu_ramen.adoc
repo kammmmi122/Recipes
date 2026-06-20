@@ -29,13 +29,13 @@ Brak zdjęcia przepisu 🍲
 
 === Dodatki
 * narutomaki (ciastko rybne z różowym spiralnym wzorem)
-* link:../Przystawki/nitamago.html[jajko marynowane w soi, opts=external]
-* link:../Dania_główne/krewetki_w_panko.html[krewetki w panko, opts=external]
-* link:../Przystawki/soft_shell_crab_w_tempurze.html[soft shell crab w tempurze, opts=external]
+* link:../Przystawki/nitamago.html[jajko marynowane w soi, opts=external, window=_blank]
+* link:../Dania_główne/krewetki_w_panko.html[krewetki w panko, opts=external, window=_blank]
+* link:../Przystawki/soft_shell_crab_w_tempurze.html[soft shell crab w tempurze, opts=external, window=_blank]
 * dymka (posiekana)
-* link:../Przystawki/goma_tare.html[goma tare, opts=external]
-* link:../Przystawki/shoyu_tare.html[shoyu tare, opts=external]
-* link:../Przystawki/olej_chili.html[olej chili, opts=external]
+* link:../Przystawki/goma_tare.html[goma tare, opts=external, window=_blank]
+* link:../Przystawki/shoyu_tare.html[shoyu tare, opts=external, window=_blank]
+* link:../Przystawki/olej_chili.html[olej chili, opts=external, window=_blank]
 * lekko pofalowany, średniej grubości makaron
 
 == Przygotowanie

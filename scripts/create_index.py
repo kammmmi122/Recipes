@@ -11,6 +11,7 @@ category_colors = {
     "Zupy": "#4dabf7",
     "Sałatki": "#69db7c",
     "Desery": "#f06595",
+    "Przystawki": "#cc44ff",
     "Przetwory": "#ffd43b",
 }
 
