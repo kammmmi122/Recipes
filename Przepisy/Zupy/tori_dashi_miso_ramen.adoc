@@ -33,12 +33,12 @@ image::20260416_185530.jpg[]
 
 === Dodatki
 
-* link:../Dania_główne/kurczak_kara_age.html[kurczak kara-age, opts=external]
-* link:../Dania_główne/kaczka_w_slodkiej_soi.html[kaczka pieczona w słodkiej soi, opts=external]
-* link:../Dania_główne/kurczak_kara_age.html[chipsy ze skóry kurczaka, opts=external]
+* link:../Dania_główne/kurczak_kara_age.html[kurczak kara-age, opts=external, window=_blank]
+* link:../Dania_główne/kaczka_w_slodkiej_soi.html[kaczka pieczona w słodkiej soi, opts=external, window=_blank]
+* link:../Dania_główne/kurczak_kara_age.html[chipsy ze skóry kurczaka, opts=external, window=_blank]
 * dymka (posiekana)
-* link:../Przystawki/kurczak_spicy_miso_tarekara_age.html[spicy miso tare, opts=external]
-* link:../Przystawki/olej_z_palonego_czosnku.html[olej z palonego czosnku, opts=external]
+* link:../Przystawki/kurczak_spicy_miso_tarekara_age.html[spicy miso tare, opts=external, window=_blank]
+* link:../Przystawki/olej_z_palonego_czosnku.html[olej z palonego czosnku, opts=external, window=_blank]
 * grubszy makaron, który dobrze wchłania bogaty bulion
 
 == Przygotowanie

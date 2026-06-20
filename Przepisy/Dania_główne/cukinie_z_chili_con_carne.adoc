@@ -20,7 +20,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-* link:chili_con_carne.html[400 g chili, opts=external]
+* link:chili_con_carne.html[400 g chili, opts=external, window=_blank]
 * 5 cukinii
 * 200 g tartej mozzarelli
 
