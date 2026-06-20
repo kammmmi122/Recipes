@@ -1,4 +1,4 @@
-= Tori Dashi Miso Ramen 🐔 🐖
+= Tori dashi miso ramen 🐔 🐖
 :imagesdir: /Recipes/static/images
 
 ++++
@@ -33,12 +33,12 @@ image::20260416_185530.jpg[]
 
 === Dodatki
 
-* kurczak kara-age
-* kaczka pieczona w słodkiej soi
-* chipsy ze skóry kurczaka
+* link:../Dania_główne/kurczak_kara_age.html[kurczak kara-age, opts=external]
+* link:../Dania_główne/kaczka_w_slodkiej_soi.html[kaczka pieczona w słodkiej soi, opts=external]
+* link:../Dania_główne/kurczak_kara_age.html[chipsy ze skóry kurczaka, opts=external]
 * dymka (posiekana)
-* spicy miso tare
-* olej z palonego czosnku
+* link:../Przystawki/kurczak_spicy_miso_tarekara_age.html[spicy miso tare, opts=external]
+* link:../Przystawki/olej_z_palonego_czosnku.html[olej z palonego czosnku, opts=external]
 * grubszy makaron, który dobrze wchłania bogaty bulion
 
 == Przygotowanie

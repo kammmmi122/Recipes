@@ -35,10 +35,10 @@ Brak zdjęcia przepisu 🍲
 * shitake marynowane
 * pak choi (podsmażony)
 * tofu silken (pokrojone w kostkę)
-* menma (fermentowane pędy bambusa)
-* shoyu tare
+* link:../Przystawki/menma.html[menma (fermentowane pędy bambusa), opts=external]
+* link:../Przystawki/shoyu_tare.html[shoyu tare, opts=external]
 * sezam prażony
-* olej nori
+* link:../Przystawki/olej_nori.html[olej nori, opts=external]
 * makaron Soba, który ma delikatnie orzechowy posmak, który świetnie komponuje się z aromatem grzybów.
 
 == Przygotowanie
