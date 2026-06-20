@@ -1,4 +1,4 @@
-= Kurczak z nasionami lotosu 🐔
+= Kurczak z nasionami lotosu 🐔 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

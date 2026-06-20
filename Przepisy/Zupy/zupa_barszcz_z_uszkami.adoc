@@ -1,4 +1,4 @@
-= Zupa barszcz z uszkami 🌱
+= Zupa barszcz z uszkami 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

@@ -1,4 +1,4 @@
-= Zupa kurkowa z makaronem 🌱
+= Zupa kurkowa z makaronem 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

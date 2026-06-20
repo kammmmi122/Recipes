@@ -1,4 +1,4 @@
-= Fish & chips z sosem tatarskim 🐟
+= Fish & chips z sosem tatarskim 🐟 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

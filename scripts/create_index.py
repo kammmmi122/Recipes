@@ -2,7 +2,7 @@ import html
 import os
 import re
 
-symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥"]
+symbols = ["🌱", "🐟", "🐔", "🦆", "🐖", "🥩", "🦐", "🔥", "🍄‍🟫"]
 polish_alphabet_string = "aĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż"
 
 category_colors = {

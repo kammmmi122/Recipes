@@ -1,4 +1,4 @@
-= Sztuka mięsa łee 🐖
+= Sztuka mięsa łee 🐖 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

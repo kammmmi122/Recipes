@@ -1,4 +1,4 @@
-= Krokiety z kapustą i grzybami 🌱
+= Krokiety z kapustą i grzybami 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

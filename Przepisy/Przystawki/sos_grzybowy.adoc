@@ -1,4 +1,4 @@
-= Sos grzybowy 🌱
+= Sos grzybowy 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

@@ -1,4 +1,4 @@
-= Tonkotsu Ramen 🐖
+= Tonkotsu ramen 🐖
 :imagesdir: /Recipes/static/images
 
 ++++

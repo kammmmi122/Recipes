@@ -1,4 +1,4 @@
-= Pierogi z kapustą i grzybami 🌱
+= Pierogi z kapustą i grzybami 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

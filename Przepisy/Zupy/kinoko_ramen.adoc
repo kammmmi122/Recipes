@@ -1,4 +1,4 @@
-= Kinoko Ramen 🌱
+= Kinoko ramen 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

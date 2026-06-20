@@ -1,4 +1,4 @@
-= Ramen shoyu 🐔 🐖
+= Shoyu ramen 🐔 🐖 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++

@@ -1,4 +1,4 @@
-= Dashi Shoyu Ramen 🐟 🦐
+= Dashi shoyu ramen 🐟 🦐
 :imagesdir: /Recipes/static/images
 
 ++++

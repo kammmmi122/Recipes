@@ -1,4 +1,4 @@
-= Kaszotto z kurkami 🌱
+= Kaszotto z kurkami 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
 
 ++++
