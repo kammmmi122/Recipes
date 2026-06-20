@@ -1,6 +1,6 @@
 #!/bin/bash
 
-asciidoctor -a docinfo=shared -a stylesheet=../../static/style.css --backend=html5 ./*.adoc
+asciidoctor -a docinfo=shared -a stylesheet=static/style.css --backend=html5 ./*.adoc
 asciidoctor -a docinfo=shared -a stylesheet=../../static/style.css --backend=html5 -D ./Przepisy/Przetwory ./Przepisy/Przetwory/*.adoc
 asciidoctor -a docinfo=shared -a stylesheet=../../static/style.css --backend=html5 -D ./Przepisy/Przystawki ./Przepisy/Przystawki/*.adoc
 asciidoctor -a docinfo=shared -a stylesheet=../../static/style.css --backend=html5 -D ./Przepisy/Makarony ./Przepisy/Makarony/*.adoc
