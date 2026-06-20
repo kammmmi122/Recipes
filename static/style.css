@@ -44,7 +44,6 @@ body {
   padding: 0 16px;
 }
 
-/* Przełącznik (Toggle switch) */
 .switch {
   position: relative;
   display: inline-block;
@@ -238,7 +237,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* Hero Image / Placeholder */
 .recipe-hero,
 .recipe-hero.paragraph,
 .recipe-hero .card-image-placeholder {
@@ -262,7 +260,6 @@ body {
   border-radius: 14px;
 }
 
-/* Selektory list przeniesione wyżej, aby zapobiec błędowi no-descending-specificity */
 .recipe-container .ulist ul {
   padding-left: 20px;
   margin: 0 0 24px;
@@ -273,7 +270,6 @@ body {
   line-height: 1.5;
 }
 
-/* Metadane (Czas, porcje, linki) */
 .recipe-details.ulist ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -305,7 +301,6 @@ body {
   text-decoration: none;
 }
 
-/* Wymuszenie równego, liniowego układu dla sekcji przepisów */
 .recipe-container.sect1,
 .recipe-container + .sect1,
 .recipe-gallery.sect1,
@@ -317,7 +312,6 @@ body {
   display: block !important;
 }
 
-/* Uniwersalna reguła dla głównych nagłówków H2 (Składniki, Przygotowanie, Zdjęcia) */
 #content h2, 
 #content .sect1 h2,
 #content .recipe-gallery h2,
@@ -328,7 +322,7 @@ body {
   color: #ba3925 !important;
   border-bottom: 1px solid rgb(15 23 42 / 6%) !important;
   padding-bottom: 8px !important;
-  margin-top: 32px !important;
+  margin-top: 20px !important;
   margin-bottom: 20px !important;
   text-align: left !important;
   letter-spacing: normal !important;
@@ -354,10 +348,9 @@ body {
   line-height: 1.6;
 }
 
-/* Galeria zdjęć */
 .recipe-gallery {
   clear: both;
-  margin-top: 48px;
+  margin-top: 24px;
 }
 
 .gallery-grid {
@@ -393,9 +386,11 @@ body {
 
 @media (width >= 901px) {
   .recipe-container,
-  .recipe-container + .sect1,
+  .recipe-container + .sect1 {
+    margin-top: 20px;
+  }
   .recipe-gallery {
-    margin-top: 40px;
+    margin-top: 24px;
   }
 }
 
