@@ -5,6 +5,6 @@ asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Przetwory ./Przepisy
 asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Przystawki ./Przepisy/Przystawki/*.adoc
 asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Makarony ./Przepisy/Makarony/*.adoc
 asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Desery ./Przepisy/Desery/*.adoc
-asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Dania_główne ./Przepisy/Dania_glowne/*.adoc
+asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Dania_główne ./Przepisy/Dania_główne/*.adoc
 asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Zupy ./Przepisy/Zupy/*.adoc
 asciidoctor -a docinfo=shared --backend=html5 -D ./Przepisy/Sałatki ./Przepisy/Sałatki/*.adoc
