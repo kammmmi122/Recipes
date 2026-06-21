@@ -57,4 +57,4 @@ Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem se
 == Zdjęcia
 
 [.gallery-grid]
-image::20260529_185420.jpg[]
+image::20260529_185420.jpg[role="portrait"]

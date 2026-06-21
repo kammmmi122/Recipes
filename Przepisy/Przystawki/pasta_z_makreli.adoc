@@ -36,4 +36,4 @@ Makrelę bez ości podzielić widelcem. Ogórki obrać i potrzeć na tarce lub p
 == Zdjęcia
 
 [.gallery-grid]
-image::20250918_222858.jpg[]
+image::20250918_222858.jpg[role="portrait"]

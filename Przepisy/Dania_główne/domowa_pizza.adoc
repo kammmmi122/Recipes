@@ -46,7 +46,7 @@ Podawać gorącą.
 
 [.gallery-grid]
 --
-image::20231127_192322.jpg[]
-image::20250814_220620.jpg[]
-image::20250822_173944.jpg[]
+image::20231127_192322.jpg[role="portrait"]
+image::20250814_220620.jpg[role="portrait"]
+image::20250822_173944.jpg[role="portrait"]
 --

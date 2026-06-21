@@ -75,4 +75,4 @@ Idealnie wymieszanego tatara możemy podawać od razu LUB przed podaniem odstawi
 == Zdjęcia
 
 [.gallery-grid]
-image::20231119_165036.jpg[]
+image::20231119_165036.jpg[role="portrait"]

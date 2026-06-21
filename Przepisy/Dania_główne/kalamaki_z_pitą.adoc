@@ -37,6 +37,6 @@ Zgrilluj pitę. Nałóż wszystkie składniki do pity, posyp przyprawami i zawi�
 
 [.gallery-grid]
 --
-image::20250725_180813.jpg[]
-image::20250725_180850.jpg[]
+image::20250725_180813.jpg[role="portrait"]
+image::20250725_180850.jpg[role="portrait"]
 --

@@ -43,6 +43,6 @@ Aby łatwiej było zawijać tortillę z nadzieniem lub kroić ją na chipsy, usm
 
 [.gallery-grid]
 --
-image::20250713_174140.jpg[]
-image::20250713_180058.jpg[]
+image::20250713_174140.jpg[role="portrait"]
+image::20250713_180058.jpg[role="portrait"]
 --

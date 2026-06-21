@@ -87,7 +87,7 @@ Podajemy od razu.
 
 [.gallery-grid]
 --
-image::20260223_174846.jpg[]
-image::20260223_174841.jpg[]
-image::20260223_175028.jpg[]
+image::20260223_174846.jpg[role="portrait"]
+image::20260223_174841.jpg[role="portrait"]
+image::20260223_175028.jpg[role="portrait"]
 --

@@ -56,4 +56,4 @@ Na koniec jeszcze 2 łyżeczki kremu orzechowego i odżywkę białkową. Całoś
 == Zdjęcia
 
 [.gallery-grid]
-image::20260110_233721.jpg[]
+image::20260110_233721.jpg[role="portrait"]

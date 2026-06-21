@@ -37,6 +37,6 @@ Mąkę, masło, wodę i sól połączyć w jednolite gładkie ciasto. Jagody zas
 
 [.gallery-grid]
 --
-image::20241217_165954.jpg[]
-image::20241217_170950.jpg[]
+image::20241217_165954.jpg[role="portrait"]
+image::20241217_170950.jpg[role="portrait"]
 --

@@ -56,4 +56,4 @@ Piec ok. 1 godz. w piekarniku nagrzanym do 200°C.
 == Zdjęcia
 
 [.gallery-grid]
-image::20240329_212500.jpg[]
+image::20240329_212500.jpg[role="portrait"]

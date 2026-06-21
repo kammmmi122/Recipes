@@ -40,6 +40,6 @@ Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół 
 
 [.gallery-grid]
 --
-image::20250528_183240.jpg[]
-image::20250528_183245.jpg[]
+image::20250528_183240.jpg[role="portrait"]
+image::20250528_183245.jpg[role="portrait"]
 --

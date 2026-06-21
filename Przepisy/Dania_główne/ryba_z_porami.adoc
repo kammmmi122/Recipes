@@ -45,4 +45,4 @@ Zdjąć pokrywę, dodać śmietankę oraz koperek, wymieszać i zagotować. Wył
 == Zdjęcia
 
 [.gallery-grid]
-image::20250213_222316.jpg[]
+image::20250213_222316.jpg[role="portrait"]

@@ -52,6 +52,6 @@ Gotujemy makaron zgodnie z instrukcją na opakowaniu. Nakładamy do miski makaro
 
 [.gallery-grid]
 --
-image::20260414_194950.jpg[]
-image::20260416_185530.jpg[]
+image::20260414_194950.jpg[role="portrait"]
+image::20260416_185530.jpg[role="portrait"]
 --

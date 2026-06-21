@@ -58,4 +58,4 @@ Dodać koncentrat, dokładnie wymieszać, przykryć i gotować przez ok. 1 godzi
 == Zdjęcia
 
 [.gallery-grid]
-image::20231105_103826.jpg[]
+image::20231105_103826.jpg[role="portrait"]

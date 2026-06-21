@@ -351,35 +351,51 @@ body {
   line-height: 1.6;
 }
 
+/* ==========================================================================
+   RECIPE GALLERY (FLEXBOX WITH FIXED SIZES)
+   ========================================================================== */
+
 .recipe-gallery {
   clear: both;
   margin-top: 24px;
 }
 
 .gallery-grid {
-  display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
 .gallery-grid .imageblock {
   margin: 0 !important;
 }
 
-.gallery-grid img {
-  width: 100%;
-  max-width: 600px;
-  aspect-ratio: auto;
+.gallery-grid .imageblock img {
+  display: block;
   object-fit: cover;
   object-position: center;
   border-radius: var(--radius);
-  display: block;
-  margin: 0 auto;
   box-shadow: var(--shadow-soft);
   transition: transform 0.2s ease;
 }
 
-.gallery-grid img:hover {
+/* Wymuszenie 600x400 dla roli landscape */
+.gallery-grid .imageblock.landscape img,
+.gallery-grid img.landscape {
+  width: 600px !important;
+  height: 400px !important;
+}
+
+/* Wymuszenie 400x600 dla roli portrait */
+.gallery-grid .imageblock.portrait img,
+.gallery-grid img.portrait {
+  width: 400px !important;
+  height: 600px !important;
+}
+
+.gallery-grid .imageblock img:hover {
   transform: scale(1.02);
 }
 
@@ -432,8 +448,17 @@ body {
     height: 200px;
   }
 
+  /* Elastyczne dopasowanie na telefonach */
   .gallery-grid {
-    grid-template-columns: 1fr;
+    flex-direction: column;
+    align-items: center;
     gap: 16px;
+  }
+
+  .gallery-grid .imageblock.landscape img,
+  .gallery-grid .imageblock.portrait img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
   }
 }
