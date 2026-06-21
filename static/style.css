@@ -381,14 +381,14 @@ body {
   transition: transform 0.2s ease;
 }
 
-/* Wymuszenie 600x400 dla roli landscape w strukturze Asciidoctora */
+/* Wymuszenie 600x400 dla roli landscape */
 .gallery-grid .imageblock.landscape img,
 .gallery-grid img.landscape {
   width: 600px !important;
   height: 400px !important;
 }
 
-/* Wymuszenie 400x600 dla roli portrait w strukturze Asciidoctora */
+/* Wymuszenie 400x600 dla roli portrait */
 .gallery-grid .imageblock.portrait img,
 .gallery-grid img.portrait {
   width: 400px !important;

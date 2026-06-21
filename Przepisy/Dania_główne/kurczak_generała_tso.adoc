@@ -9,8 +9,7 @@
 ++++
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260621_181632.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
@@ -53,4 +52,4 @@ Odlać większość tłuszczu pozostawiając ok. 2 łyżek. Dodać papryczki chi
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+image::20260621_181632.jpg[role="portrait"]
