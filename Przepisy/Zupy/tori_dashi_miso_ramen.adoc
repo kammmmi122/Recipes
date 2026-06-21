@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260416_185530.jpg[role="portrait"]
+image::20260416_185530.jpg[]
 
 [.recipe-details]
 * 👥 liczba porcji: 4

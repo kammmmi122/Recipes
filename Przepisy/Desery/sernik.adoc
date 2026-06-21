@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20231006_223932.jpg[role="portrait"]
+image::20231006_223932.jpg[]
 
 [.recipe-details]
 * 🕒 czas pieczenia spodu: 20 minut (lub do zarumienienia brzegów): 180°C, górna i dolna grzałka, środkowa półka piekarnika

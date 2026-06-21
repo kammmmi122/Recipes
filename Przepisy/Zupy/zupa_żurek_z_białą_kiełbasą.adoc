@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240329_154743.jpg[role="portrait"]
+image::20240329_154743.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
