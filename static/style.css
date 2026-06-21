@@ -99,7 +99,7 @@ body {
   text-align: center;
   gap: 16px;
   font-size: 2.2rem;
-  margin: 24px 0 24px;
+  margin: 24px 0;
   border-bottom: 1px solid rgb(15 23 42 / 10%);
   padding-bottom: 24px;
   width: 100%;
@@ -326,16 +326,16 @@ body {
   border-bottom: 1px solid rgb(15 23 42 / 6%) !important;
   padding-bottom: 8px !important;
   margin-top: 50px !important;
-  margin-bottom: 30px !important;
+  margin-bottom: 20px !important;
   text-align: left !important;
   letter-spacing: normal !important;
   display: block !important;
   width: 100% !important;
 }
 
+.recipe-container .sect2 h3,
 #content h3,
-#content .sect2 h3,
-.recipe-container .sect2 h3 {
+#content .sect2 h3 {
   font-family: Inter, system-ui, sans-serif !important;
   font-size: 1.25rem !important;
   font-weight: 600 !important;
@@ -392,6 +392,7 @@ body {
   .recipe-container + .sect1 {
     margin-top: 20px;
   }
+
   .recipe-gallery {
     margin-top: 24px;
   }
