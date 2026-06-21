@@ -315,7 +315,7 @@ body {
   display: block !important;
 }
 
-#content h2, 
+#content h2,
 #content .sect1 h2,
 #content .recipe-gallery h2,
 #content [class*="recipe-gallery"] h2 {
