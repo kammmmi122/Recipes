@@ -9,8 +9,7 @@
 ++++
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260620_223050.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 45 minut
@@ -58,4 +57,7 @@ Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygo
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+--
+image::20260620_215736.jpg[]
+image::20260620_223050.jpg[]
+--

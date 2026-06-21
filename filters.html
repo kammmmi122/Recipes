@@ -2,24 +2,17 @@
 <style>
   .header-controls {
     display: flex;
-    flex-wrap: nowrap;
-    gap: 12px;
+    flex-wrap: wrap;
+    gap: 16px;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
   }
   .tabs {
     display: flex;
-    gap: 14px;
-    flex-wrap: nowrap;
+    gap: 10px;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: flex-end;
-    overflow-x: auto;
-    padding-bottom: 2px;
-  }
-  .tabs::after {
-    content: "";
-    flex: 1;
-    min-width: 0;
   }
   .tabs button {
     background: none;
@@ -45,7 +38,24 @@
     align-items: center;
     justify-content: flex-end;
     min-width: 0;
-    flex: 0 1 auto;
+    flex: 1 0 auto;
+  }
+  @media (max-width: 1100px) {
+    .header-controls {
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+    .tabs {
+      justify-content: center;
+    }
+    .controls {
+      justify-content: center;
+      width: 100%;
+    }
+    .search-input {
+      max-width: 100% !important;
+    }
   }
   .tabs button.active {
     background: rgba(0, 122, 204, 0.14);
@@ -67,21 +77,6 @@
   }
   .collapsed {
     display: none;
-  }
-
-  @media (max-width: 840px) {
-    .header-controls {
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .controls {
-      justify-content: center;
-      width: 100%;
-    }
-    .tabs {
-      justify-content: center;
-      overflow-x: auto;
-    }
   }
   @media (max-width: 560px) {
     .search-input {
