@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20241227_221828.jpg[]
+image::20241227_221828.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1,5 godziny
@@ -45,4 +45,4 @@ Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polew�
 == Zdjęcia
 
 [.gallery-grid]
-image::20241227_221828.jpg[]
+image::20241227_221828.jpg[role="portrait"]

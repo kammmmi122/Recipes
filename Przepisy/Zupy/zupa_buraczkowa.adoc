@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20231021_193002.jpg[]
+image::20231021_193002.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -61,4 +61,4 @@ Zupę buraczkową podajemy posypaną świeżo posiekaną natką pietruszki.
 == Zdjęcia
 
 [.gallery-grid]
-image::20231021_193002.jpg[]
+image::20231021_193002.jpg[role="portrait"]

@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240119_201437.jpg[]
+image::20240119_201437.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
@@ -59,4 +59,4 @@ Zdejmij przykrywkę z gotowej Paelli. Przed nałożeniem jej na talerze odczekaj
 == Zdjęcia
 
 [.gallery-grid]
-image::20240119_201437.jpg[]
+image::20240119_201437.jpg[role="portrait"]

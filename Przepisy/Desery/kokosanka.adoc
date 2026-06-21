@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20231209_214411.jpg[]
+image::20231209_214411.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 20 minut
@@ -53,7 +53,7 @@ Na blachę wyłożyć połowę powstałego ciasta, następnie masę kokosową, n
 
 [.gallery-grid]
 --
-image::20231209_214411.jpg[]
-image::20231210_184314.jpg[]
-image::20231210_184321.jpg[]
+image::20231209_214411.jpg[role="portrait"]
+image::20231210_184314.jpg[role="portrait"]
+image::20231210_184321.jpg[role="portrait"]
 --

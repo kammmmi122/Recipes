@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260616_235513.jpg[]
+image::20260616_235513.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -40,4 +40,4 @@ Piec 20 minut w 180 stopniach C.
 == Zdjęcia
 
 [.gallery-grid]
-image::20260616_235513.jpg[]
+image::20260616_235513.jpg[role="portrait"]

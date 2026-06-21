@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260613_171601.jpg[]
+image::20260613_171601.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godziny
@@ -103,6 +103,6 @@ Dodajemy szpinak, ugotowany makaron, podsmażone mięso, jajka i pozostałe skł
 
 [.gallery-grid]
 --
-image::20240617_154401.jpg[]
-image::20260613_171601.jpg[]
+image::20240617_154401.jpg[role="portrait"]
+image::20260613_171601.jpg[role="portrait"]
 --

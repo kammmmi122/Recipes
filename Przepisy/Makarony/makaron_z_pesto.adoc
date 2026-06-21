@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20241007_174207.jpg[]
+image::20241007_174207.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 25 minut
@@ -42,4 +42,4 @@ Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 == Zdjęcia
 
 [.gallery-grid]
-image::20241007_174207.jpg[]
+image::20241007_174207.jpg[role="portrait"]

@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260529_185420.jpg[]
+image::20260529_185420.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 minut
@@ -57,4 +57,4 @@ Na koniec posypać posiekanym szczypiorkiem oraz sezamem (lub skropić olejem se
 == Zdjęcia
 
 [.gallery-grid]
-image::20260529_185420.jpg[]
+image::20260529_185420.jpg[role="portrait"]

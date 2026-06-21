@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260506_195759.jpg[]
+image::20260506_195759.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -45,6 +45,6 @@ Przykryć i gotować na małym ogniu przez 20 minut, od czasu do czasu mieszają
 
 [.gallery-grid]
 --
-image::20250425_171213.jpg[]
-image::20260506_195759.jpg[]
+image::20250425_171213.jpg[role="portrait"]
+image::20260506_195759.jpg[role="portrait"]
 --

@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240820_080313.jpg[]
+image::20240820_080313.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 2 godziny
@@ -54,7 +54,7 @@ Formę o wym. 24x35 cm wykładamy papierem do pieczenia. Przekładamy wyrośnię
 
 [.gallery-grid]
 --
-image::20230901_232808.jpg[]
-image::20240820_080313.jpg[]
-image::20240820_080359.jpg[]
+image::20230901_232808.jpg[role="portrait"]
+image::20240820_080313.jpg[role="portrait"]
+image::20240820_080359.jpg[role="portrait"]
 --

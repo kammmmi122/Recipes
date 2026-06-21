@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240511_114709.jpg[]
+image::20240511_114709.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
@@ -56,6 +56,6 @@ Tortownicę o śr. 20 cm wykładamy na dnie papierem do pieczenia, natomiast bok
 
 [.gallery-grid]
 --
-image::20240511_114709.jpg[]
-image::20240511_114847.jpg[]
+image::20240511_114709.jpg[role="portrait"]
+image::20240511_114847.jpg[role="portrait"]
 --

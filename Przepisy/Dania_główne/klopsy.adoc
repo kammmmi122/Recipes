@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240822_190210.jpg[]
+image::20240822_190210.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 50 minut
@@ -46,4 +46,4 @@ Ugotować ziemniaki. Rozbić ziemniaki tłuczkiem, dodać pieprz, sól, masło, 
 == Zdjęcia
 
 [.gallery-grid]
-image::20240822_190210.jpg[]
+image::20240822_190210.jpg[role="portrait"]

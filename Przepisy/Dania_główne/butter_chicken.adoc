@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240421_172701.jpg[]
+image::20240421_172701.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
@@ -50,4 +50,4 @@ W międzyczasie na patelni rozgrzać drugą łyżkę masła klarowanego i obsma�
 == Zdjęcia
 
 [.gallery-grid]
-image::20240421_172701.jpg[]
+image::20240421_172701.jpg[role="portrait"]

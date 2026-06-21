@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260530_165936.jpg[]
+image::20260530_165936.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1,5 godziny
@@ -121,9 +121,9 @@ Wkładamy tort na kilka godzin do lodówki, jednak przed jego krojeniem polecam 
 
 [.gallery-grid]
 --
-image::20260530_105859.jpg[]
-image::20260530_124541.jpg[]
-image::20260530_151010.jpg[]
-image::20260530_155905.jpg[]
-image::20260530_165936.jpg[]
+image::20260530_105859.jpg[role="portrait"]
+image::20260530_124541.jpg[role="portrait"]
+image::20260530_151010.jpg[role="portrait"]
+image::20260530_155905.jpg[role="portrait"]
+image::20260530_165936.jpg[role="portrait"]
 --

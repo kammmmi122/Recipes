@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20241225_131152.jpg[]
+image::20241225_131152.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 15 minut
@@ -32,4 +32,4 @@ Granolę wsypać do misek. Dodać jogurt. Udekorować malinami i jagodami.
 == Zdjęcia
 
 [.gallery-grid]
-image::20241225_131152.jpg[]
+image::20241225_131152.jpg[role="portrait"]

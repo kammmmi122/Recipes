@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20251230_232429.jpg[]
+image::20251230_232429.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 minut
@@ -47,4 +47,4 @@ Upieczony i schłodzony sernik ze skyru z morelami przechowuj w lodówce pod prz
 == Zdjęcia
 
 [.gallery-grid]
-image::20251230_232429.jpg[]
+image::20251230_232429.jpg[role="portrait"]

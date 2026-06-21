@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240517_111652.jpg[]
+image::20240517_111652.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -35,4 +35,4 @@ Ugotować parówki. Bułkę lekko podpiec w piekarniku. Pokroić warzywa. Zrobi�
 == Zdjęcia
 
 [.gallery-grid]
-image::20240517_111652.jpg[]
+image::20240517_111652.jpg[role="portrait"]

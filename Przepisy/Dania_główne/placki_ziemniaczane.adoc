@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260115_185756.jpg[]
+image::20260115_185756.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
@@ -38,4 +38,4 @@ Rozgrzać patelnię, wlać olej. Masę ziemniaczaną wymieszać. Nakładać porc
 == Zdjęcia
 
 [.gallery-grid]
-image::20260115_185756.jpg[]
+image::20260115_185756.jpg[role="portrait"]

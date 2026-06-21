@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260208_173706.jpg[]
+image::20260208_173706.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 10 minut
@@ -36,6 +36,6 @@ Makaron ugotować według przepisu na al dente. W tym czasie posiekać bardzo dr
 
 [.gallery-grid]
 --
-image::20260208_173706.jpg[]
-image::20260208_173830.jpg[]
+image::20260208_173706.jpg[role="portrait"]
+image::20260208_173830.jpg[role="portrait"]
 --

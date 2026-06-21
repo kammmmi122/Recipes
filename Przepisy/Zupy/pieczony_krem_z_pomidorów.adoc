@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20260418_194636.jpg[]
+image::20260418_194636.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 Czas przygotowania: 15 minut
@@ -36,4 +36,4 @@ Wyłóż pomidory, cebulę, paprykę i czosnek na blachę do pieczenia. Skrop ol
 == Zdjęcia
 
 [.gallery-grid]
-image::20260418_194636.jpg[]
+image::20260418_194636.jpg[role="portrait"]

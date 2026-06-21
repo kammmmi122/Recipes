@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240911_131337.jpg[]
+image::20240911_131337.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 35 minut
@@ -39,4 +39,4 @@ Wstawić do nagrzanego piekarnika i piec przez 15 minut.
 == Zdjęcia
 
 [.gallery-grid]
-image::20240911_131337.jpg[]
+image::20240911_131337.jpg[role="portrait"]

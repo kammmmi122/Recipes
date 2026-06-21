@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240512_215751.jpg[]
+image::20240512_215751.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
@@ -67,6 +67,6 @@ Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 
 [.gallery-grid]
 --
-image::20240512_215751.jpg[]
-image::20240512_223800.jpg[]
+image::20240512_215751.jpg[role="portrait"]
+image::20240512_223800.jpg[role="portrait"]
 --

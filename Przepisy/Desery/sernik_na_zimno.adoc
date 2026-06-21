@@ -9,7 +9,7 @@
 ++++
 
 [.recipe-hero]
-image::20240430_144110.jpg[]
+image::20240430_144110.jpg[role="portrait"]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 5 godzin
@@ -51,4 +51,4 @@ Wyjąć sernik z lodówki i powciskać w niego resztę truskawek pokrojonych na 
 == Zdjęcia
 
 [.gallery-grid]
-image::20240430_144110.jpg[]
+image::20240430_144110.jpg[role="portrait"]
