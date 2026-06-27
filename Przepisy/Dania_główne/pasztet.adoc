@@ -54,4 +54,4 @@ Wstawić do nagrzanego do 190 stopni C piekarnika i piec przez ok 1,5 godziny. O
 == Zdjęcia
 
 [.gallery-grid]
-image::20241228_223850.jpg[role="portrait"]
+image::20241228_223850.jpg[role="landscape"]

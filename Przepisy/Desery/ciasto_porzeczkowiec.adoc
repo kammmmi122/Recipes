@@ -67,6 +67,6 @@ Wstawić do lodówki na około godzinę, ale najlepiej na noc.
 
 [.gallery-grid]
 --
-image::20240512_215751.jpg[role="portrait"]
+image::20240512_215751.jpg[role="landscape"]
 image::20240512_223800.jpg[role="portrait"]
 --
