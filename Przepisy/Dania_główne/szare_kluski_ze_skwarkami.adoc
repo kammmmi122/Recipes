@@ -50,4 +50,6 @@ Szare kluski najczęściej podaję z okrasą, którą szykuję z podsmażonego z
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20260216_161053.jpg[role="portrait"]
+--

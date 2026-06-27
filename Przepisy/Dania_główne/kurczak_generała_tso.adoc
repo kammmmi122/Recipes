@@ -52,4 +52,6 @@ Odlać większość tłuszczu pozostawiając ok. 2 łyżek. Dodać papryczki chi
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20260621_181632.jpg[role="portrait"]
+--

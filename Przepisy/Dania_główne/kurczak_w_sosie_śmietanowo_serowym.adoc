@@ -39,4 +39,6 @@ Ugotować ryż.
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20240505_163520.jpg[role="portrait"]
+--

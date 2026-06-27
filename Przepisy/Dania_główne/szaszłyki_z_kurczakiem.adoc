@@ -40,4 +40,6 @@ Piec 20 minut w 180 stopniach C.
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20260616_235513.jpg[role="portrait"]
+--

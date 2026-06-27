@@ -32,4 +32,6 @@ Warzywa pokroić na części i oprószyć wegetą. Piec 30 minut w piekarniku w 
 == Zdjęcia
 
 [.gallery-grid]
-image::20240824_174832.jpg[role="portrait"]
+--
+image::20240824_174832.jpg[role="landscape"]
+--

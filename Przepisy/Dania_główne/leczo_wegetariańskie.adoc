@@ -51,4 +51,6 @@ Dodać passatę pomidorową, czerwoną paprykę w proszku oraz suszone oregano i
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20240429_172456.jpg[role="portrait"]
+--

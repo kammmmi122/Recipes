@@ -44,4 +44,6 @@ Małe filiżanki smarować olejem lnianym, wypełnić tatarem i wykładać na ta
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20231216_212653.jpg[role="portrait"]
+--

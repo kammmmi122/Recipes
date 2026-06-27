@@ -20,6 +20,7 @@ image::20250528_183240.jpg[]
 == Składniki
 
 * pieczywo, np. domowa focaccia
+* link:pieczony_filet_z_indyka.html[plasterki pieczonego indyka, opts=external, window=_blank]
 * plasterki pieczonego indyka
 * sałata, roszponka
 * żurawina ze słoiczka
@@ -42,4 +43,5 @@ Dla najlepszego efektu można opiec w opiekaczu do kanapek. Przekroić na pół 
 --
 image::20250528_183240.jpg[role="portrait"]
 image::20250528_183245.jpg[role="portrait"]
+image::20260526_180705.jpg[role="portrait"]
 --

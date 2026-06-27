@@ -58,6 +58,6 @@ Gotowe uformowane kotlety można mrozić, upieczone można przechowywać do tygo
 
 [.gallery-grid]
 --
-image::20260620_215736.jpg[role="portrait"]
+image::20260620_215736.jpg[role="landscape"]
 image::20260620_223050.jpg[role="portrait"]
 --

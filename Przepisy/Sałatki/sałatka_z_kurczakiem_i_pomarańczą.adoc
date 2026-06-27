@@ -52,4 +52,6 @@ Na rukoli położyć pokrojonego kurczaka, cząstki pomarańczy, orzechy i suszo
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20260606_201355.jpg[role="portrait"]
+--
