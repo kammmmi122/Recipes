@@ -42,4 +42,6 @@ Makaron ugotuj al dente. Wymieszaj z sosem i podawaj.
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20241007_174207.jpg[role="portrait"]
+--

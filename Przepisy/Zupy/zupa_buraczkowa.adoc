@@ -61,4 +61,6 @@ Zupę buraczkową podajemy posypaną świeżo posiekaną natką pietruszki.
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20231021_193002.jpg[role="portrait"]
+--

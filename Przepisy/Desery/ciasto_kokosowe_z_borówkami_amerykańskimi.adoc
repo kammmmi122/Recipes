@@ -54,4 +54,6 @@ Wszystkie składniki umieścić w naczyniu i rozetrzeć grzbietem łyżki do otr
 == Zdjęcia
 
 [.gallery-grid]
+--
 image::20260216_222222.jpg[role="landscape"]
+--
