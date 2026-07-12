@@ -20,19 +20,19 @@ Brak zdjęcia przepisu 🍲
 [.recipe-columns]
 == Składniki
 
-* 800 g mrożony zielony groszek
-* 2 cebula duża
-* 2 łyżek oliwa z czosnkiem
-* 3 łyżek bulion warzywny w słoiku winiary
-* 1 l woda
-* 1 szczypta kozieradka do smaku
-* 0.5 cytryna
-* 1 szczypta sól do smaku
-* 1 szczypta pieprz ziołowy do smaku
-* 150 g śmietana 18%
+* 800 g mrożonego zielonego groszku
+* 2 cebule duże
+* 2 łyżki oliwa z czosnkiem
+* 3 łyżki bulionu warzywnego w słoiku winiary
+* 1 l wody
+* 1 szczypta kozieradki do smaku
+* 0,5 cytryny
+* 1 szczypta soli do smaku
+* 1 szczypta pieprzu ziołowego do smaku
+* 150 g śmietany 18%
 * 1 bagietka
-* trochę pasta z oliwek
-* trochę kiełki do dekoracji
+* trochę pasty z oliwek
+* trochę kiełek do dekoracji
 
 == Przygotowanie
 

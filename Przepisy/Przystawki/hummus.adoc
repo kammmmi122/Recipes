@@ -1,0 +1,107 @@
+= Hummus 🌱
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 4 porcje
+* 🔗  https://aniagotuje.pl/przepis/hummus-z-ciecierzycy-z-puszki[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* 400 g ugotowanej ciecierzycy*
+* 4 łyżki pasty tahini - 100 g
+* 1 ząbek czosnku - 7 g (lub więcej)
+* 5 łyżek oliwy - 50 g
+* sok z jednej cytryny - lub więcej
+* 8 łyżek zimnej wody - lub więcej
+* przyprawy: płaska łyżeczka soli, 1/3 łyżeczki pieprzu
+* do podania: natka pietruszki lub kolendra; oliwa; za'atar
+
+== Przygotowanie
+
+Zapraszam po przepis na klasyczną pastę z ciecierzycy, czyli oryginalny przepis na pyszny hummus. Przekonaj się jakie to proste i uniwersalne do podania danie. Smacznego!
+
+- prosty przepis
+
+- z ciecierzycą z puszki lub gotowaną
+
+- wiele porad i propozycji podania pasty  Czas przygotowania: 15 minut
+
+Liczba porcji: około 500 g pasty
+
+W 100 g:
+
+Wartość energetyczna
+
+253 kcal
+
+Węglowodany 18 g
+
+- W tym cukry 3 g
+
+Białko 7 g
+
+Tłuszcze 17 g
+
+Dieta:    bezglutenowa, niskocukrowa, wegańska, wegetariańska
+
+Składniki    400 g ugotowanej ciecierzycy*   4 łyżki pasty tahini - 100 g   1 ząbek czosnku - 7 g (lub więcej)   5 łyżek oliwy - 50 g   sok z jednej cytryny - lub więcej   8 łyżek zimnej wody - lub więcej   przyprawy: płaska łyżeczka soli, 1/3 łyżeczki pieprzu   do podania: natka pietruszki lub kolendra; oliwa; za'atar  Składniki:  Kopiuj     Ukryj zdjęcia
+
+Hummus
+
+Szklanka ma u mnie pojemność 250 ml.
+
+Z podanej ilości składników powinno wyjść około 500 gramów pysznego hummusu w wersji klasycznej.
+
+Kalorie policzone zostały na podstawie użytych przeze mnie składników. Jest to więc orientacyjna liczba kalorii, ponieważ Twoje składniki mogą mieć inną liczbę kalorii niż te, których użyłam ja. Zanim zaczniesz szykować pastę, polecam najpierw przeczytać cały przepis, by przygotować się odpowiednio wcześniej do kolejnych etapów wykonania.
+
+Czas szykowania hummusu podany został przy użyciu ciecierzycy z puszki i wynosi wówczas tylko około 15 minut.
+
+*Możesz użyć ciecierzycy z puszki lub ugotować suchą. Do uzyskania 400 gramów ugotowanej ciecierzycy potrzeba niecałe dwie puszki lub około 170 gramów suchej ciecierzycy. Puszki mają zazwyczaj 400 gramów, ale po odsączeniu pozostaje około 250 gramów. Resztę można użyć do dekoracji. Jeśli wybierasz suchą ciecierzycę, pamiętaj o jej namoczeniu i gotowaniu.
+
+Hummus podany z kolendrą, i przyprawą za'atar.
+
+Hummus podany z natką pietruszki i płatkami chili.
+
+Hummus przepis
+
+Ciecierzyca z puszki: Jeśli sięgasz po ciecierzycę z puszki, to wystarczy, że odsączysz 400 gramów ciecierzycy (z dwóch puszek o pojemności 400 gramów każda wychodzi około 480-500 gramów gotowej do użycia ciecierzycy.
+
+Ciecierzyca sucha: Aby otrzymać 400 gramów ugotowanej ciecierzycy, potrzeba około 170 gramów suchych nasion. Zalej ją dwoma szklankami zimnej wody i mocz nie dłużej niż 12 godzin, aby uniknąć fermentacji. Po namoczeniu, wylej wodę, przepłucz ciecierzycę i gotuj w 500 ml świeżej wody. Zmniejsz ogień, gdy zacznie wrzeć i gotuj do miękkości przez około 60-90 minut. Po 10 minutach usuń pianę. Na koniec odcedź miękką ciecierzycę i pozostaw do ostygnięcia.
+
+Możesz użyć odsączonej ciecierzycy z puszki albo samodzielnie namoczyć i ugotować suchą ciecierzycę.
+
+Na zdjęciu poniżej jeszcze sucha ciecierzyca po 12 h moczenia w wodzie.
+
+Mając gotową do użycia ciecierzycę wystarczy już tylko dodać do niej resztę składników i całość dokładnie zmiksować na pastę. Ponieważ używam blendera ręcznego typu żyrafa, to ciecierzycę umieszczam w wysokim naczyniu. Następnie dodaję jeszcze 100 gramów, czyli około cztery łyżki pasty tahini (zmielony na gładko prażony sezam). Wlewam sok wyciśnięty z jednej cytryny oraz pięć łyżek oliwy i osiem łyżek zimnej wody. Na koniec jeszcze spory ząbek czosnku przepuszczony przez praskę, płaska łyżeczka soli i 1/3 łyżeczki pieprzu.
+
+Całość miksuj kilka minut, aż do uzyskania pożądanej konsystencji i gęstości pasty. O tym jak gładki ma być hummus, decydujesz Ty. Moja pasta nie jest idealnie gładka i ma lekko ziarnistą, aczkolwiek bardzo spójną fakturę. Gdy hummus jest już dość dokładnie zmiksowany możesz nie tylko dodać do niego więcej wody, by uzyskać luźniejszą konsystencję, ale i sprawdzić jego smak i zdecydować, czy dodać więcej soli, pieprzu, soku z cytryny lub może nawet czosnku.
+
+Domowy hummus jest już gotowy. Aby ładnie się prezentował i lepiej smakował, polecam lekko rozetrzeć go po powierzchni naczynia do serwowania i polać obficie oliwą. Taką pastę warto dodatkowo oprószyć przyprawą za'atar i udekorować kolendrą lub natką pietruszki. czasem zostawiam też trochę ciecierzycy (przed zmiksowaniem), by użyć jej jako dodatkowej, jadalnej dekoracji.
+
+Do podania hummusu polecam również: oliwy smakowe - np. z chili lub z czosnkiem; mieszanka siedmiu przypraw libańskich; kmin rzymski, czyli kumin; sumak; czarnuszka; słodka papryka w proszku; prażone ziarna ciecierzycy
+
+Z czym podawać hummus: falafel; na świeżą bagietkę; do zajadania z paluszkami, krakersami lub grissini; do nabierania na słupki warzyw (seler, naciowy, marchew, papryka).
+
+Domowy hummus przechowuj w lodówce, najlepiej w szklanym naczyniu z zamknięciem. Może tak leżeć śmiało do jednego tygodnia.
+
+Smacznego.
+
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia
