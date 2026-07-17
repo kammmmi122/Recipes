@@ -1,4 +1,4 @@
-= Tacos con pollo
+= Tacos con pollo 🐔
 :imagesdir: /Recipes/static/images
 
 ++++

@@ -1,4 +1,4 @@
-= Kurczak tikka masala
+= Kurczak tikka masala 🐔
 :imagesdir: /Recipes/static/images
 
 ++++

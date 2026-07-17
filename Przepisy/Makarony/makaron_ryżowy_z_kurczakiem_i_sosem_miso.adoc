@@ -1,4 +1,4 @@
-= Makaron ryżowy z kurczakiem i sosem miso
+= Makaron ryżowy z kurczakiem i sosem miso 🐔
 :imagesdir: /Recipes/static/images
 
 ++++

@@ -1,4 +1,4 @@
-= Tacos al pastor
+= Tacos al pastor 🐖
 :imagesdir: /Recipes/static/images
 
 ++++
