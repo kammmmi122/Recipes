@@ -184,15 +184,34 @@ def get_link(text, pattern):
 
 
 def create_files(text, should_file_be_created):
-    list_of_recipes = text.split("\n")
-    list_of_names = [(name.split(";")[0]).split("-")[-1].strip() for name in list_of_recipes]
+    list_of_recipes = [line.strip() for line in text.split("\n") if line.strip()]
 
-    list_of_links = [name.split(";")[-1] for name in list_of_recipes]
+    list_of_names = []
+    list_of_links = []
+
+    for recipe in list_of_recipes:
+        # Skip lines that don't contain a semicolon separator
+        if ";" not in recipe:
+            continue
+
+        name_part = recipe.split(";")[0].strip()
+        link_part = recipe.split(";")[-1].strip()
+
+        # Extract name after the last dash if it exists
+        if "-" in name_part:
+            name = name_part.split("-")[-1].strip()
+        else:
+            name = name_part
+
+        # Only add if the name actually exists
+        if name:
+            list_of_names.append(name)
+            list_of_links.append(link_part)
+
     list_of_files = [name.lower().replace(" ", "_").replace("/", "_").replace(",", "") for name in list_of_names]
-
     capitalize_case_name = [name.capitalize() for name in list_of_names]
 
-    if should_file_be_created:
+    if should_file_be_created and list_of_files:
         create_recipe_file(list_of_links, list_of_files, capitalize_case_name)
 
 
