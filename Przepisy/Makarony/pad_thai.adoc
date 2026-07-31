@@ -15,7 +15,7 @@ Brak zdjęcia przepisu 🍲
 [.recipe-details]
 * 🕒 czas przygotowania: 1 godzina
 * 👥 2 porcje
-* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/pad_thai/przepis.html [link do źródła przepisu]
+* 🔗 https://www.kwestiasmaku.com/kuchnia_orientu/pad_thai/przepis.html[link do źródła przepisu]
 
 [.recipe-columns]
 == Składniki
@@ -28,8 +28,12 @@ Brak zdjęcia przepisu 🍲
 * 2 jajka
 * 1 szklanka kiełków fasoli mung
 * 2 dymki lub 1 pęczek szczypiorku (biała i jasnozielona część)
+
+=== Do podania
 * 2 łyżki posiekanych prażonych orzeszków ziemnych
 * opcjonalnie: świeża kolendra, płatki chili, limonka
+
+=== Sos
 * 4 łyżki sosu rybnego
 * 1 łyżka soku z limonki
 * 2 łyżki pasty tamaryndowej*
