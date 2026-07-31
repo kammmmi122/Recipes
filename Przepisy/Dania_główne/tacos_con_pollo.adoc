@@ -1,0 +1,79 @@
+= Tacos con pollo 🐔
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 4 porcje
+* 🔗 https://www.alemeksyk.eu/przepisy/meksykanskie/tacos/item/1034-tacos-con-pollo-latwy-i-szybki-przepis-na-tortille-z-grillowana-piersia-kurczaka.html[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+=== Salsa pico de gallo:
+* 1 pomidor
+* pół cebuli białej
+* mała garść świeżej poszatkowanej kolendry
+* sok z połowy limonki
+* sól i pieprz do smaku
+
+=== Tacos con pollo:
+* pół piersi z kurczaka
+* 4 łyżeczki miksu przypraw - zobacz przepis na nasz miks przypraw meksykańskich
+* 2 łyżki oliwy z oliwek
+* tortille kukurydziane (opcjonalnie pszenne) - zobacz przepis na tortille kukurydziane
+* Smażona fasola - frijoles bayos refritos (przepis na smażoną fasolę frijoles refritos, ewentualnie można taką z puszki - czasem tak też taką wykorzystujemy)
+* 1 awokado
+* mała garść świeżej poszatkowanej kolendry
+* limonka
+
+== Przygotowanie
+
+Przygotowanie tacos rozpoczynamy od przygotowania samej salsy. Tak pokrótce wygląda to tak. Pomidora myjemy, kroimy w kosteczkę, szatkujemy cebulę, kolendrę, papryczkę jalapeno i dodajemy sok z limonki. Wszystko mieszamy. Szczegółowy przepis na salsę pico de gallo znajdziecie pod linkiem: Salsa pico de gallo - przepis
+
+Salsę odstawiamy do lodówki, a w tym czasie zabieramy się za przygotowanie piersi z kurczaka.
+
+Pierś z kurczaka kroimy wzdłuż, na dwie części. Chodzi o to, żeby dwie części były cienkie, co znacznie ułatwi i przyspieszy proces grillowania/smażenia.
+
+Jak już mamy dwie cienkie części, posypujemy je naszym cudownym miksem przypraw. Tak mniej więcej płaska łyżeczka z każdej strony.
+
+Skrapiamy oliwą z oliwek i porządnie wcieramy. Tak nasmarowane piersi z kurczaka można włożyć do miseczki i odstawić na minimum pół godziny. Smaki wejdą w mięso i będzie bardziej aromatyczne. Ale bez obaw, jeśli nasmarujecie tuż przed położeniem na patelnię też będzie dobrze 🙂
+
+Jak już mamy nasmarowane piersi kurczaka przyprawami, zabieramy się za ich grillowanie/ smażenie.
+
+Jeśli grillujecie, to mięso kładźcie bezpośrednio na ruszt (bez żadnych tacek!). Grillować należy tak mniej więcej 4, max. 5 minut z każdej strony. Pamiętajcie, że są to cienkie kawałki więc mięso „dojdzie” bardzo szybko.
+
+Podobny czas jest w przypadku smażenia. Na patelni należy rozgrzać odrobinę oliwy z oliwek i położyć piersi z kurczaka. Jak już wspomnieliśmy powyżej, smażymy około 4 minut z każdej strony.
+
+Dopiero po grillowaniu/smażeniu mięso z piersi kurczaka gotowe jest do pocięcia na mniejsze kawałki. Przed krojeniem odstawiamy mięso na chwilę, aby odpoczęło. Piersi z kurczaka tniemy w paski.
+
+
+Pamiętajcie, aby w czasie gdy piersi z kurczaka się smażą, przygotować pastę fasolową, czyli frijoles refritos. Zobacz przepis na Frijoles refritos
+
+Albo w przypadku pasty fasolowej z puszki, jedynie ją podgrzać na patelni.
+
+Do tacos dodamy też awokado. Kroimy go w plasterki.
+
+Przed złożeniem tacos, musimy je podgrzać. Tortillę kukurydzianą podgrzewamy na patelni. A jak ją podgrzać?
+
+Tortillę skrapiamy delikatnie wodą i kładziemy na rozgrzanej patelni. Najlepiej jak do wody doda się drobinę oliwy z oliwek. Tortilla będzie wtedy bardziej elastyczna. Jak już podgrzejecie placki tortilli, układajcie je jeden na drugim w ściereczce. Wtedy dłużej zachowają elastyczność i ciepło.
+
+Montowanie tacos:
+Na podgrzaną tortillę kukurydzianą kładziemy odrobinę (tak mniej więcej łyżkę) pasty fasolowej i ją rozsmarowujemy. Na pastę kładziemy kawałki grillowanego/smażonego kurczaka, na niego trochę salsy pico de gallo i 1 lub 2 plasterki awokado.
+
+Na koniec wszystko należy poprószyć świeżą, poszatkowaną kolendrą i skropić sokiem z limonki.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

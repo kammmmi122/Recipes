@@ -1,0 +1,65 @@
+= Kurczak tikka masala 🐔
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 40 minut
+* 👥 3 porcje
+* 🔗  https://nietylkopasta.pl/kurczak-tikka-masala/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+=== Marynata:
+* 2 średnie piersi z kurczaka
+* pół szklanki jogurtu greckiego
+* 2 ząbki czosnku
+* 1 łyżeczka tartego świeżego imbiru
+* 2 łyżeczki garam masala
+* 1 łyżeczka kurkumy
+* 1 łyżeczka kminu rzymskiego
+* 1 łyżeczka chilli
+* 1 łyżeczka soli
+
+
+=== Sos tikka masala:
+* 1 papryka
+* 2 łyżki oliwy lub oleju
+* 2 łyżki masła
+* 1-2 cebule pokrojone z piórka
+* 2 ząbki czosnku
+* 1 łyżeczka tartego świeżego imbiru
+* 2 łyżeczki garam masala
+* 1 łyżeczka kurkumy
+* 1 łyżeczka mielonej kolendry
+* 1 łyżeczka kminu rzymskiego
+* 1-2 łyżeczki chilli (dostosuj ostrość względem swoich oczekiwań)
+* 1 łyżeczka soli
+* 400 g passaty pomidorowej
+* 200 g śmietany 18%
+* do podania: świeże listki kolendry
+* do podania: ugotowany ryż basmati lub jaśminowy, placki naan (koniecznie skorzystaj z mojego przepisu)
+
+== Przygotowanie
+
+Kurczaka pokrój w kostkę mniej więcej 3-4 cm wielkości. Do miski dodaj przyprawy wskazane na liście do sosu. Wszystko wymieszaj i dodaj jogurt grecki. Stworzoną w ten sposób marynatę wykorzystaj w zamarynowaniu kurczaka — wymieszaj jogurt i pokrojonego kurczaka i odstaw na 10-15 minut. Jeśli masz czas, aby kurczaka marynować nieco dłużej, zrób to. Odstaw go do lodówki na 1-2 h lub nawet na całą noc. Efekt będzie jeszcze lepszy.
+Rozgrzej na patelni olej i dodaj przygotowanego kurczaka z całą marynatą. Smaż kurczaka 6-8 minut aż przestanie być surowy. Wtedy wyjmij kurczaka z patelni do miski (możesz dodać do tej samej miski z resztkami marynaty, nie pobrudzisz wtedy więcej naczyń).
+W tym czasie pokrój cebulę w półplasterki, a paprykę w kostkę podobną wielkością do kurczaka. Na patelnię po kurczaku dodaj 1 łyżkę oleju i cebulę i smaż ją 3-4 minuty aż nieco zmięknie. W tym czasie przygotuj mieszankę przypraw, którą masz na liście do sosu. Do usmażonej cebuli dodaj pokrojoną paprykę, 2 łyżki masła oraz mieszankę przypraw i smaż przez 2-3 minuty, po czym dodaj passatę pomidorową i gotuj dalej kolejne kilka minut.
+Teraz dodaj na patelnię śmietanę, wymieszaj i włóż do sosu usmażonego kurczaka. Wymieszaj i gotuj całość kolejne 5-7 minut.
+Danie jest już gotowe. Przekładaj je do miseczek i podawaj z ugotowanym ryżem, chlebkami naan, wszystko podane ze świeżymi listkami kolendry.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

@@ -1,0 +1,50 @@
+= Makaron ryżowy z kurczakiem i sosem miso 🐔
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 35 minut
+* 👥 4 porcje
+* 🔗 https://akademiasmaku.pl/przepis/makaron-ryzowy-z-kurczakiem-i-pasta-miso,4395[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+* 400 g - piersi kurczaka
+* 200 g - makaronu ryżowego
+* 2 łyżki - pasty miso
+* 1 - papryczka chilii
+* kawałek - korzenia imbiru (ok. 4 cm)
+* 2 łyżki - sezamu
+* 2 łyżki - sosu sojowego
+* 1/2 - limonki
+* 1/2 łyżeczki - cukru trzcinowego
+* 1 łyżka - oleju sezamowego
+* szczypiorek do podania
+
+== Przygotowanie
+
+Makaron ryżowy ugotuj zgodnie z instrukcją na opakowaniu, odcedź i odstaw.
+
+Kurczaka pokrój na małe około 2 cm kawałki.
+
+Na patelni lub w woku podgrzej olej, dodaj papryczkę chili, starty imbir, sezam i chwilkę podsmaż.
+
+Zmniejsz moc płyty grzewczej do minimum, dodaj pastę miso, sos sojowy i sok z połowy limonki oraz cukier. Mieszając, podgrzewaj na niezbyt dużej mocy palnika przez około minutę.
+
+Dodaj pokrojony filet i obsmaż z każdej strony przez ok. 2-3 minuty.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

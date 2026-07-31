@@ -9,8 +9,7 @@
 ++++
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260727_134850.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 30 minut
@@ -47,4 +46,7 @@ Sos można doprawić kwaśnym dodatkiem np. odrobiną soku z cytryny lub octu.
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+--
+image::20260727_123859.jpg[role="portrait"]
+image::20260727_134850.jpg[role="portrait"]
+--

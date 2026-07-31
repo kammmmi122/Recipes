@@ -21,7 +21,6 @@ image::20250528_183240.jpg[]
 
 * pieczywo, np. domowa focaccia
 * link:pieczony_filet_z_indyka.html[plasterki pieczonego indyka, opts=external, window=_blank]
-* plasterki pieczonego indyka
 * sałata, roszponka
 * żurawina ze słoiczka
 * ser (np. camembert, brie, kozi, pleśniowy)

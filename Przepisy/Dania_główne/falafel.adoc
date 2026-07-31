@@ -1,4 +1,4 @@
-= Falafel, humus 🌱
+= Falafel 🌱
 :imagesdir: /Recipes/static/images
 
 ++++

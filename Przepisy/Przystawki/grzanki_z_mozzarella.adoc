@@ -1,0 +1,48 @@
+= Grzanki z mozzarella 🌱
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 4 porcje
+* 🔗  https://aniagotuje.pl/przepis/grzanki-z-mozzarella[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* grubsze kromki ulubionego pieczywa 2 sztuki - 100 g
+* oliwa do grzanek 1 łyżka
+* pesto domowe lub ze sklepu 20 g
+* mozzarella z zalewy np. w kulkach 80 g
+* pomidor 120 g
+* listki bazylii do dekoracji kilka sztuk
+
+== Przygotowanie
+
+Do zrobienia grzanek możesz wykorzystać dowolne pieczywo: pszenne, pszenno-żytnie, jaglane, gryczane, a nawet owsiane. Pokrój chleb w grubsze kromki, najlepiej około 1,5 wysokości. Ustaw patelnię na średniej mocy i poczekaj, aż się nagrzeje. Gdy patelnia będzie gorąca, dodaj na nią oliwę lub olej do smażenia. Ja użyłam jednej łyżki oliwy, ale możesz dodać więcej, jeśli wolisz. Następnie ułóż kromki chleba na patelni. Kiedy grzanki zaczną delikatnie się rumienić, przewróć je na drugą stronę. Staraj się przesuwać je po powierzchni patelni, aby wchłonęły resztę tłuszczu.
+
+Kontynuuj "smażenie" aż do uzyskania złocistego koloru i chrupiącej skórki z obu stron. Możesz delikatnie dociskać kromki do patelni przy pomocy płaskiej szpatułki, aby równomiernie się zrumieniły. Grzanki powinny być chrupiące, ale nie przypalone. Czas potrzebny do ich idealnego wypieczenia zależy od mocy palnika, rodzaju patelni oraz pieczywa, którego używasz.
+
+W międzyczasie przygotuj składniki do grzanek. Dużego pomidora pokrój w grubsze plastry, które możesz pokroić w cienkie plasterki albo drobną kostkę. Około 80 g mozzarelli, czy to w małych kulkach, czy dużej kulce z zalewy, będzie idealne.
+
+Nie zapomnij też o pesto. Może być to całkowicie dowolne pesto bazyliowe czy też inne z kolendry albo pietruszki. Polecam pesto domowe, ale te dobrej jakości ze sklepu również się sprawdzą.
+
+Gotowe, najlepiej jeszcze ciepłe, grzanki zdejmij z patelni i zacznij na nich układać składniki.
+
+Na plastry pomidora wykładam po porcji pesto, a następnie kulki mozzarelli. Na górę jeszcze odrobina pesto, świeżo mielony pieprz, listki bazylii o
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

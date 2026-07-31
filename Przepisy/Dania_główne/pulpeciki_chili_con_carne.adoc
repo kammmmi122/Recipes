@@ -1,0 +1,51 @@
+= Pulpeciki chili con carne 🐖
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+image::20260719_183229.jpg[]
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 4 porcje
+* 🔗 https://www.kwestiasmaku.com/przepis/pulpeciki-chili-con-carne[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* 500 g mielonego mięsa wołowego lub wieprzowo - wołowego
+* przyprawy: sól, pieprz, po 1 łyżeczce suszonego oregano, papryki w proszku, kuminu i czosnku, 1/2 łyżeczki chili
+* 3 łyżki bułki tartej
+* 1 jajko
+* 2 łyżki oliwy
+* 1 cebula
+* 1 szklanka bulionu np. z eko kostki
+* 1 papryka
+* 1 puszka 400 g czerwonej fasoli
+* 1 puszka 400 g siekanych pomidorów
+
+== Przygotowanie
+
+Mielone mięso włożyć do miski, dodać przyprawy, bułkę tartą oraz jajko. Dokładnie wyrobić dłonią, następnie uformować malutkie pulpeciki.
+
+W szerokiej patelni, na oliwie obsmażyć pulpeciki na złoty kolor.
+
+Dodać pokrojoną w kosteczkę cebulę i smażyć dalej, co chwilę mieszając, aż cebula będzie szklista. Dodać bulion i zagotować. Przykryć i gotować przez ok. 10 minut.
+
+Dodać pokrojoną w kostkę paprykę i smażyć przez 2 - 3 minuty. Dodać fasolę z puszki oraz siekane pomidory. Wymieszać, zagotować, przykryć i gotować przez ok. 10 - 15 minut.
+
+Podawać z ryżem, awokado, limonką, śmietaną. Posypać świeżą kolendrą i posiekaną papryczką chili.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+--
+image::20260719_183229.jpg[role="portrait"]
+--

@@ -1,0 +1,44 @@
+= Ogórki po koreańsku 🌱
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 3 godziny
+* 👥 4 porcje
+* 🔗  https://kardamonowy.pl/ogorki-po-koreansku/[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* 4 większe ogórki gruntowe
+* 2 łyżki octu ryżowego
+* 1 łyżka oleju sezamowego
+* 1 większy ząbek czosnku
+* 2 łyżeczki cukru
+* 1 łyżeczka mielonej lub w płatkach chili Gochugaru (możecie dać na początek mniej)
+* 1 łyżeczka ziaren sezamu
+* 1 łyżeczka soli
+* 1 czubata łyżka poszatkowanej dymki (opcjonalnie)
+
+== Przygotowanie
+
+Ogórki dokładnie myjemy i kroimy w cienkie (ale nie za cienkie) plastry. Dodajemy do nich sól mieszamy i odstawiamy na sicie do odcieknięcia na jakieś 20 minut. Po tym czasie wykładamy je na ręcznik papierowy i wycieramy z nadmiaru wody.
+W misce łączymy ocet ryżowy (jeżeli nie macie tego rodzaju octu, dodajcie na przykład winny) z olejem sezamowym, wsypujemy do tego cukier, chili, sezam, dodajemy rozdrobniony ząbek czosnku, mieszamy. Na koniec dodajemy dymkę.
+Ogórki zalewamy powstałym sosem i odstawiamy do lodówki na minimum godzinę. Jeżeli ogórki są mało słone, można dodać do nich więcej soli.
+Ogórki po koreańsku świetnie sprawdzą się jako dodatek do obiadu czy do potraw z grilla. Dobrze wchodzą też bez niczego :).
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

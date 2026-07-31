@@ -1,0 +1,60 @@
+= Sernik 4 🌱
+:imagesdir: /Recipes/static/images
+
+++++
+<div class="recipe-header-actions">
+    <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
+    <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
+</div>
+++++
+
+[.recipe-hero]
+[.card-image-placeholder]
+Brak zdjęcia przepisu 🍲
+
+[.recipe-details]
+* 🕒 czas przygotowania: 10 minut
+* 🕒 czas gotowania: 1 godzina 20 minut
+* 👥 12 porcje
+* 🔗 https://aniagotuje.pl/przepis/prosty-sernik-bez-spodu-z-sera-z-wiaderka[link do źródła przepisu]
+
+[.recipe-columns]
+== Składniki
+
+* 1 kg mielonego twarogu np. gęsty z kubełka
+* 4 średnie jajka - około 240 g po rozbiciu
+* 200 g masła - 1 klasyczna kostka
+* 150 g cukru - około 3/4 szklanki
+* 1 saszetka budyniu waniliowego bez cukru - około 40 g
+
+== Przygotowanie
+
+Masę serową na sernik szykuje się super szybko, więc możesz zacząć nagrzewać piekarnik. Nagrzej piekarnik do 190 stopni z pieczeniem góra/dół. Jeśli masz piekarnik tylko z termoobiegiem, to ustaw temperaturę 175-180 stopni.
+
+Kostkę masła o wadze 200 gramów roztop w rondelku na minimalnej mocy lub w mikrofali. Nie doprowadzaj masła do wrzenia. Rondelek odstaw do przestudzenia.
+
+W misce umieść razem: ser twarogowy z wiaderka (Piątnica, Zott, czy Mlekovita) lub samodzielnie zmielony na gładko twaróg półtłusty; 4 jajka; roztopione i przestudzone masło (może być jeszcze lekko ciepłe); 150 gramów cukru (zwykły lub drobny); saszetkę proszku budyniowego bez cukru (waniliowy lub śmietankowy).
+
+Jeśli nie masz budyniu, to do masy możesz też dodać 40 g skrobi ziemniaczane plus płaską łyżeczkę pasty lub esencji waniliowej. Jeśli nie możesz spożywać glutenu, to szukaj budyniu tylko bezglutenowego. Często bowiem do proszku budyniowego dodawana jest mąka pszenna.
+
+Jeśli używasz rzadszego twarogu mielonego do serników, to zamiast jednej saszetki budyniu, możesz wsypać dwie.
+
+Porada: Jeśli chcesz, by sernik wyszedł bardziej puszysty, to oddziel żółtka od białek. Żółtka dodaj do masy serowej, zaś białka ubij osobno na sztywno. Wmieszaj je na koniec do gładkiej masy z pozostałych składników.
+
+Całość dobrze wymieszaj łyżką lub mikserem na niskich obrotach. Masę serową mieszaj krótko, tylko do połączenia składników. Ciasto powinno mieć konsystencję budyniu.
+
+Spód tortownicy o średnicy 24 cm wyłóż papierem do pieczenia. Gęste ciasto przełóż do tortownicy i wyrównaj powierzchnię. Pamiętaj o tym, że tortownica ma być od spodu wyłożona papierem do pieczenia. Boków tortownicy nie trzeba wykładać pergaminem. Nie ma też potrzeby natłuszczania rantów od wewnątrz, ponieważ masa serowa jest tłusta i po upieczeniu sernik sam odchodzi od brzegów formy. Można to jednak zrobić.
+
+Formę umieść w piekarniku nagrzanym do 190 stopni. Środkowa półka z grzaniem góra / dół. Po 20 minutach zmniejsz temperaturę do 150 stopni i piecz sernik kolejne 30 minut. Po tym czasie ustaw 120 stopni i piecz sernik ostatnie 30 minut. Po wyłączeniu piekarnika zostaw sernik w komorze pieca jeszcze na 10 minut. Potem stopniowo uchylaj drzwiczki coraz szerzej, aż wyjmiesz formę z pieca.
+
+Sernik może bardzo urosnąć i w połowie pieczenia lekko opadać. Dzięki stopniowemu zmniejszaniu temperatury w piekarniku zachowa jednak puszystą strukturę i lekkość. Podczas gwałtownego obniżenia temperatury dwutlenek węgla wypełniający ciasto kurczy się (postać gazowa) i ciasto zaczyna opadać (to normalne). Sernik potrzebuje niesamowicie powolnego obniżania temperatury.
+
+Po całkowitym przestudzeniu sernik umieść w lodówce na 4 godziny, a najlepiej na całą noc. Sernik podajemy po całkowitym schłodzeniu.
+
+Upieczony i schłodzony sernik można oprószyć cukrem pudrem lub oblać polewą czekoladową. Według mnie sernik bez spodu najsmaczniejszy jest dzień po upieczeniu. Trzymany w chłodzie (6-10 stopni, w lodówce) świeżość zachowa przynajmniej przez cztery dni.
+
+[.recipe-gallery]
+== Zdjęcia
+
+[.gallery-grid]
+// Tutaj pojawią się zdjęcia

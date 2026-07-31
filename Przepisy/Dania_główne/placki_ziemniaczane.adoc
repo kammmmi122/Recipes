@@ -25,6 +25,7 @@ image::20260115_185756.jpg[]
 * 1 jajko
 * sól
 * olej roślinny do smażenia
+* link:../Przystawki/sos_grzybowy.html[sos grzybowy, opts=external, window=_blank]
 
 == Przygotowanie
 
