@@ -9,8 +9,7 @@
 ++++
 
 [.recipe-hero]
-[.card-image-placeholder]
-Brak zdjęcia przepisu 🍲
+image::20260719_183229.jpg[]
 
 [.recipe-details]
 * 🕒 czas przygotowania: 3 godziny
@@ -29,7 +28,7 @@ Brak zdjęcia przepisu 🍲
 * 1 szklanka bulionu np. z eko kostki
 * 1 papryka
 * 1 puszka 400 g czerwonej fasoli
-* 1 puszka 400 g siekanch pomidorów
+* 1 puszka 400 g siekanych pomidorów
 
 == Przygotowanie
 
@@ -47,4 +46,6 @@ Podawać z ryżem, awokado, limonką, śmietaną. Posypać świeżą kolendrą i
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+--
+image::20260719_183229.jpg[role="portrait"]
+--
