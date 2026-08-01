@@ -141,9 +141,8 @@ def create_index_adoc():
 
                 # RATING
                 rating = extract_rating_from_adoc(recipe_full_path)
-                anchor_id = normalize_anchor_id(name)
                 rating_html = (
-                    f'<div class="card-rating" id="stars-{html.escape(anchor_id, quote=True)}">'
+                    f'<div class="card-rating">'
                     f'{build_star_html(rating)}'
                     f'<span class="sr-only">Ocena: {rating} z 5</span>'
                     f"</div>"
