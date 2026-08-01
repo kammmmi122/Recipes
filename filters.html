@@ -179,7 +179,7 @@
           activeFilters.length === 0 ||
           activeFilters.every((filter) => emojiText.includes(filter));
         const matchesRating =
-          activeRating === null || rating >= activeRating;
+          activeRating === null || rating === activeRating;
 
         card.style.display =
           matchesSearch && matchesFilters && matchesRating ? "" : "none";
