@@ -1,5 +1,7 @@
 = Makaron ryżowy z kurczakiem i sosem miso 🐔
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

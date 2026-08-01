@@ -1,5 +1,7 @@
 = Makaron penne z rukolą i oliwkami 🌱
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

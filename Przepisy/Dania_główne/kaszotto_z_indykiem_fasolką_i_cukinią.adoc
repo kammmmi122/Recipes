@@ -1,5 +1,7 @@
 = Kaszotto z indykiem, fasolką i cukinią 🐔
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">
