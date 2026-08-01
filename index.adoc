@@ -13,7 +13,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Arepas <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -23,7 +23,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Biała ryba na parze <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -33,7 +33,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231105_103826.jpg" alt="Bigos">
     <div class="card-content">
       <h3 class="card-title">Bigos <span class="card-emoji">🐖 🥩 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -43,7 +43,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Bułeczki baozi <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -53,7 +53,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Buraki po burgundzku <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -63,7 +63,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20230701_175706.jpg" alt="Burgerki">
     <div class="card-content">
       <h3 class="card-title">Burgerki <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -73,7 +73,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Burrito z chili con carne <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -83,7 +83,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240421_172701.jpg" alt="Butter chicken">
     <div class="card-content">
       <h3 class="card-title">Butter chicken <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -93,7 +93,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ceviche <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -103,7 +103,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chakalaka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -113,7 +113,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chana masala <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -123,7 +123,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chashu boczek <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -133,7 +133,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chili con carne <span class="card-emoji">🥩 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -143,7 +143,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciecierzyca po bretońsku <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -153,7 +153,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Confit z kaczki <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -163,7 +163,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Coxinha <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -173,7 +173,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Cukinia faszerowana <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -183,7 +183,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Cukinie z chili con carne <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -193,7 +193,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Curry z kalafiora <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -203,7 +203,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ćwiartki pieczone <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -213,7 +213,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dal z soczewicy z Sri Lanki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -223,7 +223,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dewolaje <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -233,7 +233,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250822_173944.jpg" alt="Domowa pizza">
     <div class="card-content">
       <h3 class="card-title">Domowa pizza <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -243,7 +243,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Domowa pizza 2 <span class="card-emoji"></span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -253,7 +253,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Domowy kebab <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -263,7 +263,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Domowy kebab 2 <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -273,7 +273,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dorada pieczona <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -283,7 +283,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dorsz pod śródziemnomorską kruszonką <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -293,7 +293,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dorsz w sosie curry <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -303,7 +303,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dorsz z porami <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -313,7 +313,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dziwne Łukaszkowe danie <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -323,7 +323,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Enchilada z kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -333,7 +333,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Falafel <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -343,7 +343,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Fasolka po bretońsku <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -353,7 +353,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Fish &amp; chips z sosem tatarskim <span class="card-emoji">🐟 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -363,7 +363,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Flaki <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -373,7 +373,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gołąbki <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -383,7 +383,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gołąbki bez zawijania <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -393,7 +393,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gołąbki wegetariańskie bez zawijania <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -403,7 +403,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gorący kociołek z tofu i grzybami <span class="card-emoji">🐖 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -413,7 +413,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250622_184733.jpg" alt="Greckie klopsiki w sosie pomidorowym">
     <div class="card-content">
       <h3 class="card-title">Greckie klopsiki w sosie pomidorowym <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -423,7 +423,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gulasz wołowy <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -433,7 +433,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gulasz z szynki <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -443,7 +443,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gyros <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -453,7 +453,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240517_111652.jpg" alt="Hotdogi z warzywkami">
     <div class="card-content">
       <h3 class="card-title">Hotdogi z warzywkami <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -463,7 +463,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaczka po pekińsku <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -473,7 +473,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaczka po wietnamsku <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -483,7 +483,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaczka w słodkiej soi <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -493,7 +493,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260608_190230.jpg" alt="Kaczka z jabłkami, żurawiną i rozmarynem">
     <div class="card-content">
       <h3 class="card-title">Kaczka z jabłkami, żurawiną i rozmarynem <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -503,7 +503,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaczka z pomarańczami <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -513,7 +513,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250725_180850.jpg" alt="Kalamaki z pitą">
     <div class="card-content">
       <h3 class="card-title">Kalamaki z pitą <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -523,7 +523,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260526_180705.jpg" alt="Kanapka z pieczonym indykiem">
     <div class="card-content">
       <h3 class="card-title">Kanapka z pieczonym indykiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -533,7 +533,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Karkówka po koreańsku <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -543,7 +543,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Karkówka smażona z przyprawami <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -553,7 +553,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240713_201623.jpg" alt="Kartacze">
     <div class="card-content">
       <h3 class="card-title">Kartacze <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -563,7 +563,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaszotto z grzybami leśnymi <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -573,7 +573,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaszotto z indykiem, fasolką i cukinią <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -583,7 +583,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kaszotto z kurkami <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -593,7 +593,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Klopsiki w sosie pieczeniowym <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -603,7 +603,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Klopsiki z pieczarkami w sosie pomidorowym <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -613,7 +613,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240822_190210.jpg" alt="Klopsy">
     <div class="card-content">
       <h3 class="card-title">Klopsy <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -623,7 +623,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kluski kładzione z warzywami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -633,7 +633,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kopytka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -643,7 +643,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kotlety z indyka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -653,7 +653,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Krewetki po luizjańsku <span class="card-emoji">🦐 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -663,7 +663,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Krewetki w panko <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -673,7 +673,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Krokiety z kapustą i grzybami <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -683,7 +683,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Krokiety z pieczarkami <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -693,7 +693,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kukurydziane placuszki z ryb i krewetek <span class="card-emoji">🐟 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -703,7 +703,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260621_181632.jpg" alt="Kurczak Generała Tso">
     <div class="card-content">
       <h3 class="card-title">Kurczak Generała Tso <span class="card-emoji">🐔 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -713,7 +713,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak hoisin <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -723,7 +723,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak kara-age <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -733,7 +733,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak kuchnia indyjska <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -743,7 +743,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak pollo asado <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -753,7 +753,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak po koreańsku <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -763,7 +763,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak tikka masala <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -773,7 +773,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240505_163520.jpg" alt="Kurczak w sosie śmietanowo-serowym">
     <div class="card-content">
       <h3 class="card-title">Kurczak w sosie śmietanowo-serowym <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -783,7 +783,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak w sosie śmietanowym <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -793,7 +793,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak z mozzarellą <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -803,7 +803,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak z nasionami lotosu <span class="card-emoji">🐔 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -813,7 +813,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kurczak z porami <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -823,7 +823,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Lasagne bolognese <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -833,7 +833,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Leczo <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -843,7 +843,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240429_172456.jpg" alt="Leczo wegetariańskie">
     <div class="card-content">
       <h3 class="card-title">Leczo wegetariańskie <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -853,7 +853,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Łatwe kimchi <span class="card-emoji">🌱 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -863,7 +863,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Łosoś pieczony w pergaminie <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -873,7 +873,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Łosoś teriyaki <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -883,7 +883,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240911_131337.jpg" alt="Łosoś z koperkiem i porem">
     <div class="card-content">
       <h3 class="card-title">Łosoś z koperkiem i porem <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -893,7 +893,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Łosoś z sosem koperkowym <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -903,7 +903,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260620_223050.jpg" alt="Mielone kalafiorowe">
     <div class="card-content">
       <h3 class="card-title">Mielone kalafiorowe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -913,7 +913,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Mięso wieprzowe mielone tantanmen-style <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -923,7 +923,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Mix warzyw na halibucie <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -933,7 +933,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Naleśniki z kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -943,7 +943,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nugetsy z kurczaka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -953,7 +953,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pad gra prow z wołowiną <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -963,7 +963,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240119_201437.jpg" alt="Paella">
     <div class="card-content">
       <h3 class="card-title">Paella <span class="card-emoji">🐟 🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -973,7 +973,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Paella z kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -983,7 +983,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Palak paneer <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -993,7 +993,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Paluszki rybne <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1003,7 +1003,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pałki z kurczaka pieczone <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1013,7 +1013,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Papryka faszerowana <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1023,7 +1023,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Parmigiana z kurczaka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1033,7 +1033,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241228_223850.jpg" alt="Pasztet">
     <div class="card-content">
       <h3 class="card-title">Pasztet <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1043,7 +1043,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pasztet z białej fasoli <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1053,7 +1053,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pęczotto z burakami i kozim serem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1063,7 +1063,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pieczone udko gęsi <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1073,7 +1073,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pieczony filet z indyka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1083,7 +1083,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241026_124801.jpg" alt="Pieczony kalafior z ciecierzycą">
     <div class="card-content">
       <h3 class="card-title">Pieczony kalafior z ciecierzycą <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1093,7 +1093,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierogi gyoza <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1103,7 +1103,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierogi gyoza 2 <span class="card-emoji">🐔 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1113,7 +1113,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240719_200034.jpg" alt="Pierogi leniwe">
     <div class="card-content">
       <h3 class="card-title">Pierogi leniwe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1123,7 +1123,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241217_170950.jpg" alt="Pierogi z jagodami">
     <div class="card-content">
       <h3 class="card-title">Pierogi z jagodami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1133,7 +1133,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierogi z kapustą i grzybami <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1143,7 +1143,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierogi z mięsem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1153,7 +1153,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Piersi w porach <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1163,7 +1163,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierś z kaczki <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1173,7 +1173,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pierś z kaczki z sosem pomarańczowym <span class="card-emoji">🦆</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1183,7 +1183,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Placek po węgiersku <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1193,7 +1193,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260115_185756.jpg" alt="Placki ziemniaczane">
     <div class="card-content">
       <h3 class="card-title">Placki ziemniaczane <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1203,7 +1203,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240725_185950.jpg" alt="Placki z cukinii">
     <div class="card-content">
       <h3 class="card-title">Placki z cukinii <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1213,7 +1213,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Podudzia z kurczaka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1223,7 +1223,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Potrawka z udka kurczaka z warzywami <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1233,7 +1233,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pstrąg pieczony w całości <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1243,7 +1243,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260719_183229.jpg" alt="Pulpeciki chili con carne">
     <div class="card-content">
       <h3 class="card-title">Pulpeciki chili con carne <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1253,7 +1253,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pulpety w sosie koperkowym <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1263,7 +1263,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Quesadilla <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1273,7 +1273,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Quesadilla 2 <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1283,7 +1283,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Quesadilla 3 <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1293,7 +1293,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Quesadilla 4 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1303,7 +1303,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Quinotto z czerwoną fasolą i papryką <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1313,7 +1313,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ratatuj <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1323,7 +1323,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Risotto <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1333,7 +1333,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Risotto primavera <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1343,7 +1343,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Risotto z szpinakiem i krewetkami <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1353,7 +1353,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Roladki z kurczaka z serem i papryką pieczone w boczku <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1363,7 +1363,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Roladki z kurczaka z serem, pieczarkami pieczone w boczku <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1373,7 +1373,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Rou Jia Mo <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1383,7 +1383,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ryba z brzoskwiniami <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1393,7 +1393,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250213_222316.jpg" alt="Ryba z porami">
     <div class="card-content">
       <h3 class="card-title">Ryba z porami <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1403,7 +1403,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ryż z krewetkami na ostro <span class="card-emoji">🦐 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1413,7 +1413,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ryż z warzywami chińskimi i kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1423,7 +1423,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240502_181440.jpg" alt="Sajgonki">
     <div class="card-content">
       <h3 class="card-title">Sajgonki <span class="card-emoji">🐖 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1433,7 +1433,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Schabowy własnym w sosie z cebulą <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1443,7 +1443,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Schabowy ze schabu <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1453,7 +1453,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Schabowy z kurczaka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1463,7 +1463,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Schab nadziewany mozzarellą i pieczarkami <span class="card-emoji">🐖 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1473,7 +1473,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Seleryba <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1483,7 +1483,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ser camembert z sałatką <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1493,7 +1493,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Skrzydełka w miodzie <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1503,7 +1503,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Stek z sosem béarnaise i szparagami <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1513,7 +1513,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Surówka z kapusty pekińskiej <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1523,7 +1523,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260216_161053.jpg" alt="Szare kluski ze skwarkami">
     <div class="card-content">
       <h3 class="card-title">Szare kluski ze skwarkami <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1533,7 +1533,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Szarpana wieprzowina <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1543,7 +1543,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260616_235513.jpg" alt="Szaszłyki z kurczakiem">
     <div class="card-content">
       <h3 class="card-title">Szaszłyki z kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1553,7 +1553,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sztuka mięsa łee <span class="card-emoji">🐖 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1563,7 +1563,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Szwedzkie klopsiki <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1573,7 +1573,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Szynka w galarecie na święta <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1583,7 +1583,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Śledzie po „kaszubsku” <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1593,7 +1593,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Śledziki z rodzynkami <span class="card-emoji">🐟 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1603,7 +1603,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Śledź pod pierzynką <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1613,7 +1613,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tacos al pastor <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1623,7 +1623,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tacos con pollo <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1633,7 +1633,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tortilki ser bekon ala KFC <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1643,7 +1643,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250809_202330.jpg" alt="Tortille">
     <div class="card-content">
       <h3 class="card-title">Tortille <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1653,7 +1653,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240824_174832.jpg" alt="Warzywka z piekarnika">
     <div class="card-content">
       <h3 class="card-title">Warzywka z piekarnika <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1663,7 +1663,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wątróbka <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1673,7 +1673,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wegeburgerki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1683,7 +1683,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wieprzowina char siu <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1693,7 +1693,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wieprzowina po chińsku <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1703,7 +1703,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wieprzowina po chińsku z mango <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1713,7 +1713,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wieprzowina z kurczakiem w sosie adobo <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1723,7 +1723,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wołowina po burgundzku <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1733,7 +1733,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka łukaszkowa <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1743,7 +1743,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka makaronowa <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1753,7 +1753,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka makaronowa ze szparagami <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1763,7 +1763,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka makaronowa 2 <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1773,7 +1773,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka meklemburska <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1783,7 +1783,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka pasterska <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1793,7 +1793,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka ziemniaczana <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1803,7 +1803,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanka z łososiem <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1813,7 +1813,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekanki <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1823,7 +1823,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zielone curry z groszkiem cukrowym <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1833,7 +1833,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ziemniaki faszerowane <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1843,7 +1843,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zrazy wołowe <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1853,7 +1853,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Żeberka w miodzie <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1863,7 +1863,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Babeczki z truskawkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1873,7 +1873,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Babka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1883,7 +1883,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Babka 2 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1893,7 +1893,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250724_215629.jpg" alt="Baklava">
     <div class="card-content">
       <h3 class="card-title">Baklava <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1903,7 +1903,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Biszkopt <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1913,7 +1913,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Biszkopt makowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1923,7 +1923,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Brownie <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1933,7 +1933,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Budyniowiec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1943,7 +1943,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240823_130801.jpg" alt="Bułki cynamonowe">
     <div class="card-content">
       <h3 class="card-title">Bułki cynamonowe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1953,7 +1953,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chatka Puchatka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1963,7 +1963,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240519_085941.jpg" alt="Chlebek bananowy">
     <div class="card-content">
       <h3 class="card-title">Chlebek bananowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1973,7 +1973,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chrusty <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1983,7 +1983,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20251230_232420.jpg" alt="Ciastka z maszynki">
     <div class="card-content">
       <h3 class="card-title">Ciastka z maszynki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -1993,7 +1993,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240820_080359.jpg" alt="Ciasto drożdżowe ze śliwkami">
     <div class="card-content">
       <h3 class="card-title">Ciasto drożdżowe ze śliwkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2003,7 +2003,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto drożdżowe z gruszką i żurawiną <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2013,7 +2013,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260216_222222.jpg" alt="Ciasto kokosowe z borówkami amerykańskimi">
     <div class="card-content">
       <h3 class="card-title">Ciasto kokosowe z borówkami amerykańskimi <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2023,7 +2023,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto marchewkowe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2033,7 +2033,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto orzechowe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2043,7 +2043,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto orzechowe z pianką <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2053,7 +2053,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto palce lizać <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2063,7 +2063,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240512_223800.jpg" alt="Ciasto porzeczkowiec">
     <div class="card-content">
       <h3 class="card-title">Ciasto porzeczkowiec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2073,7 +2073,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ciasto z wiśniami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2083,7 +2083,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Faworki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2093,7 +2093,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20251109_210926.jpg" alt="Fluffy pancakes">
     <div class="card-content">
       <h3 class="card-title">Fluffy pancakes <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2103,7 +2103,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Gofry <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2113,7 +2113,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Jabłecznik <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2123,7 +2123,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Jabłecznik 2 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2133,7 +2133,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250606_192348.jpg" alt="Jogurt grecki z miodem i orzechami">
     <div class="card-content">
       <h3 class="card-title">Jogurt grecki z miodem i orzechami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2143,7 +2143,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231210_184321.jpg" alt="Kokosanka">
     <div class="card-content">
       <h3 class="card-title">Kokosanka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2153,7 +2153,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kokosowy jabłecznik <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2163,7 +2163,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kruche rogaliki z jabłkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2173,7 +2173,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240329_212500.jpg" alt="Makowiec">
     <div class="card-content">
       <h3 class="card-title">Makowiec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2183,7 +2183,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Metrowiec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2193,7 +2193,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Muffinki z malinami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2203,7 +2203,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Muffiny (Pasteis de Belém) <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2213,7 +2213,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Murzynek z wiśniami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2223,7 +2223,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Naleśniki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2233,7 +2233,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Oponki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2243,7 +2243,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pączki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2253,7 +2253,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pączki 2 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2263,7 +2263,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Picarones <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2273,7 +2273,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231220_075016.jpg" alt="Pierniczki">
     <div class="card-content">
       <h3 class="card-title">Pierniczki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2283,7 +2283,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Placek Izy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2293,7 +2293,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Placek z jabłkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2303,7 +2303,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pleśniak <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2313,7 +2313,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ptasie mleczko <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2323,7 +2323,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Racuchy z jabłkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2333,7 +2333,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Rafaello <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2343,7 +2343,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Rogaliki na szybko <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2353,7 +2353,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Serniko - makowiec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2363,7 +2363,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231006_223932.jpg" alt="Sernik">
     <div class="card-content">
       <h3 class="card-title">Sernik <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2373,7 +2373,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240430_144110.jpg" alt="Sernik na zimno">
     <div class="card-content">
       <h3 class="card-title">Sernik na zimno <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2383,7 +2383,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik nowojorski <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2393,7 +2393,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik szarpaniec <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2403,7 +2403,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241227_221828.jpg" alt="Sernik tradycyjny">
     <div class="card-content">
       <h3 class="card-title">Sernik tradycyjny <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2413,7 +2413,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik z brzoskwiniami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2423,7 +2423,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik z Sochaczewa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2433,7 +2433,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik 2 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2443,7 +2443,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik 3 (od Ewy gotuje) <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2453,7 +2453,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sernik 4 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2463,7 +2463,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20251230_232429.jpg" alt="Skyrnik">
     <div class="card-content">
       <h3 class="card-title">Skyrnik <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2473,7 +2473,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Szarlotka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2483,7 +2483,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Szybki piernik <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2493,7 +2493,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tarta bananowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2503,7 +2503,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tort <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2513,7 +2513,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240511_114847.jpg" alt="Tort czekoladowy">
     <div class="card-content">
       <h3 class="card-title">Tort czekoladowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2523,7 +2523,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260530_165936.jpg" alt="Tort kinder">
     <div class="card-content">
       <h3 class="card-title">Tort kinder <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2533,7 +2533,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240530_115143.jpg" alt="Tort Raffaello">
     <div class="card-content">
       <h3 class="card-title">Tort Raffaello <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2543,7 +2543,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240427_110531.jpg" alt="Tort truskawkowy">
     <div class="card-content">
       <h3 class="card-title">Tort truskawkowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2553,7 +2553,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tort węgierski <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2563,7 +2563,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Wiśniowy paj <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2573,7 +2573,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">3 bit <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2583,7 +2583,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Biangbiang z żeberkami <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2593,7 +2593,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260625_220856.jpg" alt="Bucatini alla amatriciana">
     <div class="card-content">
       <h3 class="card-title">Bucatini alla amatriciana <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2603,7 +2603,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Cannelloni <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2613,7 +2613,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Mac n cheese <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2623,7 +2623,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260208_173830.jpg" alt="Makaron aglio olio z pomidorkami">
     <div class="card-content">
       <h3 class="card-title">Makaron aglio olio z pomidorkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2633,7 +2633,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260529_185420.jpg" alt="Makaron azjatycki z pikantną wołowiną">
     <div class="card-content">
       <h3 class="card-title">Makaron azjatycki z pikantną wołowiną <span class="card-emoji">🥩 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2643,7 +2643,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron carbonara <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2653,7 +2653,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron chiński z krewetkami <span class="card-emoji">🦐 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2663,7 +2663,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron penne z rukolą i oliwkami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2673,7 +2673,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron ryżowy z kurczakiem i sosem miso <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2683,7 +2683,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron w sosie słodko-kwaśnym <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2693,7 +2693,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250118_150249.jpg" alt="Makaron zapiekany z boczkiem i cukinią">
     <div class="card-content">
       <h3 class="card-title">Makaron zapiekany z boczkiem i cukinią <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2703,7 +2703,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron ze szpinakiem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2713,7 +2713,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron ze szpinakiem i anchois <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2723,7 +2723,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z brokułami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2733,7 +2733,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z cukinią i bakłażanem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2743,7 +2743,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z krewetkami <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2753,7 +2753,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z łososiem i serkiem <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2763,7 +2763,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241007_174207.jpg" alt="Makaron z pesto">
     <div class="card-content">
       <h3 class="card-title">Makaron z pesto <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2773,7 +2773,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z pieczonymi pomidorami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2783,7 +2783,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron z pulpecikami <span class="card-emoji">🐖 🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2793,7 +2793,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Noodle z krewetkami po koreańsku <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2803,7 +2803,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Noodle z mielonym mięsem drobiowym <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2813,7 +2813,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pad thai <span class="card-emoji">🐔 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2823,7 +2823,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231219_152132.jpg" alt="Pasta alla norma">
     <div class="card-content">
       <h3 class="card-title">Pasta alla norma <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2833,7 +2833,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pesto alla trapanese <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2843,7 +2843,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ragu alla bolognese <span class="card-emoji">🥩</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2853,7 +2853,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260506_195759.jpg" alt="Spaghetti bolognese">
     <div class="card-content">
       <h3 class="card-title">Spaghetti bolognese <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2863,7 +2863,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Spaghetti napoli <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2873,7 +2873,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Spaghetti pomodoro <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2883,7 +2883,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Biała domowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2893,7 +2893,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Grzyby marynowane <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2903,7 +2903,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kompot czereśniowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2913,7 +2913,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nalewka cytrynowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2923,7 +2923,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nalewka gruszkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2933,7 +2933,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nalewka jabłkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2943,7 +2943,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nalewka malinowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2953,7 +2953,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nalewka mango <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2963,7 +2963,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240531_084134.jpg" alt="Nalewka z kwiatów bzu">
     <div class="card-content">
       <h3 class="card-title">Nalewka z kwiatów bzu <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2973,7 +2973,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Papryka konserwowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2983,7 +2983,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Pieczarki w zalewie pomidorowej <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -2993,7 +2993,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Bułeczki czosnkowe <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3003,7 +3003,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Chipsy ze skóry kurczaka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3013,7 +3013,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Curry tare <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3023,7 +3023,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Feta zapiekana w cieście filo na słodko <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3033,7 +3033,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Goma tare <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3043,7 +3043,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20241225_131152.jpg" alt="Granola z owocami i jogurtem">
     <div class="card-content">
       <h3 class="card-title">Granola z owocami i jogurtem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3053,7 +3053,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Grzanki z mozzarella <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3063,7 +3063,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Guacamole <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3073,7 +3073,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Hummus <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3083,7 +3083,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Jajecznica <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3093,7 +3093,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ketchup <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3103,7 +3103,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kimchi tare <span class="card-emoji">🌱 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3113,7 +3113,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Krem z bitej śmietany <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3123,7 +3123,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Labneh <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3133,7 +3133,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Lobster roll <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3143,7 +3143,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaron ramen <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3153,7 +3153,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Marynowane shitake <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3163,7 +3163,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Menma (fermentowane pędy bambusa) <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3173,7 +3173,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Nitamago <span class="card-emoji"></span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3183,7 +3183,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260110_233721.jpg" alt="Nocna owsianka">
     <div class="card-content">
       <h3 class="card-title">Nocna owsianka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3193,7 +3193,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Ogórki po koreańsku <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3203,7 +3203,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Olej chili <span class="card-emoji">🌱 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3213,7 +3213,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Olej nori <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3223,7 +3223,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Olej z palonego czosnku <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3233,7 +3233,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Panini <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3243,7 +3243,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250918_222858.jpg" alt="Pasta z makreli">
     <div class="card-content">
       <h3 class="card-title">Pasta z makreli <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3253,7 +3253,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20251123_184210.jpg" alt="Pita">
     <div class="card-content">
       <h3 class="card-title">Pita <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3263,7 +3263,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Polewa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3273,7 +3273,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Rogale <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3283,7 +3283,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Roladki tortilowe <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3293,7 +3293,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Rozczyn <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3303,7 +3303,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Salsa pomidorowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3313,7 +3313,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Shoyu tare <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3323,7 +3323,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Soft shell crab w tempurze <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3333,7 +3333,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sos do mięsa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3343,7 +3343,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sos do pizzy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3353,7 +3353,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sos do sznycla <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3363,7 +3363,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260727_134850.jpg" alt="Sos grzybowy">
     <div class="card-content">
       <h3 class="card-title">Sos grzybowy <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3373,7 +3373,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sos teriyaki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3383,7 +3383,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sos waniliowy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3393,7 +3393,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sól ziołowa domowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3403,7 +3403,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Spicy miso tare <span class="card-emoji">🌱 🔥</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3413,7 +3413,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Syrop <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3423,7 +3423,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231216_212653.jpg" alt="Tatar ze śledzia">
     <div class="card-content">
       <h3 class="card-title">Tatar ze śledzia <span class="card-emoji">🐟 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3433,7 +3433,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20250713_180058.jpg" alt="Tortille placki">
     <div class="card-content">
       <h3 class="card-title">Tortille placki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3443,7 +3443,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tzatiki <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3453,7 +3453,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231119_165036.jpg" alt="Wegański tatar">
     <div class="card-content">
       <h3 class="card-title">Wegański tatar <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3463,7 +3463,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Makaronowa sałatka warstwowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3473,7 +3473,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka cezar <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3483,7 +3483,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka grecka <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3493,7 +3493,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka gyros <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3503,7 +3503,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka Henryka <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3513,7 +3513,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka japońska z krewetkami <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3523,7 +3523,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka meksykańska <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3533,7 +3533,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałata na zimę <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3543,7 +3543,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka warstwowa z szynką, jajkiem i serem żółtym <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3553,7 +3553,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z krewetkami <span class="card-emoji">🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3563,7 +3563,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałata z kurczakiem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3573,7 +3573,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z kurczakiem i ananasem <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3583,7 +3583,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260606_201355.jpg" alt="Sałatka z kurczakiem i pomarańczą">
     <div class="card-content">
       <h3 class="card-title">Sałatka z kurczakiem i pomarańczą <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3593,7 +3593,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z łososiem i mozzarellą <span class="card-emoji">🐟</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3603,7 +3603,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z mango i awokado <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3613,7 +3613,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z rukolą, granatem i pomarańczą <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3623,7 +3623,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z sałatą lodową, suszonymi pomidorami i fetą <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3633,7 +3633,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3643,7 +3643,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tabbouleh, sałatka z bulgurem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">★★★★☆</span><span class="sr-only">Ocena: 4 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">★★★★☆</span></div>
     </div>
   </a>
 </article>
@@ -3653,7 +3653,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Dashi shoyu ramen <span class="card-emoji">🐟 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3663,7 +3663,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Francuska zupa cebulowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3673,7 +3673,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Hiszpańska zupa z ciecierzycy <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3683,7 +3683,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Kinoko ramen <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3693,7 +3693,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260223_175028.jpg" alt="Miso ramen">
     <div class="card-content">
       <h3 class="card-title">Miso ramen <span class="card-emoji">🐔 🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3703,7 +3703,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260418_194636.jpg" alt="Pieczony krem z pomidorów">
     <div class="card-content">
       <h3 class="card-title">Pieczony krem z pomidorów <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3713,7 +3713,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20230416_155911.jpg" alt="Shoyu ramen">
     <div class="card-content">
       <h3 class="card-title">Shoyu ramen <span class="card-emoji">🐔 🐖 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3723,7 +3723,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260613_171601.jpg" alt="Tantanmen ramen">
     <div class="card-content">
       <h3 class="card-title">Tantanmen ramen <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3733,7 +3733,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Tonkotsu ramen <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3743,7 +3743,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20260416_185530.jpg" alt="Tori dashi miso ramen">
     <div class="card-content">
       <h3 class="card-title">Tori dashi miso ramen <span class="card-emoji">🐔 🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3753,7 +3753,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zapiekany rosół <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3763,7 +3763,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa barszcz z uszkami <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3773,7 +3773,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa brokułowa z ryżem i koperkiem <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3783,7 +3783,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20231021_193002.jpg" alt="Zupa buraczkowa">
     <div class="card-content">
       <h3 class="card-title">Zupa buraczkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3793,7 +3793,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa fasolkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3803,7 +3803,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa fasolowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3813,7 +3813,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa grochowa 2 <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3823,7 +3823,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa grochówka <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3833,7 +3833,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa grzybowa 2 <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3843,7 +3843,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa grzybowa 50 złotych grzybów <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3853,7 +3853,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa kalafiorowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3863,7 +3863,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa klopsowa <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3873,7 +3873,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa krem z groszku z grzankami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3883,7 +3883,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa krem z marchewki z grzankami <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3893,7 +3893,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa krem z szparagów <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3903,7 +3903,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa krupnik <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3913,7 +3913,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa kurkowa z makaronem <span class="card-emoji">🌱 🍄‍🟫</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3923,7 +3923,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa minestrone <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3933,7 +3933,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa ogórkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3943,7 +3943,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa pieczarkowa <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3953,7 +3953,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa pomidorowa <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3963,7 +3963,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa rosół <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3973,7 +3973,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa serkowa z klopsami <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3983,7 +3983,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa tajska <span class="card-emoji">🐔</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -3993,7 +3993,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa tajska z owocami morza <span class="card-emoji">🐟 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -4003,7 +4003,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa warzywna <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -4013,7 +4013,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zupa z cukinii <span class="card-emoji">🌱</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -4023,7 +4023,7 @@ include::filters.html[]
     <img class="card-image" src="/Recipes/static/images/20240329_154743.jpg" alt="Zupa żurek z białą kiełbasą">
     <div class="card-content">
       <h3 class="card-title">Zupa żurek z białą kiełbasą <span class="card-emoji">🐖</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
@@ -4033,7 +4033,7 @@ include::filters.html[]
     <div class="card-image card-image-placeholder">Brak zdjęcia</div>
     <div class="card-content">
       <h3 class="card-title">Zuppa di pesce <span class="card-emoji">🐟 🦐</span></h3>
-      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span><span class="sr-only">Ocena: 0 z 5</span></div>
+      <div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div>
     </div>
   </a>
 </article>
