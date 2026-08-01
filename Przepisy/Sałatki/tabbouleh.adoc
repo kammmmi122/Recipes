@@ -1,5 +1,6 @@
 = Tabbouleh 🌱
 :imagesdir: /Recipes/static/images
+:rating: 4
 
 ++++
 <div class="recipe-header-actions">

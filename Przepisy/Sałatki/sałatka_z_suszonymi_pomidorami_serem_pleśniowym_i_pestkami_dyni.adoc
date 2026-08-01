@@ -1,5 +1,7 @@
 = Sałatka z suszonymi pomidorami, serem pleśniowym i pestkami dyni 🌱
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

@@ -1,5 +1,7 @@
 = Zupa grzybowa 50 złotych grzybów 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

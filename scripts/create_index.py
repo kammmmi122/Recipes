@@ -17,11 +17,12 @@ category_colors = {
 
 
 def in_path(path):
-    in_path_var = False
+    """Sprawdza, czy ścieżka zawiera ukryte lub niepożądane foldery."""
+    norm_path = path.replace("\\", "/")
     for var in [".git", "static", "scripts"]:
-        if var in path:
-            in_path_var = True
-    return in_path_var
+        if f"/{var}" in norm_path or norm_path.startswith(f"./{var}"):
+            return True
+    return False
 
 
 def find_last_image(recipe_path):
@@ -51,57 +52,61 @@ def get_value(char):
 
 
 def extract_title_from_adoc(recipe_path, fallback_title):
-    """Wyciąga tytuł z nagłówka H1 (= Tytuł) i usuwa z niego symbole emoji."""
     try:
         with open(recipe_path, "r", encoding="utf8") as file:
             for line in file:
-                # Szukamy linii zaczynającej się od '= '
                 if line.startswith("= "):
                     raw_title = line.replace("= ", "").strip()
-                    # Usuwamy z tytułu zdefiniowane symbole emoji
                     for symbol in symbols:
                         raw_title = raw_title.replace(symbol, "")
-                    # Czyścimy podwójne spacje, jeśli jakieś zostały po usunięciu emoji
                     return re.sub(r"\s+", " ", raw_title).strip()
     except Exception:
         pass
     return fallback_title
 
 
+def extract_rating_from_adoc(recipe_path, default=0):
+    try:
+        with open(recipe_path, "r", encoding="utf8") as file:
+            for line in file:
+                match = re.match(r"^:rating:\s*(\d+)\s*$", line)
+                if match:
+                    rating = int(match.group(1))
+                    return max(0, min(rating, 5))
+    except Exception:
+        pass
+    return default
+
+
+def build_star_html(rating, max_stars=5):
+    stars = "".join("★" if i < rating else "☆" for i in range(max_stars))
+    return f'<span class="star-rating">{html.escape(stars)}</span>'
+
+
 def create_index_adoc():
+    with open("index.adoc", "w", encoding="utf8") as file:
+        file.write("= Moje przepisy\n\n")
+        file.write("++++\n")
+        file.write("include::filters.html[]\n")
+        file.write("++++\n\n")
 
-    # HEADER
-    with open(f"index.adoc", "w", encoding="utf8") as file:
-        file.write("= Moje przepisy\n")
-        file.write("\n++++\ninclude::filters.html[]\n++++\n")
-
-    # WALK THROUGH FOLDERS
     for path, subdirs, files in os.walk("."):
+        if in_path(path):
+            continue
+
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
         folder_name = path.split("\\")[-1].replace("_", " ")
 
         cards = []
 
-        # BUILD CARDS
         for name in files:
-            if name.endswith("adoc") and name != "index.adoc":
-
+            if name.endswith(".adoc") and name != "index.adoc":
                 recipe_full_path = os.path.join(path, name)
+                path_to_html = os.path.join(path.replace(".\\", ""), name.replace(".adoc", ".html")).replace("\\", "/")
+                fallback_title = name.replace("_", " ").capitalize().replace(".adoc", "")
 
-                # URL
-                path_to_html = os.path.join(
-                    path.replace(".\\", ""), name.replace("adoc", "html")
-                ).replace("\\", "/")
-
-                # FALLBACK TITLE (z nazwy pliku)
-                fallback_title = (
-                    name.replace("_", " ").capitalize().replace(".adoc", "")
-                )
-
-                # EXTRACT ACTUAL TITLE FROM H1
                 title = extract_title_from_adoc(recipe_full_path, fallback_title)
 
-                # EMOJI TAGS
                 tags = []
                 try:
                     with open(recipe_full_path, "r", encoding="utf8") as recipe_file:
@@ -110,55 +115,51 @@ def create_index_adoc():
                             if symbol in recipe_text:
                                 tags.append(symbol)
                 except Exception:
-                    recipe_text = ""
+                    pass
                 emoji_html = " ".join(tags)
 
-                # IMAGE
+                rating = extract_rating_from_adoc(recipe_full_path)
+                rating_html = f'<div class="card-rating">{build_star_html(rating)}</div>'
+
                 image_path = find_last_image(recipe_full_path)
-                full_image_path = (
-                    os.path.join("/Recipes/static/images/", image_path)
-                    if image_path
-                    else None
-                )
+                full_image_path = f"/Recipes/static/images/{image_path}" if image_path else None
+
                 if full_image_path:
-                    image_html = (
-                        f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" '
-                        f'alt="{html.escape(title)}">'
-                    )
+                    image_html = f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" alt="{html.escape(title)}">'
                 else:
                     image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
 
-                # CATEGORY LABEL (colored in CSS/JS)
+                top_category = folder_name.split("/")[0] if "/" in folder_name else folder_name
+
                 category_label = (
-                    f'<div class="card-category-label" style="background:{category_colors.get(folder_name, "#999")}">'
-                    f'{html.escape(folder_name)}'
-                    f'</div>'
+                    f'<div class="card-category-label" style="background:{category_colors.get(top_category, "#999")}">'
+                    f"{html.escape(folder_name)}</div>"
                 )
 
-                # CARD HTML
                 card_html = (
-                    f'<article class="card" data-category="{html.escape(folder_name)}">'
+                    f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}">'
                     f'<a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">'
-                    f'{category_label}'
-                    f'{image_html}'
+                    f"{category_label}"
+                    f"{image_html}"
                     f'<div class="card-content">'
-                    f'<h3 class="card-title">{html.escape(title)} '
+                    f'<h3 class="card-title">{html.escape(title)}'
                     f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>'
-                    f'</div>'
-                    f'</a>'
-                    f'</article>'
+                    f"{rating_html}"
+                    f"</div>"
+                    f"</a>"
+                    f"</article>"
                 )
 
                 cards.append(card_html)
 
-        # WRITE CARDS FOR THIS CATEGORY
+        # Write section for this folder if it has recipes
         if cards:
-            with open(f"index.adoc", "a+", encoding="utf8") as file:
+            with open("index.adoc", "a+", encoding="utf8") as file:
                 file.write("++++\n")
                 file.write('<div class="cards-wrapper">\n')
                 file.write('<div class="cards-grid">\n')
                 for c in cards:
-                    file.write(c + "\n")
+                    file.write(f"{c}\n")
                 file.write("</div>\n")
                 file.write("</div>\n")
                 file.write("++++\n")

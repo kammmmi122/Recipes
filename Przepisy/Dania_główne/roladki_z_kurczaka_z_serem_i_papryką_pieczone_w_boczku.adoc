@@ -1,5 +1,7 @@
 = Roladki z kurczaka z serem i papryką pieczone w boczku 🐔
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

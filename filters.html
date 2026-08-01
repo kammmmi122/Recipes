@@ -100,6 +100,15 @@
     <button data-filter="🔥">🔥 Ostro</button>
     <button data-filter="all">Wszystkie</button>
   </div>
+  <div class="tabs rating-tabs" role="tablist" aria-label="Filtry oceny">
+    <button data-rating="all">Wszystkie oceny</button>
+    <button data-rating="5">★★★★★</button>
+    <button data-rating="4">★★★★+</button>
+    <button data-rating="3">★★★+</button>
+    <button data-rating="2">★★+</button>
+    <button data-rating="1">★+</button>
+    <button data-rating="0">☆</button>
+  </div>
   <div class="controls">
     <input
       id="search"
@@ -113,9 +122,11 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const tabs = Array.from(document.querySelectorAll(".tabs button"));
+    const tabs = Array.from(document.querySelectorAll(".tabs:not(.rating-tabs) button"));
+    const ratingTabs = Array.from(document.querySelectorAll(".rating-tabs button"));
     const searchInput = document.querySelector("#search");
     const allButton = tabs.find((t) => t.dataset.filter === "all");
+    const allRatingButton = ratingTabs.find((t) => t.dataset.rating === "all");
 
     const noResultsMessage = document.createElement("div");
     noResultsMessage.className = "no-results-message";
@@ -137,9 +148,19 @@
         .map((tab) => (tab.dataset.filter || "").trim().toLowerCase());
     }
 
+    function getActiveRatingFilter() {
+      const active = ratingTabs.find(
+        (tab) =>
+          tab.classList.contains("active") &&
+          (tab.dataset.rating || "").trim() !== "all",
+      );
+      return active ? parseInt(active.dataset.rating, 10) : null;
+    }
+
     function applyFilters() {
       const q = ((searchInput && searchInput.value) || "").toLowerCase().trim();
       const activeFilters = getActiveFilters();
+      const activeRating = getActiveRatingFilter();
 
       getCards().forEach((card) => {
         const title = (
@@ -147,26 +168,28 @@
         ).toLowerCase();
         const category = (card.dataset.category || "").toLowerCase();
         const emojiText = (
-          (card.dataset.emoji || "").trim() ||
-          card.querySelector(".card-emoji")?.textContent ||
-          ""
+          card.querySelector(".card-emoji")?.textContent || ""
         ).toLowerCase();
+
         const searchableText = `${title} ${category} ${emojiText}`;
+        const rating = parseInt(card.dataset.rating || "0", 10);
 
         const matchesSearch = q === "" || searchableText.includes(q);
         const matchesFilters =
           activeFilters.length === 0 ||
           activeFilters.every((filter) => emojiText.includes(filter));
+        const matchesRating =
+          activeRating === null || rating >= activeRating;
 
-        card.style.display = matchesSearch && matchesFilters ? "" : "none";
+        card.style.display =
+          matchesSearch && matchesFilters && matchesRating ? "" : "none";
       });
 
       const grids = document.querySelectorAll(".cards-grid");
       grids.forEach((grid) => {
         const section = grid.closest("section") || grid.parentElement;
         const hasVisibleCards =
-          grid.querySelectorAll('.card:not([style*="display: none"])').length >
-          0;
+          grid.querySelectorAll('.card:not([style*="display: none"])').length > 0;
 
         if (section && section !== document.body) {
           section.style.display = hasVisibleCards ? "" : "none";
@@ -191,6 +214,15 @@
       }
     }
 
+    function updateRatingButtonState() {
+      const activeNonAllRating = ratingTabs.some(
+        (tab) => tab.dataset.rating !== "all" && tab.classList.contains("active"),
+      );
+      if (allRatingButton) {
+        allRatingButton.classList.toggle("active", !activeNonAllRating);
+      }
+    }
+
     tabs.forEach((tab) => {
       tab.addEventListener("click", () => {
         const filterValue = tab.dataset.filter || "all";
@@ -206,6 +238,27 @@
       });
     });
 
+    ratingTabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const ratingValue = tab.dataset.rating || "all";
+        const isActive = tab.classList.contains("active");
+
+        if (ratingValue === "all") {
+          ratingTabs.forEach((t) => t.classList.toggle("active", t === tab));
+        } else {
+          ratingTabs.forEach((t) => t.classList.remove("active"));
+          if (!isActive) {
+            tab.classList.add("active");
+          } else if (allRatingButton) {
+            allRatingButton.classList.add("active");
+          }
+        }
+
+        updateRatingButtonState();
+        applyFilters();
+      });
+    });
+
     if (searchInput) {
       let debounce;
       searchInput.addEventListener("input", () => {
@@ -216,6 +269,9 @@
 
     if (allButton) {
       allButton.classList.add("active");
+    }
+    if (allRatingButton) {
+      allRatingButton.classList.add("active");
     }
 
     applyFilters();
