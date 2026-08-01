@@ -380,7 +380,7 @@ article > a > div:last-child > div {
   align-items: center;
   gap: 8px;
   margin-top: auto;
-  padding-top: 8px;
+  padding-top: 2px;
   font-size: 1.2rem;
   color: #f59e0b;
 }
