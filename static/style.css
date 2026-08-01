@@ -139,6 +139,26 @@ body {
   text-decoration: none;
 }
 
+.rating-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 18px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  background: var(--card-bg);
+  border: var(--border-subtle);
+  border-radius: 999px;
+  transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.rating-link:hover {
+  background: rgba(0, 122, 204, 0.08);
+  border-color: rgba(0, 122, 204, 0.3);
+}
+
 /* ==========================================================================
    CARDS GRID (MAIN PAGE)
    ========================================================================== */
@@ -227,6 +247,37 @@ body {
   font-size: 1rem;
   font-weight: 600;
   margin: 0;
+}
+
+.card-rating {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  margin-top: 6px;
+  font-size: 0.95rem;
+  color: #f59e0b;
+}
+
+.card-rating .star {
+  display: inline-flex;
+  font-size: 1rem;
+}
+
+.card-rating .star.empty {
+  color: #d1d5db;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
 
 /* ==========================================================================

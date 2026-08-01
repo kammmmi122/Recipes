@@ -68,6 +68,33 @@ def extract_title_from_adoc(recipe_path, fallback_title):
     return fallback_title
 
 
+def extract_rating_from_adoc(recipe_path, default=0):
+    try:
+        with open(recipe_path, "r", encoding="utf8") as file:
+            for line in file:
+                match = re.match(r"^:rating:\s*(\d+)\s*$", line)
+                if match:
+                    rating = int(match.group(1))
+                    return max(0, min(rating, 5))
+    except Exception:
+        pass
+    return default
+
+
+def normalize_anchor_id(file_name):
+    base_name = os.path.splitext(file_name)[0]
+    anchor = base_name.replace("_", "-").replace(" ", "-").lower()
+    anchor = re.sub(r"[^a-z0-9-]", "", anchor)
+    anchor = re.sub(r"-{2,}", "-", anchor).strip("-")
+    return anchor
+
+
+def build_star_html(rating, max_stars=5):
+    filled = '<span class="star filled">★</span>'
+    empty = '<span class="star empty">☆</span>'
+    return "".join([filled if i < rating else empty for i in range(max_stars)])
+
+
 def create_index_adoc():
 
     # HEADER
@@ -113,6 +140,16 @@ def create_index_adoc():
                     recipe_text = ""
                 emoji_html = " ".join(tags)
 
+                # RATING
+                rating = extract_rating_from_adoc(recipe_full_path)
+                anchor_id = normalize_anchor_id(name)
+                rating_html = (
+                    f'<div class="card-rating" id="stars-{html.escape(anchor_id, quote=True)}">'
+                    f'{build_star_html(rating)}'
+                    f'<span class="sr-only">Ocena: {rating} z 5</span>'
+                    f"</div>"
+                )
+
                 # IMAGE
                 image_path = find_last_image(recipe_full_path)
                 full_image_path = (
@@ -144,6 +181,7 @@ def create_index_adoc():
                     f'<div class="card-content">'
                     f'<h3 class="card-title">{html.escape(title)} '
                     f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>'
+                    f'{rating_html}'
                     f'</div>'
                     f'</a>'
                     f'</article>'
