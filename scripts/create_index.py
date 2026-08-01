@@ -81,14 +81,6 @@ def extract_rating_from_adoc(recipe_path, default=0):
     return default
 
 
-def normalize_anchor_id(file_name):
-    base_name = os.path.splitext(file_name)[0]
-    anchor = base_name.replace("_", "-").replace(" ", "-").lower()
-    anchor = re.sub(r"[^a-z0-9-]", "", anchor)
-    anchor = re.sub(r"-{2,}", "-", anchor).strip("-")
-    return anchor
-
-
 def build_star_html(rating, max_stars=5):
     stars = "".join("★" if i < rating else "☆" for i in range(max_stars))
     return f'<span class="star-rating">{html.escape(stars)}</span>'
@@ -115,14 +107,10 @@ def create_index_adoc():
                 recipe_full_path = os.path.join(path, name)
 
                 # URL
-                path_to_html = os.path.join(
-                    path.replace(".\\", ""), name.replace("adoc", "html")
-                ).replace("\\", "/")
+                path_to_html = os.path.join(path.replace(".\\", ""), name.replace("adoc", "html")).replace("\\", "/")
 
                 # FALLBACK TITLE (z nazwy pliku)
-                fallback_title = (
-                    name.replace("_", " ").capitalize().replace(".adoc", "")
-                )
+                fallback_title = name.replace("_", " ").capitalize().replace(".adoc", "")
 
                 # EXTRACT ACTUAL TITLE FROM H1
                 title = extract_title_from_adoc(recipe_full_path, fallback_title)
@@ -142,47 +130,37 @@ def create_index_adoc():
                 # RATING
                 rating = extract_rating_from_adoc(recipe_full_path)
                 rating_html = (
-                    f'<div class="card-rating">'
-                    f'{build_star_html(rating)}'
-                    f'<span class="sr-only">Ocena: {rating} z 5</span>'
-                    f"</div>"
+                    f'<div class="card-rating">' f"{build_star_html(rating)}" f'<span class="sr-only">Ocena: {rating} z 5</span>' f"</div>"
                 )
 
                 # IMAGE
                 image_path = find_last_image(recipe_full_path)
-                full_image_path = (
-                    os.path.join("/Recipes/static/images/", image_path)
-                    if image_path
-                    else None
-                )
+                full_image_path = os.path.join("/Recipes/static/images/", image_path) if image_path else None
                 if full_image_path:
-                    image_html = (
-                        f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" '
-                        f'alt="{html.escape(title)}">'
-                    )
+                    image_html = f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" ' f'alt="{html.escape(title)}">'
                 else:
                     image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
 
                 # CATEGORY LABEL (colored in CSS/JS)
                 category_label = (
                     f'<div class="card-category-label" style="background:{category_colors.get(folder_name, "#999")}">'
-                    f'{html.escape(folder_name)}'
-                    f'</div>'
+                    f"{html.escape(folder_name)}"
+                    f"</div>"
                 )
 
                 # CARD HTML
                 card_html = (
                     f'<article class="card" data-category="{html.escape(folder_name)}">'
                     f'<a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">'
-                    f'{category_label}'
-                    f'{image_html}'
+                    f"{category_label}"
+                    f"{image_html}"
                     f'<div class="card-content">'
                     f'<h3 class="card-title">{html.escape(title)} '
                     f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>'
-                    f'{rating_html}'
-                    f'</div>'
-                    f'</a>'
-                    f'</article>'
+                    f"{rating_html}"
+                    f"</div>"
+                    f"</a>"
+                    f"</article>"
                 )
 
                 cards.append(card_html)
