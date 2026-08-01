@@ -91,7 +91,7 @@ def create_index_adoc():
             continue
 
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
-        folder_name = path.replace(".\\", "").replace("./", "").split("/")[0].replace("_", " ")
+        folder_name = path.split("\\")[-1].replace("_", " ")
 
         for name in files:
             if name.endswith(".adoc") and name != "index.adoc":
