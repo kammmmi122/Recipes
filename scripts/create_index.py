@@ -150,7 +150,7 @@ def create_index_adoc():
 
                 # CARD HTML
                 card_html = (
-                    f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}">'
+                    f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}" data-emoji="{html.escape(emoji_html)}">'
                     f'<a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">'
                     f"{category_label}"
                     f"{image_html}"

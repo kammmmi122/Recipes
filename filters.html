@@ -121,7 +121,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const tabs = Array.from(document.querySelectorAll(".tabs button"));
+    const tabs = Array.from(document.querySelectorAll(".tabs:not(.rating-tabs) button"));
     const ratingTabs = Array.from(document.querySelectorAll(".rating-tabs button"));
     const searchInput = document.querySelector("#search");
     const allButton = tabs.find((t) => t.dataset.filter === "all");
@@ -166,18 +166,14 @@
           card.querySelector(".card-title")?.textContent || ""
         ).toLowerCase();
         const category = (card.dataset.category || "").toLowerCase();
-        const emojiText = (
-          (card.dataset.emoji || "").trim() ||
-          card.querySelector(".card-emoji")?.textContent ||
-          ""
-        ).toLowerCase();
+        const emojiText = (card.dataset.emoji || "").toLowerCase();
         const searchableText = `${title} ${category} ${emojiText}`;
         const rating = parseInt(card.dataset.rating || "0", 10);
 
         const matchesSearch = q === "" || searchableText.includes(q);
         const matchesFilters =
           activeFilters.length === 0 ||
-          activeFilters.every((filter) => emojiText.includes(filter));
+          activeFilters.some((filter) => emojiText.includes(filter));
         const matchesRating =
           activeRating === null || rating >= activeRating;
 
