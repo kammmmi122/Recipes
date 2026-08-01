@@ -152,10 +152,10 @@ def create_index_adoc():
         file.write("++++\n\n")
         file.write("++++\n")
         file.write('<div class="cards-wrapper">\n')
-        file.write('  <div class="cards-grid">\n')
+        file.write('<div class="cards-grid">\n')
         for card in all_cards:
             file.write(f"{card}\n")
-        file.write("  </div>\n")
+        file.write("</div>\n")
         file.write("</div>\n")
         file.write("++++\n")
 

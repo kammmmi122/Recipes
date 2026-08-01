@@ -6,7 +6,7 @@ include::filters.html[]
 
 ++++
 <div class="cards-wrapper">
-  <div class="cards-grid">
+<div class="cards-grid">
 <article class="card" data-category="Dania główne" data-rating="0"><a class="card-main-link" href="Przepisy/Dania_główne/arepas.html"><div class="card-category-label" style="background:#ff6b6b">Dania główne</div><div class="card-image card-image-placeholder">Brak zdjęcia</div><div class="card-content"><h3 class="card-title">Arepas<span class="card-emoji">🐔</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
 <article class="card" data-category="Dania główne" data-rating="0"><a class="card-main-link" href="Przepisy/Dania_główne/biała_ryba_na_parze.html"><div class="card-category-label" style="background:#ff6b6b">Dania główne</div><div class="card-image card-image-placeholder">Brak zdjęcia</div><div class="card-content"><h3 class="card-title">Biała ryba na parze<span class="card-emoji">🐟</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
 <article class="card" data-category="Dania główne" data-rating="0"><a class="card-main-link" href="Przepisy/Dania_główne/bigos.html"><div class="card-category-label" style="background:#ff6b6b">Dania główne</div><img class="card-image" src="/Recipes/static/images/20231105_103826.jpg" alt="Bigos"><div class="card-content"><h3 class="card-title">Bigos<span class="card-emoji">🐖 🥩 🍄‍🟫</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
@@ -410,6 +410,6 @@ include::filters.html[]
 <article class="card" data-category="Zupy" data-rating="0"><a class="card-main-link" href="Przepisy/Zupy/zupa_z_cukinii.html"><div class="card-category-label" style="background:#4dabf7">Zupy</div><div class="card-image card-image-placeholder">Brak zdjęcia</div><div class="card-content"><h3 class="card-title">Zupa z cukinii<span class="card-emoji">🌱</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
 <article class="card" data-category="Zupy" data-rating="0"><a class="card-main-link" href="Przepisy/Zupy/zupa_żurek_z_białą_kiełbasą.html"><div class="card-category-label" style="background:#4dabf7">Zupy</div><img class="card-image" src="/Recipes/static/images/20240329_154743.jpg" alt="Zupa żurek z białą kiełbasą"><div class="card-content"><h3 class="card-title">Zupa żurek z białą kiełbasą<span class="card-emoji">🐖</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
 <article class="card" data-category="Zupy" data-rating="0"><a class="card-main-link" href="Przepisy/Zupy/zuppa_di_pesce.html"><div class="card-category-label" style="background:#4dabf7">Zupy</div><div class="card-image card-image-placeholder">Brak zdjęcia</div><div class="card-content"><h3 class="card-title">Zuppa di pesce<span class="card-emoji">🐟 🦐</span></h3><div class="card-rating"><span class="star-rating">☆☆☆☆☆</span></div></div></a></article>
-  </div>
+</div>
 </div>
 ++++
