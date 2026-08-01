@@ -1,5 +1,7 @@
 = Pierś z kaczki z sosem pomarańczowym 🦆
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

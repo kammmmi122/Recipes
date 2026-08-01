@@ -1,5 +1,7 @@
 = Tatar ze śledzia 🐟 🍄‍🟫
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

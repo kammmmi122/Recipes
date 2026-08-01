@@ -1,5 +1,7 @@
 = Tortille placki 🌱
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

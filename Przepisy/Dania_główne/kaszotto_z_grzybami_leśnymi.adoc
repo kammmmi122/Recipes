@@ -1,5 +1,7 @@
 = Kaszotto z grzybami leśnymi 🌱 🍄‍🟫
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

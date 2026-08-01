@@ -1,5 +1,7 @@
 = Makaron ze szpinakiem i anchois 🐟
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

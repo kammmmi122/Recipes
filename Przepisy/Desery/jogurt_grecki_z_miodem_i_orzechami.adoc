@@ -1,5 +1,7 @@
 = Jogurt grecki z miodem i orzechami 🌱
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

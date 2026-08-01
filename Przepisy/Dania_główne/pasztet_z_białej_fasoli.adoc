@@ -1,5 +1,7 @@
 = Pasztet z białej fasoli 🌱
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">

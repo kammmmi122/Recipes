@@ -1,5 +1,7 @@
 = Fish & chips z sosem tatarskim 🐟 🍄‍🟫
 :imagesdir: /Recipes/static/images
+:rating: 0
+
 
 ++++
 <div class="recipe-header-actions">
