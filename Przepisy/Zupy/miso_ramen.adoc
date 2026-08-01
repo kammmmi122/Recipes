@@ -1,6 +1,6 @@
 = Miso ramen 🐔 🐖
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 4
 
 
 ++++

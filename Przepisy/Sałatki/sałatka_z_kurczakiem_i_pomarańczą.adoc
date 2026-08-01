@@ -1,6 +1,6 @@
 = Sałatka z kurczakiem i pomarańczą 🐔
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 5
 
 
 ++++

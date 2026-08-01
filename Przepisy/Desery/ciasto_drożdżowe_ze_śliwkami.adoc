@@ -1,6 +1,6 @@
 = Ciasto drożdżowe ze śliwkami 🌱
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 5
 
 
 ++++

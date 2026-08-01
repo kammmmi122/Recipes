@@ -1,6 +1,6 @@
 = Kurczak Generała Tso 🐔 🔥
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 4
 
 
 ++++
