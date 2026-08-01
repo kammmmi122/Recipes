@@ -17,7 +17,7 @@ category_colors = {
 
 
 def in_path(path):
-    """Sprawdza, czy ścieżka zawiera ukryte/niepożądane foldery."""
+    """Sprawdza, czy ścieżka zawiera ukryte lub niepożądane foldery."""
     norm_path = path.replace("\\", "/")
     for var in [".git", "static", "scripts"]:
         if f"/{var}" in norm_path or norm_path.startswith(f"./{var}"):
@@ -114,9 +114,7 @@ def create_index_adoc():
                 emoji_html = " ".join(tags)
 
                 rating = extract_rating_from_adoc(recipe_full_path)
-                rating_html = (
-                    f'<div class="card-rating">{build_star_html(rating)}' f'<span class="sr-only">Ocena: {rating} z 5</span></div>'
-                )
+                rating_html = f'<div class="card-rating">{build_star_html(rating)}</div>'
 
                 image_path = find_last_image(recipe_full_path)
                 full_image_path = f"/Recipes/static/images/{image_path}" if image_path else None
@@ -131,7 +129,6 @@ def create_index_adoc():
                     f"{html.escape(folder_name)}</div>"
                 )
 
-                # REMOVED data-emoji attribute here
                 card_html = (
                     f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}">\n'
                     f'  <a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">\n'
