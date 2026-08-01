@@ -84,7 +84,11 @@ def build_star_html(rating, max_stars=5):
 
 
 def create_index_adoc():
-    all_cards = []
+    with open("index.adoc", "w", encoding="utf8") as file:
+        file.write("= Moje przepisy\n\n")
+        file.write("++++\n")
+        file.write("include::filters.html[]\n")
+        file.write("++++\n\n")
 
     for path, subdirs, files in os.walk("."):
         if in_path(path):
@@ -93,10 +97,11 @@ def create_index_adoc():
         files = sorted(files, key=lambda word: [get_value(c) for c in word])
         folder_name = path.split("\\")[-1].replace("_", " ")
 
+        cards = []
+
         for name in files:
             if name.endswith(".adoc") and name != "index.adoc":
                 recipe_full_path = os.path.join(path, name)
-
                 path_to_html = os.path.join(path.replace(".\\", ""), name.replace(".adoc", ".html")).replace("\\", "/")
                 fallback_title = name.replace("_", " ").capitalize().replace(".adoc", "")
 
@@ -120,12 +125,14 @@ def create_index_adoc():
                 full_image_path = f"/Recipes/static/images/{image_path}" if image_path else None
 
                 if full_image_path:
-                    image_html = f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" ' f'alt="{html.escape(title)}">'
+                    image_html = f'<img class="card-image" src="{html.escape(full_image_path, quote=True)}" alt="{html.escape(title)}">'
                 else:
                     image_html = '<div class="card-image card-image-placeholder">Brak zdjęcia</div>'
 
+                top_category = folder_name.split("/")[0] if "/" in folder_name else folder_name
+
                 category_label = (
-                    f'<div class="card-category-label" style="background:{category_colors.get(folder_name, "#999")}">'
+                    f'<div class="card-category-label" style="background:{category_colors.get(top_category, "#999")}">'
                     f"{html.escape(folder_name)}</div>"
                 )
 
@@ -143,21 +150,19 @@ def create_index_adoc():
                     f"</article>"
                 )
 
-                all_cards.append(card_html)
+                cards.append(card_html)
 
-    with open("index.adoc", "w", encoding="utf8") as file:
-        file.write("= Moje przepisy\n\n")
-        file.write("++++\n")
-        file.write("include::filters.html[]\n")
-        file.write("++++\n\n")
-        file.write("++++\n")
-        file.write('<div class="cards-wrapper">\n')
-        file.write('<div class="cards-grid">\n')
-        for card in all_cards:
-            file.write(f"{card}\n")
-        file.write("</div>\n")
-        file.write("</div>\n")
-        file.write("++++\n")
+        # Write section for this folder if it has recipes
+        if cards:
+            with open("index.adoc", "a+", encoding="utf8") as file:
+                file.write("++++\n")
+                file.write('<div class="cards-wrapper">\n')
+                file.write('<div class="cards-grid">\n')
+                for c in cards:
+                    file.write(f"{c}\n")
+                file.write("</div>\n")
+                file.write("</div>\n")
+                file.write("++++\n")
 
 
 if __name__ == "__main__":
