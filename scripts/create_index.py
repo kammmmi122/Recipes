@@ -130,16 +130,16 @@ def create_index_adoc():
                 )
 
                 card_html = (
-                    f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}">\n'
-                    f'  <a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">\n'
-                    f"    {category_label}\n"
-                    f"    {image_html}\n"
-                    f'    <div class="card-content">\n'
-                    f'      <h3 class="card-title">{html.escape(title)} '
-                    f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>\n'
-                    f"      {rating_html}\n"
-                    f"    </div>\n"
-                    f"  </a>\n"
+                    f'<article class="card" data-category="{html.escape(folder_name)}" data-rating="{rating}">'
+                    f'<a class="card-main-link" href="{html.escape(path_to_html, quote=True)}">'
+                    f"{category_label}"
+                    f"{image_html}"
+                    f'<div class="card-content">'
+                    f'<h3 class="card-title">{html.escape(title)}'
+                    f'<span class="card-emoji">{html.escape(emoji_html)}</span></h3>'
+                    f"{rating_html}"
+                    f"</div>"
+                    f"</a>"
                     f"</article>"
                 )
 
