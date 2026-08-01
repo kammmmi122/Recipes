@@ -90,9 +90,8 @@ def normalize_anchor_id(file_name):
 
 
 def build_star_html(rating, max_stars=5):
-    filled = '<span class="star filled">★</span>'
-    empty = '<span class="star empty">☆</span>'
-    return "".join([filled if i < rating else empty for i in range(max_stars)])
+    stars = "".join("★" if i < rating else "☆" for i in range(max_stars))
+    return f'<span class="star-rating">{html.escape(stars)}</span>'
 
 
 def create_index_adoc():

@@ -251,21 +251,16 @@ body {
 
 .card-rating {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
   margin-top: 10px;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #f59e0b;
 }
 
-.card-rating .star {
+.card-rating .star-rating {
   display: inline-flex;
-  font-size: 1.4rem;
-}
-
-.card-rating .star.empty {
-  color: #d1d5db;
+  letter-spacing: 0.08em;
 }
 
 .sr-only {
