@@ -166,14 +166,18 @@
           card.querySelector(".card-title")?.textContent || ""
         ).toLowerCase();
         const category = (card.dataset.category || "").toLowerCase();
-        const emojiText = (card.dataset.emoji || "").toLowerCase();
+
+        const emojiText = (
+          card.querySelector(".card-emoji")?.textContent || ""
+        ).toLowerCase();
+
         const searchableText = `${title} ${category} ${emojiText}`;
         const rating = parseInt(card.dataset.rating || "0", 10);
 
         const matchesSearch = q === "" || searchableText.includes(q);
         const matchesFilters =
           activeFilters.length === 0 ||
-          activeFilters.some((filter) => emojiText.includes(filter));
+          activeFilters.every((filter) => emojiText.includes(filter));
         const matchesRating =
           activeRating === null || rating >= activeRating;
 
@@ -185,8 +189,7 @@
       grids.forEach((grid) => {
         const section = grid.closest("section") || grid.parentElement;
         const hasVisibleCards =
-          grid.querySelectorAll('.card:not([style*="display: none"])').length >
-          0;
+          grid.querySelectorAll('.card:not([style*="display: none"])').length > 0;
 
         if (section && section !== document.body) {
           section.style.display = hasVisibleCards ? "" : "none";
