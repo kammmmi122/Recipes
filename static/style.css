@@ -155,8 +155,8 @@ body {
 }
 
 .rating-link:hover {
-  background: rgba(0, 122, 204, 0.08);
-  border-color: rgba(0, 122, 204, 0.3);
+  background: rgb(0 122 204 / 8%);
+  border-color: rgb(0 122 204 / 30%);
 }
 
 /* ==========================================================================
@@ -408,8 +408,7 @@ body {
 
 .gallery-grid {
   display: flex !important;
-  flex-direction: row !important;
-  flex-wrap: wrap !important;
+  flex-flow: row wrap !important;
   gap: 24px !important;
   justify-content: center !important;
   align-items: center !important;
