@@ -124,7 +124,7 @@ input[type="search"],
 #search-input {
   width: 100%;
   max-width: 450px;
-  margin: 16px auto 24px auto !important;
+  margin: 16px auto 24px !important;
   padding: 12px 20px;
   font-size: 0.95rem;
   font-family: inherit;
@@ -208,7 +208,7 @@ div[aria-label*="Filtry"],
   justify-content: center !important;
   align-items: center !important;
   gap: 10px !important;
-  margin: 0 auto 16px auto !important;
+  margin: 0 auto 16px !important;
   width: 100% !important;
   padding: 0 !important;
   list-style: none;
@@ -565,7 +565,7 @@ article > a > div:last-child > div {
 }
 
 /* ==========================================================================
-   7. RYDZWNOŚĆ I MEDIA QUERIES
+   7. RESPOSYWNOŚĆ I MEDIA QUERIES
    ========================================================================== */
 
 @media (width >= 901px) {
