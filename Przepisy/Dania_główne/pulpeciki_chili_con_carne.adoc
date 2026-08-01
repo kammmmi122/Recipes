@@ -1,6 +1,6 @@
 = Pulpeciki chili con carne 🐖
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 3
 
 
 ++++

@@ -1,6 +1,6 @@
 = Greckie klopsiki w sosie pomidorowym 🐖 🥩
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 5
 
 
 ++++

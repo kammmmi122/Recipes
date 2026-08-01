@@ -1,6 +1,6 @@
 = Szare kluski ze skwarkami 🐖
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 4
 
 
 ++++

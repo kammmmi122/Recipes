@@ -1,6 +1,6 @@
 = Ciasto porzeczkowiec 🌱
 :imagesdir: /Recipes/static/images
-:rating: 0
+:rating: 5
 
 
 ++++

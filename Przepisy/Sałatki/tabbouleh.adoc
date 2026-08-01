@@ -1,4 +1,4 @@
-= Tabbouleh, sałatka z bulgurem 🌱
+= Tabbouleh 🌱
 :imagesdir: /Recipes/static/images
 :rating: 4
 

@@ -87,6 +87,7 @@
 
 <div class="header-controls">
   <div class="tabs" role="tablist" aria-label="Filtry kategorii">
+    <button data-filter="all">Wszystkie</button>
     <button data-filter="🌱">🌱 Wege</button>
     <!-- htmlhint-disable attr-unsafe-chars -->
     <button data-filter="🍄‍🟫">🍄‍🟫 Grzyby</button>
@@ -98,16 +99,15 @@
     <button data-filter="🥩">🥩 Wołowina</button>
     <button data-filter="🦐">🦐 Owoce morza</button>
     <button data-filter="🔥">🔥 Ostro</button>
-    <button data-filter="all">Wszystkie</button>
   </div>
   <div class="tabs rating-tabs" role="tablist" aria-label="Filtry oceny">
     <button data-rating="all">Wszystkie oceny</button>
     <button data-rating="5">★★★★★</button>
-    <button data-rating="4">★★★★+</button>
-    <button data-rating="3">★★★+</button>
-    <button data-rating="2">★★+</button>
-    <button data-rating="1">★+</button>
-    <button data-rating="0">☆</button>
+    <button data-rating="4">★★★★☆</button>
+    <button data-rating="3">★★★☆☆</button>
+    <button data-rating="2">★★☆☆☆</button>
+    <button data-rating="1">★☆☆☆☆</button>
+    <button data-rating="0">☆☆☆☆☆</button>
   </div>
   <div class="controls">
     <input
@@ -179,7 +179,7 @@
           activeFilters.length === 0 ||
           activeFilters.every((filter) => emojiText.includes(filter));
         const matchesRating =
-          activeRating === null || rating >= activeRating;
+          activeRating === null || rating === activeRating;
 
         card.style.display =
           matchesSearch && matchesFilters && matchesRating ? "" : "none";
