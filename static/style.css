@@ -338,8 +338,8 @@ article > a > div:last-child {
   display: flex !important;
   flex-direction: column !important;
   align-items: flex-start !important;
-  gap: 8px !important;
-  height: 100%;
+  gap: 4px !important;
+  height: auto !important;
 }
 
 /* --- Emoji w kółku nad nazwą przepisu (Asciidoc Support) --- */
@@ -379,8 +379,8 @@ article > a > div:last-child > div {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-top: auto;
-  padding-top: 2px;
+  margin-top: 4px !important;
+  padding-top: 0 !important;
   font-size: 1.2rem;
   color: #f59e0b;
 }

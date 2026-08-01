@@ -1,4 +1,4 @@
-= Domowa pizza 2
+= Domowa pizza 2 🌱
 :imagesdir: /Recipes/static/images
 :rating: 0
 
