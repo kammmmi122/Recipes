@@ -5,7 +5,6 @@
 ++++
 <div class="recipe-header-actions">
     <a href="../../index.html" class="back-to-home-btn">← Wróć do przepisów</a>
-    <a href="../../index.html#stars-tabbouleh-salatka-z-bulgurem" class="rating-link">Ocena na stronie głównej</a>
     <label class="switch"><input data-status="off" type="checkbox"><span class="slider round"></span></label>
 </div>
 ++++

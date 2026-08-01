@@ -253,15 +253,15 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 4px;
-  margin-top: 6px;
-  font-size: 0.95rem;
+  gap: 6px;
+  margin-top: 10px;
+  font-size: 1.2rem;
   color: #f59e0b;
 }
 
 .card-rating .star {
   display: inline-flex;
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 
 .card-rating .star.empty {
