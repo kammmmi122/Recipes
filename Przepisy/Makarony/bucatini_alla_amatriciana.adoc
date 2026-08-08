@@ -54,5 +54,6 @@ Makaron przełóż na talerze i posyp startym serem Pecorino. Jeśli chcesz moż
 == Zdjęcia
 
 [.gallery-grid]
-// Tutaj pojawią się zdjęcia
+--
 image::20260625_220856.jpg[role="portrait"]
+--
